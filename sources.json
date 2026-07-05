@@ -1,0 +1,57 @@
+[
+  {
+    "category": "World News & Politics",
+    "sources": [
+      {"name": "Reuters World", "site_url": "https://www.reuters.com/world/", "feed_url": "https://news.google.com/rss/search?q=site:reuters.com/world&hl=en-US&gl=US&ceid=US:en", "feed_type": "google_news_fallback"},
+      {"name": "AP Politics", "site_url": "https://apnews.com/politics", "feed_url": "https://news.google.com/rss/search?q=site:apnews.com/politics&hl=en-US&gl=US&ceid=US:en", "feed_type": "google_news_fallback"},
+      {"name": "CFR Global Conflict Tracker", "site_url": "https://www.cfr.org/global-conflict-tracker", "feed_url": "https://news.google.com/rss/search?q=site:cfr.org%20global%20conflict&hl=en-US&gl=US&ceid=US:en", "feed_type": "google_news_fallback"}
+    ]
+  },
+  {
+    "category": "Combat Operations & Modern Warfare",
+    "sources": [
+      {"name": "The War Zone", "site_url": "https://www.twz.com", "feed_url": "https://www.twz.com/feed", "feed_type": "official_or_site_feed"},
+      {"name": "Defense News", "site_url": "https://www.defensenews.com", "feed_url": "https://www.defensenews.com/arc/outboundfeeds/rss/", "feed_type": "official_or_site_feed"},
+      {"name": "Breaking Defense", "site_url": "https://breakingdefense.com", "feed_url": "https://breakingdefense.com/feed/", "feed_type": "official_or_site_feed"}
+    ]
+  },
+  {
+    "category": "AI & Technology",
+    "sources": [
+      {"name": "Ars Technica", "site_url": "https://arstechnica.com", "feed_url": "https://feeds.arstechnica.com/arstechnica/index", "feed_type": "official_or_site_feed"},
+      {"name": "MIT Technology Review", "site_url": "https://www.technologyreview.com", "feed_url": "https://www.technologyreview.com/feed/", "feed_type": "official_or_site_feed"},
+      {"name": "TechCrunch AI", "site_url": "https://techcrunch.com/category/artificial-intelligence/", "feed_url": "https://techcrunch.com/category/artificial-intelligence/feed/", "feed_type": "official_or_site_feed"}
+    ]
+  },
+  {
+    "category": "Crypto",
+    "sources": [
+      {"name": "CoinDesk", "site_url": "https://www.coindesk.com", "feed_url": "https://www.coindesk.com/arc/outboundfeeds/rss/", "feed_type": "official_or_site_feed"},
+      {"name": "The Block", "site_url": "https://www.theblock.co", "feed_url": "https://www.theblock.co/rss.xml", "feed_type": "official_or_site_feed"}
+    ]
+  },
+  {
+    "category": "Music Production & DJ Industry",
+    "sources": [
+      {"name": "MusicTech", "site_url": "https://www.musictech.com", "feed_url": "https://musictech.com/feed/", "feed_type": "official_or_site_feed"},
+      {"name": "DJ TechTools", "site_url": "https://djtechtools.com", "feed_url": "https://djtechtools.com/feed/", "feed_type": "official_or_site_feed"},
+      {"name": "EDM.com News", "site_url": "https://edm.com/news", "feed_url": "https://edm.com/.rss/full/news", "feed_type": "official_or_site_feed"}
+    ]
+  },
+  {
+    "category": "Investing & Markets",
+    "sources": [
+      {"name": "Morning Brew", "site_url": "https://www.morningbrew.com", "feed_url": "https://news.google.com/rss/search?q=site:morningbrew.com&hl=en-US&gl=US&ceid=US:en", "feed_type": "google_news_fallback"},
+      {"name": "Morningstar", "site_url": "https://www.morningstar.com", "feed_url": "https://news.google.com/rss/search?q=site:morningstar.com&hl=en-US&gl=US&ceid=US:en", "feed_type": "google_news_fallback"},
+      {"name": "MarketWatch", "site_url": "https://www.marketwatch.com", "feed_url": "https://feeds.content.dowjones.io/public/rss/mw_topstories", "feed_type": "official_or_site_feed"}
+    ]
+  },
+  {
+    "category": "Weekly Deep Dive",
+    "sources": [
+      {"name": "Foreign Affairs", "site_url": "https://www.foreignaffairs.com", "feed_url": "https://www.foreignaffairs.com/rss.xml", "feed_type": "official_or_site_feed"},
+      {"name": "War on the Rocks", "site_url": "https://warontherocks.com", "feed_url": "https://warontherocks.com/feed/", "feed_type": "official_or_site_feed"},
+      {"name": "RAND Corporation", "site_url": "https://www.rand.org", "feed_url": "https://www.rand.org/rss.xml", "feed_type": "official_or_site_feed"}
+    ]
+  }
+]

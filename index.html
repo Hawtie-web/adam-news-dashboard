@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Adam's Daily Reading Dashboard</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+  <header class="hero">
+    <div>
+      <p class="eyebrow">Daily Reading Dashboard</p>
+      <h1>Adam's News Command Center</h1>
+      <p class="subhead">A single place for world news, warfare, AI, crypto, DJ/music, markets, and weekly deep dives.</p>
+    </div>
+    <div class="status-card">
+      <span>Last updated</span>
+      <strong id="lastUpdated">Loading…</strong>
+    </div>
+  </header>
+
+  <main>
+    <section class="toolbar">
+      <input id="search" type="search" placeholder="Search headlines, sources, or categories…" />
+      <select id="categoryFilter"><option value="all">All categories</option></select>
+      <button id="refreshButton">Reload</button>
+    </section>
+
+    <section class="summary-grid" id="summaryGrid"></section>
+    <section class="news-grid" id="newsGrid"></section>
+  </main>
+
+  <footer>
+    <p>Built for a 20–45 minute daily reading rhythm. Articles link to the original publishers.</p>
+  </footer>
+
+  <script src="app.js"></script>
+</body>
+</html>
