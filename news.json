@@ -1,6 +1,1314 @@
 {
-  "updated_at": "2026-07-05T13:26:58.263594+00:00",
-  "item_count": 0,
-  "failures": [],
-  "items": []
+  "updated_at": "2026-07-06T04:11:53.086217+00:00",
+  "item_count": 144,
+  "failures": [
+    {
+      "source": "Breaking Defense",
+      "feed_url": "https://breakingdefense.com/feed/",
+      "error": "<unknown>:2:1326: not well-formed (invalid token)"
+    },
+    {
+      "source": "RAND Corporation",
+      "feed_url": "https://www.rand.org/rss.xml",
+      "error": "<unknown>:5:2: mismatched tag"
+    }
+  ],
+  "items": [
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Asian shares slip as earnings loom, oil weighed by supply - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlM2X2FVc0tycmNWVXBBYWRaMDZFYXk0dE9rQW5mV21DaXhXWEpXazNmbjRDeks1ZVFXZmJ5Ti1OeTd4bXpFQTVteFBXa285NTZSTm9RaVlfX2JMczIycm9TZEhyVDhZdkRDVVFPQWR1TER5STh6NXpBQ08xOHc5azRyYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNZlM2X2FVc0tycmNWVXBBYWRaMDZFYXk0dE9rQW5mV21DaXhXWEpXazNmbjRDeks1ZVFXZmJ5Ti1OeTd4bXpFQTVteFBXa285NTZSTm9RaVlfX2JMczIycm9TZEhyVDhZdkRDVVFPQWR1TER5STh6NXpBQ08xOHc5azRyYw?oc=5\" target=\"_blank\">Asian shares slip as earnings loom, oil weighed by supply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-06T03:36:24+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "U.S. stock futures rise as Wall Street looks to extend its rally coming off the holiday weekend",
+      "link": "https://www.marketwatch.com/story/u-s-stock-futures-rise-as-wall-street-looks-to-extend-its-rally-coming-off-the-holiday-weekend-5e5a9102?mod=mw_rss_topstories",
+      "summary": "U.S. stock-index futures gained on Sunday, with Wall Street looking to extend last week’s gains.",
+      "published": "2026-07-06T03:09:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Russian attack on Kyiv kills seven, hits apartments, other buildings - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVHY0emVJd3h3VUdFQlJhMWNwckpjWGU4M2pvWmgxazFCNF9mWnhqeWhVS0RDbjFsSmVpZVZ6NUpkWlBNbk5OeG40a3JoOXVzb2thM1ZKWHJRQk5kTGU4d3ROYnhKUEhjOE5zR21fWlJrNWN3TXMxeENqaFdOa1BPMThtZFZlWjZWaElqTDNYWk8xcG5kblE4cW9ZeDRpTmZj?oc=5\" target=\"_blank\">Russian attack on Kyiv kills seven, hits apartments, other buildings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-05T23:33:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Samsung likely to post 18-fold jump in profit on surging AI demand for memory - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdGJMNzJxUHljaTQ1aDhlVHRYUEQ5WVZOX0xOallVeUNlR0E2cHFSeEh6S2tzZ0VWXzdrY1B3czNRanpQTk5fNmhtTlE0TmtiYmRwOE9VQ05Cd2VaSVpIY2pVa29YM3FLQ0ZIOXNUVGxyUGdaNjNlQUZSOXVibEZYalk0a0pnbWlvc0pSaGd1bVdSUXl0NVpNNlMzMF84RkZJQ0hyMWxQUnA2Tjh2b0RhZW5Yb0M4d1Y0cVdr?oc=5\" target=\"_blank\">Samsung likely to post 18-fold jump in profit on surging AI demand for memory</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-05T23:07:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Nigel Farage failed to declare funding from crypto gambling figure convicted of fraud: Sunday Times",
+      "link": "https://www.theblock.co/post/407178/nigel-farage-failed-to-declare-funding-from-crypto-gambling-figure-convicted-of-fraud-sunday-times?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Farage already faces a parliamentary standards investigation over an undisclosed £5 million gift from Tether stakeholder Christopher Harborne.</p>",
+      "published": "2026-07-05T22:53:05+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "OPEC+ raises output levels again despite tumbling crude prices",
+      "link": "https://www.marketwatch.com/story/opec-raises-output-levels-again-despite-tumbling-crude-prices-534791c8?mod=mw_rss_topstories",
+      "summary": "Major oil producers on Sunday agreed once again to modestly increase their crude production, although, as in previous months, the hike is largely symbolic until a peace deal between the U.S. and Iran sticks and the Strait of Hormuz is fully reopened to shipping traffic.",
+      "published": "2026-07-05T22:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "More than 100 detained as leftist groups hold anti-NATO protests in Turkey - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzNUeFRFeEliSTIzZnAyUFNLMGo0Q0RaSVZpY2pxZDNjOTdsbU5jSGM0c2tnamsxa3MwblNfTjhVVGc5NTFrWVJoNC14aXFsT3VqQXlVNlNOTlFHck5hNnpHMl9OSHRGWkVwQmZMbUJuNlJsVlNYb2x3T21aUzg2ODhWQ3RUalpxS0RkeDJvLXNFdG1YY3ZrZERKTTJtUFJ5SHdSZVo4TVJiYjdVaF82UjcyUHVLdXRCMER2Ul9Waw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQMzNUeFRFeEliSTIzZnAyUFNLMGo0Q0RaSVZpY2pxZDNjOTdsbU5jSGM0c2tnamsxa3MwblNfTjhVVGc5NTFrWVJoNC14aXFsT3VqQXlVNlNOTlFHck5hNnpHMl9OSHRGWkVwQmZMbUJuNlJsVlNYb2x3T21aUzg2ODhWQ3RUalpxS0RkeDJvLXNFdG1YY3ZrZERKTTJtUFJ5SHdSZVo4TVJiYjdVaF82UjcyUHVLdXRCMER2Ul9Waw?oc=5\" target=\"_blank\">More than 100 detained as leftist groups hold anti-NATO protests in Turkey</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-05T21:25:40+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Death toll from Venezuela quakes rises to 3,342 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWl5Sl9wdU5zTlNwRXg0MFN4cVFYOGJ0LWxOcFRRbnRxZzNnNHRtaUJIOEVjc05GVVZaQjNFeDVZYTJ3MVA5alRPelYwT2g4alJBckd4R1VzWkRuWUpGaFZIQXZVc1g5XzFFbHIydEJ1cXFnVk8taXFpTkVrV1RvMktjcS1aWFc5bTY1Z3VleVluMkk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOdWl5Sl9wdU5zTlNwRXg0MFN4cVFYOGJ0LWxOcFRRbnRxZzNnNHRtaUJIOEVjc05GVVZaQjNFeDVZYTJ3MVA5alRPelYwT2g4alJBckd4R1VzWkRuWUpGaFZIQXZVc1g5XzFFbHIydEJ1cXFnVk8taXFpTkVrV1RvMktjcS1aWFc5bTY1Z3VleVluMkk?oc=5\" target=\"_blank\">Death toll from Venezuela quakes rises to 3,342</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-05T21:15:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Vitalik Buterin says Ethereum’s next rebuild will rival the Merge, and take three to four years",
+      "link": "https://www.theblock.co/post/407176/vitalik-buterin-says-ethereums-next-rebuild-will-rival-the-merge-and-take-three-to-four-years?utm_source=rss&utm_medium=rss",
+      "summary": "<p>He said quantum safety has \"shifted up a LOT in priority\" and that Hegota, slated for later this year, will likely be Ethereum's last \"pre-Lean\" hard fork.</p>",
+      "published": "2026-07-05T19:56:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Michigan Democrat drops out of US Senate primary - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk1GWmVrZThZVjl3LWlGNWVDU0U0YmNyTVE2c3RHSWlqOUQ3dHc4QnpKbjNxZk1LTFpjbXdkT01zbVl3V0lSQU00UXhBTkQzUTVZRzlxekNhYU9mS1o0anE5TlVobFItb2ZId01LMnFrWENZUm1PS3F1WHcyT2pBSFB5cUVuQ2lwQ0k4OV8wS0EzMTZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxOTk1GWmVrZThZVjl3LWlGNWVDU0U0YmNyTVE2c3RHSWlqOUQ3dHc4QnpKbjNxZk1LTFpjbXdkT01zbVl3V0lSQU00UXhBTkQzUTVZRzlxekNhYU9mS1o0anE5TlVobFItb2ZId01LMnFrWENZUm1PS3F1WHcyT2pBSFB5cUVuQ2lwQ0k4OV8wS0EzMTZw?oc=5\" target=\"_blank\">Michigan Democrat drops out of US Senate primary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-05T19:39:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump to meet leaders of Ukraine, Syria alongside NATO summit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUVSRWRYR0tBanMzMFByTDJXVnVNUGc2R3NYc1ZtWHNaU29MczRvdWN3MU1qQXVpYWNjRWtBSEFwMHFpTFM5TDJRSUJ6RzhCbGUxM3RZbjBCM3k2ZVhMN1hTWjcwcEdPMGRweTZXTW1zeWRESW1tVGVlakNKQVg1UXVyLTFORDJNVmZwT0dIY3loeGpwTFJDN2VzYjhLQlJudzZZOW9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOWUVSRWRYR0tBanMzMFByTDJXVnVNUGc2R3NYc1ZtWHNaU29MczRvdWN3MU1qQXVpYWNjRWtBSEFwMHFpTFM5TDJRSUJ6RzhCbGUxM3RZbjBCM3k2ZVhMN1hTWjcwcEdPMGRweTZXTW1zeWRESW1tVGVlakNKQVg1UXVyLTFORDJNVmZwT0dIY3loeGpwTFJDN2VzYjhLQlJudzZZOW9B?oc=5\" target=\"_blank\">Trump to meet leaders of Ukraine, Syria alongside NATO summit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-05T18:53:23+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "White supremacists' July 4 march counts as free speech in 'messy democracy,' Interior Secretary Burgum says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVduR29oRWlpY1JwaHNmbU5ybzUxWmhIRWlDZXpoaUJZemtrZU1seTlPNlFZNDljalYzWHRsem5fTjNRc002NmhZWV8yN0RFYzM5V1ZEM3VWZ3lIZWZUQUFaSVVwdnpHVWlIU3Fwd3lGV2p0QndLcllLN0UzNHNESGNsd2xudV9zNk9zazdZZV9oRmQ3anpMalJNbVpYdF8wQTVLYmFreHdpZHYweFFzemFHam00Uy1pYWFJMg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPUVduR29oRWlpY1JwaHNmbU5ybzUxWmhIRWlDZXpoaUJZemtrZU1seTlPNlFZNDljalYzWHRsem5fTjNRc002NmhZWV8yN0RFYzM5V1ZEM3VWZ3lIZWZUQUFaSVVwdnpHVWlIU3Fwd3lGV2p0QndLcllLN0UzNHNESGNsd2xudV9zNk9zazdZZV9oRmQ3anpMalJNbVpYdF8wQTVLYmFreHdpZHYweFFzemFHam00Uy1pYWFJMg?oc=5\" target=\"_blank\">White supremacists' July 4 march counts as free speech in 'messy democracy,' Interior Secretary Burgum says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-05T18:34:09+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Clarity and Congress's summer break: State of Crypto",
+      "link": "https://www.coindesk.com/policy/2026/07/05/clarity-and-congress-s-summer-break-state-of-crypto",
+      "summary": "",
+      "published": "2026-07-05T18:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Amazon will stop accepting new customers for Mechanical Turk",
+      "link": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+      "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+      "published": "2026-07-05T17:43:36+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Americans traded $571 million on Polymarket politic bets despite U.S. ban",
+      "link": "https://www.coindesk.com/tech/2026/07/03/americans-traded-usd571-million-on-polymarket-politic-bets-despite-u-s-ban",
+      "summary": "",
+      "published": "2026-07-05T15:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Banks have stopped asking if stablecoins belong in finance, now they're considering how",
+      "link": "https://www.coindesk.com/business/2026/07/05/banks-have-stopped-asking-if-stablecoins-belong-in-finance-now-they-re-considering-how",
+      "summary": "",
+      "published": "2026-07-05T14:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I have no kids. Will I cause family drama by leaving different amounts to my nieces and nephews?",
+      "link": "https://www.marketwatch.com/story/i-have-no-kids-will-i-cause-family-drama-by-leaving-different-amounts-to-my-nieces-and-nephews-14c0fdda?mod=mw_rss_topstories",
+      "summary": "“Part of me would prefer to leave more to those for whom the money could make a meaningful difference.”",
+      "published": "2026-07-05T14:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Hybrids are the breakout star of the U.S. car market as EV demand fades",
+      "link": "https://www.marketwatch.com/story/hybrids-are-the-breakout-star-of-the-u-s-car-market-as-ev-demand-fades-96dce1c3?mod=mw_rss_topstories",
+      "summary": "Hybrids aren’t a bridge to EVs anymore — instead, they’re winning on function and price.",
+      "published": "2026-07-05T13:03:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Collateral, not yield, will decide which stablecoins win",
+      "link": "https://www.coindesk.com/opinion/2026/07/05/collateral-not-yield-will-decide-which-stablecoins-win",
+      "summary": "",
+      "published": "2026-07-05T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Kalshi and prediction market sector embroiled in mixed bag of legal fights across U.S.",
+      "link": "https://www.coindesk.com/news-analysis/2026/07/02/kalshi-and-prediction-market-sector-embroiled-in-mixed-bag-of-legal-fights-across-u-s",
+      "summary": "",
+      "published": "2026-07-05T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why the stock market’s red-hot momentum trade might be headed for a violent unwind this month",
+      "link": "https://www.marketwatch.com/story/why-the-stock-markets-red-hot-momentum-trade-might-be-headed-for-a-violent-unwind-this-month-78a45397?mod=mw_rss_topstories",
+      "summary": "Momentum trades tend to struggle in July — but this year may be particularly volatile, says one strategist. The rumblings have already started.",
+      "published": "2026-07-05T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘We were stunned’: My daughter, 39, said her mother-in-law gives her more money than we do. Should I confront her?",
+      "link": "https://www.marketwatch.com/story/we-were-stunned-my-daughter-39-said-her-mother-in-law-gives-her-more-money-than-we-do-do-i-call-her-out-b63d087c?mod=mw_rss_topstories",
+      "summary": "“She thanked us for the $100 birthday gift and then announced that her mother-in-law had sent her $400.”",
+      "published": "2026-07-05T12:48:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Chemical accidents rise as Trump administration proposes weakening safety rules",
+      "link": "https://arstechnica.com/science/2026/07/chemical-accidents-rise-as-trump-administration-proposes-weakening-safety-rules/",
+      "summary": "Chemicals from accidents that injured or killed people increased by nearly 50 percent in recent years.",
+      "published": "2026-07-05T11:05:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "The missing 500 million: Cosmic bombardment melted Earth's first crust",
+      "link": "https://arstechnica.com/science/2026/07/the-missing-500-million-cosmic-bombardment-melted-earths-first-crust/",
+      "summary": "The heat of the Hadean may have come from impacts as well as the interior.",
+      "published": "2026-07-05T10:55:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "US companies that will define the next 250 years - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZrYVp1QTY4U05lNl9hc2hnNHYxQlQydXZYblNJemJ1Vm13VFJNQnlPRWVkYmtQOG91SGlBOEgxOThFZlJZcE9DSHAwc20zTUlFTmFPbzhnalpJdGdWUUozZTE3UVJUdVJHMExoYlUyQ2Vycmk5N2RaZW56cWdZT3lmR0x2YnpKcFJOcg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQTWZrYVp1QTY4U05lNl9hc2hnNHYxQlQydXZYblNJemJ1Vm13VFJNQnlPRWVkYmtQOG91SGlBOEgxOThFZlJZcE9DSHAwc20zTUlFTmFPbzhnalpJdGdWUUozZTE3UVJUdVJHMExoYlUyQ2Vycmk5N2RaZW56cWdZT3lmR0x2YnpKcFJOcg?oc=5\" target=\"_blank\">US companies that will define the next 250 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-05T09:36:28+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Barstool's Portnoy plans to hold bitcoin down to zero after timing it wrong every time",
+      "link": "https://www.coindesk.com/markets/2026/07/05/barstool-s-portnoy-plans-to-hold-bitcoin-down-to-zero-after-timing-it-wrong-every-time",
+      "summary": "",
+      "published": "2026-07-05T06:00:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin ETFs log record eighth straight negative week despite large Thursday inflow",
+      "link": "https://www.theblock.co/post/407173/bitcoin-etfs-log-record-eighth-straight-negative-week-despite-large-thursday-inflow?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Hyperliquid ETFs took in $4.3 million, their smallest week since launching in May, down from a record $111 million the week before.</p>",
+      "published": "2026-07-04T23:56:20+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Gamer trades in $1,000 of physical discs at GameStop, days after Sony announces end of disc era",
+      "link": "https://www.marketwatch.com/story/gamer-trades-in-1-000-of-physical-discs-at-gamestop-days-after-sony-announces-end-of-disc-era-bf8383b7?mod=mw_rss_topstories",
+      "summary": "While some collectors may plan to hoard their physical media, one Columbus gamer decided to liquidate his collection",
+      "published": "2026-07-04T21:40:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘She wants him gone’: My friend took in a homeless man as a caretaker. After 10 years, how can she evict him?",
+      "link": "https://www.marketwatch.com/story/she-wants-him-gone-my-friend-took-in-a-homeless-man-as-a-caretaker-after-10-years-how-can-she-evict-him-01672de2?mod=mw_rss_topstories",
+      "summary": "“He lived rent-free, helping her with health-related issues and other tasks.”",
+      "published": "2026-07-04T20:56:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "New Google commercial imagines a Declaration of Independence written with help from AI",
+      "link": "https://techcrunch.com/2026/07/04/new-google-commercial-imagines-a-declaration-of-independence-written-with-help-from-ai/",
+      "summary": "Two hundred and fifty years after the signing of the Declaration of Independence, a new commercial asks: What if the Founding Fathers had access to Google Workspace?",
+      "published": "2026-07-04T20:55:25+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Nearly 1 million wallets are down $3.81 billion on Trump’s memecoin: report",
+      "link": "https://www.theblock.co/post/407170/nearly-1-million-wallets-are-down-3-81-billion-on-trumps-memecoin-report?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Trump's annual financial disclosure showed a $636 million payout tied to the token and more than $1.4 billion in total crypto-related income for 2025.</p>",
+      "published": "2026-07-04T20:44:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Tokenization's next use case is personalized portfolios, NYLIM executive says",
+      "link": "https://www.coindesk.com/business/2026/07/02/tokenization-s-next-use-case-is-personalized-portfolios-nylim-executive-says",
+      "summary": "",
+      "published": "2026-07-04T20:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Why June's jobs and inflation data are bullish for bonds - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVRMV3liZkhFN0RsVWJ5UnR3dlBWbGdCakJXV2tSS2czaUVqSnRJTHlXZG1DZzZmLUJteDFJUmZBMWRzUDNGTWd6NGlvTzQwUW12cXM2MFRmNWhRRHpXZlpWMjFFOWMxVGdrem1DRjA5T1NmeUc5eEhBTVFMcU9STFo4Q2tJTTBNQktTNkw0SEtFajFaa0NkSW1SUFN3akJ4eUpaVFRPTVA4RUkzZFBXcFpR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNcVRMV3liZkhFN0RsVWJ5UnR3dlBWbGdCakJXV2tSS2czaUVqSnRJTHlXZG1DZzZmLUJteDFJUmZBMWRzUDNGTWd6NGlvTzQwUW12cXM2MFRmNWhRRHpXZlpWMjFFOWMxVGdrem1DRjA5T1NmeUc5eEhBTVFMcU9STFo4Q2tJTTBNQktTNkw0SEtFajFaa0NkSW1SUFN3akJ4eUpaVFRPTVA4RUkzZFBXcFpR?oc=5\" target=\"_blank\">Why June's jobs and inflation data are bullish for bonds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-07-04T18:37:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin jumps above $63,000, reversing end-June losses",
+      "link": "https://www.coindesk.com/markets/2026/07/04/bitcoin-jumps-above-usd63-000-reversing-end-june-losses",
+      "summary": "",
+      "published": "2026-07-04T18:07:17+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Midjourney wants Hollywood studios to reveal the details of their AI usage",
+      "link": "https://techcrunch.com/2026/07/04/midjourney-wants-hollywood-studios-to-reveal-the-details-of-their-ai-usage/",
+      "summary": "As part of an ongoing legal dispute with three Hollywood studios, Midjourney is seeking to compel those studios to reveal how they use AI themselves.",
+      "published": "2026-07-04T18:00:05+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Review: Supergirl is not the disaster its low box office suggests",
+      "link": "https://arstechnica.com/culture/2026/07/review-supergirl-is-not-the-disaster-its-low-box-office-suggests/",
+      "summary": "It’s a pretty good movie, but it needed to be a <em>great</em> movie to thrive in an oversaturated superhero market.",
+      "published": "2026-07-04T16:49:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Aave’s new Monad market tops $100 million in deposits two days after launch",
+      "link": "https://www.theblock.co/post/407167/aaves-new-monad-market-tops-100-million-in-deposits-two-days-after-launch?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Aave's V4 deployment also crossed $250 million in deposits on Saturday, a new all-time high for that version of the protocol. </p>",
+      "published": "2026-07-04T16:32:20+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Alibaba reportedly bans employees from using Claude Code",
+      "link": "https://techcrunch.com/2026/07/04/alibaba-reportedly-bans-employees-from-using-claude-code/",
+      "summary": "Alibaba has reportedly classified Claude Code as high-risk software.",
+      "published": "2026-07-04T16:32:08+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "What is Mistral AI? Everything to know about the OpenAI competitor",
+      "link": "https://techcrunch.com/2026/07/04/what-is-mistral-ai-everything-to-know-about-the-openai-competitor/",
+      "summary": "Mistral AI, which offers some open source AI models, has raised significant funding since its creation in 2023, with the ambition to “put frontier AI in the hands of everyone.”",
+      "published": "2026-07-04T15:51:32+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "When the ability to smell goes away",
+      "link": "https://arstechnica.com/science/2026/07/when-the-ability-to-smell-goes-away/",
+      "summary": "Disturbances in this critical sense are often linked to problems with brain health.",
+      "published": "2026-07-04T11:04:31+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "A martian rock has lots of carbon on it, and it's not clear why",
+      "link": "https://arstechnica.com/science/2026/07/a-martian-rock-has-lots-of-carbon-on-it-and-its-not-clear-why/",
+      "summary": "Biology could explain the find, but there are other potential explanations.",
+      "published": "2026-07-04T11:00:41+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "Happy 250th Birthday, America!",
+      "link": "https://warontherocks.com/happy-250th-birthday-america/",
+      "summary": "<p>Editor&#8217;s Note: Few rivalries in American history have been as consequential &#8212; or as personal &#8212; as the one between John Adams and Thomas Jefferson. &#160;The two men could hardly have been more different. Adams, the stocky and combative Massachusetts lawyer, was blunt to a fault and quick to suspicion. Jefferson, the tall, elegant Virginia planter, was reserved and idealistic. The two held diverging political philosophies as well. Adams preferred a strong, central government while Jefferson favored states&#8217; rights and limited government. This rift eventually led to an epic falling out, culminating in the presidential election of 1800, as Jefferson</p>\n<p>The post <a href=\"https://warontherocks.com/happy-250th-birthday-america/\">Happy 250th Birthday, America!</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-04T07:30:27+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "The only AI glossary you’ll need this year",
+      "link": "https://techcrunch.com/2026/07/03/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+      "summary": "The rise of AI has brought an avalanche of new terms and slang. Here is a glossary with definitions of some of the most important words and phrases you might encounter.",
+      "published": "2026-07-03T21:20:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "US withdrew forces from Nigeria after operation against ISIS, AFRICOM chief says",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/03/us-withdrew-forces-from-nigeria-after-operation-against-isis-africom-chief-says/",
+      "summary": "AFRICOM Commander Gen. Dagvin Anderson described May’s joint U.S.-Nigerian as a model for future security cooperation in Africa.",
+      "published": "2026-07-03T21:09:56+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Bunker Talk: Happy 250th Birthday United States Of America Edition!",
+      "link": "https://www.twz.com/news-features/bunker-talk-happy-250th-birthday-united-states-of-america-edition",
+      "summary": "<p>Two and a half centuries of USA.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/bunker-talk-happy-250th-birthday-united-states-of-america-edition\">Bunker Talk: Happy 250th Birthday United States Of America Edition!</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-03T20:44:30+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Hardened Aircraft Shelters At Russian Air Base In Crimea Damaged From Ukrainian Drone Strikes (Updated)",
+      "link": "https://www.twz.com/news-features/hardened-aircraft-shelters-at-russian-air-base-in-crimea-damaged-from-ukrainian-drone-strikes",
+      "summary": "<p>The drone attacks on Saki Air Base are part of Ukraine's latest campaign to make Crimea as uninhabitable for Russian forces as possible.  </p>\n<p>The post <a href=\"https://www.twz.com/news-features/hardened-aircraft-shelters-at-russian-air-base-in-crimea-damaged-from-ukrainian-drone-strikes\">Hardened Aircraft Shelters At Russian Air Base In Crimea Damaged From Ukrainian Drone Strikes (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-03T20:16:17+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "The browser wars aren’t about search anymore — here are the best alternatives to Chrome and Safari",
+      "link": "https://techcrunch.com/2026/07/03/as-the-browser-wars-heat-up-here-are-the-hottest-alternatives-to-chrome-and-safari-in-2026/",
+      "summary": "We’ve compiled an overview of some of the top alternative browsers available today aiming to challenge Chrome and Safari.",
+      "published": "2026-07-03T18:43:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "“We Are Friends”: mau5trap’s Storied Series, Now Open for Submissions, Is the Human Ear in a Machine-Listening World",
+      "link": "https://edm.com/features/mau5trap-we-are-friends-series-history/",
+      "summary": "<p>The deeply influential compilation series from deadmau5's storied record label is primed for its 13th installment.</p>\n<p>The post <a href=\"https://edm.com/features/mau5trap-we-are-friends-series-history/\">&#8220;We Are Friends&#8221;: mau5trap&#8217;s Storied Series, Now Open for Submissions, Is the Human Ear in a Machine-Listening World</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-03T18:00:49+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "This Is The Massive Aerial Armada That Is About To Fly Over The Capital",
+      "link": "https://www.twz.com/space/this-is-the-massive-aerial-armada-that-is-about-to-fly-over-the-capital",
+      "summary": "<p>NASA will lead waves of aircraft, from stealth bombers to VIP helicopters, over the Mall to celebrate America's 250th birthday.</p>\n<p>The post <a href=\"https://www.twz.com/space/this-is-the-massive-aerial-armada-that-is-about-to-fly-over-the-capital\">This Is The Massive Aerial Armada That Is About To Fly Over The Capital</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-03T18:00:12+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "CryptoQuant says bitcoin and altcoin exchange deposits have spiked, indicating higher volatility ahead",
+      "link": "https://www.theblock.co/post/407160/cryptoquant-bitcoin-ether-altcoin-exchange-deposits-volatility?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Bitcoin deposits to exchanges recently climbed to nearly 49,000 BTC, \"a rare extreme\" seen only four other times this year, CryptoQuant said.</p>",
+      "published": "2026-07-03T17:55:56+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "A device that revives eyeballs from dead donors could make eye transplants possible",
+      "link": "https://www.technologyreview.com/2026/07/03/1140148/a-device-that-revives-eyeballs-from-dead-donors-could-make-eye-transplants-possible/",
+      "summary": "It’s not easy to transplant a whole human eye. The surgery is difficult. And the eyes themselves start to degenerate as soon as they’ve left the body. When surgeons attempted it a few years ago, the newly transplanted eye wasn’t able to see. But researchers believe they might have a solution: a device that maintains&#8230;",
+      "published": "2026-07-03T17:34:37+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Royal Navy’s Sea Launch Of Combat-Proven Nyan Kamikaze Drone Points To Fleet’s ‘Hybrid’ Future",
+      "link": "https://www.twz.com/news-features/royal-navys-sea-launch-of-combat-proven-nyan-kamikaze-drone-points-to-fleets-hybrid-future",
+      "summary": "<p>The demonstration of a new shipboard strike capability comes amid advancing plans to integrate drones deeply across the fleet.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/royal-navys-sea-launch-of-combat-proven-nyan-kamikaze-drone-points-to-fleets-hybrid-future\">Royal Navy’s Sea Launch Of Combat-Proven Nyan Kamikaze Drone Points To Fleet’s ‘Hybrid’ Future</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-03T17:20:50+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "EDM.com On-Deck Circle: Subtronics, Zeds Dead, Cascada & More",
+      "link": "https://edm.com/music-releases/on-deck-circle-subtronics-zeds-dead-cascada-more/",
+      "summary": "<p>Dropping weekly on Fridays, 'On-Deck Circle' is EDM.com’s weekly roundup of 9 brand-new tracks from the scene’s biggest DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/on-deck-circle-subtronics-zeds-dead-cascada-more/\">EDM.com On-Deck Circle: Subtronics, Zeds Dead, Cascada &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-03T16:47:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "‘Confessions II’: Madonna Returns to the Dancefloor, This Time With Martin Garrix",
+      "link": "https://edm.com/music-releases/madonna-martin-garrix-bizarre-confessions-ii/",
+      "summary": "<p>Prior to the release of Madonna's new album, Garrix said he was \"starstruck\" when he met the Queen of Pop in New York to record their collaboration.</p>\n<p>The post <a href=\"https://edm.com/music-releases/madonna-martin-garrix-bizarre-confessions-ii/\">&#8216;Confessions II&#8217;: Madonna Returns to the Dancefloor, This Time With Martin Garrix</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-03T16:31:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHhWeE5ENVd5Nk5CTk1FVEU2RmZEMklJdlZhYWxlWDNHdGZxS2ZCbDI3d3M0Tjlad0JQb2hlbGdlY2dKR2JxS2ZPdmxLWmkwNW1oN1RiVlV6RXRDaWhXbFpyYUxPOExIalVzRl9UdTRiUHVQc2M2aVlKbGsyM1pDcWVMeDNtc0tWcVVLdS1JbFcwU1hnNU5MZTgwWmh5VmxyT3ltSHhVOXJfQ0V4dFFGYVNMdnVKU29wWlhKSkxnVUh6bS1zUkpGRy1qbjVfMGp1M2JydGpSaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxQTHhWeE5ENVd5Nk5CTk1FVEU2RmZEMklJdlZhYWxlWDNHdGZxS2ZCbDI3d3M0Tjlad0JQb2hlbGdlY2dKR2JxS2ZPdmxLWmkwNW1oN1RiVlV6RXRDaWhXbFpyYUxPOExIalVzRl9UdTRiUHVQc2M2aVlKbGsyM1pDcWVMeDNtc0tWcVVLdS1JbFcwU1hnNU5MZTgwWmh5VmxyT3ltSHhVOXJfQ0V4dFFGYVNMdnVKU29wWlhKSkxnVUh6bS1zUkpGRy1qbjVfMGp1M2JydGpSaw?oc=5\" target=\"_blank\">The World Cup has made Cape Verde goalkeeper Vozinha a $17 million social-media star</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-07-03T16:24:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Multibillion-dollar contract secures ‘major step forward’ for GCAP fighter jet",
+      "link": "https://www.defensenews.com/global/europe/2026/07/03/multibillion-dollar-contract-secures-major-step-forward-for-gcap-fighter-jet/",
+      "summary": "Japan, Italy and the U.K. have handed a £4.6 billion ($6.1 billion) development contract to their national champions building the GCAP jet.",
+      "published": "2026-07-03T16:13:36+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "EDM.com Fresh Picks: Effin, Baclash, Westend & More",
+      "link": "https://edm.com/music-releases/fresh-picks-effin-baclash-westend-more/",
+      "summary": "<p>Every Friday, EDM.com’s 'Fresh Picks' series showcases bold new electronic music from the scene’s most promising DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/fresh-picks-effin-baclash-westend-more/\">EDM.com Fresh Picks: Effin, Baclash, Westend &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-03T15:57:32+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "David Guetta, Third Party and John Martin Drop Progressive House Anthem, ‘Human’",
+      "link": "https://edm.com/music-releases/david-guetta-third-party-john-martin-human-tomorrowland-music/",
+      "summary": "<p>The track marks Guetta's debut on Tomorrowland Music, the esteemed record label of the iconic EDM festival brand.</p>\n<p>The post <a href=\"https://edm.com/music-releases/david-guetta-third-party-john-martin-human-tomorrowland-music/\">David Guetta, Third Party and John Martin Drop Progressive House Anthem, &#8216;Human&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-03T15:32:30+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Poland teams up with Spain to double tanker aircraft purchase",
+      "link": "https://www.defensenews.com/global/europe/2026/07/03/poland-teams-up-with-spain-to-double-tanker-aircraft-purchase/",
+      "summary": "The agreement with Madrid will allow Warsaw to increase its tanker order to four units.",
+      "published": "2026-07-03T15:09:25+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Subtronics Blurs Genres in Stunning New Single, ‘Fall Back to Nothing’",
+      "link": "https://edm.com/music-releases/subtronics-fall-back-to-nothing/",
+      "summary": "<p>The track is out today via Subtronics' own label, Cyclops Recordings.</p>\n<p>The post <a href=\"https://edm.com/music-releases/subtronics-fall-back-to-nothing/\">Subtronics Blurs Genres in Stunning New Single, &#8216;Fall Back to Nothing&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-03T14:44:48+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Samsung, Dunamu say they were listed as OUSD stablecoin consortium members without official consultation: report",
+      "link": "https://www.theblock.co/post/407147/samsung-dunamu-say-they-were-listed-as-ousd-stablecoin-consortium-members-without-official-consultation-report?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Samsung and Dunamu are among Korean firms saying they were listed as members of the OUSD stablecoin consortium without prior consultation.</p>",
+      "published": "2026-07-03T14:32:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Grvt and the Rise of Composable Onchain Wealth",
+      "link": "https://www.theblock.co/post/407075/grvt-and-the-rise-of-composable-onchain-wealth?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Perp DEX Market Overview  Perp DEX sector growth  Perpetual futures have become the dominant instrument in crypto derivatives markets, with the decentralized venues offering them becoming the fastest-growing sector in Web3. Figure 1: Perp DEX share of total crypto perpetuals volume (Perp DEX vs. CEX), March 2024 – March 2026. Source: The Block, Defillama Total [&hellip;]</p>",
+      "published": "2026-07-03T14:32:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Europeans to fill almost all gaps left by US in NATO defense plans, source says",
+      "link": "https://www.defensenews.com/global/europe/2026/07/03/europeans-to-fill-almost-all-gaps-left-by-us-in-nato-defense-plans-source-says/",
+      "summary": "The U.S. told its allies in May that it had decided to shrink the pool of military capabilities committed to the transatlantic alliance in a crisis.",
+      "published": "2026-07-03T14:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Rocket Report: Indian startup nears first launch; SpaceX's millenary milestone",
+      "link": "https://arstechnica.com/space/2026/07/rocket-report-indian-startup-nears-first-launch-spacexs-millenary-milestone/",
+      "summary": "NASA awarded Rocket Lab deals for three dedicated launches using the company's Electron rocket.",
+      "published": "2026-07-03T13:55:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Taiwan needs a ‘hornet’s nest’ of drones to deter conflict, US diplomat says",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/07/03/taiwan-needs-a-hornets-nest-of-drones-to-deter-conflict-us-diplomat-says/",
+      "summary": "Taiwan says it needs to bolster its defenses in the face of a stepped-up threat from China, which claims the island as its own territory.",
+      "published": "2026-07-03T12:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "The Download: a smoking “endgame” and a new Elizabeth Bear story",
+      "link": "https://www.technologyreview.com/2026/07/03/1140134/the-download-uk-smoking-ban-elizabeth-bear-story/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. The UK’s generational tobacco ban might not work. I’m supporting it anyway. —Jessica Hamzelou As the parent of two little girls, I often think about how their childhood is different from&#8230;",
+      "published": "2026-07-03T12:10:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Inside the Luddite festival harnessing Gen Z’s rage against Big Tech",
+      "link": "https://arstechnica.com/culture/2026/07/inside-the-luddite-festival-harnessing-gen-zs-rage-against-big-tech/",
+      "summary": "New York City’s Summer of Ludd festival is teaching people how to live offline.",
+      "published": "2026-07-03T12:00:36+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Despite the darkness, I still see signs of hope in America",
+      "link": "https://arstechnica.com/culture/2026/07/at-250-years-there-are-still-reasons-for-hope-in-america/",
+      "summary": "It's difficult to pinpoint the moment in my life where America started to lose the plot.",
+      "published": "2026-07-03T11:30:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "U.S. Navy MH-60S Seahawk Goes Down In Arabian Sea (Updated)",
+      "link": "https://www.twz.com/air/mh-60s-seahawk-goes-down-in-arabian-sea-search-on-for-missing-crewmember",
+      "summary": "<p>The search is on for a missing crewmember after the other three were safely recovered. </p>\n<p>The post <a href=\"https://www.twz.com/air/mh-60s-seahawk-goes-down-in-arabian-sea-search-on-for-missing-crewmember\">U.S. Navy MH-60S Seahawk Goes Down In Arabian Sea (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-03T10:58:50+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Fancy 100 hard synths in software form? Meet UVI Synth Anthology 5",
+      "link": "https://musictech.com/news/gear/uvi-synth-anthology-5-collection-hardware-synths/?utm_source=rss&utm_medium=rss&utm_campaign=uvi-synth-anthology-5-collection-hardware-synths",
+      "summary": "<p><img alt=\"Screencap of Synth Anthology UI taken from YouTube overview video.\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/uvi-synth-anthology-5@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Along with 100 new instruments, the software also welcomes new dual-layer architecture that combines any two synths into one hybrid voice.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/uvi-synth-anthology-5-collection-hardware-synths/\">Fancy 100 hard synths in software form? Meet UVI Synth Anthology 5</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-03T10:52:06+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "The UK’s generational tobacco ban might not work. I’m supporting it anyway.",
+      "link": "https://www.technologyreview.com/2026/07/03/1140036/uk-tobacco-ban-might-not-work-children-smoking/",
+      "summary": "As the parent of two little girls, I often think about how their childhood is different from mine. The seven-year-old is learning about AI at school. The five-year-old is given internet-based homework every week. And they are both absolutely repulsed by the idea of smoking. That was not the prevailing sentiment when I was young.&#8230;",
+      "published": "2026-07-03T09:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "The Integrated Circuit and the Future of AI Leadership",
+      "link": "https://warontherocks.com/cogs-of-war/the-integrated-circuit-and-the-future-of-ai-leadership/",
+      "summary": "<p>Editor&#8217;s note: This is the first article in a limited series celebrating American defense technologies born from wartime and their effects on broader national security, politics, and society. This series will run for several weeks to commemorate America&#8217;s 250th anniversary, and winners will be selected by a reader vote undertaken through our newsletter later this summer. Prior installments can be found at the&#160;Arsenal of Innovation&#160;page.&#160;The history of the semiconductor is an origin story for modern computing but also reveals a recurring pattern in American innovation: government helps underwrite technological breakthroughs, and commercial markets transform them into general-purpose technologies. And yet,</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-integrated-circuit-and-the-future-of-ai-leadership/\">The Integrated Circuit and the Future of AI Leadership</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-03T08:00:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "Misguided and Misunderstood: Trump’s Approach to U.S. Troops in Europe",
+      "link": "https://warontherocks.com/misguided-and-misunderstood-trumps-approach-to-u-s-troops-in-europe/",
+      "summary": "<p>For many observers, Secretary of Defense Pete Hegseth&#8217;s speech on the future of NATO, delivered in Brussels on June 18, 2026, constituted a perfect example of how the Trump administration is angrily abandoning the longstanding U.S. commitment to European security. The prevailing picture is that the administration is eager to shift the burden of Europe&#8217;s defense and is thus moving to withdraw U.S. forces from the continent, even though Europe is moving to do more militarily. Hegseth stated, &#8220;we&#8217;re doubling down on our effort to make NATO what it always was supposed to be, a balanced alliance with Europe in</p>\n<p>The post <a href=\"https://warontherocks.com/misguided-and-misunderstood-trumps-approach-to-u-s-troops-in-europe/\">Misguided and Misunderstood: Trump’s Approach to U.S. Troops in Europe</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-03T07:30:40+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "What’s up with the rumored Taylor Swift wedding this weekend - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdElWMUNENmJnYV81eWtYQU5xQjdLSGdib0IxQkFMd1JzRlNqNHFVeW94ZUl3aU9IeXpJaUFFRDQ4cGpvTV9CaGVEWGFUcGNSdkpJSERzOXN2dDZTRE9pOS15ekUyXzJoWnBjZVpkakRnMDgzbF9zSnMyX0JFMWg4cTFwcElFUFhSc0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNdElWMUNENmJnYV81eWtYQU5xQjdLSGdib0IxQkFMd1JzRlNqNHFVeW94ZUl3aU9IeXpJaUFFRDQ4cGpvTV9CaGVEWGFUcGNSdkpJSERzOXN2dDZTRE9pOS15ekUyXzJoWnBjZVpkakRnMDgzbF9zSnMyX0JFMWg4cTFwcElFUFhSc0E?oc=5\" target=\"_blank\">What’s up with the rumored Taylor Swift wedding this weekend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-03T06:10:34+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "America’s job creation report card disappoints - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMURkNjdUSTVtNkVvS0hqSUpQQ2pMZ1p0TlFUbkdUV3NJNGlYUFEyeVpfTWhUWThlajBHNk9Ua1Z4SWxoUW5mOGJfUHozanE1SlpnYnl4YnNMY2txeXI3eU5tVDBPZzFiZ0lTWUJNeTVhWUZwOENnYUczQ1Zaby1GQ3N5OUVXZGh0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMURkNjdUSTVtNkVvS0hqSUpQQ2pMZ1p0TlFUbkdUV3NJNGlYUFEyeVpfTWhUWThlajBHNk9Ua1Z4SWxoUW5mOGJfUHozanE1SlpnYnl4YnNMY2txeXI3eU5tVDBPZzFiZ0lTWUJNeTVhWUZwOENnYUczQ1Zaby1GQ3N5OUVXZGh0?oc=5\" target=\"_blank\">America’s job creation report card disappoints</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-03T05:10:34+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Job openings in music tech this month: Sync music, backyard engineering, lab work at major universities, and more",
+      "link": "https://musictech.com/guides/essential-guide/jobs-career-openings-in-music-tech-audio-production/?utm_source=rss&utm_medium=rss&utm_campaign=jobs-career-openings-in-music-tech-audio-production",
+      "summary": "<p><img alt=\"AstroLab 37 in use, photo by press\" class=\"attachment-full size-full wp-post-image\" height=\"1050\" src=\"https://musictech.com/wp-content/uploads/2025/12/Arturia-AstroLab-37-3-credit-press@1400x1050.jpg\" width=\"1400\" /></p>\n<p>This month, Berklee College of Music, Warner Chappell, and Sweetwater are hiring music tech pros</p>\n<p>The post <a href=\"https://musictech.com/guides/essential-guide/jobs-career-openings-in-music-tech-audio-production/\">Job openings in music tech this month: Sync music, backyard engineering, lab work at major universities, and more</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-03T05:00:41+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Tesla snags a sales dub - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRUZ2X0tFYW5FLXB5YUpoSU9uUjY2SlllZGpUWVlKY3l2bzVlQUtxS0FaZUcyYVFmRWd5Mk80RFBoQnQ5d19ldzFyS282SVY5TXlzZWRfUXJhcVEwWF93M1NLR0xjMGFyODRJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMia0FVX3lxTE9MRUZ2X0tFYW5FLXB5YUpoSU9uUjY2SlllZGpUWVlKY3l2bzVlQUtxS0FaZUcyYVFmRWd5Mk80RFBoQnQ5d19ldzFyS282SVY5TXlzZWRfUXJhcVEwWF93M1NLR0xjMGFyODRJ?oc=5\" target=\"_blank\">Tesla snags a sales dub</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-03T04:26:25+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The Military and the Republic",
+      "link": "https://www.foreignaffairs.com/united-states/military-and-republic-charles-q-brown",
+      "summary": "What America’s armed forces can—and cannot—do for democracy.",
+      "published": "2026-07-03T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The Strong Do What They Can—and Suffer What They Must",
+      "link": "https://www.foreignaffairs.com/united-states/strong-do-what-they-can-and-suffer-what-they-must",
+      "summary": "What Thucydides really thought about power.",
+      "published": "2026-07-03T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Kyiv military chief salutes outgoing US Army commander as war rages in Ukraine",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/03/kyiv-military-chief-salutes-outgoing-us-army-commander-as-war-rages-in-ukraine/",
+      "summary": "In a farewell message, Syrskyi credited the departing U.S. commander with saving thousands of Ukrainian lives.",
+      "published": "2026-07-03T00:26:32+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Mark Zuckerberg tells staff that AI agents haven’t progressed as quickly as he’d hoped",
+      "link": "https://techcrunch.com/2026/07/02/mark-zuckerberg-tells-staff-that-ai-agents-havent-progressed-as-quickly-as-hed-hoped/",
+      "summary": "At an internal meeting, the Meta CEO reportedly said that AI development efforts were not moving as quickly as anticipated.",
+      "published": "2026-07-02T23:38:10+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "E11EVEN Announces World Cup Parties in New York City With Kaytranada and Damian Lazarus",
+      "link": "https://edm.com/events/e11even-world-cup-events-new-york/",
+      "summary": "<p>As the 2026 FIFA World Cup final nears, the famed Miami clubbing institution is bringing the theatrics of its signature nightlife experience north.</p>\n<p>The post <a href=\"https://edm.com/events/e11even-world-cup-events-new-york/\">E11EVEN Announces World Cup Parties in New York City With Kaytranada and Damian Lazarus</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-02T23:12:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Navy’s New ‘Doomsday Plane’ Delayed As Watchdog Says Developmental Concerns Are Now Realities",
+      "link": "https://www.twz.com/nuclear/navys-new-doomsday-plane-delayed-as-watchdog-says-developmental-concerns-are-now-realities",
+      "summary": "<p>GAO previously questioned the Navy's choice of a C-130-based aircraft to meet its nuclear command and control needs.</p>\n<p>The post <a href=\"https://www.twz.com/nuclear/navys-new-doomsday-plane-delayed-as-watchdog-says-developmental-concerns-are-now-realities\">Navy&#8217;s New ‘Doomsday Plane’ Delayed As Watchdog Says Developmental Concerns Are Now Realities</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-02T22:36:32+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Russia “Highly Likely” Behind Drone Incursions Over U.S. Bases In England Report Concludes",
+      "link": "https://www.twz.com/air/russia-highly-likely-behind-drone-incursions-over-u-s-bases-in-england-report-concludes",
+      "summary": "<p>The findings by the IISS research organization are part of a larger look into Russia's role in drone incursions sweeping Europe since 2024.</p>\n<p>The post <a href=\"https://www.twz.com/air/russia-highly-likely-behind-drone-incursions-over-u-s-bases-in-england-report-concludes\">Russia &#8220;Highly Likely&#8221; Behind Drone Incursions Over U.S. Bases In England Report Concludes</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-02T22:10:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Weekly Market Update: Stocks Gain 1.74% as Communication Services Rise and Utilities Fall - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWEwV3g0SWEwcFBObzBBTlB4RlRXUlNTVzREM29oM25KTVptbkRtMHo2STRaaHZBZFNUSEpBRTdZYkdQdjN3ZjFvMy1JZm10dnFHbGpkOE9SZkZFTmJVYXZyZWNxVWh3RUFwbldRUGFTMDZ1NmNCenkzNWEzRXN6Q2ZTRGVRRjRoUEdDRFVNOXlIdHZ6N1Jxa2dVNVpNd2N6UzlHdGVmcS1zQTM0YU94UEI3cTA0dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQNWEwV3g0SWEwcFBObzBBTlB4RlRXUlNTVzREM29oM25KTVptbkRtMHo2STRaaHZBZFNUSEpBRTdZYkdQdjN3ZjFvMy1JZm10dnFHbGpkOE9SZkZFTmJVYXZyZWNxVWh3RUFwbldRUGFTMDZ1NmNCenkzNWEzRXN6Q2ZTRGVRRjRoUEdDRFVNOXlIdHZ6N1Jxa2dVNVpNd2N6UzlHdGVmcS1zQTM0YU94UEI3cTA0dw?oc=5\" target=\"_blank\">Weekly Market Update: Stocks Gain 1.74% as Communication Services Rise and Utilities Fall</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-07-02T21:19:52+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Nikita, the Wicked Manager Jackie Procacci Joins DISTORTED MGMT Team",
+      "link": "https://edm.com/industry/nikita-the-wicked-manager-jackie-procacci-joins-distorted-mgmt-team/",
+      "summary": "<p>It's another major milestone for one of bass music's fastest-growing management companies.</p>\n<p>The post <a href=\"https://edm.com/industry/nikita-the-wicked-manager-jackie-procacci-joins-distorted-mgmt-team/\">Nikita, the Wicked Manager Jackie Procacci Joins DISTORTED MGMT Team</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-07-02T20:05:11+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Winners and Losers Among Stock Funds During Q2 2026 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTV85RzFtWmJ0Mk5OYlJ5a2V6SHBqeUlzdVZDbXg5cVVYTjVwbmMtQnVxdnY5OWxpa01fWHpET2RSUXNNRVhkZ00wY05GbGwtQ2VNZUs4amVTejRzbE5GT25OQmQyT0didmR2UW9sa0h0MlZReTRYRlppQWZ4ZGJ5ZzlHTmtITktlU3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNTV85RzFtWmJ0Mk5OYlJ5a2V6SHBqeUlzdVZDbXg5cVVYTjVwbmMtQnVxdnY5OWxpa01fWHpET2RSUXNNRVhkZ00wY05GbGwtQ2VNZUs4amVTejRzbE5GT25OQmQyT0didmR2UW9sa0h0MlZReTRYRlppQWZ4ZGJ5ZzlHTmtITktlU3c?oc=5\" target=\"_blank\">Winners and Losers Among Stock Funds During Q2 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-07-02T19:45:38+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "How Bond Funds Fared in Q2 2026 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcWpjYlphU3d5MzRPTk5rby11Qkd4bXdNc3pESTRCUGJlU09VVEZkMl9MUzJTWkVDcWZwRGdtQlEzVWl6VmxDS1JxV21YbnlNZ29EMGlOREdNLS1VZ3N5NUJvREtlcHF0RFQ5bU5wRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE5RcWpjYlphU3d5MzRPTk5rby11Qkd4bXdNc3pESTRCUGJlU09VVEZkMl9MUzJTWkVDcWZwRGdtQlEzVWl6VmxDS1JxV21YbnlNZ29EMGlOREdNLS1VZ3N5NUJvREtlcHF0RFQ5bU5wRQ?oc=5\" target=\"_blank\">How Bond Funds Fared in Q2 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-07-02T19:38:53+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Hegseth creates powerful new drone office, pulling authority from the military services",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/07/02/hegseth-creates-powerful-new-drone-office-pulling-authority-from-the-military-services/",
+      "summary": "The reorganization is the latest step in Hegseth’s push to field weapons faster.",
+      "published": "2026-07-02T19:02:28+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Lithuania moves to end nuclear weapon ban as ‘situation getting worse’",
+      "link": "https://www.defensenews.com/global/europe/2026/07/02/lithuania-moves-to-end-nuclear-weapon-ban-as-situation-getting-worse/",
+      "summary": "Lithuania’s parliamentary parties have agreed on a plan to lift a constitutional ban on nuclear weapons and foreign military bases in the Baltic nation.",
+      "published": "2026-07-02T19:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Navy Already Looking For Alternatives To Its Brand New AARGM-ER Radar Busting Missile (Updated)",
+      "link": "https://www.twz.com/air/navy-already-looking-for-alternatives-to-its-brand-new-aargm-er-radar-busting-missile",
+      "summary": "<p>The Navy is pushing to finally field the AGM-88G AARGM-ER after years of delays, but is also now looking at other options.</p>\n<p>The post <a href=\"https://www.twz.com/air/navy-already-looking-for-alternatives-to-its-brand-new-aargm-er-radar-busting-missile\">Navy Already Looking For Alternatives To Its Brand New AARGM-ER Radar Busting Missile (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-02T17:23:55+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "Achieving operational excellence with AI",
+      "link": "https://www.technologyreview.com/2026/07/02/1140045/achieving-operational-excellence-with-ai/",
+      "summary": "Frameworks like Lean Six Sigma and business process management (BPM) first gained traction because they promised clarity in the chaos—a structured way to bring order to messy, sprawling operations. Lean Six Sigma emphasized statistical rigor and quality control; BPM created end-to-end maps of how work should flow across departments. Both offered a repeatable way to&#8230;",
+      "published": "2026-07-02T15:37:08+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Short on booth space? AlphaTheta’s new CDJ-1500X multi player packs flagship features into a smaller footprint",
+      "link": "https://musictech.com/news/gear/alphatheta-cdj-1500x/?utm_source=rss&utm_medium=rss&utm_campaign=alphatheta-cdj-1500x",
+      "summary": "<p><img alt=\"AlphaTheta CDJ-1500X\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/CDJ-1500x@2000x1500-1.jpg\" width=\"2000\" /></p>\n<p>Featuring a 10.1-inch touchscreen, cloud music access, and CoBeat compatibility, the compact player borrows heavily from the CDJ-3000X while taking up far less space.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/alphatheta-cdj-1500x/\">Short on booth space? AlphaTheta’s new CDJ-1500X multi player packs flagship features into a smaller footprint</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-02T15:29:44+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "iZotope is no longer a Native Instruments brand, as it joins Boris FX",
+      "link": "https://musictech.com/news/industry/izotope-joins-boris-fx-exits-native-instruments/?utm_source=rss&utm_medium=rss&utm_campaign=izotope-joins-boris-fx-exits-native-instruments",
+      "summary": "<p><img alt=\"iZotope RX 12 in use, photo by press\" class=\"attachment-full size-full wp-post-image\" height=\"1050\" src=\"https://musictech.com/wp-content/uploads/2026/04/iZotope-RX-12-2-credit-press@1400x1050.jpg\" width=\"1400\" /></p>\n<p>Expect no changes to your plugin licenses and subscriptions, says iZotope</p>\n<p>The post <a href=\"https://musictech.com/news/industry/izotope-joins-boris-fx-exits-native-instruments/\">iZotope is no longer a Native Instruments brand, as it joins Boris FX</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-02T14:56:40+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Can digital avatars unlock a new career path for ‘behind-the-scenes’ songwriters? WeAreMetaMuse thinks so",
+      "link": "https://musictech.com/features/interviews/wearemetamuse-interview/?utm_source=rss&utm_medium=rss&utm_campaign=wearemetamuse-interview",
+      "summary": "<p><img alt=\"WeAreMetaMuse Unreal Engine\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/wearemetamuse-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>This Hong Kong based ‘virtual’ record label creating collectively owner pop starts</p>\n<p>The post <a href=\"https://musictech.com/features/interviews/wearemetamuse-interview/\">Can digital avatars unlock a new career path for ‘behind-the-scenes’ songwriters? WeAreMetaMuse thinks so</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-02T13:28:33+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "Teaching AI to run with the turbines",
+      "link": "https://www.technologyreview.com/2026/07/02/1138433/teaching-ai-to-run-with-the-turbines/",
+      "summary": "Artificial intelligence may have captured the public imagination through chatbots and image generators, but some of its most consequential use cases are unfolding far from consumer-facing tools. In industries where physical infrastructure, operational continuity, and safety are paramount, AI is becoming a core operating layer. With its sprawling industrial systems and constant stream of operational&#8230;",
+      "published": "2026-07-02T12:51:44+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "The Download: a startup has a solution for AI’s groupthink problem",
+      "link": "https://www.technologyreview.com/2026/07/02/1140027/the-download-ai-groupthink-llms/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. LLMs are stuck in a groupthink groove. This startup is trying to get them out. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1&#8230;",
+      "published": "2026-07-02T12:10:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Meta will start selling its computing power and AI models - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9BckxjRkk5UXI4bWxZRm02d0s5c3dWV3VjY2NOZXJnSDJMSi1QOUt1WjNqM09yRXN1M2dtY2Q0MjNwVGpMbWVEZFFqRnFKQzdrTkxoclpYVlVTOVBfV3BNMG1wN19NUC1Qbmo2YWN2RHJ0MGp5Nmkwb3FUcjRMNTA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9BckxjRkk5UXI4bWxZRm02d0s5c3dWV3VjY2NOZXJnSDJMSi1QOUt1WjNqM09yRXN1M2dtY2Q0MjNwVGpMbWVEZFFqRnFKQzdrTkxoclpYVlVTOVBfV3BNMG1wN19NUC1Qbmo2YWN2RHJ0MGp5Nmkwb3FUcjRMNTA?oc=5\" target=\"_blank\">Meta will start selling its computing power and AI models</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-02T10:34:02+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Yes, the Akai MPC Sample really is that good",
+      "link": "https://musictech.com/reviews/hardware-instruments/akai-mpc-sample-review/?utm_source=rss&utm_medium=rss&utm_campaign=akai-mpc-sample-review",
+      "summary": "<p><img alt=\"Akai MPC Sample, photo by Simon Vinall\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Akai-MPC-Sample-review-hero-credit-Simon-Vinall@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The classic MPC workflow in a tiny, battery-powered package for $400? Almost unbeatable</p>\n<p>The post <a href=\"https://musictech.com/reviews/hardware-instruments/akai-mpc-sample-review/\">Yes, the Akai MPC Sample really is that good</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-02T09:43:24+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Menura Audio’s MDFX Delay and Reverb units bring studio-grade effects to the DJ booth",
+      "link": "https://musictech.com/news/gear/menura-audio-mdfx-delay-reverb/?utm_source=rss&utm_medium=rss&utm_campaign=menura-audio-mdfx-delay-reverb",
+      "summary": "<p><img alt=\"Menura Audio MDFX Delay &amp; Reverb\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Menura-Audio-Effects@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The best part? You can demo them online before purchasing. </p>\n<p>The post <a href=\"https://musictech.com/news/gear/menura-audio-mdfx-delay-reverb/\">Menura Audio’s MDFX Delay and Reverb units bring studio-grade effects to the DJ booth</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-02T09:12:04+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Credits.fm is a free, open music credits database to help artists get paid in the AI era",
+      "link": "https://musictech.com/news/gear/credits-fm/?utm_source=rss&utm_medium=rss&utm_campaign=credits-fm",
+      "summary": "<p><img alt=\"Music Money\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2022/07/Music-Money@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The new platform indexes more than 150 million song codes, identifiers, and contributor records across the global music ecosystem. </p>\n<p>The post <a href=\"https://musictech.com/news/gear/credits-fm/\">Credits.fm is a free, open music credits database to help artists get paid in the AI era</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-02T09:10:42+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "How Trump and the NATO Summit Lend Legitimacy to Turkey’s Autocratic President - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEJKQjJpSUtObm5TakJlZmdhbmh3bzVUYjNlRmV5UWUzUnNLdUNKZ21KUzIyUGF0dDRyckU0VDEyVm9nNWVyamI2czJBZXZKZ1pua1A4RlljdERDeUtvblJOY09YQ2ktd2MzZHNzUWp4TmNDNTE1LTQ5MW9BMF9MZjVZSFF0clNQN2lpczZMdTAyX2l4RkpNZ1R3QVlBelRiNUR1MlFvWkd0QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEJKQjJpSUtObm5TakJlZmdhbmh3bzVUYjNlRmV5UWUzUnNLdUNKZ21KUzIyUGF0dDRyckU0VDEyVm9nNWVyamI2czJBZXZKZ1pua1A4RlljdERDeUtvblJOY09YQ2ktd2MzZHNzUWp4TmNDNTE1LTQ5MW9BMF9MZjVZSFF0clNQN2lpczZMdTAyX2l4RkpNZ1R3QVlBelRiNUR1MlFvWkd0QQ?oc=5\" target=\"_blank\">How Trump and the NATO Summit Lend Legitimacy to Turkey’s Autocratic President</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-07-02T09:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "Why California’s carbon manure math doesn’t add up",
+      "link": "https://www.technologyreview.com/2026/07/02/1139981/why-californias-carbon-manure-math-doesnt-add-up/",
+      "summary": "Something stinks in California’s climate policies. Years ago, the state set up a system that pays cattle farmers across the country to turn the methane emitted from cattle manure into natural gas, encouraging the dairy sector to produce a gas we burn instead of one that just pollutes the air. It’s become wildly popular because&#8230;",
+      "published": "2026-07-02T09:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "The Blind Spots in Chinese Military Studies",
+      "link": "https://warontherocks.com/the-blind-spots-in-chinese-military-studies/",
+      "summary": "<p>During a recent conference on the People&#8217;s Liberation Army, I heard the same question posed to attendees and paper writers: &#8220;How would China react to U.S. force posture change X, Y, or Z?&#8221; or &#8220;How would the Chinese military respond to U.S. strikes in certain locations?&#8221; Having participated in dozens of unclassified wargames at the RAND Corporation and elsewhere, I hear a similar refrain when playing the &#8220;red team.&#8221;This is a reasonable and legitimate question. Policymakers and war planners should understand likely Chinese responses in studying and preparing for possible contingencies between China and the United States.To make well-grounded assessments</p>\n<p>The post <a href=\"https://warontherocks.com/the-blind-spots-in-chinese-military-studies/\">The Blind Spots in Chinese Military Studies</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-02T07:30:31+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "PlayStation will discontinue physical game discs - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0VFY2F4ODlxZ3BWWHZnMWJBcmt2UDc1YlZYZDlyNEhYN1dtVEVEV3NsVTAtdFVwY3JaRXdJQWRHRWJ4V3F6RDNSSXA1VXFuTVNDWFpQY2V3QUJ1ZUt5SGNreDE0dklpdy1vSFNpRjFxT0VDemZvaFBMbThuWXdmR1lTR0pDUFdSQWd1NA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQT0VFY2F4ODlxZ3BWWHZnMWJBcmt2UDc1YlZYZDlyNEhYN1dtVEVEV3NsVTAtdFVwY3JaRXdJQWRHRWJ4V3F6RDNSSXA1VXFuTVNDWFpQY2V3QUJ1ZUt5SGNreDE0dklpdy1vSFNpRjFxT0VDemZvaFBMbThuWXdmR1lTR0pDUFdSQWd1NA?oc=5\" target=\"_blank\">PlayStation will discontinue physical game discs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-02T04:03:46+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The End of Hamas",
+      "link": "https://www.foreignaffairs.com/palestinian-territories/end-hamas",
+      "summary": "The convenient fiction of continued menace.",
+      "published": "2026-07-02T04:00:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Why Trump’s Congo Deal Is Falling Apart",
+      "link": "https://www.foreignaffairs.com/democratic-republic-congo/why-trumps-congo-deal-falling-apart",
+      "summary": "The limits of \"America first\" in Africa.",
+      "published": "2026-07-02T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence",
+      "link": "https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/",
+      "summary": "<p>Editor&#8217;s Note: Rewind and Reconnoiter is one of our weekly members-only newsletters. To access the full archive of Rewind and Reconnoiter as well as our other members-only content, including podcasts, newsletters, and exclusive access to the War on the Rocks app, sign up using the link in the graphic below.In 2025, Ofek Riemer, Daniel Wajner, and Ehud Eiran wrote, &#8220;Populists vs. Spies in Israel and Beyond,&#8221; where they argued that Prime Minister Benjamin Netanyahu&#8217;s relationship with Israel&#8217;s intelligence agencies could have grave consequences for Israel&#8217;s democracy. A year later, we asked them to revisit their arguments.Image:&#160;U.S. Department of State&#160;via Wikimedia</p>\n<p>The post <a href=\"https://warontherocks.com/from-shin-bet-to-mossad-netanyahu-reshapes-israeli-intelligence/\">From Shin Bet to Mossad, Netanyahu Reshapes Israeli Intelligence</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-01T17:30:40+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "How a Team of Marines Built the Corps’ FPV Drone Training Program from a Cold Start",
+      "link": "https://warontherocks.com/how-a-team-of-marines-built-the-corps-fpv-drone-training-program-from-a-cold-start/",
+      "summary": "<p>Last fall, the U.S. Marine Corps had virtually no first-person view attack drones. That&#8217;s changed quickly. This episode is about how a team of marines at Weapons Training Battalion at Quantico went from a cold start to building a Marine Corps-wide first-person view drone training system. Ryan was pleased to welcome some great marines onto the show: Col. Scott Cuomo, CWO5 Steve Pearsoll, CWO3 (Gunner) Troy Hotaling, GySgt Jude Stewart, GySgt Justin Creasman, and Sgt Timothy Brockup.Since we recorded this episode, Cuomo has changed command and is off to his next assignment.This episode was brought to you by Onebrief. Learn</p>\n<p>The post <a href=\"https://warontherocks.com/how-a-team-of-marines-built-the-corps-fpv-drone-training-program-from-a-cold-start/\">How a Team of Marines Built the Corps&#8217; FPV Drone Training Program from a Cold Start</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-01T15:15:12+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "LLMs are stuck in a groupthink groove. This startup is trying to get them out.",
+      "link": "https://www.technologyreview.com/2026/07/01/1140003/llms-are-stuck-in-a-groupthink-rut-this-startup-is-trying-to-get-them-out/",
+      "summary": "Let’s start with a game. Open up your chatbot of choice—Claude, ChatGPT, Gemini—and type “Give me a random number between 1 and 10.” You’re going to get 7. Almost always. Now type “Another” and you’ll get 3 or 4. Type “Another” again and you’ll get 8 or 9. That won’t work every time—but if it&#8230;",
+      "published": "2026-07-01T14:35:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "Trojan Spirit, the Army’s Intelligence Backbone, Needs a Successor",
+      "link": "https://warontherocks.com/cogs-of-war/trojan-spirit-the-armys-intelligence-backbone-needs-a-successor/",
+      "summary": "<p>In 1990, the idea that deployed commanders could access the latest intelligence from three-letter agencies in the middle of nowhere was radical. But the Army was starting to make this idea real through a program called Trojan Spirit, so they could address a major strategic barrier: There were too many systems and databases for intelligence collection and analysis, some centralized and some forward deployed, and little access to practical insights. During Operation Desert Storm, the early Trojan system transitioned out of development and into operational deployment. Trojan Spirit&#8217;s first introduction to warfighters during the Gulf War fundamentally changed the battlefield.</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/trojan-spirit-the-armys-intelligence-backbone-needs-a-successor/\">Trojan Spirit, the Army’s Intelligence Backbone, Needs a Successor</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-01T08:00:30+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "The Hizballah Predicament: Why An Integrated Approach Is Necessary",
+      "link": "https://warontherocks.com/the-hizballah-predicament-why-an-integrated-approach-is-necessary/",
+      "summary": "<p>What can leaders do about a transnational organization that is a militia, a political party, a social services network, and a smuggling operation at the same time &#8212; and one that has resisted various dialogues and survived repeated attacks?American, Lebanese, and other leaders should recognize Hizballah&#8217;s hybrid, transnational nature and grapple with the unique challenges the organization creates. Otherwise, they will fail to resolve the Hizballah predicament while creating conditions for ineffective agreements, new wars, and squandered opportunities in the Levant.Meeting openly for the first time in decades, Lebanese and Israeli representatives have negotiated on security and political tracks while</p>\n<p>The post <a href=\"https://warontherocks.com/the-hizballah-predicament-why-an-integrated-approach-is-necessary/\">The Hizballah Predicament: Why An Integrated Approach Is Necessary</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-01T07:30:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Stocks just had their best quarter since 2020 - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlJ2WmtfYnJzT1drWWRLVUpHdHB4NnN0azBpWXhGYmhnZW83cW9CYl8wM1BUSzhpV3prNWp2aVJkSFdnc3lhLURYajVhampTNmVnV2t6V3JiY3EtRWxobEZDaW9HTTR1YUpjRjV3cnZnZTRLOFVrbF93cEYtTmJIOTg4UlZRelNv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQMlJ2WmtfYnJzT1drWWRLVUpHdHB4NnN0azBpWXhGYmhnZW83cW9CYl8wM1BUSzhpV3prNWp2aVJkSFdnc3lhLURYajVhampTNmVnV2t6V3JiY3EtRWxobEZDaW9HTTR1YUpjRjV3cnZnZTRLOFVrbF93cEYtTmJIOTg4UlZRelNv?oc=5\" target=\"_blank\">Stocks just had their best quarter since 2020</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-01T05:19:26+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "How to Save the U.S.-Israeli Alliance",
+      "link": "https://www.foreignaffairs.com/israel/how-save-us-israeli-alliance",
+      "summary": "If Iran gets a new deal with America, so must Israel.",
+      "published": "2026-07-01T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Worse Than an Axis",
+      "link": "https://www.foreignaffairs.com/china/worse-axis",
+      "summary": "The informal alignment of U.S. adversaries is dangerous.",
+      "published": "2026-07-01T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Retirees Don’t Need to Fear a Lost Decade. They Need a Plan - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUczcF9xc255WlptcmlmaElrVzBrQ0NyeDR4U2MxN1kzOTgydTVBMk1UVUNuOU03Qm5WQWE0UE9DeG40UlZBaTc1OFRGYTh5RWNncHJFT1hiLUs3MnZwdVR6S19LdHBsZTVaUHMtMHF5WExYTWlCbHlXakpHYjlWd3dGd0ljaFNydTZkZ21scEpNREk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNaUczcF9xc255WlptcmlmaElrVzBrQ0NyeDR4U2MxN1kzOTgydTVBMk1UVUNuOU03Qm5WQWE0UE9DeG40UlZBaTc1OFRGYTh5RWNncHJFT1hiLUs3MnZwdVR6S19LdHBsZTVaUHMtMHF5WExYTWlCbHlXakpHYjlWd3dGd0ljaFNydTZkZ21scEpNREk?oc=5\" target=\"_blank\">Retirees Don’t Need to Fear a Lost Decade. They Need a Plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-06-30T10:13:42+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The 10 Best Companies to Invest in Now - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVFU2Q0VPQU9JSXU2b0NyQzBSMnZMYmdPNmdWa1ZmQy00ZUcwX09iOVcwREVXZWZrZU9oOHc1ME9ub0dFbEFlak9TazB1cENHWU52bkNfMkIxVEdydnphTGhSMERuV09lMWJwVmhhd0k?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE5yVFU2Q0VPQU9JSXU2b0NyQzBSMnZMYmdPNmdWa1ZmQy00ZUcwX09iOVcwREVXZWZrZU9oOHc1ME9ub0dFbEFlak9TazB1cENHWU52bkNfMkIxVEdydnphTGhSMERuV09lMWJwVmhhd0k?oc=5\" target=\"_blank\">The 10 Best Companies to Invest in Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-06-30T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Extreme Weather Will Upend U.S.-China Competition",
+      "link": "https://www.foreignaffairs.com/china/extreme-weather-will-upend-us-china-competition",
+      "summary": "The cost of falling behind on climate adaptation.",
+      "published": "2026-06-30T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Palantir: This Former High-Flying Stock Is Now Too Cheap to Ignore - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWhsUkxiODVuV3RsOFgyNmNvWFZUMzNJMHJLd21EY0RzRjAzSl95SEFKY1pBVktHMmRnREp1WVl2eFV3ZnNoVWRCUlMxVk9ZaElXQzRzdm1NUXpob0t3WWVBTVd0NGg0alp6TXpLN1d4eTNVYUZ6d1FqcmFFNW94OC1xVVJ0ZWRUNVdiZ1ZqeldQZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPNWhsUkxiODVuV3RsOFgyNmNvWFZUMzNJMHJLd21EY0RzRjAzSl95SEFKY1pBVktHMmRnREp1WVl2eFV3ZnNoVWRCUlMxVk9ZaElXQzRzdm1NUXpob0t3WWVBTVd0NGg0alp6TXpLN1d4eTNVYUZ6d1FqcmFFNW94OC1xVVJ0ZWRUNVdiZ1ZqeldQZw?oc=5\" target=\"_blank\">Palantir: This Former High-Flying Stock Is Now Too Cheap to Ignore</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-06-29T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Europe Goes Its Own Way",
+      "link": "https://www.foreignaffairs.com/europe/europe-goes-its-own-way",
+      "summary": "Drifting from America, the continent&nbsp;Is rearming&nbsp;and reordering itself.",
+      "published": "2026-06-29T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Civil War in Myanmar | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5\" target=\"_blank\">Civil War in Myanmar | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-06-17T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "Farewell, Juno Download",
+      "link": "https://s11234.pcdn.co/2026/06/02/farewell-juno-download/",
+      "summary": "<p>After about 20 years, Juno Download has shut down with no warning. Here's what the DJ-first store meant, why it folded while vinyl booms, and where to buy DJ music now.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/06/02/farewell-juno-download/\">Farewell, Juno Download</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2026-06-03T00:15:45+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "Midi Fighter Utility 2.91 Is Out; Our Biggest Update in Years",
+      "link": "https://djtechtools.com/2026/06/01/midi-fighter-utility-2-91-is-out-our-biggest-update-in-years/",
+      "summary": "<p>The Midi Fighter Utility 2.91 is out now, with new firmware for every Midi Fighter in the lineup. Here's what's new and how to update.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/06/01/midi-fighter-utility-2-91-is-out-our-biggest-update-in-years/\">Midi Fighter Utility 2.91 Is Out; Our Biggest Update in Years</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2026-06-01T22:42:37+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "Engine DJ 5.0: on-board stems on the System 1, RGB waveforms for everyone",
+      "link": "https://djtechtools.com/2026/05/13/engine-dj-5-0-on-bard-stems-on-the-system-1-rgb-waveforms-for-everyone/",
+      "summary": "<p>Engine DJ 5.0 from Denon DJ went live today. The headline feature: on-board stems rendering. It&#8217;s exclusive to the Rane System 1, which now becomes the first piece of standalone DJ hardware that can split a track into 4-part stems without an external computer in the chain. If you don&#8217;t own a System 1, the [&#8230;]</p>\n<p>The post <a href=\"https://djtechtools.com/2026/05/13/engine-dj-5-0-on-bard-stems-on-the-system-1-rgb-waveforms-for-everyone/\">Engine DJ 5.0: on-board stems on the System 1, RGB waveforms for everyone</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2026-05-13T20:42:03+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "Devious Pocket: a €249 open-source DVS that ditches the laptop",
+      "link": "https://djtechtools.com/2026/05/10/devious-pocket-a-e249-open-source-dvs-that-ditches-the-laptop/",
+      "summary": "<p>Devious Pocket is a €249 standalone DVS from Amsterdam that turns any turntable into a digital vinyl rig. No laptop, no library software, no setup.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/05/10/devious-pocket-a-e249-open-source-dvs-that-ditches-the-laptop/\">Devious Pocket: a €249 open-source DVS that ditches the laptop</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2026-05-10T22:49:56+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "InMusic just bought Native Instruments. So what now for Traktor?",
+      "link": "https://djtechtools.com/2026/05/08/inmusic-just-bought-native-instruments-so-what-now-for-traktor/",
+      "summary": "<p>Native Instruments has been sold. InMusic Brands, the U.S. parent of Akai Professional, Denon DJ, Numark, Rane, M-Audio, Moog, and Engine DJ, has signed a definitive agreement to acquire NI in full. That includes Traktor, Maschine, Komplete, Kontakt, Reaktor, and the broader iZotope, Plugin Alliance, and Brainworx stack that NI absorbed over the last few [&#8230;]</p>\n<p>The post <a href=\"https://djtechtools.com/2026/05/08/inmusic-just-bought-native-instruments-so-what-now-for-traktor/\">InMusic just bought Native Instruments. So what now for Traktor?</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2026-05-08T23:14:52+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Conflict in the Democratic Republic of Congo | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSG9La2pKSXhlanRJOFoxTWZ2aWFmWkR0Rkx4U3RyeWVXVnBXZFlyN1ZlWThiM3JHMzVlcERuYzRSOUtkRUlMYy1vQ1A3R295UG9rTlppbGN1M202TGhta3pSSWEzZi13SzhsTVJwTlNpaDFBZTl0bTlNblhSSmFDQ0d6OUgySURLcFh0V1NQX1Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNSG9La2pKSXhlanRJOFoxTWZ2aWFmWkR0Rkx4U3RyeWVXVnBXZFlyN1ZlWThiM3JHMzVlcERuYzRSOUtkRUlMYy1vQ1A3R295UG9rTlppbGN1M202TGhta3pSSWEzZi13SzhsTVJwTlNpaDFBZTl0bTlNblhSSmFDQ0d6OUgySURLcFh0V1NQX1Y?oc=5\" target=\"_blank\">Conflict in the Democratic Republic of Congo | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-02-18T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "The DJM-V5 from AlphaTheta: 3 channels, 4-band EQ, V10 sound – no Beat FX or crossfader.",
+      "link": "https://djtechtools.com/2026/01/20/djm-v5-mixer-3-channels/",
+      "summary": "<p>AlphaTheta has released the DJM-V5, a compact 3-channel DJ mixer built on the sound architecture of the DJM-V10, bringing flagship-style sound shaping into a smaller format. Available late January 2026 with a MAP of $2,199 USD, the V5 includes 4-band EQ and channel compression on every channel, per-channel Send FX, multi-mode filters, 96 kHz / [&#8230;]</p>\n<p>The post <a href=\"https://djtechtools.com/2026/01/20/djm-v5-mixer-3-channels/\">The DJM-V5 from AlphaTheta: 3 channels, 4-band EQ, V10 sound – no Beat FX or crossfader.</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2026-01-21T03:25:34+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Before and after satellite images of demolition of East Wing - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-10-23T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "Traktor MX2: Native Instruments’ New 2-Channel Controller",
+      "link": "https://djtechtools.com/2025/10/08/traktor-mx2-native-instruments-new-2-channel-controller/",
+      "summary": "<p>Native Instruments has introduced the Traktor MX2, a next-generation 2-channel DJ controller aimed at DJs of all levels. This is the first Traktor controller that we&#8217;ve seen in years &#8211; the renewed Z1 and X1 being the most recent. The aesthetic of the Traktor MX2 (fairwell, &#8220;Kontrol&#8221;?) matches those releases design language. This new controller [&#8230;]</p>\n<p>The post <a href=\"https://djtechtools.com/2025/10/08/traktor-mx2-native-instruments-new-2-channel-controller/\">Traktor MX2: Native Instruments’ New 2-Channel Controller</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2025-10-08T17:59:36+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "Akai Launches MPC Live III Standalone With 8-Core Processor, Clip Matrix, Stems, and 3D Pads",
+      "link": "https://djtechtools.com/2025/10/02/akai-mpc-live-iii-standalone-launch/",
+      "summary": "<p>Akai launches the MPC Live III, a standalone music production center with 8-core power, 3D pads, Clip Matrix loop launching, and built-in mic + speakers.</p>\n<p>The post <a href=\"https://djtechtools.com/2025/10/02/akai-mpc-live-iii-standalone-launch/\">Akai Launches MPC Live III Standalone With 8-Core Processor, Clip Matrix, Stems, and 3D Pads</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2025-10-02T14:02:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-04-27T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Mini Simulations - CFR Education",
+      "link": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QRWp3VDB0aml6eVBqLW94RG1Jczh4bkpUZThQYl9vdGhfZlFUcDVpM2RCeXY4TC1NN2lHal81TVVFb2VQamM3dDctY1NaRi1YTFA1RA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVEFVX3lxTE9QRWp3VDB0aml6eVBqLW94RG1Jczh4bkpUZThQYl9vdGhfZlFUcDVpM2RCeXY4TC1NN2lHal81TVVFb2VQamM3dDctY1NaRi1YTFA1RA?oc=5\" target=\"_blank\">Mini Simulations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CFR Education</font>",
+      "published": "2025-04-17T02:01:16+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections - AP News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5\" target=\"_blank\">New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-03-06T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "PHOTO COLLECTION: Pam Bondi Swearing In - AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-02-05T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Read the full House ethics report on Matt Gaetz - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2024-12-23T18:41:11+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Territorial Disputes in the South China Sea | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5\" target=\"_blank\">Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2024-09-17T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2024-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2023-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2020-12-07T16:27:24+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Internships - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSk5rNGdxUVhJS0RIdF9oanlYVFF5UGxOZ1ZLbnhjRl9HeFFfWmlBeTBJZjEtYnVLaDhPS05aOVdKZDJGdjBvZVpkZXBTdDFaZHd4MWJLOEZ0d1dKYk9pTGhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSk5rNGdxUVhJS0RIdF9oanlYVFF5UGxOZ1ZLbnhjRl9HeFFfWmlBeTBJZjEtYnVLaDhPS05aOVdKZDJGdjBvZVpkZXBTdDFaZHd4MWJLOEZ0d1dKYk9pTGhR?oc=5\" target=\"_blank\">Internships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2019-08-30T05:39:35+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Morning Brew - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2017-07-07T01:37:33+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Center for Preventive Action - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOdVl0N3pIWmxuUFZuLTBULTlWV0FoZXVibXc4V3pyeUx5bGNkN1hsNThkci1keGV6R2p6cGI2UW10bnMwdWZoM2xidjVBREtPNWJ5VnUwbldyQl9OYnh2aW15MA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBOdVl0N3pIWmxuUFZuLTBULTlWV0FoZXVibXc4V3pyeUx5bGNkN1hsNThkci1keGV6R2p6cGI2UW10bnMwdWZoM2xidjVBREtPNWJ5VnUwbldyQl9OYnh2aW15MA?oc=5\" target=\"_blank\">Center for Preventive Action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2017-05-16T12:21:48+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Council on Foreign Relations - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5\" target=\"_blank\">Council on Foreign Relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2006-10-11T06:27:30+00:00",
+      "feed_type": "google_news_fallback"
+    }
+  ]
 }
