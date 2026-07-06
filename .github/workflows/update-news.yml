@@ -1,0 +1,34 @@
+name: Update news
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 * * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Update news.json
+        run: python scripts/update_news.py
+
+      - name: Commit updated news
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Update news feed"
+          file_pattern: news.json
