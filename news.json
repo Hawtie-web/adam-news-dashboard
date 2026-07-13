@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T22:33:46.249340+00:00",
+  "updated_at": "2026-07-13T10:42:48.113684+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,31 +10,337 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "SBI Holdings, Solana Foundation partner to build Japan-based onchain financial market",
+      "link": "https://www.theblock.co/post/408010/sbi-holdings-solana-foundation-partner-to-build-japan-based-onchain-financial-market?utm_source=rss&utm_medium=rss",
+      "summary": "<p>SBI and the Solana Foundation are collaborating to build an onchain financial market with SBI R3 rebranding to SBI Solana Global.</p>",
+      "published": "2026-07-13T10:39:44+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "Oil prices rise, stock futures dip after latest flare-up of strikes between U.S. and Iran",
-      "link": "https://www.marketwatch.com/story/oil-prices-rise-stock-futures-dip-after-latest-flare-up-of-strikes-between-u-s-and-iran-fef7f856?mod=mw_rss_topstories",
-      "summary": "Oil prices rose and U.S. stock-index futures slipped on Sunday, after the U.S. and Iran continued their tit-for-tat attacks around the Strait of Hormuz over the weekend.",
-      "published": "2026-07-12T22:29:00+00:00",
+      "title": "These biggest and ‘least loved’ stocks are the ones to pick ahead of earnings",
+      "link": "https://www.marketwatch.com/story/these-biggest-and-least-loved-stocks-are-the-ones-to-pick-ahead-of-earnings-f7f012e3?mod=mw_rss_topstories",
+      "summary": "Profit growth will overcome artificial intelligence concerns and lift the S&amp;P 500, says Evercore ISI",
+      "published": "2026-07-13T10:38:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Profit-taking, MidEast hostilities drag crypto lower after bullish week",
+      "link": "https://www.coindesk.com/markets/2026/07/13/profit-taking-mideast-hostilities-drag-crypto-lower-after-bullish-week",
+      "summary": "",
+      "published": "2026-07-13T10:30:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Canada to plug surveillance gaps with Aussie over-the-horizon radar",
+      "link": "https://www.defensenews.com/global/asia-pacific/2026/07/13/canada-to-plug-surveillance-gaps-with-aussie-over-the-horizon-radar/",
+      "summary": "The system is called the Arctic Over-The-Horizon Radar (A-OTHR), and the deal is worth some US$1.75 billion to Australia.",
+      "published": "2026-07-13T10:26:17+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I’m 67 with a $140,000 pension. Should I wait until 70 to claim Social Security so my wife gets more?",
+      "link": "https://www.marketwatch.com/story/im-67-with-a-140-000-pension-should-i-wait-until-70-to-claim-social-security-so-my-wife-gets-more-63759d48?mod=mw_rss_topstories",
+      "summary": "“When I pass, all my retirement income is reduced to $30,000 a year.”",
+      "published": "2026-07-13T10:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "Music industry proposes new system to tag AI-generated songs: “Fans want to know whether and how generative AI has been used in the music they listen to”",
+      "link": "https://musictech.com/news/industry/ai-music-tagging-system/?utm_source=rss&utm_medium=rss&utm_campaign=ai-music-tagging-system",
+      "summary": "<p><img alt=\"Human and Robot hand playing the piano\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Human-Robot-Music@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The proposed industry-wide system would distinguish between fully AI-generated tracks and songs that simply use AI as part of the creative process.</p>\n<p>The post <a href=\"https://musictech.com/news/industry/ai-music-tagging-system/\">Music industry proposes new system to tag AI-generated songs: “Fans want to know whether and how generative AI has been used in the music they listen to”</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-13T09:45:06+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Paradigm shifts vs bubbles: AI chips and bitcoin show powerful trends can still produce severe corrections",
+      "link": "https://www.coindesk.com/markets/2026/07/13/paradigm-shifts-vs-bubbles-ai-chips-and-bitcoin-show-powerful-trends-can-still-produce-severe-corrections",
+      "summary": "",
+      "published": "2026-07-13T09:32:41+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Oil prices surge as much as 5% after Iran declares Strait of Hormuz is closed",
+      "link": "https://www.marketwatch.com/story/oil-prices-surge-as-much-as-5-after-iran-declares-strait-of-hormuz-is-closed-6905599b?mod=mw_rss_topstories",
+      "summary": "The week is kicking off with fresh spikes for oil prices as the U.S. and Iran continued to exchange attacks.",
+      "published": "2026-07-13T09:27:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "My wife’s 2011 Ford Fiesta was totaled. Should we accept a $2,000 insurance settlement or give up the car for $2,700?",
+      "link": "https://www.marketwatch.com/story/my-wifes-2011-ford-fiesta-was-totaled-should-we-accept-a-2-000-insurance-settlement-or-give-up-the-car-for-2-700-f2cf2a86?mod=mw_rss_topstories",
+      "summary": "“The hood is bent, the radiator is cracked, and the front bumper is destroyed.”",
+      "published": "2026-07-13T09:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Geopolitical shock exposes SK Hynix leverage after hot ADR debut",
+      "link": "https://www.marketwatch.com/story/geopolitical-shock-exposes-sk-hynix-leverage-after-hot-adr-debut-340ae8d4?mod=mw_rss_topstories",
+      "summary": "Just one trading session after a highly successful U.S. listing for its depositary receipts, local shares in South Korean chip maker SK Hynix plummeted 15% on the domestic exchange in Seoul.",
+      "published": "2026-07-13T09:12:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "How to get playlisted on streaming services: 7 playlist pitching tips",
+      "link": "https://musictech.com/guides/essential-guide/how-to-get-playlisted-on-streaming-services-7-playlist-pitching-tips/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-playlisted-on-streaming-services-7-playlist-pitching-tips",
+      "summary": "<p><img alt=\"Music producer working at a desk, photo by standret/Getty Images\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Music-producer-working-at-desk-hero-credit-standret-Getty@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Spotify, Apply Music, and Amazon Music all have different ways for curating playlists. Here’s how you can hit them all</p>\n<p>The post <a href=\"https://musictech.com/guides/essential-guide/how-to-get-playlisted-on-streaming-services-7-playlist-pitching-tips/\">How to get playlisted on streaming services: 7 playlist pitching tips</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-13T09:06:01+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "“Think Google Docs meets a creative sandbox like Fortnite or Minecraft”: Audiotool 3.0 turns its multiplayer online DAW into an open platform for creator-built music tools",
+      "link": "https://musictech.com/news/gear/audiotool-3-nexus/?utm_source=rss&utm_medium=rss&utm_campaign=audiotool-3-nexus",
+      "summary": "<p><img alt=\"Audiotool 3.0\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Audiotool-3@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The browser-based DAW has been rebuilt from the ground up, with a new open-source SDK that lets musicians build custom instruments, plugins and creator-designed workflows.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/audiotool-3-nexus/\">“Think Google Docs meets a creative sandbox like Fortnite or Minecraft”: Audiotool 3.0 turns its multiplayer online DAW into an open platform for creator-built music tools</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-13T09:01:24+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "TSMC just reported a record month for revenue ahead of critical earnings report on Thursday",
+      "link": "https://www.marketwatch.com/story/tsmc-just-reported-a-record-month-for-revenue-ahead-of-critical-earnings-report-on-thursday-508195fd?mod=mw_rss_topstories",
+      "summary": "Taiwan Semiconductor Manufacturing Corp. said net revenue increased by 67% in June to $13.2 billion",
+      "published": "2026-07-13T09:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Tennis star Jessica Pegula is a billionaire heiress — here’s a look at her family’s vast property portfolio",
+      "link": "https://www.marketwatch.com/story/tennis-star-jessica-pegula-is-a-billionaire-heiress-heres-a-look-at-her-familys-vast-property-portfolio-81f78328?mod=mw_rss_topstories",
+      "summary": "In addition to the Buffalo Bills, the Pegula family—which is worth an estimated $9.3 billion—also owns two other teams and an impressive collection of real estate.",
+      "published": "2026-07-13T09:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘It’s heartbreaking’: My brother claimed Social Security at 70. He died from cancer after one payment. Why wait to claim?",
+      "link": "https://www.marketwatch.com/story/its-heartbreaking-my-brother-claimed-social-security-at-70-he-died-from-cancer-after-one-payment-why-wait-to-claim-491669b6?mod=mw_rss_topstories",
+      "summary": "“I’ve always been a little skeptical of the government’s encouragement to delay claiming benefits.”",
+      "published": "2026-07-13T09:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "LANDR boosts Fair Trade AI licensing programme with $1 million advance scheme and bigger revenue share",
+      "link": "https://musictech.com/news/music/landr-fair-trade-ai-advance-program/?utm_source=rss&utm_medium=rss&utm_campaign=landr-fair-trade-ai-advance-program",
+      "summary": "<p><img alt=\"Artist Payment\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2022/08/Bandcamp-Payment@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The AI licensing programme now offers upfront payments, while increasing artists’ share of licensing revenue from 20% to 25%.</p>\n<p>The post <a href=\"https://musictech.com/news/music/landr-fair-trade-ai-advance-program/\">LANDR boosts Fair Trade AI licensing programme with $1 million advance scheme and bigger revenue share</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-13T08:58:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "U.S. inflation, second-quarter earnings reports: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/07/13/u-s-inflation-second-quarter-earnings-reports-crypto-week-ahead",
+      "summary": "",
+      "published": "2026-07-13T08:55:50+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Europe’s Hydis project settles on concept for hypersonic interceptor",
+      "link": "https://www.defensenews.com/global/europe/2026/07/13/europes-hydis-project-settles-on-concept-for-hypersonic-interceptor/",
+      "summary": "Europe's push to field a hypersonic-defense interceptor will come down to two competing projects.",
+      "published": "2026-07-13T08:41:19+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Bangkok pub fire kills at least 27 people, officials say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcU5scGJEQ180c2NSNHpsckgwa09pYlMzN0NCWkpLQ3Y1OERrNFJZTGlZWkIwM2R0by1JamVsS3FxcTZfMkFia3hCMzYyNm9tbzhLLUxEU2RnYnpEVkVDcjVwNHpPNHEzdmZqWkJGRFd2TkU1dUdsRndxVGRCSjhBTWNmV0ZuejRkbXNsUmFndmZLNkhGVGhDYlZuQVRqbVZGQXFtN3pXTQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcU5scGJEQ180c2NSNHpsckgwa09pYlMzN0NCWkpLQ3Y1OERrNFJZTGlZWkIwM2R0by1JamVsS3FxcTZfMkFia3hCMzYyNm9tbzhLLUxEU2RnYnpEVkVDcjVwNHpPNHEzdmZqWkJGRFd2TkU1dUdsRndxVGRCSjhBTWNmV0ZuejRkbXNsUmFndmZLNkhGVGhDYlZuQVRqbVZGQXFtN3pXTQ?oc=5\" target=\"_blank\">Bangkok pub fire kills at least 27 people, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T21:56:34+00:00",
+      "title": "France set to summon Russian ambassador to Paris over alleged cyberattack campaign - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWdORHF0VmZIR0NyNDdnWXgzREtsLUw1VFhBbF9WMl9nVnBvN2J5emJieUJwQmRkTEJ2SkQ4SkJNSTNkNWlQWC1XY1NiZDhSeGEtZEJ4UldYVk5ZWTlKTHppQ3M1YnJUNldjaTZrZEFSREY5M2oxc1BFOURHT1QzN21XckVLeC1jak5ZZzk1MV9XaHpyelhpQldHLWI2eDRRY2EtdzlvalFPSmNEdFN0WHptNEowbzczUC1VUlA4RndQOXM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaWdORHF0VmZIR0NyNDdnWXgzREtsLUw1VFhBbF9WMl9nVnBvN2J5emJieUJwQmRkTEJ2SkQ4SkJNSTNkNWlQWC1XY1NiZDhSeGEtZEJ4UldYVk5ZWTlKTHppQ3M1YnJUNldjaTZrZEFSREY5M2oxc1BFOURHT1QzN21XckVLeC1jak5ZZzk1MV9XaHpyelhpQldHLWI2eDRRY2EtdzlvalFPSmNEdFN0WHptNEowbzczUC1VUlA4RndQOXM?oc=5\" target=\"_blank\">France set to summon Russian ambassador to Paris over alleged cyberattack campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T08:27:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bank of Thailand audits high-volume stablecoin trades to crack down on illicit finance: report",
+      "link": "https://www.theblock.co/post/407998/bank-of-thailand-audits-stablecoin?utm_source=rss&utm_medium=rss",
+      "summary": "<p>The central bank and the SEC have reportedly begun using data analytics tools to examine abnormal stablecoin trades, with a focus on USDT.</p>",
+      "published": "2026-07-13T08:19:26+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Russia says it struck Ukraine's Chornomorsk port, causing damage - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXVJU01BOXpsWG1rU1pEWEk3bkhOdFMweWJvcFNGbVFnZmxhSUd0dGFkYnhOX25pbnpxRjVid2lwZzZnQk40Z2JrVlVQSFoxdlhVeGhVcG5OYU5tRDV4UXowY0JQNWVQNGc5YUZnY25KdG4xNV9INWU5YzBOR25MMG9ZUnhMQm0xcjFCQ3NDZGxrRkMzR2pjUmRONWNKX3hMR255NUoyWEVmZlF5SG5DNw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQLXVJU01BOXpsWG1rU1pEWEk3bkhOdFMweWJvcFNGbVFnZmxhSUd0dGFkYnhOX25pbnpxRjVid2lwZzZnQk40Z2JrVlVQSFoxdlhVeGhVcG5OYU5tRDV4UXowY0JQNWVQNGc5YUZnY25KdG4xNV9INWU5YzBOR25MMG9ZUnhMQm0xcjFCQ3NDZGxrRkMzR2pjUmRONWNKX3hMR255NUoyWEVmZlF5SG5DNw?oc=5\" target=\"_blank\">Russia says it struck Ukraine's Chornomorsk port, causing damage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T08:01:06+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "I’ve used the Palmer Orbit 11s monitors daily since they launched — the hype is real!",
+      "link": "https://musictech.com/reviews/studio-recording-gear/palmer-orbit-11-review/?utm_source=rss&utm_medium=rss&utm_campaign=palmer-orbit-11-review",
+      "summary": "<p><img alt=\"Palmer Orbit 11, photo by press\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Palmer-Orbit-11-hero-credit-press@2000x1500.jpg\" width=\"2000\" /></p>\n<p>These bargain three-way coaxial monitors help rocket your mixes to stratospheric heights</p>\n<p>The post <a href=\"https://musictech.com/reviews/studio-recording-gear/palmer-orbit-11-review/\">I’ve used the Palmer Orbit 11s monitors daily since they launched — the hype is real!</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-07-13T08:00:59+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "China's GDP growth set to slow, raising expectations for more stimulus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDRzUXJhcGQwVGFqa24yUkZSTjVKbzh6WURPM1YwT1NsUWp5TEI4UE1lSS1HRVZHa3p2el83Ui12d2hTYnBFdExxOFQwZmw5eGpDWFdoSmFXYmpoTFZkT3lTd1paRnkwMlFITnQwdHYxbmxQdEpncGhDU0ZlZ0laQ210NE9YVG1VTHotTlpsaDdETkdiaUwxazBpWlZPdnlVcEQ4N3FJZ0dIeTZXSVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaDRzUXJhcGQwVGFqa24yUkZSTjVKbzh6WURPM1YwT1NsUWp5TEI4UE1lSS1HRVZHa3p2el83Ui12d2hTYnBFdExxOFQwZmw5eGpDWFdoSmFXYmpoTFZkT3lTd1paRnkwMlFITnQwdHYxbmxQdEpncGhDU0ZlZ0laQ210NE9YVG1VTHotTlpsaDdETkdiaUwxazBpWlZPdnlVcEQ4N3FJZ0dIeTZXSVE?oc=5\" target=\"_blank\">China's GDP growth set to slow, raising expectations for more stimulus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T08:00:18+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East",
+      "link": "https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/",
+      "summary": "<p>On Feb. 28, 2026, President Donald Trump announced the commencement of Operation Epic Fury, a joint U.S.-Israeli military operation against Iran. Among the mission&#8217;s goals was the overthrow of the Islamic Republic. &#8220;When we are finished,&#8221; Trump told the Iranian people, &#8220;take over your government. It will be yours to take.&#8221; Israeli Prime Minister Benjamin Netanyahu echoed Trump&#8217;s message, saying: &#8220;Our joint action will create the conditions for the brave Iranian people to take their destiny into their own hands.&#8221; To be sure, Washington and Jerusalem had other objectives &#8212; above all, preventing the Islamic Republic from acquiring nuclear weapons</p>\n<p>The post <a href=\"https://warontherocks.com/an-unlearned-lesson-the-sorry-record-of-regime-change-operations-in-the-middle-east/\">An Unlearned Lesson: The Sorry Record of Regime Change Operations in the Middle East</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-07-13T07:30:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Japan’s SBI Group to launch JPYSC stablecoin lending service this month",
+      "link": "https://www.theblock.co/post/407988/sbi-jpysc-stablecoin-lending?utm_source=rss&utm_medium=rss",
+      "summary": "<p>The SBI's service would offer users a 3% annual yield for deposited JPYSC stablecoins, according to Nikkei.</p>",
+      "published": "2026-07-13T07:22:28+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Sam Neill, Jurassic Park star, dies at 78 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE03QUlhM0JXeU1TMXZ5S0VwaW5yYjhYbTVieFNzV3B0SFZENEVhMlJPMF9JWGhkNmE1Z3JDRW1xMFNqVV9lckwtaXVZNDJpX3k2SDlVa3h4Q1ZEUEtvd1duVmZvSHZYNXlXRWNRczBZQlItbHpReWhtZmxYajlvYzBtYTEwcmNZYUpJamlVaFQtQl9kWlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPcE03QUlhM0JXeU1TMXZ5S0VwaW5yYjhYbTVieFNzV3B0SFZENEVhMlJPMF9JWGhkNmE1Z3JDRW1xMFNqVV9lckwtaXVZNDJpX3k2SDlVa3h4Q1ZEUEtvd1duVmZvSHZYNXlXRWNRczBZQlItbHpReWhtZmxYajlvYzBtYTEwcmNZYUpJamlVaFQtQl9kWlE?oc=5\" target=\"_blank\">Sam Neill, Jurassic Park star, dies at 78</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T06:54:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Live markets: Bitcoin slips below $63,000 in an Asian-session leverage flush",
+      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-slips-below-usd63-000-in-an-asian-session-leverage-flush",
+      "summary": "",
+      "published": "2026-07-13T06:52:28+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMG0wMGZybUNSMnZyOWQzck1Eb0JwcFdfWUVXNlBYbk10c3VveDRrdzVpYVJhNjdwdUdnR1ZMZDhVTXdnWE41M09iZnZwUmJzbEpsX2V0Q2xDWmdHVjZGRkxtRmVsOFU2OWM3aGsyUGljckNVb1F1WlpmMk5GQVE4S0Q4QXJQYlI4V1hZSktORXBZYm1YXzNsQUYwQ2dOSUJtSTJrNmpvR3M5Q2szcXYzWENxeGFIbnRHS0lhaXdnN3FFcnM?oc=5\" target=\"_blank\">Iran widens attacks on US bases in Gulf, Hormuz tensions lift oil prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T06:47:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "McConnell says he won't be able to return to U.S. Senate yet - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjV5djRSZDZsX3ZyaFFXUkhDOFVWLUZEVlByVmtSczRSYTZfTVoxdWlIRGtsaGJzbmpYMV9BNXlhb3JkS2VYc0VtMFdqRXgzNVlPR09IbWtGbjhzbTI2eUFWQUJTeVFaSHVkUlhEQnNjUGMzSWFJaUJ3OWtKYXdwZmdLeUFTaUdIZG5TRlFpbGhLREVKTUc2YlVBSjI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOMjV5djRSZDZsX3ZyaFFXUkhDOFVWLUZEVlByVmtSczRSYTZfTVoxdWlIRGtsaGJzbmpYMV9BNXlhb3JkS2VYc0VtMFdqRXgzNVlPR09IbWtGbjhzbTI2eUFWQUJTeVFaSHVkUlhEQnNjUGMzSWFJaUJ3OWtKYXdwZmdLeUFTaUdIZG5TRlFpbGhLREVKTUc2YlVBSjI?oc=5\" target=\"_blank\">McConnell says he won't be able to return to U.S. Senate yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T21:31:14+00:00",
+      "title": "No EU agreement yet on 21st Russian sanctions package, Kallas says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUhXLWdnMVNoLTEtT3lrUVdWZU51YnZGNGpoc2g1b3REZ2xhd3ZQTEU5R1dRU1d2TU9KZXdVRVV3OVo0LUFYTW1xUTQ1OWtPcmQwS2QzTnpPblRjeHF6VVd2Ti1GYzkwUXF6SUVaTjhqX1UyZHRCQTRwajl6dVhIMjQwME11aGZlQzIxbGZDcHpyQXpBaUdBcmtTUktuZmprU0JRY1ZXYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNOUhXLWdnMVNoLTEtT3lrUVdWZU51YnZGNGpoc2g1b3REZ2xhd3ZQTEU5R1dRU1d2TU9KZXdVRVV3OVo0LUFYTW1xUTQ1OWtPcmQwS2QzTnpPblRjeHF6VVd2Ti1GYzkwUXF6SUVaTjhqX1UyZHRCQTRwajl6dVhIMjQwME11aGZlQzIxbGZDcHpyQXpBaUdBcmtTUktuZmprU0JRY1ZXYw?oc=5\" target=\"_blank\">No EU agreement yet on 21st Russian sanctions package, Kallas says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T06:21:00+00:00",
       "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "New Zealand actor Sam Neill dies aged 78 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzFTOTJCRG9BaEc5ZVM3R1pGSi1pY2dMNEhqYUVfaEdaM0VIWmtlMnFTQ1piQUh1aXdnakNwcUtvMWl6QkRla0xsYlpxaTZrYU9QMW9vOFVHRE03VzdFR2p5NlhpMVV5d0Jra01ZU2ZzbGFDbExGN1FVNnp2T1dDelBYNE8zY0lvZXpvU3d6Tmd5c0ZsNnJtRlFxZEtQd21XblJ6ZlljODB4aE5PNUdjMW9Paw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQTzFTOTJCRG9BaEc5ZVM3R1pGSi1pY2dMNEhqYUVfaEdaM0VIWmtlMnFTQ1piQUh1aXdnakNwcUtvMWl6QkRla0xsYlpxaTZrYU9QMW9vOFVHRE03VzdFR2p5NlhpMVV5d0Jra01ZU2ZzbGFDbExGN1FVNnp2T1dDelBYNE8zY0lvZXpvU3d6Tmd5c0ZsNnJtRlFxZEtQd21XblJ6ZlljODB4aE5PNUdjMW9Paw?oc=5\" target=\"_blank\">New Zealand actor Sam Neill dies aged 78</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T05:55:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "TSMC posts record revenue in second quarter on AI demand - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOcEVtckxTOVlzOGY4clpUVGtUcEpoUTc1Qjg5NWxTUFh3TFRwbjJyTkhSLXh0d1AxVE5JRUJOVlVMQWxVT2NUMERNSzBRc1lWYnQyX0x2S0hjci1kLTNTTm9aQ3BaTWpvRHdqemxSYXZiSmVuQXI5eUdJblYxa01wSnl0U085Z056NldneVZBNVQ3VzBKTTVPZHlkRVRzR2JZX3J1NG1GVnk1WmRRUjlmNHBvYUFaekNQS1VMYw?oc=5\" target=\"_blank\">TSMC posts record revenue in second quarter on AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-07-13T05:38:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin holds near $63,800 as war-driven selloff hits everything but crypto",
+      "link": "https://www.coindesk.com/markets/2026/07/13/bitcoin-holds-near-usd63-800-as-war-driven-selloff-hits-everything-but-crypto",
+      "summary": "",
+      "published": "2026-07-13T04:48:11+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "America and Iran’s Strange Moment of Opportunity",
+      "link": "https://www.foreignaffairs.com/united-states/america-and-irans-strange-moment-opportunity",
+      "summary": "How a deadlocked conflict can pave the way for peace.",
+      "published": "2026-07-13T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Senegal Is on the Brink",
+      "link": "https://www.foreignaffairs.com/senegal/senegal-brink",
+      "summary": "The IMF, the World Bank, and the debt crisis that imperils West Africa.",
+      "published": "2026-07-13T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Japan’s Lawson convenience store pilots stablecoin payments with JPYC: report",
+      "link": "https://www.theblock.co/post/407982/lawson-pilots-jpyc-stablecoin?utm_source=rss&utm_medium=rss",
+      "summary": "<p>This is part of a proof-of-concept involving telecommunications giant KDDI and crypto wallet firm HashPort.</p>",
+      "published": "2026-07-13T03:59:28+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "The Funding: Why Japan’s SBI Holdings is investing big in crypto",
+      "link": "https://www.theblock.co/post/407977/the-funding-why-japan-sbi-holdings-is-investing-big-in-crypto?utm_source=rss&utm_medium=rss",
+      "summary": "<p>The Japanese financial giant's recent crypto deals offer insights into how traditional finance is approaching digital assets.</p>",
+      "published": "2026-07-13T02:12:42+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin whale moves $188 million in BTC after seven-year dormancy: onchain data",
+      "link": "https://www.theblock.co/post/407973/bitcoin-whale-moves-188-million-worth-btc?utm_source=rss&utm_medium=rss",
+      "summary": "<p>The whale last moved bitcoin in 2018, when the cryptocurrency traded at roughly $6,475, reflecting nearly a tenfold gain since then.</p>",
+      "published": "2026-07-13T02:12:25+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Crypto",
@@ -43,33 +349,6 @@
       "link": "https://www.theblock.co/post/407969/crypto-fatwa-sparks-debate-over-pakistans-digital-asset-framework?utm_source=rss&utm_medium=rss",
       "summary": "<p>Pakistan’s crypto regulator held talks with prominent Islamic scholar Mufti Taqi Usmani after a fatwa declared crypto purchases impermissible under Islam.</p>",
       "published": "2026-07-12T21:23:57+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Death toll from Venezuela earthquakes rises to 4,490 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmtWRUNibEZTUkJmZ19uanVtaVVQM2xUVzZfWVpjVTkwTzNPc25qeENMbW1TcXBFQzNXX2hHc2dWUndSWGU0VkQyLVVCM2J5cTVUTnJneFNzLVRLMVYwT0FqMTlXT2JBdkh6N0JJWE50cjR6Z0lkLTB6bTZ5cWhDNWJacENhZWh4c3pPRUxEaVFqWk5CZ0ZpdGln?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmtWRUNibEZTUkJmZ19uanVtaVVQM2xUVzZfWVpjVTkwTzNPc25qeENMbW1TcXBFQzNXX2hHc2dWUndSWGU0VkQyLVVCM2J5cTVUTnJneFNzLVRLMVYwT0FqMTlXT2JBdkh6N0JJWE50cjR6Z0lkLTB6bTZ5cWhDNWJacENhZWh4c3pPRUxEaVFqWk5CZ0ZpdGln?oc=5\" target=\"_blank\">Death toll from Venezuela earthquakes rises to 4,490</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T19:33:43+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Why Citigroup is the one to watch when banks report earnings this week",
-      "link": "https://www.marketwatch.com/story/as-five-big-u-s-banks-report-earnings-on-the-same-day-citigroup-is-the-one-to-watch-683c3707?mod=mw_rss_topstories",
-      "summary": "Among the largest U.S. banks, Citigroup is expected to show the greatest improvement by one important measure. But it still has a long way to go to reach its own performance target.",
-      "published": "2026-07-12T19:31:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "You don’t have to be rich to be financially independent. Here’s how to take control of your money.",
-      "link": "https://www.marketwatch.com/story/you-dont-have-to-be-rich-to-be-financially-independent-heres-how-to-take-control-of-your-money-5345f146?mod=mw_rss_topstories",
-      "summary": "Relying on a high salary or a hot stock is a dangerous trap. Why the most secure people plan for sudden crisis.",
-      "published": "2026-07-12T19:27:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -91,66 +370,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Israel's election will be held on October 27, coalition head says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVlfeEhKTEQwUVJDNzQ3eWVJM2JQd2JNMUZSV2pMVFRQUnp3YUNlN1RRQ2VmWVVITTZiUzJwZEJGbWVNUzR5Y0FPaHRZZU5YM0FpQ3Z0UWo1UGI5Tk9BNlNfNUhMMmRGckxhSHBDTzk5RWtsUTM5bGxfTjFkWEp3dF9Mb2RiT1kyNUZINksyTk9KQWt0Tk1qdjNjcjJqOURpUUxKQllTR2M3TC1wRzRLY3Z3N2o?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQbVlfeEhKTEQwUVJDNzQ3eWVJM2JQd2JNMUZSV2pMVFRQUnp3YUNlN1RRQ2VmWVVITTZiUzJwZEJGbWVNUzR5Y0FPaHRZZU5YM0FpQ3Z0UWo1UGI5Tk9BNlNfNUhMMmRGckxhSHBDTzk5RWtsUTM5bGxfTjFkWEp3dF9Mb2RiT1kyNUZINksyTk9KQWt0Tk1qdjNjcjJqOURpUUxKQllTR2M3TC1wRzRLY3Z3N2o?oc=5\" target=\"_blank\">Israel's election will be held on October 27, coalition head says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T17:50:55+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Tom Oberheim at 90: “I can never retire, first of all”",
       "link": "https://musictech.com/features/interviews/tom-oberheim-at-90-i-can-never-retire-first-of-all/?utm_source=rss&utm_medium=rss&utm_campaign=tom-oberheim-at-90-i-can-never-retire-first-of-all",
       "summary": "<p><img alt=\"Oberheim OB-X8\" class=\"attachment-full size-full wp-post-image\" height=\"1050\" src=\"https://musictech.com/wp-content/uploads/2022/11/Oberheim-Credit-TomOberheim-OB-X8@1400x1050.jpg\" width=\"1400\" /></p>\n<p>Products made by Oberheim changed the sound of popular music upon their release. At 90, he’s still in the lab.</p>\n<p>The post <a href=\"https://musictech.com/features/interviews/tom-oberheim-at-90-i-can-never-retire-first-of-all/\">Tom Oberheim at 90: “I can never retire, first of all”</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-07-12T16:52:57+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlFEMTBmd3hvZzZpVnBYcnNnUlBnQW9DRlkydFVqUTM0S3I2emo0TDczX3NJSGNHdXJqZGJreUhDRDhoYnNUck9vRGVpWEVtMGNnNElfY1lzR0NZakdlSWtTZEExQ2YyWFFKWTNhLXpwbk9HRkF6VGs4V0pLTDRRT013Z3dvc1hZVWthV0x6MzFneHlxei1LZWg5NVNKUE1oV2pfTUNlbkIwNU1tVU14MmhXc1Z2VmNNZnR5Q2thYjFDMWRyaUNJbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVlFEMTBmd3hvZzZpVnBYcnNnUlBnQW9DRlkydFVqUTM0S3I2emo0TDczX3NJSGNHdXJqZGJreUhDRDhoYnNUck9vRGVpWEVtMGNnNElfY1lzR0NZakdlSWtTZEExQ2YyWFFKWTNhLXpwbk9HRkF6VGs4V0pLTDRRT013Z3dvc1hZVWthV0x6MzFneHlxei1LZWg5NVNKUE1oV2pfTUNlbkIwNU1tVU14MmhXc1Z2VmNNZnR5Q2thYjFDMWRyaUNJbw?oc=5\" target=\"_blank\">US conducts strikes on Iran missile systems around Strait of Hormuz, Axios reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T16:43:45+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Iran's IRNA says 'enemy' launches missiles towards Qeshm Island - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFNWV2l4NHpONDVaQ0VPNVczX3ZhaHJHS08ycWJvWDhabVJlZDZrQU5rSDZ0bGRNZXhudFVxSDkzQnNoSTZqWkRXd0RrSWNEVGpHMzBVS2J5ZlZXZ0RPeG93ZWF2QjJWY05oV2FlVlFTODJ3dmJOSnVVOFlJSHFLUzdfYXVhY0NDOEdOVXctakZucmJZLUoxVFhuSk9qRGxPX2lMT3lmenA5LXdmTUpaSVhGcTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQcFNWV2l4NHpONDVaQ0VPNVczX3ZhaHJHS08ycWJvWDhabVJlZDZrQU5rSDZ0bGRNZXhudFVxSDkzQnNoSTZqWkRXd0RrSWNEVGpHMzBVS2J5ZlZXZ0RPeG93ZWF2QjJWY05oV2FlVlFTODJ3dmJOSnVVOFlJSHFLUzdfYXVhY0NDOEdOVXctakZucmJZLUoxVFhuSk9qRGxPX2lMT3lmenA5LXdmTUpaSVhGcTg?oc=5\" target=\"_blank\">Iran's IRNA says 'enemy' launches missiles towards Qeshm Island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T16:29:41+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "About 300 people evacuated in Paris suburb due to 'suspicious' car near synagogue - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVVZY3VQR0hRVTIxNWcwcHBqMzNoYWxob1ZTSEJESnJIUDBKSFY0aTB0Rnlsek1HNVhzcXpvWnc4QlJaSDF2dUh1NTJTWXVONnJzZERvSElRSkVWcmIyNU5aQW44Zlp2VVlUcTh2aTUxN3ZBeng3S2xhRUtXang5OFE1LXEyR25DRnctOWhhWnV5STNhbzEtZTBTMER1Sk9LcXQ2UktuRHBoNVNvajdIWmxOckhKRWV3bV80UllUNA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSVVZY3VQR0hRVTIxNWcwcHBqMzNoYWxob1ZTSEJESnJIUDBKSFY0aTB0Rnlsek1HNVhzcXpvWnc4QlJaSDF2dUh1NTJTWXVONnJzZERvSElRSkVWcmIyNU5aQW44Zlp2VVlUcTh2aTUxN3ZBeng3S2xhRUtXang5OFE1LXEyR25DRnctOWhhWnV5STNhbzEtZTBTMER1Sk9LcXQ2UktuRHBoNVNvajdIWmxOckhKRWV3bV80UllUNA?oc=5\" target=\"_blank\">About 300 people evacuated in Paris suburb due to 'suspicious' car near synagogue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T14:01:43+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Earnings estimates have been following an unusual pattern this time around",
-      "link": "https://www.marketwatch.com/story/earnings-estimates-have-been-following-an-unusual-pattern-this-time-around-fbebfb62?mod=mw_rss_topstories",
-      "summary": "Analysts generally lower their estimates in the months before earnings. But thanks to the energy and tech sectors, expectations have actually climbed heading into second-quarter results.",
-      "published": "2026-07-12T14:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The No. 1 decision for aging retirees: Stay at home or move into a senior community?",
-      "link": "https://www.marketwatch.com/story/the-no-1-decision-for-aging-retirees-stay-at-home-or-move-into-a-senior-community-4ea23d02?mod=mw_rss_topstories",
-      "summary": "Why staying in your longtime home requires more planning than you think.",
-      "published": "2026-07-12T13:30:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -161,24 +386,6 @@
       "summary": "",
       "published": "2026-07-12T13:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The stock-market rally now hinges more on AI than oil",
-      "link": "https://www.marketwatch.com/story/the-stock-market-rally-now-hinges-more-on-ai-than-oil-1292260a?mod=mw_rss_topstories",
-      "summary": "As earnings season kicks off, AI investment remains front and center.",
-      "published": "2026-07-12T13:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Germany funds 50,000 strike drones for Ukraine, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxObmw1bUVFVGYxWlZDbmR2eVB0QkZreWY0SW8wUW9rYkdSXzF6QVJWa1QyeDhOLVRjWVNiSkhSVURjdFg4RHA5eW9peC14SzZ3cHNqLVNTS0VsbWdFTlNVREtzTEFnaHpfSFEzWEppbG9taElxMUlHMllGenJiSGJzemQyRFBGS0labzdCX1dYQlEzcDh0ODJ2enpScw?oc=5\" target=\"_blank\">Germany funds 50,000 strike drones for Ukraine, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-12T12:46:34+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -199,40 +406,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin, ether little changed as U.S. launches fresh Iran strikes",
-      "link": "https://www.coindesk.com/markets/2026/07/12/bitcoin-ether-little-changed-as-u-s-launches-fresh-iran-strikes",
-      "summary": "",
-      "published": "2026-07-12T06:18:15+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Ripple once weighed shutting down and handing XRP to shareholders, CEO says",
-      "link": "https://www.coindesk.com/markets/2026/07/12/ripple-once-weighed-shutting-down-and-handing-xrp-to-shareholders-ceo-says",
-      "summary": "",
-      "published": "2026-07-12T06:09:49+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin’s BIP 110 fork deadline nears with miner support at zero",
-      "link": "https://www.coindesk.com/tech/2026/07/12/bitcoin-s-bip-110-fork-deadline-nears-with-miner-support-at-zero",
-      "summary": "",
-      "published": "2026-07-12T05:49:52+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "My insurance company said my roof lost a few tiles. Loss adjusters found $10,000 in storm damage. How could this happen?",
-      "link": "https://www.marketwatch.com/story/my-insurance-company-said-my-roof-lost-a-few-tiles-loss-adjusters-found-10-000-in-storm-damage-how-could-this-happen-8e1cb8bf?mod=mw_rss_topstories",
-      "summary": "“My house shook violently from the wind.”",
-      "published": "2026-07-11T21:45:00+00:00",
-      "feed_type": "official_or_site_feed"
+      "source": "Morning Brew",
+      "title": "Some national parks are stargazing sanctuaries - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkVySjJwMFdSblFVMmJaWFhpMUNLRjd5R2tmRkdqSDBhbDQ5N0l0dWtFOXRmZTJtYV9IdWpiNWprTEctREJhU29WZ0FfU3ItS0pkYUtfTnFCVGtZUmhhTDF4cDJUTTNjeFZWYjBpcEEtcHJWbTkxV2ZHRVFHeDh2R0w2OHFHbEI5Y0dhWEdsRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPdkVySjJwMFdSblFVMmJaWFhpMUNLRjd5R2tmRkdqSDBhbDQ5N0l0dWtFOXRmZTJtYV9IdWpiNWprTEctREJhU29WZ0FfU3ItS0pkYUtfTnFCVGtZUmhhTDF4cDJUTTNjeFZWYjBpcEEtcHJWbTkxV2ZHRVFHeDh2R0w2OHFHbEI5Y0dhWEdsRQ?oc=5\" target=\"_blank\">Some national parks are stargazing sanctuaries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-12T08:04:43+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -244,57 +424,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Hedera lending protocol Bonzo Lend hit for $9 million after Supra verifier accepts manipulated price update",
-      "link": "https://www.theblock.co/post/407960/hedera-lending-protocol-bonzo-lend-hit-for-9-million-after-supra-verifier-accepts-manipulated-price-update?utm_source=rss&utm_medium=rss",
-      "summary": "<p>A second wallet borrowed another roughly $1 million but identified itself as a white hat hacker and said the funds would be returned.</p>",
-      "published": "2026-07-11T19:19:32+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘I get $1,460 in Social Security’: My millionaire ex-husband, 74, refuses to pay alimony. What can I do?",
-      "link": "https://www.marketwatch.com/story/i-get-1-460-in-social-security-my-millionaire-ex-husband-74-refuses-to-pay-alimony-what-can-i-do-c5e60824?mod=mw_rss_topstories",
-      "summary": "“I have very little money, while my ex’s financial statements show assets in the millions.”",
-      "published": "2026-07-11T19:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Lending protocol Bonzo loses 77% of value locked as $9 million oracle exploit rattles Hedera",
-      "link": "https://www.coindesk.com/web3/2026/07/11/lending-protocol-bonzo-loses-77-of-value-locked-as-usd9-million-oracle-exploit-rattles-hedera",
-      "summary": "",
-      "published": "2026-07-11T18:06:58+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto IPO market stalls as capital rotates to AI and macro uncertainty weighs",
-      "link": "https://www.coindesk.com/business/2026/07/08/crypto-ipo-market-stalls-as-capital-rotates-to-ai-and-macro-uncertainty-weighs",
-      "summary": "",
-      "published": "2026-07-11T17:07:24+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Chicago House Meets Brighton Big Beat in Fatboy Slim, Felix da Housecat and Carola’s ‘Funk Drunk’",
       "link": "https://edm.com/music-releases/fatboy-slim-felix-da-housecat-carola-funk-drunk/",
       "summary": "<p>The crowd reaction turned an off-the-cuff edit into an official single, featuring vocals from 7KY.</p>\n<p>The post <a href=\"https://edm.com/music-releases/fatboy-slim-felix-da-housecat-carola-funk-drunk/\">Chicago House Meets Brighton Big Beat in Fatboy Slim, Felix da Housecat and Carola&#8217;s &#8216;Funk Drunk&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-07-11T16:00:41+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitcoin, ether ETFs snap eight-week outflow streaks with $282 million combined inflow",
-      "link": "https://www.theblock.co/post/407957/bitcoin-ether-etfs-snap-eight-week-outflow-streaks-with-282-million-combined-inflow?utm_source=rss&utm_medium=rss",
-      "summary": "<p>The preceding eight weeks drained a combined $9.46 billion from the two groups, meaning this week’s rebound recovered only about 3% of those outflows.</p>",
-      "published": "2026-07-11T15:19:15+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -334,13 +469,22 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Housing bill that includes a CBDC ban passed into law without Trump’s signature",
-      "link": "https://www.theblock.co/post/406548/housing-bill-cbdc-ban-passed-into-law-without-trump-signature?utm_source=rss&utm_medium=rss",
-      "summary": "<p>The 21st Century ROAD to Housing Act, which includes a provision that bans the Fed from issuing a CBDC, has become law.</p>",
-      "published": "2026-07-11T04:08:36+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "EU: Meta apps are so addictive they violate the law - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHFjU2k3MDNvcDU5WWRZMk4ySDRmdVY0c2J2b1FiNkZ3NjVXM2U1RXpVM3Y2UGktRzhaVTlpOFdBNVJPNGtTanRIbllpSC0xcXpMazNYV0piOC1CejBDQkJiSWZfaUlKQlZNVlRlYzZ5ZXhEdHRFOFo5dFYxSl8wWHNDYzZSck9wdVdwQmpVQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOHFjU2k3MDNvcDU5WWRZMk4ySDRmdVY0c2J2b1FiNkZ3NjVXM2U1RXpVM3Y2UGktRzhaVTlpOFdBNVJPNGtTanRIbllpSC0xcXpMazNYV0piOC1CejBDQkJiSWZfaUlKQlZNVlRlYzZ5ZXhEdHRFOFo5dFYxSl8wWHNDYzZSck9wdVdwQmpVQQ?oc=5\" target=\"_blank\">EU: Meta apps are so addictive they violate the law</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-11T08:37:04+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Report: Netflix invents cable TV - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FbjRYZ29acDZNVjVJTkVBZzRHcGhNaklTaFhHeUxTZ0lyTUNRNEFPNlRET1laeFVhTWUwSVFCMHFaS0RzOXVBc3ZuZWdEbW53X3lCNlF0TWJrb0ozdUlFbjcyc2pfeXJZbU9ZeU80aFExMUkyN2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE5FbjRYZ29acDZNVjVJTkVBZzRHcGhNaklTaFhHeUxTZ0lyTUNRNEFPNlRET1laeFVhTWUwSVFCMHFaS0RzOXVBc3ZuZWdEbW53X3lCNlF0TWJrb0ozdUlFbjcyc2pfeXJZbU9ZeU80aFExMUkyN2c?oc=5\" target=\"_blank\">Report: Netflix invents cable TV</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-11T04:04:37+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -433,15 +577,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "DOJ to drop charges against man accused in $722 million BitClub crypto Ponzi scheme: Bloomberg",
-      "link": "https://www.theblock.co/post/407931/doj-drop-charges-against-man-accused-722-million-bitclub-crypto-ponzi-scheme-bloomberg?utm_source=rss&utm_medium=rss",
-      "summary": "<p>A former contestant on 'The Apprentice' is one of the persons urging the DOJ to drop the charges, the report said.</p>",
-      "published": "2026-07-10T20:12:46+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Check out the first images of Quest shipwreck",
@@ -457,15 +592,6 @@
       "link": "https://www.twz.com/sea/carrier-qualifications-still-happening-for-a-few-navy-fighter-pilots-in-training",
       "summary": "<p>E-2 pilots and foreign student pilots still need to do carrier qualifications, but huge changes to the naval aviation training landscape are looming.</p>\n<p>The post <a href=\"https://www.twz.com/sea/carrier-qualifications-still-happening-for-a-few-navy-fighter-pilots-in-training\">Carrier Qualifications Still Happening For A Few Navy Fighter Pilots In Training</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-07-10T19:59:22+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Here’s what’s next for the Clarity Act as Congress returns to Washington",
-      "link": "https://www.theblock.co/post/407930/whats-next-for-clarity-act-congress-returns-to-washington?utm_source=rss&utm_medium=rss",
-      "summary": "<p>Congress returns to Washington next week, ready to take up cryptocurrency legislation before the midterm election calendar takes over.</p>",
-      "published": "2026-07-10T19:50:57+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -493,15 +619,6 @@
       "link": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
       "summary": "Open source AI is booming, according to&#160;Hugging Face&#160;CEO&#160;Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen the same story play out again and again: companies start [&#8230;]",
       "published": "2026-07-10T19:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "SK Hynix’s $26.5 billion US listing brought to Telegram users via xStocks",
-      "link": "https://www.theblock.co/post/407923/sk-hynixs-26-5-billion-us-listing-brought-to-telegram-users-via-xstocks?utm_source=rss&utm_medium=rss",
-      "summary": "<p>Solana said that tokenized SK Hynix shares on SOL can be acquired through Backpack, xStocks and Ondo Finance.</p>",
-      "published": "2026-07-10T18:49:02+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -685,15 +802,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "MusicTech",
-      "title": "How to get more control over your mix’s stereo width",
-      "link": "https://musictech.com/guides/essential-guide/how-to-get-more-control-over-your-mixs-stereo-width-mastering-the-mix-stereovault/?utm_source=rss&utm_medium=rss&utm_campaign=how-to-get-more-control-over-your-mixs-stereo-width-mastering-the-mix-stereovault",
-      "summary": "<p><img alt=\"Mastering The Mix STEREOVAULT main GUI, photo by press\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Mastering-The-Mix-STEREOVAULT-main-GUI-hero-credit-press@2000x1500.jpg\" width=\"2000\" /></p>\n<p>We investigate the potential pitfalls of working with stereo and discuss how you can use Mastering The Mix’s STEREOVAULT to craft an effective sound stage</p>\n<p>The post <a href=\"https://musictech.com/guides/essential-guide/how-to-get-more-control-over-your-mixs-stereo-width-mastering-the-mix-stereovault/\">How to get more control over your mix’s stereo width</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
-      "published": "2026-07-10T13:46:27+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "New drone czar’s success hinges on personalities, Pentagon politics: Experts",
@@ -745,15 +853,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/07/10/italy-busts-russian-spy-ring-collecting-data-on-ukrainian-air-defense-vulnerabilities/",
       "summary": "Russia has told one of its spies in Europe to find out more about air defense capabilities Western nations are sending to Ukraine.",
       "published": "2026-07-10T08:42:58+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "MusicTech",
-      "title": "Beyerdynamic’s DT 270 Pro are the best monitoring headphones you can buy on a budget",
-      "link": "https://musictech.com/reviews/studio-recording-gear/beyerdynamic-dt-270-pro-review/?utm_source=rss&utm_medium=rss&utm_campaign=beyerdynamic-dt-270-pro-review",
-      "summary": "<p><img alt=\"Beyerdynamic DT 270 Pro, photo by press\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Beyerdynamic-DT-270-Pro-hero-credit-press@2000x1500.jpg\" width=\"2000\" /></p>\n<p>With an ultra-portable build, the brand’s most affordable Pro model has energy and punch by the ton. Plus there’s a surprise in the box…</p>\n<p>The post <a href=\"https://musictech.com/reviews/studio-recording-gear/beyerdynamic-dt-270-pro-review/\">Beyerdynamic’s DT 270 Pro are the best monitoring headphones you can buy on a budget</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
-      "published": "2026-07-10T08:00:55+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -865,51 +964,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "MusicTech",
-      "title": "Marshall unveils new Auracast-enabled Acton IV and Stanmore IV Bluetooth speakers",
-      "link": "https://musictech.com/news/gear/marshall-acton-iv-stanmore-iv/?utm_source=rss&utm_medium=rss&utm_campaign=marshall-acton-iv-stanmore-iv",
-      "summary": "<p><img alt=\"Marshall\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Marshall-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The audio company famous for its guitar amplifiers has released two models that will give any abode some serious volume.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/marshall-acton-iv-stanmore-iv/\">Marshall unveils new Auracast-enabled Acton IV and Stanmore IV Bluetooth speakers</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
-      "published": "2026-07-09T16:26:34+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "MusicTech",
-      "title": "Numark launches two new controllers perfect for anyone who wants to start DJing",
-      "link": "https://musictech.com/news/gear/numark-party-mix-iii-mixtrack-go/?utm_source=rss&utm_medium=rss&utm_campaign=numark-party-mix-iii-mixtrack-go",
-      "summary": "<p><img alt=\"Numark Mixtrack Go\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/Mixtrack-Go@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The Party Mix III and MixTrack Go are both compact, affordable controllers – perfect for beginners.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/numark-party-mix-iii-mixtrack-go/\">Numark launches two new controllers perfect for anyone who wants to start DJing</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
-      "published": "2026-07-09T15:04:44+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "Trump flies old Air Force One out of Turkey, switches to new jet in Britain for trip home",
-      "link": "https://www.defensenews.com/pentagon/2026/07/09/trump-flies-old-air-force-one-out-of-turkey-switches-to-new-jet-in-britain-for-trip-home/",
-      "summary": "President Donald Trump unexpectedly left Turkey on Wednesday aboard an older Air Force One rather than the newly renovated Qatari-donated jet.",
-      "published": "2026-07-09T14:54:07+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "MusicTech",
-      "title": "FL Studio 2026 has arrived: here’s everything you need to know",
-      "link": "https://musictech.com/news/gear/fl-studio-2026-everything-you-need-to-know/?utm_source=rss&utm_medium=rss&utm_campaign=fl-studio-2026-everything-you-need-to-know",
-      "summary": "<p><img alt=\"FL Studio 2026\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/FL-Studio-2026-1@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The mainstay DAW has introduced revamped FLEX, Secure Cloud Project Backup, Smart Assistance, and many more features for its latest update.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/fl-studio-2026-everything-you-need-to-know/\">FL Studio 2026 has arrived: here&#8217;s everything you need to know</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
-      "published": "2026-07-09T14:53:35+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "UK eyes $50 billion in pooled NATO funds for new long-range strike initiative",
-      "link": "https://www.defensenews.com/global/europe/2026/07/09/uk-eyes-50-billion-in-pooled-nato-funds-for-new-long-range-strike-initiative/",
-      "summary": "Details were scant about a project that may amount to another European weapons-coordination umbrella rather than new technology development.",
-      "published": "2026-07-09T14:33:09+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "The Download: a nuclear landmark, and China eyes Nvidia chips",
@@ -1009,15 +1063,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Q3 Stock Market Outlook: Investors Face Balanced Risks, Selective Opportunities - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0tMb25qeWJ6bUx0ckNlTEFFeU5LU0JWT0R0aWdUUlh4VF9sUnZEWWJLUFBBai05U21fbFRJanRjZTM1NmRlMEVqcHItWDl2Vk1mTEJ1TkduVHgySlFzczRIbHpSdV9QMDR3RnIwOUlvQ3A1azM2U3hicFJyM3R3TmVydEFrNjVjMTJHWGc4MG9fakhYNHdKUXh6N29QM2REb21icUMtam1TNVczZUEtajNpbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZ0tMb25qeWJ6bUx0ckNlTEFFeU5LU0JWT0R0aWdUUlh4VF9sUnZEWWJLUFBBai05U21fbFRJanRjZTM1NmRlMEVqcHItWDl2Vk1mTEJ1TkduVHgySlFzczRIbHpSdV9QMDR3RnIwOUlvQ3A1azM2U3hicFJyM3R3TmVydEFrNjVjMTJHWGc4MG9fakhYNHdKUXh6N29QM2REb21icUMtam1TNVczZUEtajNpbw?oc=5\" target=\"_blank\">Q3 Stock Market Outlook: Investors Face Balanced Risks, Selective Opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-07-08T16:54:15+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "EmTech AI 2026: The Rise of the AI Platform",
@@ -1063,24 +1108,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Weekly Deep Dive",
-      "source": "War on the Rocks",
-      "title": "Somali Pirates Are Back — But the Coalition That Beat Them Isn’t Coming",
-      "link": "https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/",
-      "summary": "<p>Numerous recent pirate attacks, especially the hijacking of three merchant vessels off the Horn of Africa, are a stark reminder that the conditions for resurgence can return quickly.It took years of sustained, coordinated effort by multinational naval coalitions, the shipping industry, and international organizations to get rid of pirates in the Western Indian Ocean and the Gulf of Aden. Since 2016, many observers have viewed Somali piracy as yesterday&#8217;s problem. Shipping companies increasingly treated the threat as manageable, and Western navies no longer prioritized it. However, piracy did not disappear, it simply went dormant. Somali piracy is now re-emerging amid</p>\n<p>The post <a href=\"https://warontherocks.com/somali-pirates-are-back-but-the-coalition-that-beat-them-isnt-coming/\">Somali Pirates Are Back — But the Coalition That Beat Them Isn’t Coming</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
-      "published": "2026-07-08T07:30:07+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "The never-sell-Bitcoin company just sold Bitcoin - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOcW54OG8tZ2l3T3BLQnFXblpLYkFkcGJRSU5lZUd2X1RhcE5CZy1LOW90RHlmYmtQMzBBSmtnYjdlWGhoTm5zOW5RR1BBMENWWmZmYnJ4emY5MUUxVnl4M3YzZE9sWUdfalZOS01kbDVTR0tTTDljV01xaFBGQzVZTXBsMlhEbTZpNGlLaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOcW54OG8tZ2l3T3BLQnFXblpLYkFkcGJRSU5lZUd2X1RhcE5CZy1LOW90RHlmYmtQMzBBSmtnYjdlWGhoTm5zOW5RR1BBMENWWmZmYnJ4emY5MUUxVnl4M3YzZE9sWUdfalZOS01kbDVTR0tTTDljV01xaFBGQzVZTXBsMlhEbTZpNGlLaw?oc=5\" target=\"_blank\">The never-sell-Bitcoin company just sold Bitcoin</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-08T05:17:44+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "China closes AI gap with this simple trick (allegedly) - Morning Brew",
@@ -1118,33 +1145,6 @@
     },
     {
       "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Second seasons of popular Netflix shows are flopping - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWtrUTNrdldXWlUzVEVlTGdIMEgtWVZLZkd3a01mTHFWaHppUC0taDZIVnlNdTlsaHh6TnF3amRZM01VRURhZkNteU9qdjV3VkVSOFRCbUtOM0djZU9XTjczWGlUWWZMaHp4UW1wSExOZ0xyaFd2Y3RMRFkzOFVkbVNZT2lMS3VuOFBBUmF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQLWtrUTNrdldXWlUzVEVlTGdIMEgtWVZLZkd3a01mTHFWaHppUC0taDZIVnlNdTlsaHh6TnF3amRZM01VRURhZkNteU9qdjV3VkVSOFRCbUtOM0djZU9XTjczWGlUWWZMaHp4UW1wSExOZ0xyaFd2Y3RMRFkzOFVkbVNZT2lMS3VuOFBBUmF3?oc=5\" target=\"_blank\">Second seasons of popular Netflix shows are flopping</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-07T05:18:27+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "Build a Palestinian State",
-      "link": "https://www.foreignaffairs.com/palestinian-territories/build-palestinian-state",
-      "summary": "Fulfill the promise of self-determination and stabilize the Middle East.",
-      "published": "2026-07-07T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "How Europe Can Get Putin’s Attention",
-      "link": "https://www.foreignaffairs.com/russia/how-europe-can-get-putins-attention",
-      "summary": "The continent must overcome its Russia predicament.",
-      "published": "2026-07-07T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "Why I Object to ‘Hitting a Number’ for Retirement - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV0FzLXFicWVmdk5xSUN3VGZCaDlodER4VldXenN5aDZKYVduNGxQbnVsdktrNHRJV1F1UGVkUnFtMnF2Z3UxcXRHRFFBRlpuVUVNeUpoSmNISk01dU1nMzJCQlhNSlBpWHhZOFFvVElpWkxvU2pxVjVoZFVkVlFZUEhkcw?oc=5",
@@ -1168,6 +1168,15 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5\" target=\"_blank\">Iran’s War With Israel and the United States | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-06-22T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "SpaceX IPO Deep Dive: The Hype, the Price, and the Opportunity - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9sb2lmQjhqV2RkTFZJSk1yTU5HZHFhTVpaQ1pNN1pyMk53YlVTSjItbUdkTF9OeElDMHBodlVWaTl2dE1BQlJqTHhzM3pzRHd3cWgxd1o3WjREVlZRQzJDNzZmNGt3NldScTFoN3lWVTZmb3NlRDNQZzg1UVk5dVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9sb2lmQjhqV2RkTFZJSk1yTU5HZHFhTVpaQ1pNN1pyMk53YlVTSjItbUdkTF9OeElDMHBodlVWaTl2dE1BQlJqTHhzM3pzRHd3cWgxd1o3WjREVlZRQzJDNzZmNGt3NldScTFoN3lWVTZmb3NlRDNQZzg1UVk5dVk?oc=5\" target=\"_blank\">SpaceX IPO Deep Dive: The Hype, the Price, and the Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-06-09T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1267,15 +1276,6 @@
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-04-27T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MXZwaWdHZEd0Tjg1RThRbDlkTmwtNWJuTmtsZmQtZlc0dzhTOElVV3VFdVhQTWZsS2EzeUR5YjRYbDRvMWtwU1kwUUV4TkF5cFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE01MXZwaWdHZEd0Tjg1RThRbDlkTmwtNWJuTmtsZmQtZlc0dzhTOElVV3VFdVhQTWZsS2EzeUR5YjRYbDRvMWtwU1kwUUV4TkF5cFE?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2025-03-26T16:55:33+00:00",
       "feed_type": "google_news_fallback"
     },
     {
