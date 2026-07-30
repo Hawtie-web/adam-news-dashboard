@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-07-29T20:32:34.380761+00:00",
-  "item_count": 152,
+  "updated_at": "2026-07-30T00:16:01.693241+00:00",
+  "item_count": 112,
   "failures": [
+    {
+      "source": "Reuters World",
+      "feed_url": "https://news.google.com/rss/search?q=site:reuters.com/world&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "AP Politics",
+      "feed_url": "https://news.google.com/rss/search?q=site:apnews.com/politics&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "CFR Global Conflict Tracker",
+      "feed_url": "https://news.google.com/rss/search?q=site:cfr.org%20global%20conflict&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "Morning Brew",
+      "feed_url": "https://news.google.com/rss/search?q=site:morningbrew.com&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "Morningstar",
+      "feed_url": "https://news.google.com/rss/search?q=site:morningstar.com&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -10,13 +35,211 @@
   ],
   "items": [
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump to unveil $22 billion plan to remake Washington Dulles airport, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXhHaHYtMVE2OUdfRHZTUlhoTnpFNHZ6TXBKdV9IVjRYVklkNHJZYVpsWUJEdHpfeFpZNkZNX3plYmFWaVU1a3haQmEwcWV5Vjh4NGlvcEVnTEhqdTl4VkdsZnI2NXpMaFQzLUJSaUNpX2RmY0t5dzNjZ2VXeEhKZUZMcmJ4dmxvU3NOUGRnc2JYdFJFMTVaSXNrWHM0Y0ZFWlBXNkVuVzNrdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZXhHaHYtMVE2OUdfRHZTUlhoTnpFNHZ6TXBKdV9IVjRYVklkNHJZYVpsWUJEdHpfeFpZNkZNX3plYmFWaVU1a3haQmEwcWV5Vjh4NGlvcEVnTEhqdTl4VkdsZnI2NXpMaFQzLUJSaUNpX2RmY0t5dzNjZ2VXeEhKZUZMcmJ4dmxvU3NOUGRnc2JYdFJFMTVaSXNrWHM0Y0ZFWlBXNkVuVzNrdw?oc=5\" target=\"_blank\">Trump to unveil $22 billion plan to remake Washington Dulles airport, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T19:59:43+00:00",
-      "feed_type": "google_news_fallback"
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Senators said to hatch idea to toughen Trump's concession on Clarity Act's crypto limits",
+      "link": "https://www.coindesk.com/policy/2026/07/29/senators-said-to-strike-idea-to-toughen-trump-s-concession-on-clarity-act-s-crypto-limits",
+      "summary": "",
+      "published": "2026-07-29T23:12:04+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Navy awards $76.6B in contracts for new Virginia, Columbia-class subs",
+      "link": "https://breakingdefense.com/2026/07/navy-awards-76-6b-in-contracts-for-new-virginia-columbia-class-subs/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/07/navy-awards-76-6b-in-contracts-for-new-virginia-columbia-class-subs/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/11/8630521-e1732050099734-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>General Dynamics Electric Boat and HII’s Newport News Shipbuilding jointly build the Virginia and Columbia-class submarines. </p>",
+      "published": "2026-07-29T23:10:51+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+      "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+      "summary": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+      "published": "2026-07-29T23:00:11+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
+      "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
+      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
+      "published": "2026-07-29T23:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Army adds $54B to Lockheed PAC-3 agreement, totaling $59B",
+      "link": "https://breakingdefense.com/2026/07/army-adds-54b-to-lockheed-pac-3-agreement-totaling-59b/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/07/army-adds-54b-to-lockheed-pac-3-agreement-totaling-59b/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/09/250903_DVIDS_pac3_mse_launch_8775345-scaled-e1756934380384-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The contract is undefinitized, meaning dollar values and quantities could change as negotiations continue. </p>",
+      "published": "2026-07-29T22:47:38+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+      "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+      "summary": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and competing, AI labs are doing.",
+      "published": "2026-07-29T22:46:03+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why the USO oil ETF is a better buy than crude futures as the Iran war rages",
+      "link": "https://www.marketwatch.com/story/why-the-uso-oil-etf-is-a-better-buy-than-crude-futures-as-the-iran-war-rages-85d1ebe0?mod=mw_rss_topstories",
+      "summary": "The United States Oil Fund has climbed by 58% since the start of the Iran war, more than double the gain of WTI crude futures.",
+      "published": "2026-07-29T22:44:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘We already have wills’: We’re in our 60s with $1.5 million. Should we set up a trust to prevent conflict among our heirs?",
+      "link": "https://www.marketwatch.com/story/we-already-have-wills-were-in-our-60s-with-1-5-million-how-do-we-prevent-family-drama-among-our-heirs-bf7b0eb1?mod=mw_rss_topstories",
+      "summary": "“I realize that probate can be lengthy, public and expensive.”",
+      "published": "2026-07-29T22:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+      "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+      "summary": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+      "published": "2026-07-29T22:23:12+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Chipotle lifts its sales forecast even as a lettuce-linked outbreak slows foot traffic",
+      "link": "https://www.marketwatch.com/story/chipotle-lifts-its-sales-forecast-even-as-a-lettuce-linked-outbreak-slows-foot-traffic-2249eeab?mod=mw_rss_topstories",
+      "summary": "Mexican fast-casual chain acknowledged ‘softening’ traffic in the second half of July, but it’s taking a rosier view of its full-year prospects.",
+      "published": "2026-07-29T22:22:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Mythos attack on 3rd-round PQC algorithm candidate puts it out of commission",
+      "link": "https://arstechnica.com/security/2026/07/mythos-uncovers-crypto-weaknesses-that-went-unknown-for-years/",
+      "summary": "HAWK withstood years of testing that had yet to uncover a fatal weakness found through Mythos.",
+      "published": "2026-07-29T22:07:06+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "My girlfriend is 62. Can she claim her late husband’s full Social Security benefit — or does she have to wait?",
+      "link": "https://www.marketwatch.com/story/my-girlfriend-is-62-can-she-claim-her-late-husbands-full-social-security-benefit-or-does-she-have-to-wait-315c0fa1?mod=mw_rss_topstories",
+      "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
+      "published": "2026-07-29T22:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Stocks and bonds see wild ‘Fed Day’ swings as Wall Street’s ‘crash cushion’ evaporates",
+      "link": "https://www.marketwatch.com/story/stocks-and-bonds-see-wild-fed-day-swings-as-wall-streets-crash-cushion-evaporates-ffcbdbbc?mod=mw_rss_topstories",
+      "summary": "Major equity indexes put in their worst “Fed Day” performance since December 2024, while the yield on the 30-year bond shot higher.",
+      "published": "2026-07-29T21:56:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Bond market is calling Warsh’s bluff on inflation fight as yields surge",
+      "link": "https://www.marketwatch.com/story/bond-market-is-calling-warshs-bluff-on-inflation-fight-as-yields-surge-4700f9b5?mod=mw_rss_topstories",
+      "summary": "The yield on the 30-year Treasury bond touched its highest level since 2007 during Warsh’s press conference.",
+      "published": "2026-07-29T21:43:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
+      "summary": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription drug plans lower.",
+      "published": "2026-07-29T21:43:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+      "published": "2026-07-29T21:16:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Robinhood’s prediction markets top crypto and equities revenue in Q2",
+      "link": "https://www.theblock.co/post/410102/robinhoods-prediction-markets-top-crypto-and-equities-revenue-in-q2?utm_source=rss&utm_medium=rss",
+      "summary": "<p>The trading platform generated $156 million from event contracts, compared with $100 million from cryptocurrency trading.</p>",
+      "published": "2026-07-29T21:14:23+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+      "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+      "summary": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+      "published": "2026-07-29T21:07:48+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Musk went to “war,” sought jail time for X ad boycotts—but case ends with a whimper",
+      "link": "https://arstechnica.com/tech-policy/2026/07/musk-went-to-war-sought-jail-time-for-x-ad-boycotts-but-case-ends-with-a-whimper/",
+      "summary": "Advertisers agreed to “reset” relationship with X.",
+      "published": "2026-07-29T20:57:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "SpaceX wins $1.6B to launch Space Force ‘sensing and targeting’ sats",
+      "link": "https://breakingdefense.com/2026/07/spacex-wins-1-6b-to-launch-space-force-sensing-and-targeting-sats/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/07/spacex-wins-1-6b-to-launch-space-force-sensing-and-targeting-sats/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/Falcon-9-launch-SSC-pic-scaled-e1785358505411-1024x577.jpeg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The SpaceX task order is the first to be awarded since the Space Force&#8217;s July 17 massive $11.4 billion plus-up to the NSSL Phase 3 Lane 1 contract vehicle ceiling.</p>",
+      "published": "2026-07-29T20:55:27+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "China Fires YJ-20 Hypersonic Anti-Ship Missile From Smaller Destroyer",
+      "link": "https://www.twz.com/sea/china-fires-yj-20-hypersonic-anti-ship-missile-from-smaller-destroyer",
+      "summary": "<p>Putting YJ-20s on Type 052D destroyers, not just the giant Type 055, distributes the capability across many more hulls and potentially a much larger area.</p>\n<p>The post <a href=\"https://www.twz.com/sea/china-fires-yj-20-hypersonic-anti-ship-missile-from-smaller-destroyer\">China Fires YJ-20 Hypersonic Anti-Ship Missile From Smaller Destroyer</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-07-29T20:41:15+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Robinhood slides 4% despite earnings beat as crypto revenue cools",
+      "link": "https://www.coindesk.com/markets/2026/07/29/robinhood-slides-4-despite-earnings-beat-as-crypto-revenue-cools",
+      "summary": "",
+      "published": "2026-07-29T20:40:43+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Who wins and who loses after US bans foreign robots?",
+      "link": "https://arstechnica.com/ai/2026/07/who-wins-and-who-loses-after-us-bans-foreign-robots/",
+      "summary": "Government ban on foreign-made robots may hinder instead of help US robotics.",
+      "published": "2026-07-29T20:03:42+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -46,21 +269,21 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPM3F5LWg3Mm9rYmlhejJpdzJqQW9SWnU1WHJRVm9iZ1p0TUpmRTR6Mk1JYXVUekU2c1VlTHI5bV9DbzIyejlvYU13Y2cxYU12WExOYzJoVmxsVzVoc2hiWkQ2ZWFUZ0EwZHBZZlZ1UnREZjZGc243TlQtMXVKcDQ5bUpEaDR2Tmo5eTJkdlJhSXMtZ0U2cnk0OWNLLU50YlBjbnZrei1FVm9CYWw5cUE?oc=5\" target=\"_blank\">Drone hits gas storage tanker at Egypt's Mediterranean port, Ambrey reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T19:31:06+00:00",
-      "feed_type": "google_news_fallback"
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Comcast store punished low sales by smashing pies in workers' faces, lawsuit claims",
+      "link": "https://arstechnica.com/tech-policy/2026/07/comcast-store-punished-low-sales-by-smashing-pies-in-workers-faces-lawsuit-claims/",
+      "summary": "Comcast, accused of negligence, says lawsuit mischaracterized alleged events.",
+      "published": "2026-07-29T19:33:55+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I’m managing a former colleague who just can’t keep up with her workload. How do I handle this without being a jerk?",
-      "link": "https://www.marketwatch.com/story/im-managing-a-former-colleague-who-just-cant-keep-up-with-her-workload-how-do-i-handle-this-without-being-a-jerk-eb2303ee?mod=mw_rss_topstories",
-      "summary": "“I wish she would just find somewhere else to work.”",
-      "published": "2026-07-29T19:26:00+00:00",
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Customize Ars your way with an Ars Pro subscription",
+      "link": "https://arstechnica.com/staff/2026/07/customize-ars-your-way-with-an-ars-pro-subscription/",
+      "summary": "Ars Pro subscribers get customizable layouts along with no ads and no trackers.",
+      "published": "2026-07-29T19:23:27+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -71,33 +294,6 @@
       "summary": "The Pentagon has put out a solicitation for drone boats that can launch attack drones — and it wants them ready to test within 120 days.",
       "published": "2026-07-29T19:22:52+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
-      "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-      "summary": "Watch out for these 4 major financial pitfalls.",
-      "published": "2026-07-29T19:21:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The big focus now is on the potential for a September rate hike after the Fed stands pat",
-      "link": "https://www.marketwatch.com/story/the-big-focus-now-is-on-the-potential-for-a-september-rate-hike-after-the-fed-stands-pat-401c30d6?mod=mw_rss_topstories",
-      "summary": "Markets should be ‘on alert for a hike in September, particularly with war clouds pushing up energy prices again,’ one economist says",
-      "published": "2026-07-29T19:11:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: US FTC sues Hims & Hers for sending user health info to Meta, Snap - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQZERUYTFrc29hLW1hZ0hQZXZvREFRVjA0MC1fMWRNb3RjcUhzRUMwTVBJcVQ1MFFOeVBieHZua2IyZVNfU1pYc0xxV0tCY0pkWHJnMW1yNkU2bEhrU0xKbmc5VTMzQWIxRVctaEI0ZVl6N1VzTHhaZE1lNW9URXhDNVlWMEJFemVHUGstUWduLVF0dl9EbkMyQV9US0U0RGdH?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQZERUYTFrc29hLW1hZ0hQZXZvREFRVjA0MC1fMWRNb3RjcUhzRUMwTVBJcVQ1MFFOeVBieHZua2IyZVNfU1pYc0xxV0tCY0pkWHJnMW1yNkU2bEhrU0xKbmc5VTMzQWIxRVctaEI0ZVl6N1VzTHhaZE1lNW9URXhDNVlWMEJFemVHUGstUWduLVF0dl9EbkMyQV9US0U0RGdH?oc=5\" target=\"_blank\">EXCLUSIVE: US FTC sues Hims & Hers for sending user health info to Meta, Snap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T18:56:27+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -127,18 +323,9 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Ford’s big-truck bet is paying off — and Wall Street is taking notice",
-      "link": "https://www.marketwatch.com/story/fords-big-truck-bet-is-paying-off-and-wall-street-is-taking-notice-6a1de0fb?mod=mw_rss_topstories",
-      "summary": "A turnaround story could be in the works at Ford, which gets less love than GM on Wall Street.",
-      "published": "2026-07-29T18:32:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
-      "title": "Google begins global rollout of age verification API in Google Play",
+      "title": "Google's \"privacy-preserving\" age verification system is coming to the Play Store",
       "link": "https://arstechnica.com/gadgets/2026/07/google-begins-global-rollout-of-age-verification-api-in-google-play/",
       "summary": "Google's new API relies on parents to set age ranges in Family Link.",
       "published": "2026-07-29T18:08:22+00:00",
@@ -181,15 +368,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Individual investors are dumping stocks at the fastest pace since the COVID crash",
-      "link": "https://www.marketwatch.com/story/individual-investors-are-dumping-stocks-at-the-fastest-pace-since-the-covid-crash-42b46756?mod=mw_rss_topstories",
-      "summary": "Individual investors just recorded “their largest net selling of single stocks since the COVID crash,” according to Vanda Research.",
-      "published": "2026-07-29T17:40:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Yet more qubit tech: New quantum dot options, diamond vacancies",
@@ -205,15 +383,6 @@
       "link": "https://warontherocks.com/how-mexico-locked-in-its-militarized-police-state/",
       "summary": "<p>In 2021, Andrew Ivey wrote, &#8220;&#8216;I Have Other Data&#8217;: The Guardia Nacional and the Entrenchment of Mexico&#8217;s Militarization&#8217;,&#8221; where he warned Mexico was headed toward a militarization trap. Five years later, amidst increased pressure from the Trump administration and the election of a new Mexican president, we asked Andrew to revisit his arguments.Image: Sitio Oficial de Andr&#233;s Manuel L&#243;pez ObradorIn your 2021 article, you warned that Mexico was headed toward an entrenched militarization trap. In 2024, the Chamber of Deputies passed a constitutional reform formally placing the National Guard under military control, with President Claudia Sheinbaum embracing the change. Has</p>\n<p>The post <a href=\"https://warontherocks.com/how-mexico-locked-in-its-militarized-police-state/\">How Mexico Locked In Its Militarized Police State</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-07-29T17:30:17+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Actually, Starliner might fly into space this year",
-      "link": "https://arstechnica.com/space/2026/07/actually-starliner-might-fly-into-space-this-year/",
-      "summary": "\"We're feeling pretty good about that,\" Boeing CEO Kelly Ortberg said.",
-      "published": "2026-07-29T17:24:41+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -235,39 +404,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I’ve seen families destroyed by this common estate-planning mistake. Here’s how to protect yours.",
-      "link": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
-      "summary": "It’s not enough to do everything “right” on paper.",
-      "published": "2026-07-29T17:18:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Why SoFi’s stock is dropping, even after its earnings beat expectations",
-      "link": "https://www.marketwatch.com/story/why-sofis-stock-is-dropping-even-after-its-earnings-beat-expectations-ecc442eb?mod=mw_rss_topstories",
-      "summary": "Investors were disappointed by the neobank’s restrained guidance.",
-      "published": "2026-07-29T17:18:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Air Force plans downselect for second CCA batch next year",
       "link": "https://breakingdefense.com/2026/07/air-force-plans-downselect-for-second-cca-batch-next-year/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/07/air-force-plans-downselect-for-second-cca-batch-next-year/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/06/cca-together-e1781731143274.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>A separate competition to replace the MQ-9A Reaper is expected to kick off a concept refinement stage early in the next fiscal year, according to an Air Force official.</p>",
       "published": "2026-07-29T17:15:47+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The dollar’s rally matters — but it still won’t help Fed’s Warsh win the inflation fight",
-      "link": "https://www.marketwatch.com/story/the-dollars-rally-matters-but-it-still-wont-help-feds-warsh-win-the-inflation-fight-ce278d40?mod=mw_rss_topstories",
-      "summary": "A strong dollar is doing far less for the fight against inflation than might be expected.",
-      "published": "2026-07-29T17:12:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -334,15 +476,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: US mulls scuppering France's Washington ambassador pick over human rights spat - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHllbEd5SmtPUHdweHg4ZTBLVkE5WnJuYkhnRzI1d3FBUEd3SHFMcU9VVkJIS1pqNmhJMEJuMFljd2F3UDM2VlRvWGFGd3NWTmtJQnNraUVpeVR4OVhxcEhmQW1fc1ZZQm1McHA4MEFWbm9NUER3cTZndWtTc2NYX0VGbC1xNmNlQU03dThIUmNJYWZsTVBiQ29DdE53QldoS0NEaVNyT0QyNlRpeWRwd1dnejdyN2UxV0pHd0hTbmx3d3RZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQTHllbEd5SmtPUHdweHg4ZTBLVkE5WnJuYkhnRzI1d3FBUEd3SHFMcU9VVkJIS1pqNmhJMEJuMFljd2F3UDM2VlRvWGFGd3NWTmtJQnNraUVpeVR4OVhxcEhmQW1fc1ZZQm1McHA4MEFWbm9NUER3cTZndWtTc2NYX0VGbC1xNmNlQU03dThIUmNJYWZsTVBiQ29DdE53QldoS0NEaVNyT0QyNlRpeWRwd1dnejdyN2UxV0pHd0hTbmx3d3RZ?oc=5\" target=\"_blank\">EXCLUSIVE: US mulls scuppering France's Washington ambassador pick over human rights spat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T16:09:23+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Ukraine, NATO launch new funding program to counter Russian drones",
@@ -362,29 +495,11 @@
     },
     {
       "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Anthropic is finding bugs faster than Microsoft can fix them",
-      "link": "https://arstechnica.com/security/2026/07/anthropic-is-finding-bugs-faster-than-microsoft-can-fix-them/",
-      "summary": "Microsoft is on a mad dash behind the scenes to patch exploits before hackers find them.",
-      "published": "2026-07-29T15:52:48+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
       "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
       "summary": "AI home management startup Hint, co-founded by Martha Stewart, wants to become an “AI for your home,” combining property records, maintenance schedules, home documents, and an AI assistant into a single app.",
       "published": "2026-07-29T15:35:09+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "New AMD Linux patch boosts low-end gaming performance on Steam Deck",
-      "link": "https://arstechnica.com/gaming/2026/07/new-amd-linux-patch-boosts-low-end-gaming-performance-on-steam-deck/",
-      "summary": "Improved efficiency in EPP mode leads to ~32% jump in \"1% low\" frame rates.",
-      "published": "2026-07-29T15:33:20+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -403,15 +518,6 @@
       "link": "https://www.theblock.co/post/410053/sofi-crypto-transaction-revenue-grows-to-134-million-second-quarter?utm_source=rss&utm_medium=rss",
       "summary": "<p>Crypto remains a small part of SoFi's $1.2 billion quarterly adjusted net revenue but shows sustained growth.</p>",
       "published": "2026-07-29T15:19:04+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Gaming and IRL worlds collide in Jumanji: Open World trailer",
-      "link": "https://arstechnica.com/culture/2026/07/gaming-and-irl-worlds-collide-in-jumanji-open-world-trailer/",
-      "summary": "\"I'm beginning to suspect we are not in Jumanji.\"",
-      "published": "2026-07-29T15:16:22+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -442,15 +548,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Encore AI raises $30M to build AI agents that learn from customer calls",
-      "link": "https://techcrunch.com/2026/07/29/encore-ai-raises-30m-to-build-ai-agents-that-learn-from-customer-calls/",
-      "summary": "The startup analyzes calls, messages, and CRM data to identify effective sales techniques and turn them into playbooks for AI agents.",
-      "published": "2026-07-29T14:41:06+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "‘The moment to act is now’: Solana Policy Institute urges Senate to move on crypto bill as time dwindles",
@@ -478,66 +575,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Ethereum Foundation names pcaversaccio to board amid leadership changes",
-      "link": "https://www.coindesk.com/tech/2026/07/29/ethereum-foundation-names-pcaversaccio-to-board-amid-leadership-changes",
-      "summary": "",
-      "published": "2026-07-29T14:11:21+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Tether’s GENIUS-compliant USAT stablecoin launches on Celo, marking first expansion beyond Ethereum",
-      "link": "https://www.theblock.co/post/410048/tethers-genius-compliant-usat-stablecoin-launches-on-celo-marking-first-expansion-beyond-ethereum?utm_source=rss&utm_medium=rss",
-      "summary": "<p>USAT can be used to pay for gas on the blockchain, meaning users will not have to hold multiple tokens to make USAT transactions.</p>",
-      "published": "2026-07-29T14:06:34+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Building a predictive defense industrial base begins with artificial intelligence",
-      "link": "https://breakingdefense.com/2026/07/building-a-predictive-defense-industrial-base-begins-with-artificial-intelligence/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/07/building-a-predictive-defense-industrial-base-begins-with-artificial-intelligence/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"683\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/Sustainment-1-1024x683.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>[Sponsored] AI-enabled workflows accelerate production, but cybersecurity and governance remain central.</p>",
-      "published": "2026-07-29T14:04:46+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "The inside story of how a hike in Hong Kong changed crypto trading forever",
-      "link": "https://www.coindesk.com/business/2026/07/29/the-inside-story-of-how-a-hike-in-hong-kong-changed-crypto-trading-forever",
-      "summary": "",
-      "published": "2026-07-29T13:53:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Pioneering Electronic Music Artist Kavinsky Found Dead in Paris",
       "link": "https://edm.com/news/kavinsky-found-dead/",
       "summary": "<p>The French synthwave producer's track 'Nightcall' remains a cultural touchstone with over a half a billion streams.</p>\n<p>The post <a href=\"https://edm.com/news/kavinsky-found-dead/\">Pioneering Electronic Music Artist Kavinsky Found Dead in Paris</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-07-29T13:46:21+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Pentagon weighing options to license Patriot production to Ukraine: DoD official",
-      "link": "https://breakingdefense.com/2026/07/pentagon-weighing-options-to-license-patriot-production-to-ukraine-dod-official/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/07/pentagon-weighing-options-to-license-patriot-production-to-ukraine-dod-official/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2023/01/pac-3-e1728400253523-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“We&#8217;re evaluating a set of [courses of action] right now, which include a mix of domestic and international sourcing for end units, where they&#8217;re going to be located, how we&#8217;re going to build it, [and] which variant,” Michael Cadenazzi, the assistant secretary of defense for industrial policy, told Breaking Defense.</p>",
-      "published": "2026-07-29T13:32:49+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "What happens when you put AI to work deciphering lost languages?",
-      "link": "https://arstechnica.com/science/2026/07/what-happens-when-you-put-ai-to-work-deciphering-lost-languages/",
-      "summary": "AI is fantastic at spotting patterns, but human insight is the key.",
-      "published": "2026-07-29T13:23:31+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -578,75 +621,12 @@
     },
     {
       "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "How DARPA plans to get nuclear power in the size of a ‘AA battery’",
-      "link": "https://breakingdefense.com/2026/07/how-darpa-plans-to-get-nuclear-power-in-the-size-of-aa-battery/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/07/how-darpa-plans-to-get-nuclear-power-in-the-size-of-aa-battery/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/260724_rads_to_watts_DARPA-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Seven teams are competing as part of DARPA&#8217;s Rads to Watts program to create a new kind of miniature power cell that last for years or decades without recharging. </p>",
-      "published": "2026-07-29T12:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "4 Ways Portfolio Diversification Has Paid Off in 2026 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeXFuSmxqZXNuRGV1UUxmYm4xZENZVm1DamtDLWtMLVpYNFVYdmpWbEFjQzVIelBURkJqa3JYTlJaZEQwUERmanhSOFREam9jTC1obV8tS2EwcWJLMWJjM2stYXVXMEhsODI4TWR6aV9mMk02M25NbUo1dmlXeUVnV0F1dFdObjYzLXNYWk1sdVNlc2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNeXFuSmxqZXNuRGV1UUxmYm4xZENZVm1DamtDLWtMLVpYNFVYdmpWbEFjQzVIelBURkJqa3JYTlJaZEQwUERmanhSOFREam9jTC1obV8tS2EwcWJLMWJjM2stYXVXMEhsODI4TWR6aV9mMk02M25NbUo1dmlXeUVnV0F1dFdObjYzLXNYWk1sdVNlc2c?oc=5\" target=\"_blank\">4 Ways Portfolio Diversification Has Paid Off in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-07-29T11:10:20+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "New Jewish-Arab party may complicate bid to oust Netanyahu - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlhGQkh3Um9MN0JpNnlURzV2Q2dnQW5sR1dQRzNWeHFidzJIZXNLSmxHalFQRFBRLWQ4N1hJdXd2dVZCMUZUbllhd3lZWHFrWHAwX2gyOE9Sai1CRkNaSzRWZWhVSGlaWFlJSUU4X1lKZnhkaXh0bVdyTjVxdjhYRDQ4MTFVS1huMGRoSlMydjNoVi1NSk5qVlJBNW9hUTRwVGVBZFZnU3pKZnFSU3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPTlhGQkh3Um9MN0JpNnlURzV2Q2dnQW5sR1dQRzNWeHFidzJIZXNLSmxHalFQRFBRLWQ4N1hJdXd2dVZCMUZUbllhd3lZWHFrWHAwX2gyOE9Sai1CRkNaSzRWZWhVSGlaWFlJSUU4X1lKZnhkaXh0bVdyTjVxdjhYRDQ4MTFVS1huMGRoSlMydjNoVi1NSk5qVlJBNW9hUTRwVGVBZFZnU3pKZnFSU3c?oc=5\" target=\"_blank\">New Jewish-Arab party may complicate bid to oust Netanyahu</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T11:10:11+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "As AI content floods the internet, Pangram raises $9M to detect it",
-      "link": "https://techcrunch.com/2026/07/29/as-ai-content-floods-the-internet-pangram-raises-9m-to-detect-it/",
-      "summary": "Pangram has raised $9 million to scale its AI detection software. The startup has also released a new AI text detection model, Pangram 4, and an AI image detection model in research preview.",
-      "published": "2026-07-29T11:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Commercial sea drone captures footage of Chinese warship in Philippine waters - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0xtSTBNelRyb1pGRDFTekJWcktYOFM4ZHZteXI1Uk9rVlNqWmFMOWlUUUNZV0NIQXFnOWUxU1k2NWNIZ3BRUHNfYUJWLWhuLXNmMVdwMk8xZ2d3VmNSNVpPYm1fNi00a29sclk4WW9GZk1SOTRjZ1JPOFBORmlPaUh4bnRySHFBUFJZdnZWM3dQZXpwdWdpOTRLOE5LbEJIUWtCZHoyVUNxZlUxUVNUNXE0OXFvX1JFY3I0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPT0xtSTBNelRyb1pGRDFTekJWcktYOFM4ZHZteXI1Uk9rVlNqWmFMOWlUUUNZV0NIQXFnOWUxU1k2NWNIZ3BRUHNfYUJWLWhuLXNmMVdwMk8xZ2d3VmNSNVpPYm1fNi00a29sclk4WW9GZk1SOTRjZ1JPOFBORmlPaUh4bnRySHFBUFJZdnZWM3dQZXpwdWdpOTRLOE5LbEJIUWtCZHoyVUNxZlUxUVNUNXE0OXFvX1JFY3I0?oc=5\" target=\"_blank\">Commercial sea drone captures footage of Chinese warship in Philippine waters</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T10:46:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzFWSEJjR1NNV3libHZfdlE0dkVfbW9jdG5VX3NpbEg4OGJQSllPQ2RsZmoyNXFjVEFMZkdoME5wRHZMS3NrZlEzT2JUT2hPVXZnQkROOTV0YVJIQk80cEw2ODNKWnlMcmNXYVVFcng4UlVEOVUzYWkzYVhCU19HaHVnQ0JSQzVzSE9OQjdDYzNDRjZiWXZQeDlMandraXA3d1NtRzhHVWRBMlA3NExVblNTY3dYbUpXb2pjVnRkcGhEWWU1U0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQZzFWSEJjR1NNV3libHZfdlE0dkVfbW9jdG5VX3NpbEg4OGJQSllPQ2RsZmoyNXFjVEFMZkdoME5wRHZMS3NrZlEzT2JUT2hPVXZnQkROOTV0YVJIQk80cEw2ODNKWnlMcmNXYVVFcng4UlVEOVUzYWkzYVhCU19HaHVnQ0JSQzVzSE9OQjdDYzNDRjZiWXZQeDlMandraXA3d1NtRzhHVWRBMlA3NExVblNTY3dYbUpXb2pjVnRkcGhEWWU1U0E?oc=5\" target=\"_blank\">EXCLUSIVE: Yemen's Houthis considering fees for ships sailing through Red Sea, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T10:40:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Trump, Zelenskyy discuss Patriot deal and reviving talks with Russia",
       "link": "https://www.defensenews.com/global/europe/2026/07/29/trump-zelenskyy-discuss-patriot-deal-and-reviving-talks-with-russia/",
       "summary": "Zelenskyy later told Fox News’ “Hannity” show that Trump had “accepted that he will give us licenses” to produce the Patriot interceptors.",
       "published": "2026-07-29T10:36:26+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "India says no abnormality seen in Boeing 787 fuel switch of Air India London flight - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEhUTFAzVm5rTDE3c0hlWm9Sem1ZMU9YOENic080T0NubEI5N1FKN01LM3E1Vk8tbGRvMkhzSXN2bEQzR1htNVFRTUxfdTY3bnZZUkxwT2c3Y3g4RGhUTWZjUmVtVmptOUpXZFV0cVRZOEFXWDZYYWFwY0pnVTA4ejN3RHhtOS1GZ3dwU0dlS3IxWmdVYW5ERDUtb2R3czc4VHoxREZSRjd4d1RBTWVEYTkwcTVkQzJvTGo2UGpsSE1FZWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQaEhUTFAzVm5rTDE3c0hlWm9Sem1ZMU9YOENic080T0NubEI5N1FKN01LM3E1Vk8tbGRvMkhzSXN2bEQzR1htNVFRTUxfdTY3bnZZUkxwT2c3Y3g4RGhUTWZjUmVtVmptOUpXZFV0cVRZOEFXWDZYYWFwY0pnVTA4ejN3RHhtOS1GZ3dwU0dlS3IxWmdVYW5ERDUtb2R3czc4VHoxREZSRjd4d1RBTWVEYTkwcTVkQzJvTGo2UGpsSE1FZWM?oc=5\" target=\"_blank\">India says no abnormality seen in Boeing 787 fuel switch of Air India London flight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-07-29T09:52:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -683,15 +663,6 @@
       "summary": "<p>On June 22, the United States announced that it had signed a nuclear cooperation agreement with Saudi Arabia. This type of agreement broadly authorizes trade in nuclear technology, equipment, and materials, but only if the agreement and the country in question meet defined nonproliferation requirements. They are called Section 123 agreements for the section of the 1957 U.S. Atomic Energy Act that lays out the specific conditions for them. But the legal terms of Section 123 are only the minimum requirements in law: On top of the legal standards are nonproliferation policies that have been held by the United States</p>\n<p>The post <a href=\"https://warontherocks.com/parsing-trumps-decision-to-maybe-give-uranium-enrichment-to-saudi-arabia/\">Parsing Trump’s Decision to (Maybe) Give Uranium Enrichment to Saudi Arabia</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-07-29T07:30:23+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-29T05:59:37+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -739,15 +710,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
-      "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
-      "summary": "The deal is Cyera's third acquisition this year.",
-      "published": "2026-07-29T00:09:05+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Prized Ohio Class Guided Missile Submarine USS Georgia Heading Into Retirement (Updated)",
@@ -766,30 +728,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Bot-detection startup Spur nabs $200M from Insight",
-      "link": "https://techcrunch.com/2026/07/28/bot-detection-startup-spur-nabs-200m-from-insight/",
-      "summary": "Spur Intelligence has raised a $200 million round from Insight Partners for its tech that can identify legit human traffic from bots.",
-      "published": "2026-07-28T21:29:34+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "USMC Just Took Delivery Of Its Last MV-22 Osprey",
       "link": "https://www.twz.com/air/usmc-just-took-delivery-of-its-last-mv-22-osprey",
       "summary": "<p>The MV-22s, which were first operational in 2007, are expected to keep flying until 2055.  </p>\n<p>The post <a href=\"https://www.twz.com/air/usmc-just-took-delivery-of-its-last-mv-22-osprey\">USMC Just Took Delivery Of Its Last MV-22 Osprey</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-07-28T20:59:59+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "MCP startup Runlayer accuses Rippling of stealing its product idea",
-      "link": "https://techcrunch.com/2026/07/28/mcp-startup-runlayer-accuses-rippling-of-stealing-its-product-idea/",
-      "summary": "Runlayer is suing Rippling after Rippling evaluated the startup's MCP  gateway product and then opted to build one itself.",
-      "published": "2026-07-28T20:45:12+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -856,15 +800,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Where Are The Aircraft Carriers: July 28, 2026",
-      "link": "https://www.twz.com/sea/where-are-the-aircraft-carriers-july-28-2026",
-      "summary": "<p>The U.S. may have paused its strike campaign against Iran, for now, but the revived naval blockade remains in full effect.</p>\n<p>The post <a href=\"https://www.twz.com/sea/where-are-the-aircraft-carriers-july-28-2026\">Where Are The Aircraft Carriers: July 28, 2026</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-07-28T15:57:25+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Watch Oliver Tree’s Full ‘Celebration Of Life’ Memorial Service",
@@ -908,15 +843,6 @@
       "summary": "<p><img alt=\"\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/07/MT.MAG_.Promo6_.jpg\" width=\"2000\" /></p>\n<p>It’s on sale this week, and comes bundled with NME Magazine.</p>\n<p>The post <a href=\"https://musictech.com/news/magazine/musictech-magazine-july-august-2026-issue-how-to-buy/\">The MusicTech Magazine July/August 2026 issue is coming: here’s how to get your copy</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-07-28T11:00:43+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Ford wants its own Nike-like product drops - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNakZoVm1MblpxS3RxQ09TR1I0QkZlZzV6TVRPWk1wTVRNcXpGdllkd051YjhRN2hGMVU0QUFwbzEzbGliNUl3ZTdzbW5odW9yNUN0OGR0RjBnTTBDMUtPVjdHMkJBYUxzYW1HeGpmY005X3ZpYVdqeGxXRVhab0lzNzNBT0M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNakZoVm1MblpxS3RxQ09TR1I0QkZlZzV6TVRPWk1wTVRNcXpGdllkd051YjhRN2hGMVU0QUFwbzEzbGliNUl3ZTdzbW5odW9yNUN0OGR0RjBnTTBDMUtPVjdHMkJBYUxzYW1HeGpmY005X3ZpYVdqeGxXRVhab0lzNzNBT0M?oc=5\" target=\"_blank\">Ford wants its own Nike-like product drops</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-28T10:43:06+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -973,15 +899,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Tech companies want US govt to protect access to open-weight AI - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxONXA3NXlzeEdBMjZjMDdEMGR0ajlfdWtEUWsyQWk2UTlFV0JxZ1RmdXdMRS14Yzd4MGtvQllQN0pyQ1BQRl9ZLS11aHFzWTQ5cmVodlVNTlo3RG5uU0UwUnFVeFJHN3A2OGhDNWx1N0xOaE5mTEdPNjhTdnBvODFNWFViZDIzSHRNZVZvc0VMeWpxS19SSW1McjA1dGhWSG94?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxONXA3NXlzeEdBMjZjMDdEMGR0ajlfdWtEUWsyQWk2UTlFV0JxZ1RmdXdMRS14Yzd4MGtvQllQN0pyQ1BQRl9ZLS11aHFzWTQ5cmVodlVNTlo3RG5uU0UwUnFVeFJHN3A2OGhDNWx1N0xOaE5mTEdPNjhTdnBvODFNWFViZDIzSHRNZVZvc0VMeWpxS19SSW1McjA1dGhWSG94?oc=5\" target=\"_blank\">Tech companies want US govt to protect access to open-weight AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-27T18:37:59+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "OpenAI called the Hugging Face attack unprecedented. But we’ve been here before.",
@@ -1036,51 +953,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "AI’s getting all up in our business travel - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0xscHFLYXJsRG90UkU3ZEhISVk2ZS16VndwRC0wT3hzWFE2NUc1WHJEbHhLX2dzY2ppcGtkQ2dxTUJZOEd6ZDIwLVg1aGwtZFBIWXlZLUtJRXlIekVmMENLclF5NXgyMUxCQVpzNHVKaEM4MW94ZlcwbEtkU193Wm85QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQV0xscHFLYXJsRG90UkU3ZEhISVk2ZS16VndwRC0wT3hzWFE2NUc1WHJEbHhLX2dzY2ppcGtkQ2dxTUJZOEd6ZDIwLVg1aGwtZFBIWXlZLUtJRXlIekVmMENLclF5NXgyMUxCQVpzNHVKaEM4MW94ZlcwbEtkU193Wm85QQ?oc=5\" target=\"_blank\">AI’s getting all up in our business travel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-26T05:21:23+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Everyone is tacking fun onto their business trips - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZERUMHEtRTBMY3lCakJKWC0tM3hQSTM4bjFhbGRyS1d2cjRhMTQwQXhIbXljbk05blBnZEc0S3ZXSXVTNnlIOU51a2tSY2JKMm9mRFFrdEFOUEM0R3pscTRkTmJlc3JuYk1tOHh1MFVReGEtUW5RYkw3c3gzQzRQQ3YxWGZocjVkanRvRVR3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOZERUMHEtRTBMY3lCakJKWC0tM3hQSTM4bjFhbGRyS1d2cjRhMTQwQXhIbXljbk05blBnZEc0S3ZXSXVTNnlIOU51a2tSY2JKMm9mRFFrdEFOUEM0R3pscTRkTmJlc3JuYk1tOHh1MFVReGEtUW5RYkw3c3gzQzRQQ3YxWGZocjVkanRvRVR3?oc=5\" target=\"_blank\">Everyone is tacking fun onto their business trips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-26T05:21:22+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "How Does the Iran War End? - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CdHBPSVNzWUJhT1o4aUxNVXFjTWI2V0pBLUdURGZCNF9GUDN2SU1vU213UzZDZXNHdExQTkdRMjZYSkwxVFZfdHF6WFF3SDdDM18tejNUOFBfYWlIOGg2ck5MSGM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CdHBPSVNzWUJhT1o4aUxNVXFjTWI2V0pBLUdURGZCNF9GUDN2SU1vU213UzZDZXNHdExQTkdRMjZYSkwxVFZfdHF6WFF3SDdDM18tejNUOFBfYWlIOGg2ck5MSGM?oc=5\" target=\"_blank\">How Does the Iran War End?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2026-07-24T18:46:29+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Oil soars past $100 as Houthis attack tankers - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeW1BLTVxc3RaSFVyaWN5MVZZVHNud0QzRm1iS0lKQkIxdE1IMV83UDI4TmMycEZST0NmcUVycDNYa2JzSFk5WVJ1Z2NVdnEzZHVVNWpqRkVzWk1zWjNxSDhCejNLZnMzTkhFOHdtVUdkRDg3Z3pLcjBGSWpRUHR2NTBpWTNhekZnOGR3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeW1BLTVxc3RaSFVyaWN5MVZZVHNud0QzRm1iS0lKQkIxdE1IMV83UDI4TmMycEZST0NmcUVycDNYa2JzSFk5WVJ1Z2NVdnEzZHVVNWpqRkVzWk1zWjNxSDhCejNLZnMzTkhFOHdtVUdkRDg3Z3pLcjBGSWpRUHR2NTBpWTNhekZnOGR3?oc=5\" target=\"_blank\">Oil soars past $100 as Houthis attack tankers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-24T07:48:22+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Prime Video just became a gaming platform - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPc01IU0xJbkxzWF9tNWFaMk0wdTROdEg1STUxczhCLXc4dnBXYnl1Mjc4VS1McWsyMWlBRnJzQ0MybjQ5WWtZRUpaQllLR3hyVnVkYXVsdnJRQjNDS0FtZzRyY1U0YzZNQTIyNjl4WFJOcHJQQkt3bDY3T1hkVzBMYTRRRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPc01IU0xJbkxzWF9tNWFaMk0wdTROdEg1STUxczhCLXc4dnBXYnl1Mjc4VS1McWsyMWlBRnJzQ0MybjQ5WWtZRUpaQllLR3hyVnVkYXVsdnJRQjNDS0FtZzRyY1U0YzZNQTIyNjl4WFJOcHJQQkt3bDY3T1hkVzBMYTRRRQ?oc=5\" target=\"_blank\">Prime Video just became a gaming platform</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-07-24T04:36:34+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "Iran and the New Rules of Global Power",
@@ -1097,33 +969,6 @@
       "summary": "Washington can win if it works with allies.",
       "published": "2026-07-24T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "The U.S. Is About to Design an AI Regulator. Here’s How to Get It Right. - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQUm5Wc0ttbW5pTHhWeTk5YWdpd0dBWG9FVF9ad3N2NUhoT0pIaVdjdFZGRzlSRVFPQ0hKN3B0RlNUZ1BsSTVmOFgxd1VHMTJtbzdkYTB2WW9abTdOV2QtbExiM3FDbTBKVUVwQURESUtxWHkyZ0hFWVhZNGJ0aFhUUkR5NkhnV1daQ1Ixemwza1ZOcWMydnNwenl0WWhGQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQUm5Wc0ttbW5pTHhWeTk5YWdpd0dBWG9FVF9ad3N2NUhoT0pIaVdjdFZGRzlSRVFPQ0hKN3B0RlNUZ1BsSTVmOFgxd1VHMTJtbzdkYTB2WW9abTdOV2QtbExiM3FDbTBKVUVwQURESUtxWHkyZ0hFWVhZNGJ0aFhUUkR5NkhnV1daQ1Ixemwza1ZOcWMydnNwenl0WWhGQQ?oc=5\" target=\"_blank\">The U.S. Is About to Design an AI Regulator. Here’s How to Get It Right.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2026-07-23T11:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Conflict-Driven Chokepoint Disruptions - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5EYnFrVkd3M0wtMDNrSnY2aVFaeU1YM3p3ME94dkdraWhrcmhVazlPMWZheFNCLTM4QzhHeUFPOFhnenBsSk9kVXR2dUNLbHN2Wi1IMTRud3VUN283bFRocDZlYWxPSzBjZDdJUkRsaWR3OVFD?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE5EYnFrVkd3M0wtMDNrSnY2aVFaeU1YM3p3ME94dkdraWhrcmhVazlPMWZheFNCLTM4QzhHeUFPOFhnenBsSk9kVXR2dUNLbHN2Wi1IMTRud3VUN283bFRocDZlYWxPSzBjZDdJUkRsaWR3OVFD?oc=5\" target=\"_blank\">Conflict-Driven Chokepoint Disruptions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2026-07-23T10:18:47+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "The Best AI Stocks to Buy Now - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5\" target=\"_blank\">The Best AI Stocks to Buy Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-07-15T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1196,186 +1041,6 @@
       "summary": "<p>Native Instruments has been sold. InMusic Brands, the U.S. parent of Akai Professional, Denon DJ, Numark, Rane, M-Audio, Moog, and Engine DJ, has signed a definitive agreement to acquire NI in full. That includes Traktor, Maschine, Komplete, Kontakt, Reaktor, and the broader iZotope, Plugin Alliance, and Brainworx stack that NI absorbed over the last few [&#8230;]</p>\n<p>The post <a href=\"https://djtechtools.com/2026/05/08/inmusic-just-bought-native-instruments-so-what-now-for-traktor/\">InMusic just bought Native Instruments. So what now for Traktor?</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
       "published": "2026-05-08T23:14:52+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "A Guide to Trump’s Second-Term Military Strikes and Actions - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGY4eGZ4Y3pBa2dsTlNGLTFaOEdwX1VGaFVZVGdNeThaQkQ4SDlLSHZ0NzZKWFFvLWVKQ3hyMTNnWEp4YnFicWd3ZjFzbURVSkdheTdUbWVBVkVENUEzTlM2eHYzd05MR3QyNXc2TklET3AzQVduXzdxWU5KM0JfSXA5ZnNQXzJjQmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxNRGY4eGZ4Y3pBa2dsTlNGLTFaOEdwX1VGaFVZVGdNeThaQkQ4SDlLSHZ0NzZKWFFvLWVKQ3hyMTNnWEp4YnFicWd3ZjFzbURVSkdheTdUbWVBVkVENUEzTlM2eHYzd05MR3QyNXc2TklET3AzQVduXzdxWU5KM0JfSXA5ZnNQXzJjQmc?oc=5\" target=\"_blank\">A Guide to Trump’s Second-Term Military Strikes and Actions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2026-03-03T08:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "A Guide to the Countries on Trump’s Travel Ban List - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFV2tvU1BMTTJlZGdKdVJTZmpCbUdEX0FZaTdDcVdHRE0xbmt4R1Bya1p3X1JzcGN4OWxhUnRLUVVQWUVvWVZGX2ZMMFhJRW9RZDdBLUg5MVVmZmNjQXpzcXlVc3d0NnNrRmlWTHlzZV9hUDRCaVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBFV2tvU1BMTTJlZGdKdVJTZmpCbUdEX0FZaTdDcVdHRE0xbmt4R1Bya1p3X1JzcGN4OWxhUnRLUVVQWUVvWVZGX2ZMMFhJRW9RZDdBLUg5MVVmZmNjQXpzcXlVc3d0NnNrRmlWTHlzZV9hUDRCaVE?oc=5\" target=\"_blank\">A Guide to the Countries on Trump’s Travel Ban List</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2026-01-14T08:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Before and after satellite images of demolition of East Wing - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-10-23T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-04-27T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "PHOTO COLLECTION: Pam Bondi Swearing In - AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-02-05T08:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Photos from the People's March on Washington: 1.18.2025 - AP News",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5\" target=\"_blank\">Photos from the People's March on Washington: 1.18.2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-01-18T08:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Read the full House ethics report on Matt Gaetz - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2024-12-23T08:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2024-09-13T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Morningstar Workstation - workstation.morningstar.com",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5\" target=\"_blank\">Morningstar Workstation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">workstation.morningstar.com</font>",
-      "published": "2024-03-18T23:45:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2023-09-13T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Why Morning Brew? - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5\" target=\"_blank\">Why Morning Brew?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2022-02-16T05:00:44+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2020-12-07T16:27:24+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Territorial Disputes in the South China Sea | Global Conflict Tracker - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5\" target=\"_blank\">Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2020-05-29T00:00:19+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Iran’s War With Israel and the United States | Global Conflict Tracker - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5\" target=\"_blank\">Iran’s War With Israel and the United States | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2020-05-28T16:59:23+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "LPL Financial Holdings Inc (LPLA) - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBodWVlbFJPOWZhbkhCRUJSUG9NYW8xdU1Ca1o5cWFQa2ZDZS0tTXFoNXQzS0Y0UW5hakVYMWpsUHhMNUdaczhyVTNNZ1MzTnVPQWJkNnduZ1lrd2h3aTg0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTFBodWVlbFJPOWZhbkhCRUJSUG9NYW8xdU1Ca1o5cWFQa2ZDZS0tTXFoNXQzS0Y0UW5hakVYMWpsUHhMNUdaczhyVTNNZ1MzTnVPQWJkNnduZ1lrd2h3aTg0?oc=5\" target=\"_blank\">LPL Financial Holdings Inc (LPLA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2019-07-16T04:02:24+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Broadcom Inc (AVGO) - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWGhESUhROFdMaGctTmlwV1VQTFFxWXRWaTJ0VVJjalhLeGtVRVZyVVZkdWo4V3FCaVBaYXJhcWx6TkFNbXBDSW1NMGc0N1FEWjYweXhicUE2NjVCcmsw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWGhESUhROFdMaGctTmlwV1VQTFFxWXRWaTJ0VVJjalhLeGtVRVZyVVZkdWo4V3FCaVBaYXJhcWx6TkFNbXBDSW1NMGc0N1FEWjYweXhicUE2NjVCcmsw?oc=5\" target=\"_blank\">Broadcom Inc (AVGO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2019-07-16T01:23:42+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Financial Advisors - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zamc2NkQ2VHljLWY1eVRzakhMRDhvUEpiTTRvUHJMTEU5dU9mUmZHU0ZhcUZ1S2ZEQ1B0MjN1T3puNHFCRlJXd1JiYkROb056ZzY1Skl1WG84Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5zamc2NkQ2VHljLWY1eVRzakhMRDhvUEpiTTRvUHJMTEU5dU9mUmZHU0ZhcUZ1S2ZEQ1B0MjN1T3puNHFCRlJXd1JiYkROb056ZzY1Skl1WG84Zw?oc=5\" target=\"_blank\">Financial Advisors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2019-07-11T01:16:55+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Careers at Morningstar - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2018-12-11T01:03:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Morningstar | Empowering Investor Success - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2012-10-14T03:17:21+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Council on Foreign Relations - cfr.org",
-      "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5\" target=\"_blank\">Council on Foreign Relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
-      "published": "2006-10-11T06:27:30+00:00",
-      "feed_type": "google_news_fallback"
     }
   ]
 }
