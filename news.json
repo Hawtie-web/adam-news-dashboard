@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-01T16:32:08.972380+00:00",
+  "updated_at": "2026-08-01T20:16:25.654070+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,13 +10,166 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin cold-wallet attack spreads to 4,500 addresses as losses near $89 million",
+      "link": "https://www.coindesk.com/tech/2026/08/02/bitcoin-cold-wallet-attack-spreads-to-4-500-addresses-as-losses-near-usd89-million",
+      "summary": "",
+      "published": "2026-08-01T20:10:54+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Restaurant explosion in central Moscow kills three, injures 15, police say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5\" target=\"_blank\">Restaurant explosion in central Moscow kills three, injures 15, police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-01T19:51:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+      "link": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+      "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+      "published": "2026-08-01T19:45:45+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "BNB Chain ‘pursuing legal action’ against former employee over memecoin launched from tutorial wallet",
+      "link": "https://www.theblock.co/post/410351/bnb-chain-pursuing-legal-action-against-former-employee-over-memecoin-launched-from-tutorial-wallet?utm_source=rss&utm_medium=rss",
+      "summary": "<p>Lookonchain said the former employee bought nearly 80% of ASTEROID's supply for $10,000 before selling most of the tokens for about $638,000.</p>",
+      "published": "2026-08-01T19:09:57+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "‘I’m in my peak earning years’: I’m working beyond 70. Will that help increase my Social Security?",
-      "link": "https://www.marketwatch.com/story/im-in-my-peak-earning-years-im-working-beyond-70-will-that-help-increase-my-social-security-b0fd84da?mod=mw_rss_topstories",
-      "summary": "“I plan to retire at the end of my 70th year and transition to Medicare.”",
-      "published": "2026-08-01T16:15:00+00:00",
+      "title": "Let’s elect candidates who will make the wealthy pay taxes",
+      "link": "https://www.marketwatch.com/story/lets-elect-candidates-who-will-make-the-wealthy-pay-taxes-15f53a4a?mod=mw_rss_topstories",
+      "summary": "We can use some of those revenues to make Social Security contributions more equitable.",
+      "published": "2026-08-01T18:30:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Here's how engineers plan to save the satellite sent to save NASA's Swift mission",
+      "link": "https://arstechnica.com/space/2026/08/heres-how-engineers-plan-to-save-the-satellite-sent-to-save-nasas-swift-mission/",
+      "summary": "\"We believe that a capture of Swift, an attempted capture of Swift, is very much in the cards.\"",
+      "published": "2026-08-01T18:20:11+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘Don’t get suckered like I did’: I paid $185 to the wrong passport website. Can I get my money back?",
+      "link": "https://www.marketwatch.com/story/dont-get-suckered-like-i-did-i-paid-185-to-the-wrong-passport-website-can-i-get-my-money-back-3a781412?mod=mw_rss_topstories",
+      "summary": "“I will file a complaint with the Better Business Bureau.”",
+      "published": "2026-08-01T18:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Rising Medicare Part D premiums could drive more people into Medicare Advantage plans",
+      "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
+      "summary": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription drug plans lower.",
+      "published": "2026-08-01T18:06:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTJLYjliLXp5dE9RQjA0U2xYY1FkYVNxaWJoWWdfNzFKQXlCQ2pxbFhRVlZhX25ES042NnJSTE4zcTZhZkpiUm5oci1vSy0tbWktNGlZSXhhaE16eVhSWWE2NktvcjZDaFdVQThRM0U2MEV2QXM1MUZtMFY2eGtBS1k5ZW42enZWbGpKamx5UzFLQmNkVEY4aGVOYUVzWGNRZExMaVRJTFkxX3B0TUczVURn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTJLYjliLXp5dE9RQjA0U2xYY1FkYVNxaWJoWWdfNzFKQXlCQ2pxbFhRVlZhX25ES042NnJSTE4zcTZhZkpiUm5oci1vSy0tbWktNGlZSXhhaE16eVhSWWE2NktvcjZDaFdVQThRM0U2MEV2QXM1MUZtMFY2eGtBS1k5ZW42enZWbGpKamx5UzFLQmNkVEY4aGVOYUVzWGNRZExMaVRJTFkxX3B0TUczVURn?oc=5\" target=\"_blank\">Trump disputes his own Justice Department's findings on Reflecting Pool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-01T17:37:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
+      "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
+      "summary": "Watch out for these 4 major financial pitfalls.",
+      "published": "2026-08-01T17:32:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Spain installs floating barrier in Ceuta after deadly migrant rush - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5\" target=\"_blank\">Spain installs floating barrier in Ceuta after deadly migrant rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-01T17:21:58+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
+      "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
+      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
+      "published": "2026-08-01T17:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Health savings accounts can be a great retirement tool – if you’re healthy or wealthy",
+      "link": "https://www.marketwatch.com/story/hsas-can-be-a-great-retirement-tool-if-youre-healthy-or-wealthy-5a3e2991?mod=mw_rss_topstories",
+      "summary": "HSAs can offset healthcare costs in your old age. But most people can’t afford to wait.",
+      "published": "2026-08-01T17:09:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Sam Altman is still making the case for parenting via ChatGPT",
+      "link": "https://techcrunch.com/2026/08/01/sam-altman-is-still-making-the-case-for-parenting-via-chatgpt/",
+      "summary": "OpenAI's CEO seemed excited to share a \"cool use case\" for parents.",
+      "published": "2026-08-01T17:07:34+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Tokenized stock trading surged 288% in July, but one QQQ token drove most of it",
+      "link": "https://www.coindesk.com/markets/2026/08/01/tokenized-stock-trading-surged-288-in-july-but-one-qqq-token-drove-most-of-it",
+      "summary": "",
+      "published": "2026-08-01T16:51:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I’m 75 and afraid to let my retirement fund dip below $1 million. Am I being too conservative?",
+      "link": "https://www.marketwatch.com/story/im-75-and-afraid-to-let-my-retirement-fund-dip-below-1-million-am-i-being-too-aggressive-6b780ef9?mod=mw_rss_topstories",
+      "summary": "Spending down assets can be unsettling after a lifetime of saving.",
+      "published": "2026-08-01T16:41:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "My ex-husband’s sister died — so why is Fidelity asking me for her death certificate?",
+      "link": "https://www.marketwatch.com/story/its-like-buying-a-lottery-ticket-fidelity-asked-for-my-former-sister-in-laws-death-certificate-does-this-mean-im-due-a-windfall-2ebdcd69?mod=mw_rss_topstories",
+      "summary": "“Part of me jokes that paying for a death certificate would be like buying a lottery ticket.”",
+      "published": "2026-08-01T16:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5\" target=\"_blank\">Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-01T16:21:14+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -28,29 +181,11 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I’ve seen families destroyed by this common estate-planning mistake. Here’s how to protect yours.",
-      "link": "https://www.marketwatch.com/story/ive-seen-families-destroyed-by-this-common-estate-planning-mistake-heres-how-to-protect-yours-4f997564?mod=mw_rss_topstories",
-      "summary": "It’s not enough to do everything “right” on paper.",
-      "published": "2026-08-01T16:06:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Bank of Italy research suggests stablecoins aren't necessarily cheaper for remittances",
       "link": "https://www.coindesk.com/business/2026/08/01/bank-of-italy-research-suggests-stablecoins-aren-t-necessarily-cheaper-for-remittances",
       "summary": "",
-      "published": "2026-08-01T16:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘We have always been civil’: My sister refuses to replace me as executor. Can I step down before she dies?",
-      "link": "https://www.marketwatch.com/story/we-have-always-been-civil-my-sister-refuses-to-replace-me-as-executor-can-i-step-down-before-she-dies-84a835a9?mod=mw_rss_topstories",
-      "summary": "“I haven’t seen my sister since our mother’s funeral more than 20 years ago.”",
       "published": "2026-08-01T16:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -64,6 +199,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5\" target=\"_blank\">Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-01T15:51:47+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Bitcoin mining difficulty shrinks 14% from this year's high as plunging revenues force operators to pivot",
@@ -73,48 +217,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Israeli strikes kill two in Gaza, destroy medicine storage warehouses - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejJOMUdaM3o5dDFVSU04YTE1RzhOVjhyTzdxR2tqalUtSk1uUFlxOTJFLTN1TGgtMWRqdUktaGdCQUw3dDE1MG1hZjljOUdkYUk4RWhEZnByVHJyN2JPeFVOUG9Danp4ZUZTNmVUeDJtaXVjYUNhbk5wb1lpMGN6ZnZIVEhrelIzS0RjaEdXT3czX1Vrekh6VTRTQzUtNE8zM0pPVGY4eHA4eFdSWm8xR3pIRnNtcXdZSUQw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQejJOMUdaM3o5dDFVSU04YTE1RzhOVjhyTzdxR2tqalUtSk1uUFlxOTJFLTN1TGgtMWRqdUktaGdCQUw3dDE1MG1hZjljOUdkYUk4RWhEZnByVHJyN2JPeFVOUG9Danp4ZUZTNmVUeDJtaXVjYUNhbk5wb1lpMGN6ZnZIVEhrelIzS0RjaEdXT3czX1Vrekh6VTRTQzUtNE8zM0pPVGY4eHA4eFdSWm8xR3pIRnNtcXdZSUQw?oc=5\" target=\"_blank\">Israeli strikes kill two in Gaza, destroy medicine storage warehouses</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T15:48:44+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "SEC to review Nasdaq bitcoin options approval after CME challenge",
       "link": "https://www.coindesk.com/policy/2026/08/01/sec-to-review-nasdaq-bitcoin-options-approval-after-cme-challenge",
       "summary": "",
       "published": "2026-08-01T15:48:27+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "If Social Security’s funding crisis is the elephant in the room, this is the mouse everyone has overlooked. You have been warned.",
-      "link": "https://www.marketwatch.com/story/if-social-securitys-funding-crisis-is-the-elephant-in-the-room-this-is-the-mouse-everyone-has-overlooked-you-have-been-warned-b95c450d?mod=mw_rss_topstories",
-      "summary": "“Delaying Social Security until 70 results in an increased monthly payment — and that comes with proportionally higher cost-of-living adjustments.”",
-      "published": "2026-08-01T15:45:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5\" target=\"_blank\">Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T15:31:03+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Medicare is about to change a drug program that held down the cost of premiums. Here’s what to know.",
-      "link": "https://www.marketwatch.com/story/medicare-is-about-to-change-a-program-that-held-down-the-cost-of-premiums-heres-what-to-know-42c0612e?mod=mw_rss_topstories",
-      "summary": "Experts say this could mean that more seniors will switch to Medicare Advantage plans",
-      "published": "2026-08-01T15:29:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -145,42 +253,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Caregivers deplete their savings and many have stopped trying to save. Should they get paid?",
-      "link": "https://www.marketwatch.com/story/should-you-get-paid-to-care-for-a-family-member-70958828?mod=mw_rss_topstories",
-      "summary": "Serving as a family caregiver isn’t just exhausting. It can be financially devastating, as well.",
-      "published": "2026-08-01T15:12:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNbmYyc0pXSkJpNHNLOHFIUVU0clpoNFlfUVFua3EwU2dHUF9MTjBzUFl0M0VJUXNWUVBDeThvMTVPNlNjMDBQTWl1bXdoMTVFNGt5aVdYbmJyaG9TUVlCVWFTTHUzWTJSelM3czY1VFdvZW5iUXVUdXlELXlTVUJvQkdTVUVnN3d6Q044d3pmZFBnYVE3X1M3TlRqZjNTMFNqNWNKSWpWUnR3Nngyd2ozcmRoaUNZSEM5ZV82T1JEU25SUQ?oc=5\" target=\"_blank\">Noted climber Nirmal Purja among 10 dead in avalanche in Pakistan - officials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T15:01:12+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "College kids are moving into retirement communities for reasons beyond ‘cheap rent’",
-      "link": "https://www.marketwatch.com/story/college-kids-are-moving-into-retirement-communities-for-reasons-beyond-cheap-rent-577dc94b?mod=mw_rss_topstories",
-      "summary": "Students are forging intergenerational bonds while planning game nights and teaching gym classes, but “by 7:30 or 8, things get pretty quiet here.”",
-      "published": "2026-08-01T14:04:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "They spent tens of thousands of dollars on home remodels — only to regret it",
-      "link": "https://www.marketwatch.com/story/they-spent-tens-of-thousands-of-dollars-on-home-remodels-only-to-regret-it-8cfa23e6?mod=mw_rss_topstories",
-      "summary": "Some homeowners spend big bucks to upgrade their house, only to end up having second thoughts.",
-      "published": "2026-08-01T14:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Solana Foundation's new CISO warns AI is making crypto scams more convincing",
@@ -197,15 +269,6 @@
       "summary": "",
       "published": "2026-08-01T13:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Spain installs floating barrier in Ceuta after calm night following border rush - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN0J1S2JCeWV3d0FxbXk5WEtkeXpHOGdQdGtPSFNQV3MzRkN5RGxZS0lINHFHb3BKN3BCLVNSQU13OExKOEhNRzNaVlBxV01Fck1hTDVMQUN2TmxqYVZxOHI2UDdaSVlNT21BSUxPSzVjcWFzbGxKSVdPWThRM056OGVyRE1JdHpXYnJpLUFiQWh4OTNQLXhhbk5NVGtJaW9ocnpUaVc4QnRLTnRXdU9oQmRpTWlGOVEweUszY1ZDbk5ISzA?oc=5\" target=\"_blank\">Spain installs floating barrier in Ceuta after calm night following border rush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T12:46:50+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -262,39 +325,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Lithuanian embassy in Kyiv damaged in Russian missile attack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0tfeklSMU5ZODFzXzY4V2x5N0dNVzdiSFY2YVE3c1RsbEtJYk1FbFFlTWZiMF9kbTNkYmtIZHhHYkFSSVRkYjF0amc4Qkw0OEN3dzNrdGU5YzJRcXViT0kyOVk5akNVZnhjSm1SeG1HalJCaXFhSkMwS1UxSDZpZ09lSTBrTno0Z2pNN3BNSHVudjFLZzcyUnZ0Vjg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQM0tfeklSMU5ZODFzXzY4V2x5N0dNVzdiSFY2YVE3c1RsbEtJYk1FbFFlTWZiMF9kbTNkYmtIZHhHYkFSSVRkYjF0amc4Qkw0OEN3dzNrdGU5YzJRcXViT0kyOVk5akNVZnhjSm1SeG1HalJCaXFhSkMwS1UxSDZpZ09lSTBrTno0Z2pNN3BNSHVudjFLZzcyUnZ0Vjg?oc=5\" target=\"_blank\">Lithuanian embassy in Kyiv damaged in Russian missile attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T09:01:39+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Binance founder CZ calls for wallet diversification after $70 million Coldcard exploit",
       "link": "https://www.coindesk.com/markets/2026/08/01/binance-founder-cz-says-diversify-your-wallets-following-usd70-million-coldcard-exploit",
       "summary": "",
       "published": "2026-08-01T09:01:08+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "XRP Ledger upgrade brings back features once pulled over critical bugs",
-      "link": "https://www.coindesk.com/tech/2026/08/01/xrp-ledger-upgrade-brings-back-features-once-pulled-over-critical-bugs",
-      "summary": "",
-      "published": "2026-08-01T06:09:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "How bitcoin cold wallets lost $70 million in an attack that never touched the devices",
-      "link": "https://www.coindesk.com/tech/2026/08/01/how-bitcoin-cold-wallets-lost-usd70-million-in-an-attack-that-never-touched-the-devices",
-      "summary": "",
-      "published": "2026-08-01T05:55:46+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -344,15 +380,6 @@
     },
     {
       "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Google plans to exempt sanctioned nations from Android developer verification",
-      "link": "https://arstechnica.com/gadgets/2026/07/google-plans-to-exempt-sanctioned-nations-from-android-developer-verification/",
-      "summary": "Someone in Cuba or Iran can keep installing APKs with no new restrictions, but devs will suffer.",
-      "published": "2026-07-31T21:35:56+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "India is starting to pay for apps, not just download them",
       "link": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
@@ -368,6 +395,15 @@
       "summary": "<p>The danger to Red Sea shipping has increased once again after the Houthis began attacking Saudi tankers.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/red-sea-maritime-security-task-force-commander-talks-major-jump-in-escort-requests\">Red Sea Maritime Security Task Force Commander Talks Major Jump In Escort Requests (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-07-31T20:56:53+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Morning Brew - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-07-31T20:44:24+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -559,30 +595,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Siri AI could come with a paywall for power users",
-      "link": "https://techcrunch.com/2026/07/31/siri-ai-could-come-with-a-paywall-for-power-users/",
-      "summary": "Apple CEO Tim Cook envisions users being able to buy more compute for Siri AI via Apple's existing iCloud+ subscriptions.",
-      "published": "2026-07-31T16:08:18+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "GCAP timeline could shrink ‘by a couple of years,’ Leonardo CEO says",
       "link": "https://breakingdefense.com/2026/07/gcap-timeline-could-shrink-by-a-couple-of-years-leonardo-ceo-says/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/07/gcap-timeline-could-shrink-by-a-couple-of-years-leonardo-ceo-says/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/GCAP-FIA-scaled-e1784891466780-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Lorenzo Mariani said the sixth-gen fighter could enter service two years ahead of its 2035 target date, but only if some requirements for the &#8220;initial version&#8221; were altered. </p>",
       "published": "2026-07-31T15:26:52+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "SpaceX won’t remove all of xAI’s unpermitted turbines for another year",
-      "link": "https://techcrunch.com/2026/07/31/spacex-wont-remove-all-of-xais-unpermitted-turbines-for-another-year/",
-      "summary": "SpaceX is building a new power plant for xAI's Colossus data centers, but it won't remove existing, unpermitted turbines for many more months.",
-      "published": "2026-07-31T15:16:17+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -601,15 +619,6 @@
       "link": "https://edm.com/music-releases/fresh-picks-baclash-z3lla-nurko-more/",
       "summary": "<p>Every Friday, EDM.com’s 'Fresh Picks' series showcases bold new electronic music from the scene’s most promising DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/fresh-picks-baclash-z3lla-nurko-more/\">EDM.com Fresh Picks: Baclash, Z3LLA, NURKO &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-07-31T15:07:49+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Uniswap launches ‘Earn’ with Morpho to let users earn yield on idle crypto assets",
-      "link": "https://www.theblock.co/post/410286/uniswap-morpho-earn-yield-gauntlet-vaults?utm_source=rss&utm_medium=rss",
-      "summary": "<p>Uniswap has teamed up with Morpho to launch Earn, a new lending product that lets users earn yield via Gauntlet-curated vaults.</p>",
-      "published": "2026-07-31T15:00:52+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -876,9 +885,9 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "How Experts Think AI Will Change the Global Balance of Power by 2035 - cfr.org",
+      "title": "How Experts Think AI Will Change the Global Balance of Power by 2035 - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNeTljQ2w2dnl6OEQ2WGZ6YVVMZ2ZrVVZ6dWFQMkNJU25ZbDVSWkRYc1RpMFNMYUhCV3dhci11d3ZnTlk4NWxFNzg2WHNlZzNLNVF2ZHpxdklpUXU5UEdTY2xEU0V5cXFZQXhZUDBQbFRmT2c5MFVkV2JETHI0QXoyZy0zTlV6NXozdmU3S0V0UHZXVHJkZW9ZVjRMcW84QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeTljQ2w2dnl6OEQ2WGZ6YVVMZ2ZrVVZ6dWFQMkNJU25ZbDVSWkRYc1RpMFNMYUhCV3dhci11d3ZnTlk4NWxFNzg2WHNlZzNLNVF2ZHpxdklpUXU5UEdTY2xEU0V5cXFZQXhZUDBQbFRmT2c5MFVkV2JETHI0QXoyZy0zTlV6NXozdmU3S0V0UHZXVHJkZW9ZVjRMcW84QQ?oc=5\" target=\"_blank\">How Experts Think AI Will Change the Global Balance of Power by 2035</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNeTljQ2w2dnl6OEQ2WGZ6YVVMZ2ZrVVZ6dWFQMkNJU25ZbDVSWkRYc1RpMFNMYUhCV3dhci11d3ZnTlk4NWxFNzg2WHNlZzNLNVF2ZHpxdklpUXU5UEdTY2xEU0V5cXFZQXhZUDBQbFRmT2c5MFVkV2JETHI0QXoyZy0zTlV6NXozdmU3S0V0UHZXVHJkZW9ZVjRMcW84QQ?oc=5\" target=\"_blank\">How Experts Think AI Will Change the Global Balance of Power by 2035</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-07-30T13:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -993,9 +1002,9 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "AI’s Economic Winners - cfr.org",
+      "title": "AI’s Economic Winners - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE04cTBpd0lMTnBabUVyVjc5b0ItTGpCWVdGbHhIcEpsekt0enlENnlzaDRISXpSbkdxb3pscERnSk11bzAxdjlXdEdvSzZhUHA1LVBTaDFoWFZlNFZDY1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE04cTBpd0lMTnBabUVyVjc5b0ItTGpCWVdGbHhIcEpsekt0enlENnlzaDRISXpSbkdxb3pscERnSk11bzAxdjlXdEdvSzZhUHA1LVBTaDFoWFZlNFZDY1E?oc=5\" target=\"_blank\">AI’s Economic Winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE04cTBpd0lMTnBabUVyVjc5b0ItTGpCWVdGbHhIcEpsekt0enlENnlzaDRISXpSbkdxb3pscERnSk11bzAxdjlXdEdvSzZhUHA1LVBTaDFoWFZlNFZDY1E?oc=5\" target=\"_blank\">AI’s Economic Winners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-07-29T09:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1029,27 +1038,27 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Territorial Disputes in the South China Sea | Global Conflict Tracker - cfr.org",
+      "title": "Territorial Disputes in the South China Sea | Global Conflict Tracker - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5\" target=\"_blank\">Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5\" target=\"_blank\">Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-07-29T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Conflict in Yemen and the Red Sea | Global Conflict Tracker - cfr.org",
+      "title": "Conflict in Yemen and the Red Sea | Global Conflict Tracker - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5\" target=\"_blank\">Conflict in Yemen and the Red Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5\" target=\"_blank\">Conflict in Yemen and the Red Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-07-29T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "North Korea Crisis | Global Conflict Tracker - cfr.org",
+      "title": "North Korea Crisis | Global Conflict Tracker - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9SN3U1UnVHNWw3X1g5YmdmNk54N3JCdEZRVTljZVlXMkdWWkp4YmVzeEt6bkltM2c1ZFRUcGtBZzU2eGZaU2FMRlJsNlFEVEVzZ0tGNU9VVHVwanc2M29makdjVm5rRWtRcVBVRHFIZ2RnV253X2lQRnVsZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9SN3U1UnVHNWw3X1g5YmdmNk54N3JCdEZRVTljZVlXMkdWWkp4YmVzeEt6bkltM2c1ZFRUcGtBZzU2eGZaU2FMRlJsNlFEVEVzZ0tGNU9VVHVwanc2M29makdjVm5rRWtRcVBVRHFIZ2RnV253X2lQRnVsZw?oc=5\" target=\"_blank\">North Korea Crisis | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9SN3U1UnVHNWw3X1g5YmdmNk54N3JCdEZRVTljZVlXMkdWWkp4YmVzeEt6bkltM2c1ZFRUcGtBZzU2eGZaU2FMRlJsNlFEVEVzZ0tGNU9VVHVwanc2M29makdjVm5rRWtRcVBVRHFIZ2RnV253X2lQRnVsZw?oc=5\" target=\"_blank\">North Korea Crisis | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-07-29T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1173,9 +1182,9 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "How Does the Iran War End? - cfr.org",
+      "title": "How Does the Iran War End? - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CdHBPSVNzWUJhT1o4aUxNVXFjTWI2V0pBLUdURGZCNF9GUDN2SU1vU213UzZDZXNHdExQTkdRMjZYSkwxVFZfdHF6WFF3SDdDM18tejNUOFBfYWlIOGg2ck5MSGM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CdHBPSVNzWUJhT1o4aUxNVXFjTWI2V0pBLUdURGZCNF9GUDN2SU1vU213UzZDZXNHdExQTkdRMjZYSkwxVFZfdHF6WFF3SDdDM18tejNUOFBfYWlIOGg2ck5MSGM?oc=5\" target=\"_blank\">How Does the Iran War End?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE5CdHBPSVNzWUJhT1o4aUxNVXFjTWI2V0pBLUdURGZCNF9GUDN2SU1vU213UzZDZXNHdExQTkdRMjZYSkwxVFZfdHF6WFF3SDdDM18tejNUOFBfYWlIOGg2ck5MSGM?oc=5\" target=\"_blank\">How Does the Iran War End?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-07-24T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1254,9 +1263,9 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "A Guide to the Countries on Trump’s Travel Ban List - cfr.org",
+      "title": "A Guide to the Countries on Trump’s Travel Ban List - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBFV2tvU1BMTTJlZGdKdVJTZmpCbUdEX0FZaTdDcVdHRE0xbmt4R1Bya1p3X1JzcGN4OWxhUnRLUVVQWUVvWVZGX2ZMMFhJRW9RZDdBLUg5MVVmZmNjQXpzcXlVc3d0NnNrRmlWTHlzZV9hUDRCaVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBFV2tvU1BMTTJlZGdKdVJTZmpCbUdEX0FZaTdDcVdHRE0xbmt4R1Bya1p3X1JzcGN4OWxhUnRLUVVQWUVvWVZGX2ZMMFhJRW9RZDdBLUg5MVVmZmNjQXpzcXlVc3d0NnNrRmlWTHlzZV9hUDRCaVE?oc=5\" target=\"_blank\">A Guide to the Countries on Trump’s Travel Ban List</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTFBFV2tvU1BMTTJlZGdKdVJTZmpCbUdEX0FZaTdDcVdHRE0xbmt4R1Bya1p3X1JzcGN4OWxhUnRLUVVQWUVvWVZGX2ZMMFhJRW9RZDdBLUg5MVVmZmNjQXpzcXlVc3d0NnNrRmlWTHlzZV9hUDRCaVE?oc=5\" target=\"_blank\">A Guide to the Countries on Trump’s Travel Ban List</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-01-14T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1267,15 +1276,6 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-10-23T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "The Best Chinese Stocks to Buy - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9FOWFENlk2NUI0TVY0MExscGdleG1qc2NES19RM1V2M1V4dzlKUmRIcUN6NThEcEZZaG50TWp0V1lRTnp2d3JWd0hnWEdwNTFqRjhFLV9ndkl6SGdzUnVENjdsUTBNcXlSeFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiakFVX3lxTE9FOWFENlk2NUI0TVY0MExscGdleG1qc2NES19RM1V2M1V4dzlKUmRIcUN6NThEcEZZaG50TWp0V1lRTnp2d3JWd0hnWEdwNTFqRjhFLV9ndkl6SGdzUnVENjdsUTBNcXlSeFE?oc=5\" target=\"_blank\">The Best Chinese Stocks to Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2025-04-28T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1344,19 +1344,19 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Careers at Morningstar - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2018-12-11T01:03:09+00:00",
+      "title": "Clorox Co (CLX) - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMUGxzR2lQMVdqMGh6eTEwRnZkVHh1eFU2N0ZVSzBTcVRjS0hvVlZuazJEZ2xfRHpXUU5qNnNFbmJQX2YyNXl2SjhOc3FVT0IycWotQ09EZFJUbmxIdnc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTFBMUGxzR2lQMVdqMGh6eTEwRnZkVHh1eFU2N0ZVSzBTcVRjS0hvVlZuazJEZ2xfRHpXUU5qNnNFbmJQX2YyNXl2SjhOc3FVT0IycWotQ09EZFJUbmxIdnc?oc=5\" target=\"_blank\">Clorox Co (CLX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2019-07-16T05:59:27+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2017-07-07T01:37:33+00:00",
+      "source": "Morningstar",
+      "title": "Careers at Morningstar - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2018-12-11T01:03:09+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1371,9 +1371,9 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Council on Foreign Relations - cfr.org",
+      "title": "Council on Foreign Relations - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5\" target=\"_blank\">Council on Foreign Relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5\" target=\"_blank\">Council on Foreign Relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2006-10-11T06:27:30+00:00",
       "feed_type": "google_news_fallback"
     }
