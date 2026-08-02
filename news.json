@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-02T06:47:26.613022+00:00",
+  "updated_at": "2026-08-02T11:38:44.527202+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,47 +10,92 @@
   ],
   "items": [
     {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why every tech giant wants to look like a cybersecurity company in the AI era",
+      "link": "https://www.marketwatch.com/story/why-every-tech-giant-wants-to-look-like-a-cybersecurity-company-in-the-ai-era-00534525?mod=mw_rss_topstories",
+      "summary": "As AI agents break free, tech giants are racing to turn cybersecurity into a core feature of their businesses.",
+      "published": "2026-08-02T11:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Tim Cook’s lasting legacy: Keeping Apple’s eye on the ball",
+      "link": "https://www.marketwatch.com/story/tim-cooks-lasting-legacy-keeping-apples-eye-on-the-ball-76521035?mod=mw_rss_topstories",
+      "summary": "Apple has been phenomenally profitable because its CEO resisted demands to change the business’s focus.",
+      "published": "2026-08-02T11:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - Reuters",
+      "title": "Five dead, 41 missing after Indonesian ferry catches fire, authorities say - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPalBXdlNoQ05vVlFLOElTc3BweEhPcWhyd2x4UjBiUmROdDVKN0tvZGlSWnFveF8tNG1zZVBjbVM3VGhYc2hTNGVlZzJrUzcyeEZaY0h5Zllrd25MNUl2ZkI0bGpnaEZubUlYTmNXSUl4RjVpZ2pmckVta1J1NWVQTWlsRVV6aG5JM3BVb2RlMWJncnVqblEyV0R3YmFSNWl3Q1FESl9zVEx0T3ZydjZCX0F0REdZdF9yTUVqZmRwd2lnR3NZRHc?oc=5\" target=\"_blank\">Five dead, 41 missing after Indonesian ferry catches fire, authorities say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-08-02T10:05:22+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNalRXTDFKTmlXU19IODRKYXA1bkZiSXU2MEMxUmxBRlpjakdLenAtS3EyZ1NaR1ByOXBsc182MzRkLTRUX1R2NFNJTXMyNWt4Nm5mZlBtbEw5ZWhNM2dndjJTZElZbGhWVXhjQm93bkJ1NURwSV9GWlItZjRKTDJYdV9vRjhDYWt2SVZFWGpfNXV4UXpWNnFVeGhQZkpnMEdnMFdZYThzQmxzS0YyNEVqSEFWdkJIX19a?oc=5\" target=\"_blank\">Ukrainian drones kill two in Russia, strike Wildberries warehouse, governors say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-08-02T09:17:54+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Holcim to sell Philippines unit to China's Huaxin in $807 million deal - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVVGZmt6VDlQODNUNGdYbUhqdmtGdUNDU0gycTNuU1RaWXFEUFNXNEswbTN4LW1zNnJKdkYwTWtYTy1NZTY0UFRmRlZzNkpyZmxKQnpzMXJ4NWd4N24weXA5YlRxdV9IZU1RVDFDTFJGLU5lZE9xSWNEdkJEYi0yNG1rZ19rU0tncC1wQ2ljN19IdVI1RVBJeTFzZXhBNEg1NGJRLVFZMDRjUS1aNVZ4bzRhSEY5aHpH?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQRVVGZmt6VDlQODNUNGdYbUhqdmtGdUNDU0gycTNuU1RaWXFEUFNXNEswbTN4LW1zNnJKdkYwTWtYTy1NZTY0UFRmRlZzNkpyZmxKQnpzMXJ4NWd4N24weXA5YlRxdV9IZU1RVDFDTFJGLU5lZE9xSWNEdkJEYi0yNG1rZ19rU0tncC1wQ2ljN19IdVI1RVBJeTFzZXhBNEg1NGJRLVFZMDRjUS1aNVZ4bzRhSEY5aHpH?oc=5\" target=\"_blank\">Holcim to sell Philippines unit to China's Huaxin in $807 million deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-08-02T09:10:58+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Morning Brew - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-02T07:51:28+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5\" target=\"_blank\">EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNeWRxZmUtQUZfS21oaHA2QVRaX0FYX09hRTBYRXZ6dnZ4dzAxamMzREtPN2laazBKdDNacXg3UUcxbS1fM3VSNGV4bDFNVkJPU3RCUWFDZjlDQ3VaTV9zTmQzaDgxYlV1MmNJcFZZcmJvRG9qSlRWTnZlQ1MyTm14OVItU2M2cDJfcklTdERRR2xBZ09FVWtYVkhZaTJiQXE5S0Q1eUNFdE5fbGl1X3VyUko1bHFiQ1M2SExvVw?oc=5\" target=\"_blank\">EXCLUSIVE: Japan to announce Tokyo, Washington took joint action on yen, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-02T01:12:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Three dead in Idaho shopping center shooting - Reuters",
+      "title": "Three dead in Idaho shopping center shooting - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5\" target=\"_blank\">Three dead in Idaho shopping center shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxOSUlHQUFzUk1GbXRXbmxaSzJVZVVFbXpIZ1lvSzhCbHcyZnlCREt6UmtPYi0zaUhya0hSMENVckhaUUxUTDNQMTM4YVhHWmU1dU9mMXJGRE00a0JMOUltaFNDOHJPemk5eXpyZ0tuVHE3MjM0R1hDM3NYWUoxTThHVGxvN3AxcVVpeVZocUk0TQ?oc=5\" target=\"_blank\">Three dead in Idaho shopping center shooting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-02T00:50:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough - Reuters",
+      "title": "Israeli strikes kill nine in Gaza, Israeli minister says no deal to halt attacks - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5\" target=\"_blank\">Israeli strikes kill at least four in Gaza despite Trump announcing breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPNzFyTXBvZ1pGeVZXTUlTRWM3VGxjTjd5dXk4Y1RwZUYtaE9adFlFRGNkcU1tNmR6M2lCckhIN2cwMG54RUNiNzNib3RQVWxLd1FqWlY5eVZObDc4b3NCdGlLZi10a214V25teXViTkpCZXBXeDRfazBSOUNJVkZTM1RLcWt5SzUwaURiUUJMcDlOZFJFTkg5NXZXV0ZuakxZanh2YUNVMko3R1pJS3RsUFBsQjNpOXlLcHQwbHJtZ1FZWk9VdDRz?oc=5\" target=\"_blank\">Israeli strikes kill nine in Gaza, Israeli minister says no deal to halt attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-01T23:50:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNTzdtaDJZaWxwWXdCU2ZFdGktck10WUNJNndTOHhfelE2Z2FxcnlveklNOEJtVlBoVnAta0FKQmY0dHlNM1kyTjItSDRkcGV1dDVLeUwxZ1VrNktPQ2JGbW1MemNMSm5CNmxDZ0pfbklES0lGQ0RDN2pUN1RtVzl0OVZqcnpfaVRqd3ZhTDhBVFIzbXBJNzg5M0huSlJGMDdWcE1fQlZyV1h5WHZkaWhRQVhFeHpqZw?oc=5\" target=\"_blank\">Migrants say hunger and hostility drove them back from Spain's Ceuta to Morocco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T22:42:02+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - Reuters",
+      "title": "Trump says he will hold off on fresh Iran attack in hope of quick deal - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5\" target=\"_blank\">Trump says he will hold off on fresh Iran attack in hope of quick deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOQnFCZlNtaWNsWjNfQzZYSUltNnlianRRMlRsUmVqWFNEWlEwWERhVmp5dVdSazcwNmo4bTNzQjNwcW1rS1pYSFRzUXZvUkF5dEFRYzY4T3Q4UUF0ZVBFLXlxVzA5YnRXZTliVWN0M2ZlcV9WVEw4ZjZqblVxOFJ6N2JmX1FMSk5HUXdLWWpOM2l1SWI3b0E2NHB5UU5rLUFRbjRXUEZ6ajZ1VUt1N0JIdURWT1VNbkVHX2UxUVU1b1lFTzY4aFNaOEJ5TTJJdw?oc=5\" target=\"_blank\">Trump says he will hold off on fresh Iran attack in hope of quick deal</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-01T22:33:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -71,15 +116,6 @@
       "summary": "“Her husband passed away 10 years ago. They had been married for more than 20 years.”",
       "published": "2026-08-01T22:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQNkhRMDdsSlFaempsUmw0WmZQV0VzNTg5MnQ2TE9pbEs0WUg1ZDVYQWlfVWdXSjRwdUM4YThmMnB3aUs2cUVDZ0s0MnNlSDNHMDJDZU5iWmE0eFdpTmRlMlcwV05HNkI4b0d5SVJhS080bl9CZlNPUkpoSWZjRjRNZUw5alNtaFVQdERIT2p5MDlSTTFCWms4?oc=5\" target=\"_blank\">Bomb carried by woman kills three, injures 21 near Moscow restaurant, authorities say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T21:32:43+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -129,9 +165,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines - Reuters",
+      "title": "Thirteen die in tourist plane crash over Peru's Nazca Lines - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE?oc=5\" target=\"_blank\">Thirteen die in tourist plane crash over Peru's Nazca Lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQSnE5c2hGZjM2RjZHLWU5Z3lKclF4ZXUteFlvbk5CTE0wdGN4SlJVdkIyNVFNZXF3SjVyYmY3ZDFkRjMwVTBvUFE3THItbkN1RjF5NFV1UkF6MFhWSDBydFRiQXVxX2djcTBrcm1VTjRCcjJkUGs0VjB6RU12bG91Q2k2ZHZNY1dFUzJqZW9KT09QRVFQZXphSjdDNnJMTWQtRDBsSVR3RnlOSXFvbGg4UTBjU2Rua3Q5VkE?oc=5\" target=\"_blank\">Thirteen die in tourist plane crash over Peru's Nazca Lines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-01T19:53:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -187,33 +223,6 @@
       "link": "https://www.marketwatch.com/story/rising-part-d-premiums-could-drive-more-people-into-medicare-advantage-plans-32c2a392?mod=mw_rss_topstories",
       "summary": "Medicare Advantage plans could be the winners of a decision by the Trump administration to put an early end to a program that kept the cost of Medicare prescription drug plans lower.",
       "published": "2026-08-01T18:06:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump disputes his own Justice Department's findings on Reflecting Pool - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTJLYjliLXp5dE9RQjA0U2xYY1FkYVNxaWJoWWdfNzFKQXlCQ2pxbFhRVlZhX25ES042NnJSTE4zcTZhZkpiUm5oci1vSy0tbWktNGlZSXhhaE16eVhSWWE2NktvcjZDaFdVQThRM0U2MEV2QXM1MUZtMFY2eGtBS1k5ZW42enZWbGpKamx5UzFLQmNkVEY4aGVOYUVzWGNRZExMaVRJTFkxX3B0TUczVURn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOOTJLYjliLXp5dE9RQjA0U2xYY1FkYVNxaWJoWWdfNzFKQXlCQ2pxbFhRVlZhX25ES042NnJSTE4zcTZhZkpiUm5oci1vSy0tbWktNGlZSXhhaE16eVhSWWE2NktvcjZDaFdVQThRM0U2MEV2QXM1MUZtMFY2eGtBS1k5ZW42enZWbGpKamx5UzFLQmNkVEY4aGVOYUVzWGNRZExMaVRJTFkxX3B0TUczVURn?oc=5\" target=\"_blank\">Trump disputes his own Justice Department's findings on Reflecting Pool</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-01T17:37:43+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Americans are living longer than our retirement system can handle — and many of us are unprepared",
-      "link": "https://www.marketwatch.com/story/americans-are-living-longer-than-our-retirement-system-can-handle-and-many-of-us-are-unprepared-76c50a35?mod=mw_rss_topstories",
-      "summary": "Watch out for these 4 major financial pitfalls.",
-      "published": "2026-08-01T17:32:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "My financial adviser says I don’t need a tax-efficient withdrawal plan for my $2.3 million portfolio. Is that madness?",
-      "link": "https://www.marketwatch.com/story/its-a-high-price-to-pay-my-adviser-says-i-dont-need-a-withdrawal-plan-for-my-2-3-million-portfolio-is-he-right-06cb1eb2?mod=mw_rss_topstories",
-      "summary": "“His proposal involves a proprietary equity hedge strategy to manage $700,000 of my assets.”",
-      "published": "2026-08-01T17:15:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1339,15 +1348,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2018-12-11T01:03:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2017-07-07T01:37:33+00:00",
       "feed_type": "google_news_fallback"
     },
     {
