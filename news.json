@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07T22:42:58.098885+00:00",
+  "updated_at": "2026-08-07T23:38:23.382321+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,15 @@
     }
   ],
   "items": [
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "OpenAI says it slowed Astra model development over security concerns",
+      "link": "https://techcrunch.com/2026/08/07/openai-says-it-slowed-astra-model-development-over-security-concerns/",
+      "summary": "OpenAI said it has suspended work on some aspects of its upcoming model Astra over concerns about its cybersecurity prowess.",
+      "published": "2026-08-07T22:48:24+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
@@ -56,6 +65,15 @@
     },
     {
       "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Europe's free satellite service just made it easier to track wildfires",
+      "link": "https://arstechnica.com/gadgets/2026/08/europes-free-satellite-service-just-made-it-easier-to-track-wildfires/",
+      "summary": "Copernicus Browser adds wildfire visualization amid record wildfire season.",
+      "published": "2026-08-07T21:48:21+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "After Rippling blew millions on AI in months, it built an employee ROI tool",
       "link": "https://techcrunch.com/2026/08/07/after-rippling-blew-millions-on-ai-in-months-it-built-an-employee-roi-tool/",
@@ -93,7 +111,7 @@
     {
       "category": "Crypto",
       "source": "The Block",
-      "title": "Trump Media and Crypto.com end partnerships as companies shifts priorities",
+      "title": "Trump Media and Crypto.com end partnerships as companies shift priorities",
       "link": "https://www.theblock.co/news/deals/2026-08-07-trump-media-crypto-com-end-partnerships-as-companies-shifts-priorities-411198?utm_source=rss&utm_medium=rss",
       "summary": "<p>This ends plans Trump Media, Crypto.com and Yorkville Acquisition Corp. had to turn Yorkville into a CRO treasury company.</p>",
       "published": "2026-08-07T21:01:36+00:00",
@@ -143,6 +161,15 @@
       "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
       "published": "2026-08-07T20:30:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Russia dismisses German drone incident as 'fabricated provocation' - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjEybjlvSW1HS2QzMkxxbjlXbUNPbk0zX19DNWw2aU9ucnJmSjRreWpKSDhfSlMtUTdjTTVFcFNWYVkzdEJ3RG84dVYwc2xvVW8zY0dsV0kzV2ZqUmJSYjRmY3YwcmpHVzcySXE0WlBBamNBVUJRMFR0YU45ZEFKZ0ZIeDNFbnlETkRSWTlMR3g3TnFPSjJJX3FoU1pORHU0RzZSY0dLMUVEVmpkdTNJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxPVjEybjlvSW1HS2QzMkxxbjlXbUNPbk0zX19DNWw2aU9ucnJmSjRreWpKSDhfSlMtUTdjTTVFcFNWYVkzdEJ3RG84dVYwc2xvVW8zY0dsV0kzV2ZqUmJSYjRmY3YwcmpHVzcySXE0WlBBamNBVUJRMFR0YU45ZEFKZ0ZIeDNFbnlETkRSWTlMR3g3TnFPSjJJX3FoU1pORHU0RzZSY0dLMUVEVmpkdTNJ?oc=5\" target=\"_blank\">Russia dismisses German drone incident as 'fabricated provocation'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-07T20:24:25+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -325,15 +352,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Volkswagen plans to win America back with a pickup, report says",
-      "link": "https://arstechnica.com/cars/2026/08/volkswagen-plans-to-win-america-back-with-a-pickup-report-says/",
-      "summary": "There's no evidence the truck will be a cheap EV truck, but what if it were?",
-      "published": "2026-08-07T17:13:31+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "EU lays out $18B satellite constellation plan, with Spanish firm winning key role",
@@ -449,15 +467,6 @@
       "summary": "<p>Crypto at risk of becoming \"canary in a coal mine\" when it comes to demonstrating how AI could impact cybersecurity.</p>",
       "published": "2026-08-07T15:30:05+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Italy defies Spanish demand to lift border curbs over Ceuta crisis - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2l5VnNzazhhR3BjdWtLeUVtb09yTjJoNE40UU5jdVR3c3lNcjJEOXlmXzNSWGV1b01UeWsxYkdEU09uN3NITy1kU3JUTzBUTVdJcUp0ZGFpQW1rRHBiV1BYMnNsY3BlQlZzMGNrY25SSzF3MnY4YzNTYldubjdqZWttX1psaU1pc1FSS0ltMjkzQl9wNjVydEdfZkF0aU9IV2RSNWhrc0ZSM3JBVXA4QU9B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPR2l5VnNzazhhR3BjdWtLeUVtb09yTjJoNE40UU5jdVR3c3lNcjJEOXlmXzNSWGV1b01UeWsxYkdEU09uN3NITy1kU3JUTzBUTVdJcUp0ZGFpQW1rRHBiV1BYMnNsY3BlQlZzMGNrY25SSzF3MnY4YzNTYldubjdqZWttX1psaU1pc1FSS0ltMjkzQl9wNjVydEdfZkF0aU9IV2RSNWhrc0ZSM3JBVXA4QU9B?oc=5\" target=\"_blank\">Italy defies Spanish demand to lift border curbs over Ceuta crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-07T15:24:47+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -629,15 +638,6 @@
       "summary": "<p><img alt=\"Teenage Engineering OP-1 Field\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2022/05/Teenage-Engineering-OP-1-Field-Hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Here’s what’s worth adding to your cart while the discounts last.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/best-studio-hardware-deals/\">Score up to 30% off Teenage Engineering gear – plus more studio hardware deals you can’t miss this week</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-07T11:20:18+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-07T09:06:27+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -838,15 +838,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Naïve raises $28.5M to automate the grunt work of setting up and running a company",
-      "link": "https://techcrunch.com/2026/08/06/naive-raises-28-5m-to-automate-the-grunt-work-of-setting-up-and-running-a-company/",
-      "summary": "Taking vibe-coding a step further, Naïve claims its infra can automate most of the work in setting up and running a business.",
-      "published": "2026-08-06T17:00:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Boeing wins first production contract for jet-powered JDAM",
@@ -1002,9 +993,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "7 Top-Performing US Equity ETFs - global.morningstar.com",
+      "title": "7 Top-Performing US Equity ETFs - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE55aElPNUJmalJCYVR1ekZRZmNLSklRQ2NRTFpUTEZsVUg1SVhScVcxdHFOTmNqQzJYRk5KeWlrbUZHTktKc3QtYk5rREYwVXBNOWVmYTZ1WkZYODZYNkZ6VjhaWmlnbENnZGFTVFN4c0xUdS1NWFpkUV94NHZ2UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE55aElPNUJmalJCYVR1ekZRZmNLSklRQ2NRTFpUTEZsVUg1SVhScVcxdHFOTmNqQzJYRk5KeWlrbUZHTktKc3QtYk5rREYwVXBNOWVmYTZ1WkZYODZYNkZ6VjhaWmlnbENnZGFTVFN4c0xUdS1NWFpkUV94NHZ2UQ?oc=5\" target=\"_blank\">7 Top-Performing US Equity ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE55aElPNUJmalJCYVR1ekZRZmNLSklRQ2NRTFpUTEZsVUg1SVhScVcxdHFOTmNqQzJYRk5KeWlrbUZHTktKc3QtYk5rREYwVXBNOWVmYTZ1WkZYODZYNkZ6VjhaWmlnbENnZGFTVFN4c0xUdS1NWFpkUV94NHZ2UQ?oc=5\" target=\"_blank\">7 Top-Performing US Equity ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-05T20:00:28+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1065,9 +1056,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - global.morningstar.com",
+      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5\" target=\"_blank\">Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5\" target=\"_blank\">Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-05T10:05:58+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1366,6 +1357,15 @@
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2020-12-07T16:27:24+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Morning Brew - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2017-07-07T01:37:33+00:00",
       "feed_type": "google_news_fallback"
     },
     {
