@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08T19:34:43.965613+00:00",
+  "updated_at": "2026-08-08T20:36:41.622159+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,42 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin hits block 961,632 as the controversial BIP-110 soft fork attempt begins",
+      "link": "https://www.coindesk.com/tech/2026/08/07/frame-bitcoin-s-bip-110-enters-mandatory-signaling-with-less-than-3-miner-support",
+      "summary": "",
+      "published": "2026-08-08T20:06:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "link": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+      "published": "2026-08-08T20:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxOLVVZeXNFQ1JsdkxwT29TdjNMRmVVM0V6Y3B1NzB3SDVpMzRaTXdFZjJpcWEteGxQd1dWalV1WDlnS2NhSVlTZGhYVHhLU2tUNHhjZ1I4Zl9WbFFZaVRudVU3TEFCMnFtRFlGU2ZYZDNreVlQTjljdWFMbndxVGdyNUlaZFJPUjRZd0F2SnB5dUtvUWZYYWFJUmpjNjVWeFdTTGwyaU8zOGdtdUFjQW5zb0E2aUt1VEUybWxjX2pLZHdwTlVSN2lzbg?oc=5\" target=\"_blank\">Turkey, Pakistan, Saudi Arabia defence pact technically same as NATO's Article 5, Turkish minister says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-08T19:53:53+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "OpenAI acquires presentation startup NextSlide",
+      "link": "https://techcrunch.com/2026/08/08/openai-acquires-presentation-startup-nextslide/",
+      "summary": "NextSlide says its team members are now working on ChatGPT.",
+      "published": "2026-08-08T19:41:13+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -97,15 +133,6 @@
       "link": "https://www.theblock.co/news/regulation/2026-08-08-majority-leader-thune-files-cloture-on-clarity-act-setting-up-sept-15-senate-vote-411211?utm_source=rss&utm_medium=rss",
       "summary": "<p>The Senate is set to vote on the motion on Tuesday, Sept. 15, the day after the body returns, though at least seven non-Republicans will need to support it. </p>",
       "published": "2026-08-08T17:27:45+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "If I buy a house for $1 million in cash at 70, will I run out of money by 90?",
-      "link": "https://www.marketwatch.com/story/if-i-buy-a-house-for-1-million-in-cash-at-70-will-i-run-out-of-money-by-90-54afb313?mod=mw_rss_topstories",
-      "summary": "Buying a house late in life means you might not reach the break-even point that would make it better financially than renting.",
-      "published": "2026-08-08T17:23:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -262,15 +289,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "U.S. Senate passes short-term funding bill to avert federal shutdown before election - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWRVbHNkMjA4cmYxWXRuOEh0bjk4YlNZODFMYXphZEJNZlhRYmhtX3JUTWplenMzemoxYU01LXoydTNfX3p5N29nSkNkSnYyMENNbXJ2RU9FeU1Ed2s1b3lXdWNPYjNwWXg0S3Fodm9TVGRyODBQX2Z4dVQ2bTRpTmh6cDJhQTh3ZWNtTlRYdkU3UEJKeTFqcmhEY0VQNl8zUDkxTW51YXM0OG1jUHpDb2Ewa1ZXdHRqRWFYeWF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQdWRVbHNkMjA4cmYxWXRuOEh0bjk4YlNZODFMYXphZEJNZlhRYmhtX3JUTWplenMzemoxYU01LXoydTNfX3p5N29nSkNkSnYyMENNbXJ2RU9FeU1Ed2s1b3lXdWNPYjNwWXg0S3Fodm9TVGRyODBQX2Z4dVQ2bTRpTmh6cDJhQTh3ZWNtTlRYdkU3UEJKeTFqcmhEY0VQNl8zUDkxTW51YXM0OG1jUHpDb2Ewa1ZXdHRqRWFYeWF3?oc=5\" target=\"_blank\">U.S. Senate passes short-term funding bill to avert federal shutdown before election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-08T09:02:26+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
@@ -298,15 +316,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin holders risk losing real BTC if they sell coins from BIP-110 fork, says developer",
-      "link": "https://www.coindesk.com/tech/2026/08/08/bitcoin-holders-risk-losing-real-btc-if-they-sell-coins-from-bip-110-fork-says-developer",
-      "summary": "",
-      "published": "2026-08-08T02:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "OpenAI says it slowed Astra model development over security concerns",
@@ -327,9 +336,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Atlassian Earnings: Huge Quarter with Cloud Acceleration and AI Starting to Drive a Positive Impact - Morningstar",
+      "title": "Atlassian Earnings: Huge Quarter with Cloud Acceleration and AI Starting to Drive a Positive Impact - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeG1YTEE4eDlwdDJnQ21EbzNYTGx0aGpqNjAwUXk3TkZmc3pBOVNiajVOMVJtb3l1ckZ5d1RPQnFyZ19pYmZpNDhndEVyMUlFb0RyV0JvX1AzVUYxcXdwdVozQXE4QWRoN2tKd0Q5VUh5OHhEUDlYMngwR3Z4NEpBVjNhdk11S0JCT1ZRc2R0dWo2OC11ekdtdWxZYUhQZ0lfUTlLZ0RkSi1vVmNWcU14SzNhRGFYRXVVblhRS0hXaFhpZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeG1YTEE4eDlwdDJnQ21EbzNYTGx0aGpqNjAwUXk3TkZmc3pBOVNiajVOMVJtb3l1ckZ5d1RPQnFyZ19pYmZpNDhndEVyMUlFb0RyV0JvX1AzVUYxcXdwdVozQXE4QWRoN2tKd0Q5VUh5OHhEUDlYMngwR3Z4NEpBVjNhdk11S0JCT1ZRc2R0dWo2OC11ekdtdWxZYUhQZ0lfUTlLZ0RkSi1vVmNWcU14SzNhRGFYRXVVblhRS0hXaFhpZw?oc=5\" target=\"_blank\">Atlassian Earnings: Huge Quarter with Cloud Acceleration and AI Starting to Drive a Positive Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQeG1YTEE4eDlwdDJnQ21EbzNYTGx0aGpqNjAwUXk3TkZmc3pBOVNiajVOMVJtb3l1ckZ5d1RPQnFyZ19pYmZpNDhndEVyMUlFb0RyV0JvX1AzVUYxcXdwdVozQXE4QWRoN2tKd0Q5VUh5OHhEUDlYMngwR3Z4NEpBVjNhdk11S0JCT1ZRc2R0dWo2OC11ekdtdWxZYUhQZ0lfUTlLZ0RkSi1vVmNWcU14SzNhRGFYRXVVblhRS0hXaFhpZw?oc=5\" target=\"_blank\">Atlassian Earnings: Huge Quarter with Cloud Acceleration and AI Starting to Drive a Positive Impact</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
       "published": "2026-08-07T21:49:58+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -354,9 +363,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Market Wrap: Stocks Up 3.7%, Led by Technology - Morningstar",
+      "title": "Market Wrap: Stocks Up 3.7%, Led by Technology - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNZG1RLUJ6al9ZUURibDJVMmlDblJjcFY5LXdJSTFBZlluaS1vcVlxZUUzU2J2TGJrLXhzWmQ4ZFdkWHR4NDBxd3ExSS1CMkliWW5veURvME5VQ0s0SWtjMG0td2ZuZDd1dGl5TGhoRXJpV1pFUENIQWxKV0k0RjJObVlJbUU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZG1RLUJ6al9ZUURibDJVMmlDblJjcFY5LXdJSTFBZlluaS1vcVlxZUUzU2J2TGJrLXhzWmQ4ZFdkWHR4NDBxd3ExSS1CMkliWW5veURvME5VQ0s0SWtjMG0td2ZuZDd1dGl5TGhoRXJpV1pFUENIQWxKV0k0RjJObVlJbUU?oc=5\" target=\"_blank\">Market Wrap: Stocks Up 3.7%, Led by Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNZG1RLUJ6al9ZUURibDJVMmlDblJjcFY5LXdJSTFBZlluaS1vcVlxZUUzU2J2TGJrLXhzWmQ4ZFdkWHR4NDBxd3ExSS1CMkliWW5veURvME5VQ0s0SWtjMG0td2ZuZDd1dGl5TGhoRXJpV1pFUENIQWxKV0k0RjJObVlJbUU?oc=5\" target=\"_blank\">Market Wrap: Stocks Up 3.7%, Led by Technology</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
       "published": "2026-08-07T21:27:06+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -534,9 +543,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Surprising July Jobs Report Muddies the Economic Picture - Morningstar",
+      "title": "Surprising July Jobs Report Muddies the Economic Picture - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhyUGFZdVY1QnQzVW5lMVItNlJibEU0MkZlQ3NTQzYwZld5dlNCQTJ1NTFHajB1bE5WeHBOWm5WR29yUFFUMHh3OEVTd2JvSmNITE9MZjFwYVA3bXlzTGpzWGNmVVpsYXhuSDExOVRPU3ZuMGY0NkpYR2tUbUVfejNpenRNT241b1hPeDQ4TFJLZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhyUGFZdVY1QnQzVW5lMVItNlJibEU0MkZlQ3NTQzYwZld5dlNCQTJ1NTFHajB1bE5WeHBOWm5WR29yUFFUMHh3OEVTd2JvSmNITE9MZjFwYVA3bXlzTGpzWGNmVVpsYXhuSDExOVRPU3ZuMGY0NkpYR2tUbUVfejNpenRNT241b1hPeDQ4TFJLZw?oc=5\" target=\"_blank\">Surprising July Jobs Report Muddies the Economic Picture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxONmhyUGFZdVY1QnQzVW5lMVItNlJibEU0MkZlQ3NTQzYwZld5dlNCQTJ1NTFHajB1bE5WeHBOWm5WR29yUFFUMHh3OEVTd2JvSmNITE9MZjFwYVA3bXlzTGpzWGNmVVpsYXhuSDExOVRPU3ZuMGY0NkpYR2tUbUVfejNpenRNT241b1hPeDQ4TFJLZw?oc=5\" target=\"_blank\">Surprising July Jobs Report Muddies the Economic Picture</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
       "published": "2026-08-07T16:26:10+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -786,9 +795,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility - Morningstar",
+      "title": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWswX1dDbC1NNGhiWUU2d3AxdkpHUlUzY0hHalByS0RFUjh6cDh2YVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWswX1dDbC1NNGhiWUU2d3AxdkpHUlUzY0hHalByS0RFUjh6cDh2YVk?oc=5\" target=\"_blank\">The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWswX1dDbC1NNGhiWUU2d3AxdkpHUlUzY0hHalByS0RFUjh6cDh2YVk?oc=5\" target=\"_blank\">The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
       "published": "2026-08-07T00:06:48+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -813,9 +822,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Albemarle Earnings: Shares Rally on Lithium Price Outlook - Morningstar",
+      "title": "Albemarle Earnings: Shares Rally on Lithium Price Outlook - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG9ndHlpcXJZSzVocUlmWGJMTnpXYm5uMHhSMzQ0ZEhuQ1Z6b21LdEgzQndFdlVWS29XTWlvMGJydDZZakhRUUFTUkF5aHVna25EQ1plazY4Mm5wM1VzNTlHaHdmVXRIMTRjYmNoOVVWTThXbUVMeThra3ZuMWFWWkt3Q2dwTnBZYXhiTEVpYkdQQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG9ndHlpcXJZSzVocUlmWGJMTnpXYm5uMHhSMzQ0ZEhuQ1Z6b21LdEgzQndFdlVWS29XTWlvMGJydDZZakhRUUFTUkF5aHVna25EQ1plazY4Mm5wM1VzNTlHaHdmVXRIMTRjYmNoOVVWTThXbUVMeThra3ZuMWFWWkt3Q2dwTnBZYXhiTEVpYkdQQQ?oc=5\" target=\"_blank\">Albemarle Earnings: Shares Rally on Lithium Price Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQSG9ndHlpcXJZSzVocUlmWGJMTnpXYm5uMHhSMzQ0ZEhuQ1Z6b21LdEgzQndFdlVWS29XTWlvMGJydDZZakhRUUFTUkF5aHVna25EQ1plazY4Mm5wM1VzNTlHaHdmVXRIMTRjYmNoOVVWTThXbUVMeThra3ZuMWFWWkt3Q2dwTnBZYXhiTEVpYkdQQQ?oc=5\" target=\"_blank\">Albemarle Earnings: Shares Rally on Lithium Price Outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
       "published": "2026-08-06T21:34:36+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -844,15 +853,6 @@
       "link": "https://warontherocks.com/attacks-deals-and-discontent/",
       "summary": "<p>Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranOver the last two weeks, President Donald Trump repeatedly threatened major attacks on Iran. Going into the weekend, multiple news outlets reported that he was mulling a major bombing campaign &#8212; which would almost certainly result in retaliatory strikes against U.S. bases and allies around the region. But late Saturday night, Trump asserted that a deal was in the works to reopen the Strait of Hormuz, based on which he would hold fire for the</p>\n<p>The post <a href=\"https://warontherocks.com/attacks-deals-and-discontent/\">Attacks, Deals, and Discontent</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-06T18:15:30+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "ChatGPT brings unlimited text chats to free users",
-      "link": "https://techcrunch.com/2026/08/06/openai-brings-unlimited-chatgpt-text-chats-to-free-users/",
-      "summary": "OpenAI said that ChatGPT free and Go users are also getting a new think button for complex queries.",
-      "published": "2026-08-06T17:34:42+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -912,18 +912,18 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Has This Manager’s Star Fallen? - Morningstar",
+      "title": "Has This Manager’s Star Fallen? - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0weVB0azZpV1EteEw1WXZER3BFUVEtRkhRZHhncGd6ZnRDZ1BFQnBCakUxdnk4QU1vWHZlYktvOGUwT0VXTVNpdGhvdi1zZ3h4MUQyeW1wYjBpVzJuV0k1S1pMeE96eFZ2UUI5S2NibU8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0weVB0azZpV1EteEw1WXZER3BFUVEtRkhRZHhncGd6ZnRDZ1BFQnBCakUxdnk4QU1vWHZlYktvOGUwT0VXTVNpdGhvdi1zZ3h4MUQyeW1wYjBpVzJuV0k1S1pMeE96eFZ2UUI5S2NibU8?oc=5\" target=\"_blank\">Has This Manager’s Star Fallen?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0weVB0azZpV1EteEw1WXZER3BFUVEtRkhRZHhncGd6ZnRDZ1BFQnBCakUxdnk4QU1vWHZlYktvOGUwT0VXTVNpdGhvdi1zZ3h4MUQyeW1wYjBpVzJuV0k1S1pMeE96eFZ2UUI5S2NibU8?oc=5\" target=\"_blank\">Has This Manager’s Star Fallen?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
       "published": "2026-08-06T11:11:26+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "The Winning Formula for Fund Investors, and Why Others Left Money on the Table - Morningstar",
+      "title": "The Winning Formula for Fund Investors, and Why Others Left Money on the Table - morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm1saTlUYnV6SHpnZk5IWHo2WHpFZnNtMV9pMVVpejdEbGRUcG5Zek1BTlZONk53QXNtbnQ2TVU1b3Y2bFdJdU9GS3JiTmtlbjJ4aHVSb2luWGxqbm5NNHdPdmNsT29xNXBrb0dKc1ZMcUZyaDJ0azFRSG16QU05d0dLTnhENUtad3F0TU5tZDZvSWVsZUJB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm1saTlUYnV6SHpnZk5IWHo2WHpFZnNtMV9pMVVpejdEbGRUcG5Zek1BTlZONk53QXNtbnQ2TVU1b3Y2bFdJdU9GS3JiTmtlbjJ4aHVSb2luWGxqbm5NNHdPdmNsT29xNXBrb0dKc1ZMcUZyaDJ0azFRSG16QU05d0dLTnhENUtad3F0TU5tZDZvSWVsZUJB?oc=5\" target=\"_blank\">The Winning Formula for Fund Investors, and Why Others Left Money on the Table</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQTm1saTlUYnV6SHpnZk5IWHo2WHpFZnNtMV9pMVVpejdEbGRUcG5Zek1BTlZONk53QXNtbnQ2TVU1b3Y2bFdJdU9GS3JiTmtlbjJ4aHVSb2luWGxqbm5NNHdPdmNsT29xNXBrb0dKc1ZMcUZyaDJ0azFRSG16QU05d0dLTnhENUtad3F0TU5tZDZvSWVsZUJB?oc=5\" target=\"_blank\">The Winning Formula for Fund Investors, and Why Others Left Money on the Table</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningstar.com</font>",
       "published": "2026-08-06T10:08:13+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1065,9 +1065,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - Morningstar",
+      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - global.morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5\" target=\"_blank\">Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5\" target=\"_blank\">Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
       "published": "2026-08-05T10:05:58+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1299,72 +1299,72 @@
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Before and after satellite images of demolition of East Wing - apnews.com",
+      "title": "Before and after satellite images of demolition of East Wing - AP News",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-10-23T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - apnews.com",
+      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-04-27T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections - apnews.com",
+      "title": "New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections - AP News",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5\" target=\"_blank\">New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5\" target=\"_blank\">New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-03-06T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "PHOTO COLLECTION: Pam Bondi Swearing In - apnews.com",
+      "title": "PHOTO COLLECTION: Pam Bondi Swearing In - AP News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-02-05T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Photos from the People's March on Washington: 1.18.2025 - apnews.com",
+      "title": "Photos from the People's March on Washington: 1.18.2025 - AP News",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5\" target=\"_blank\">Photos from the People's March on Washington: 1.18.2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5\" target=\"_blank\">Photos from the People's March on Washington: 1.18.2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-01-18T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Read the full House ethics report on Matt Gaetz - apnews.com",
+      "title": "Read the full House ethics report on Matt Gaetz - AP News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2024-12-23T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "As civic knowledge declines, programs work to engage young people in democracy - apnews.com",
+      "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2024-09-13T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Politics - apnews.com",
+      "title": "Politics - AP News",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2020-12-07T16:27:24+00:00",
       "feed_type": "google_news_fallback"
     },
