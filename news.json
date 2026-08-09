@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T11:34:50.202957+00:00",
+  "updated_at": "2026-08-09T13:03:05.058528+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,12 +10,93 @@
   ],
   "items": [
     {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "The Last Days Of The A-10 Warthog Weapons School",
+      "link": "https://www.twz.com/air/the-last-days-of-the-a-10-warthog-weapons-school",
+      "summary": "<p>The Weapons Instructor Course has been the center of excellence for the A-10 and its missions for nearly 50 years, but that's about to end.</p>\n<p>The post <a href=\"https://www.twz.com/air/the-last-days-of-the-a-10-warthog-weapons-school\">The Last Days Of The A-10 Warthog Weapons School</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-09T13:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Crypto is going through a massive dot-com style shakeout as over 100 projects fold in 2026",
+      "link": "https://www.coindesk.com/business/2026/08/09/crypto-is-going-through-a-massive-dot-com-style-shakeout-as-over-100-projects-fold-in-2026",
+      "summary": "",
+      "published": "2026-08-09T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "The number of stocks beating the S&P 500 is the highest in 4 years. Why that number should rise.",
+      "link": "https://www.marketwatch.com/story/the-number-of-stocks-beating-the-s-p-500-is-the-highest-in-4-years-why-that-number-should-rise-b9bd05b3?mod=mw_rss_topstories",
+      "summary": "For the first time in four years, the average stock is beating the stock market.",
+      "published": "2026-08-09T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "World News & Politics",
       "source": "Reuters World",
       "title": "Five killed in Ukrainian drone attack on Belgorod, Russian authorities say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPOENwSFprNnAxMlVVRDZJclVmY0VZR1VpN2I0SnhjY2d2cGwzc2QtUHRSWk9jdEg1eW84WnFadDJHaWhIWEU3R3hPNHlsSXJCdk04R3NNbGlYTTU5RzQ1QlhER1lDLWh6Z2czZU9jWkFIdkdkdzdZLW5tcHQwTE1qZ0ctSl96OWdWbFB6WlN2UXhTbnRtYlpvNUFBY0FMWDBJN2xKanJUUU1GU1Y3N0ZSd0k4TnM2QUJW?oc=5\" target=\"_blank\">Five killed in Ukrainian drone attack on Belgorod, Russian authorities say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-09T10:27:14+00:00",
+      "published": "2026-08-09T12:31:57+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I got two email invitations from friends. Is this a phishing scam — or am I suddenly popular?",
+      "link": "https://www.marketwatch.com/story/i-got-two-email-invitations-from-friends-is-this-a-phishing-scam-or-am-i-suddenly-popular-d9680aa8?mod=mw_rss_topstories",
+      "summary": "“I was surprised — and flattered — to find myself on the guest list.”",
+      "published": "2026-08-09T12:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘Her bank accounts were stripped bare by Medicaid’: My late friend had $20,000 in credit-card debt. Will her life insurance pay for it?",
+      "link": "https://www.marketwatch.com/story/her-bank-accounts-were-stripped-bare-by-medicaid-my-late-friend-had-20-000-in-credit-card-debt-will-her-life-insurance-pay-for-it-17ee9792?mod=mw_rss_topstories",
+      "summary": "“She left behind a 30-year-old son and 32-year-old daughter.”",
+      "published": "2026-08-09T12:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOMm5hSE0yMGxRN0hITzZOLXp3R2tCX1dRc1IxaWp3MmZ5Uzc5T20yYmQxVlQ2ZDUzdkppNUJRNzJQcDNwaDh4aGd2cmI1S1lKY2lKRzNBUnJXVVpfOVNwa1JDM2JLenNkMi1YQ2h4MFJ3Yk1HM0FBY2RZZTVnbXd5QmhxU3ZKWTNQZDNEWmdEYVVBUzV3b2tZMEx5TDVTOER0SVZsemE4Z1F2VFJ0Ym9qX3Zn?oc=5\" target=\"_blank\">Israel rejects Trump's 15-point plan for Gaza, PM Netanyahu says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-09T11:50:19+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+      "published": "2026-08-09T11:45:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
+      "link": "https://arstechnica.com/science/2026/08/mount-toba-eruption-doesnt-seem-like-it-could-nearly-kill-our-species/",
+      "summary": "The massive Toba eruption seems to have had little climate impact.",
+      "published": "2026-08-09T11:00:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5\" target=\"_blank\">Talks with US won't happen while interim deal is breached, Iranian minister says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-09T10:52:29+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -39,24 +120,6 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Talks with US won't happen while interim deal is breached, Iranian minister says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNRllnWjhRYk9ZMlhGdzE1NGtIRlpuOXJ0Z0ZuVFJsTVlzUUdlN1Juai1YUGE5WHVnajEtejY4ekktRi1FNUlBLWdzdDRFS0dFNUJ4elhjalNudmVsVkpoYTgybnBNVXB6UXBwTEtlUGtwWHVLM091SzFkMTdKOUFrZ2w1WmpkcFoxQkJVUFlvSC1GMzhlYkM5TWRaVnJHMmhXLXhXSXJnd2FxVkJIOHpNeUE2bkFvSVY1YWMtQ2lNWWNHY2Jma0I1cHA2Q0Y?oc=5\" target=\"_blank\">Talks with US won't happen while interim deal is breached, Iranian minister says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-09T08:36:57+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Russia says it hit fuel storage facilities in Ukrainian ports overnight - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmJnek5pZHJ3UUNSeXFwWXg1cXd0WWpIZUd5a2lHVTBnVE0tZDNmLVU4a2NzbEd0NGsteXFZYW93RXJwci1tSjhYNzdKQi1UcGJ6VnpxWjZZaUYzOUxHX3Utd2dGdUdnT0dHVTZna3hxMkVxSGM4Q29JMlpwZjVucmwxcHRSZ3ZZd3gzWnhjRmxaZUhteFZNR3ZjVmdkbnBCbk4yR0FqcC1xQ2t5MlFz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSmJnek5pZHJ3UUNSeXFwWXg1cXd0WWpIZUd5a2lHVTBnVE0tZDNmLVU4a2NzbEd0NGsteXFZYW93RXJwci1tSjhYNzdKQi1UcGJ6VnpxWjZZaUYzOUxHX3Utd2dGdUdnT0dHVTZna3hxMkVxSGM4Q29JMlpwZjVucmwxcHRSZ3ZZd3gzWnhjRmxaZUhteFZNR3ZjVmdkbnBCbk4yR0FqcC1xQ2t5MlFz?oc=5\" target=\"_blank\">Russia says it hit fuel storage facilities in Ukrainian ports overnight</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-09T06:56:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
       "title": "German trade deficit with China grows as Beijing relies less on European industry - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOODQ2YlF3a0ZsOFRad3lFOW5WTzdtOFVSWmYwTEhTVkNhQ283ckFGd0YtR2hxa1EzYTd0LWVSN2NHNnhESFNpLXhJVTNMRlVCTW8waDI2RFpOeGZKX2dvTGZoM3JzNWJ3ZjRUMFdMaHZleVo1ZG5ackJES1lBZ2ZvelE4Tm1hbGdCaWoxaWE4dlExZGNsaWdKV085cDNFcml3aGxkZUJYdnJvYk8wZnJ2MVNMOXdxbFA4Tk1RQVo1cGc?oc=5\" target=\"_blank\">German trade deficit with China grows as Beijing relies less on European industry</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -69,7 +132,7 @@
       "title": "Accused Thai school shooter had watched violent content online, police say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFkzSXhmN09aWEh5NnFWc0pQVFVLbEFYaGV4c1NZRHpHM045N1lrY3pWZFpGQWRKaWluT3llQ3FXYlh6Y3RPb0xVYnNqMnBmVGhTRmNndVZISWVnZU9CUVc5N2VBVGVCeHMtTVJ2LXp2VXRIVWNpZVpmLUZ5MS1CRVdkclNlaU5yRVlleDI2Y2s1RjVwRHNLT3hqbHE2MThESDRjVjRoODR4U0dMNEt2WGVBLWlLTjhhcWVvUG9US2xkbGZtNFZz?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQZFkzSXhmN09aWEh5NnFWc0pQVFVLbEFYaGV4c1NZRHpHM045N1lrY3pWZFpGQWRKaWluT3llQ3FXYlh6Y3RPb0xVYnNqMnBmVGhTRmNndVZISWVnZU9CUVc5N2VBVGVCeHMtTVJ2LXp2VXRIVWNpZVpmLUZ5MS1CRVdkclNlaU5yRVlleDI2Y2s1RjVwRHNLT3hqbHE2MThESDRjVjRoODR4U0dMNEt2WGVBLWlLTjhhcWVvUG9US2xkbGZtNFZz?oc=5\" target=\"_blank\">Accused Thai school shooter had watched violent content online, police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-09T06:16:00+00:00",
+      "published": "2026-08-09T06:27:01+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -89,6 +152,15 @@
       "summary": "",
       "published": "2026-08-09T05:08:20+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Berkshire Hathaway Earnings: Cash Balances Retreat on Increased Investments and Share Buybacks in Q2 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMm9DTDNMRjNDNG1PRzZnWF8zLXJMeURJM0NKdVNLMzVYbVVxNm9DVS13M1pNVDF0WVBUQ3M2SGZYM1JRb1BCR3lqYXFsdlpmb1RoSTRsSHc2NTh1eDAyQzBZN3djOFVuY28zQ0o1anpRekd3UG9DSlFKRnNPV1kxc2dadHZ4UXl4NTdTTDUxVmRkSEhQeUdJQV9sWVFQbmk5X0dYYWRUWC1NeWQ2Y3BYMXBoMVRlNlVyU2xFY09LM2lJZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPMm9DTDNMRjNDNG1PRzZnWF8zLXJMeURJM0NKdVNLMzVYbVVxNm9DVS13M1pNVDF0WVBUQ3M2SGZYM1JRb1BCR3lqYXFsdlpmb1RoSTRsSHc2NTh1eDAyQzBZN3djOFVuY28zQ0o1anpRekd3UG9DSlFKRnNPV1kxc2dadHZ4UXl4NTdTTDUxVmRkSEhQeUdJQV9sWVFQbmk5X0dYYWRUWC1NeWQ2Y3BYMXBoMVRlNlVyU2xFY09LM2lJZw?oc=5\" target=\"_blank\">Berkshire Hathaway Earnings: Cash Balances Retreat on Increased Investments and Share Buybacks in Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-09T01:24:46+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -169,42 +241,6 @@
       "link": "https://www.marketwatch.com/story/dont-worry-about-what-other-people-have-saved-for-retirement-heres-how-to-find-your-perfect-number-73fc460e?mod=mw_rss_topstories",
       "summary": "Don’t compare your nest-egg balance to a number that doesn’t actually mean anything. Instead, do this calculation to see if you’re on track for retirement.",
       "published": "2026-08-08T18:37:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
-      "link": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
-      "summary": "“He has never been particularly generous or nurturing.”",
-      "published": "2026-08-08T18:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I’m an unemployed software developer who is skeptical of AI. Can I still find a job in tech?",
-      "link": "https://www.marketwatch.com/story/im-an-unemployed-software-developer-who-is-skeptical-of-ai-can-i-still-find-a-job-in-tech-4413875e?mod=mw_rss_topstories",
-      "summary": "“I was approached by one company who wants to use AI to dispatch ambulances.”",
-      "published": "2026-08-08T18:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
-      "published": "2026-08-08T18:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Are target date funds aggressive enough to give Americans retirement savings that last their lifetimes?",
-      "link": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
-      "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
-      "published": "2026-08-08T17:58:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -313,15 +349,6 @@
       "link": "https://www.coindesk.com/policy/2026/08/08/u-s-senate-opens-first-stage-of-crypto-clarity-act-voting-to-give-bill-a-chance-next-month",
       "summary": "",
       "published": "2026-08-08T09:07:24+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Another Bitcoin infrastructure exploit hits, this time draining Lightning payment servers",
-      "link": "https://www.coindesk.com/tech/2026/08/08/another-bitcoin-infrastructure-exploit-hits-this-time-draining-merchant-lightning-nodes",
-      "summary": "",
-      "published": "2026-08-08T07:46:04+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -511,15 +538,6 @@
       "link": "https://arstechnica.com/gaming/2026/08/new-official-30th-anniversary-quake-mission-pack-adds-new-maps-and-mechanics/",
       "summary": "19 new maps continue the story from MachineGames' other campaign additions.",
       "published": "2026-08-07T18:00:02+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "DOGE's wild, unverifiable savings claims discredited in US government report",
-      "link": "https://arstechnica.com/tech-policy/2026/08/doges-inflated-wall-of-receipts-96-of-grant-savings-unverifiable-gao-says/",
-      "summary": "DOGE's inflated \"Wall of Receipts\": 96% of grant savings unverifiable, GAO says.",
-      "published": "2026-08-07T17:51:05+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -811,6 +829,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWswX1dDbC1NNGhiWUU2d3AxdkpHUlUzY0hHalByS0RFUjh6cDh2YVk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNQ3NtZW9XVFh3dnFzMHJKc2plTWhVR0xTR2FnYWRobTd4WHExS0dWU1haV0F4NHNRckZTaklZajdGN0xwalZuREZpZS16bkNOMkU2akZsdFVtdktIVTN4WmZ6V0oyZ1V0ZHZId2lkSTdoMlN1aWswX1dDbC1NNGhiWUU2d3AxdkpHUlUzY0hHalByS0RFUjh6cDh2YVk?oc=5\" target=\"_blank\">The Fed’s New Philosophy Could Be a Recipe for Interest Rate Volatility</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-07T00:06:48+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Jet-Powered JDAM Production Is A Go For The U.S. Navy",
@@ -826,15 +853,6 @@
       "link": "https://www.twz.com/uncategorized/the-falaj-3-may-be-the-worlds-most-heavily-armed-patrol-boat",
       "summary": "<p>Officially an offshore patrol vessel, the compact design carries the kind of combat capability normally associated with well-armed corvettes or even frigates. </p>\n<p>The post <a href=\"https://www.twz.com/uncategorized/the-falaj-3-may-be-the-worlds-most-heavily-armed-patrol-boat\">The Falaj 3 May Be The World’s Most Heavily Armed Patrol Boat</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-06T21:15:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Houthis Stage Large-Scale Attack On Saudi-Aligned Forces In Yemen",
-      "link": "https://www.twz.com/news-features/houthis-stage-large-scale-attack-on-saudi-aligned-forces-in-yemen",
-      "summary": "<p>The strikes are yet another escalation in Houthi-Saudi hostilities roiling the Red Sea region. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/houthis-stage-large-scale-attack-on-saudi-aligned-forces-in-yemen\">Houthis Stage Large-Scale Attack On Saudi-Aligned Forces In Yemen</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-06T20:42:40+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -899,24 +917,6 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Google’s AI empire is being reshaped. Here’s what’s changed. After a wave of painful losses in the tech talent wars, delays to its next flagship model, and murmurings of poor morale,&#8230;",
       "published": "2026-08-06T12:10:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Has This Manager’s Star Fallen? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0weVB0azZpV1EteEw1WXZER3BFUVEtRkhRZHhncGd6ZnRDZ1BFQnBCakUxdnk4QU1vWHZlYktvOGUwT0VXTVNpdGhvdi1zZ3h4MUQyeW1wYjBpVzJuV0k1S1pMeE96eFZ2UUI5S2NibU8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE0weVB0azZpV1EteEw1WXZER3BFUVEtRkhRZHhncGd6ZnRDZ1BFQnBCakUxdnk4QU1vWHZlYktvOGUwT0VXTVNpdGhvdi1zZ3h4MUQyeW1wYjBpVzJuV0k1S1pMeE96eFZ2UUI5S2NibU8?oc=5\" target=\"_blank\">Has This Manager’s Star Fallen?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-06T11:11:26+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "​​Retirement Planning for Couples​​ Without Children - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkQ0WmMxdlVUMF9wcS0wQjdmSEc4QU03NnJSNG5VTkJXRjM5N3NmUGdaTVN4d3BJS2ZOWkJ5cFJtUjJTR0E1TVE0R3Y2Z285VVRnU0I3MXVIa1hDUXA1YnpKSW15T0E4QmtURFFJMlZDTmF6OUN1OTdvbmhQZTRFYTNTQXh0SlA2aG5v?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxORkQ0WmMxdlVUMF9wcS0wQjdmSEc4QU03NnJSNG5VTkJXRjM5N3NmUGdaTVN4d3BJS2ZOWkJ5cFJtUjJTR0E1TVE0R3Y2Z285VVRnU0I3MXVIa1hDUXA1YnpKSW15T0E4QmtURFFJMlZDTmF6OUN1OTdvbmhQZTRFYTNTQXh0SlA2aG5v?oc=5\" target=\"_blank\">​​Retirement Planning for Couples​​ Without Children</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-06T11:02:48+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -1065,9 +1065,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - Morningstar",
+      "title": "Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued - global.morningstar.com",
       "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5\" target=\"_blank\">Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxPd3M0UUZfRnBqNW15X2tEQkVsYUhGVklLdTh2dG5XUXdEMDhCcFFJNUxMbG82N1hybXdSc3ExYkcxaVZZNzNobVFkbnlhd1hxNGM4bzIxeDBqUWZ3TDNEanp6RTRsYkFSbFd4WWRjUVhTVzdxeUlTMEtHU2dxY19qb3NDRmEtX3ZLYm0wNFo3THV3b1Z2UVJ2SXU3clRKQm1CSG9MYkM4akZIa3VEWXZnb1JBUnlZOFE?oc=5\" target=\"_blank\">Nvidia Stock: This Onetime Market Darling Is Now Surprisingly Undervalued</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
       "published": "2026-08-05T10:05:58+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1180,6 +1180,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUtneVBseU0xZU9lYVlfNWtoWEFycjUySkJBdmZlcjRhUUdYdDFWUENUWEdRWFpSRk9yUjJ4MmNfc01LRDNDR2FuanVGdGt6SlBybDRkN25NZEdyalo4UnIteUNtbG1NMDhGWWIyTDFtQXVWZTRUTk5Gbms5VzQ2aVVST1NuWU5TY05nZDNkSFY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUtneVBseU0xZU9lYVlfNWtoWEFycjUySkJBdmZlcjRhUUdYdDFWUENUWEdRWFpSRk9yUjJ4MmNfc01LRDNDR2FuanVGdGt6SlBybDRkN25NZEdyalo4UnIteUNtbG1NMDhGWWIyTDFtQXVWZTRUTk5Gbms5VzQ2aVVST1NuWU5TY05nZDNkSFY?oc=5\" target=\"_blank\">Latest News – Civil War in Sudan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-03T22:25:55+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "Trump’s AI protectionism has come for robotics",
@@ -1195,15 +1204,6 @@
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHowbTRLYkpYSm9xM1JuZU5HY3Z0N1BUQTJqaW1qUVhtSFc5cFduS200RFoxOFM1QzE3dGtfR1FVd1A5dFZuUXFTVHc0RmtGak9qUkIySEc5UG1JVEx1YjliVzZrX25NYzNNcW5YMURjSXhwMjJZZ3dzeS1jdTRXWkVFQko4SmdQVE00SFZtSVY4V3psaTRYcjdB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOdHowbTRLYkpYSm9xM1JuZU5HY3Z0N1BUQTJqaW1qUVhtSFc5cFduS200RFoxOFM1QzE3dGtfR1FVd1A5dFZuUXFTVHc0RmtGak9qUkIySEc5UG1JVEx1YjliVzZrX25NYzNNcW5YMURjSXhwMjJZZ3dzeS1jdTRXWkVFQko4SmdQVE00SFZtSVY4V3psaTRYcjdB?oc=5\" target=\"_blank\">Altman’s recommendation sparks debate about AI in parenting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-03T06:43:39+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Will Iran Turn Into a Forever War? - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBUVlNRbU5OX2tHbTJUQllUTUxUSWxOekoydk15ZWpRWUQtdDhXUWRNSEVIanoybk9UaTBaMkIyQjBKd1dSa1pRNGlpZ2NJT1FCbmRvWFdPZU5Tb3Qya0J0VzB4ZGlSUUJTelFrVkZ6ckRTUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBUVlNRbU5OX2tHbTJUQllUTUxUSWxOekoydk15ZWpRWUQtdDhXUWRNSEVIanoybk9UaTBaMkIyQjBKd1dSa1pRNGlpZ2NJT1FCbmRvWFdPZU5Tb3Qya0J0VzB4ZGlSUUJTelFrVkZ6ckRTUQ?oc=5\" target=\"_blank\">Will Iran Turn Into a Forever War?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-07-31T17:10:52+00:00",
       "feed_type": "google_news_fallback"
     },
     {
