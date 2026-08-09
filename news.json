@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09T15:37:12.579426+00:00",
+  "updated_at": "2026-08-09T16:42:04.494784+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,15 @@
     }
   ],
   "items": [
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
+      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
+      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
+      "published": "2026-08-09T16:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
@@ -181,24 +190,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘My wife and I are both retired’: Do we dip into our $2.3 million fund to pay off our $300,000 mortgage at 2.9%?",
-      "link": "https://www.marketwatch.com/story/my-wife-and-i-are-both-retired-do-we-dip-into-our-2-3-million-fund-to-pay-off-our-300-000-mortgage-at-2-9-2d23d1df?mod=mw_rss_topstories",
-      "summary": "“Right now, we’re withdrawing about $100,000 a year from our investments.”",
-      "published": "2026-08-09T11:45:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Passage of ships to Black Sea continues smoothly, Turkish officials say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0gyU21ScmZKOEVnYlkwcjVrb2hwZ0I4M01vYkRrS0ZsclJPejZINnRibXNCOWdTYVp5WG81Y3BndlhncFdHTkpJV1NuNkhvdzdQNkktWjhQVk8zQmpKQUhodGMzYmdyOV84bWFwZHdWN0RxRFppVnZobk5pWEd0ejBhWklHcnljNUp1emF4ckdFcWJRY2xFeUNYNnl2cDI1Z0ROMlBYbTlFbE1kdWJBM09Na0M3LWdEbmc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQT0gyU21ScmZKOEVnYlkwcjVrb2hwZ0I4M01vYkRrS0ZsclJPejZINnRibXNCOWdTYVp5WG81Y3BndlhncFdHTkpJV1NuNkhvdzdQNkktWjhQVk8zQmpKQUhodGMzYmdyOV84bWFwZHdWN0RxRFppVnZobk5pWEd0ejBhWklHcnljNUp1emF4ckdFcWJRY2xFeUNYNnl2cDI1Z0ROMlBYbTlFbE1kdWJBM09Na0M3LWdEbmc?oc=5\" target=\"_blank\">Passage of ships to Black Sea continues smoothly, Turkish officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-09T11:33:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Mount Toba eruption doesn't seem like it could nearly kill our species",
@@ -206,6 +197,15 @@
       "summary": "The massive Toba eruption seems to have had little climate impact.",
       "published": "2026-08-09T11:00:14+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Spain checks 200 Italy arrivals in border controls after migration row - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0xPUnhUVXVCczdCeWJsTTl2WGtMY1M5aHJRZjlYbkI5OW94dFE1eEJzaU56NkF2WVVveE1BN3VOWU5sQ0gyb19LT2d6NUY1cks1cy04Y25rRE82ZDdwQ2g1VDR5STE0ZTlZWGRSRmVOSDJpOXkzRWQwRENDaG5FYmZOVTZMVnNieVY4VzRhTlVXNFBuazUxZEFPZzRNenpUQjZ0Z1BobnpQUERFSVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQY0xPUnhUVXVCczdCeWJsTTl2WGtMY1M5aHJRZjlYbkI5OW94dFE1eEJzaU56NkF2WVVveE1BN3VOWU5sQ0gyb19LT2d6NUY1cks1cy04Y25rRE82ZDdwQ2g1VDR5STE0ZTlZWGRSRmVOSDJpOXkzRWQwRENDaG5FYmZOVTZMVnNieVY4VzRhTlVXNFBuazUxZEFPZzRNenpUQjZ0Z1BobnpQUERFSVE?oc=5\" target=\"_blank\">Spain checks 200 Italy arrivals in border controls after migration row</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-09T08:52:34+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
