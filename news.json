@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13T02:26:37.243217+00:00",
+  "updated_at": "2026-08-13T04:56:29.444773+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,6 +10,69 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Speculation on dogecoin is back to October 2025 levels. The price is down 70%",
+      "link": "https://www.coindesk.com/markets/2026/08/13/speculation-on-dogecoin-is-back-to-october-2025-levels-the-price-is-down-70",
+      "summary": "",
+      "published": "2026-08-13T04:06:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Hot to Broker Peace in Ukraine",
+      "link": "https://www.foreignaffairs.com/ukraine/hot-broker-peace-ukraine",
+      "summary": "Decades of hard-won mediation experience point the way.",
+      "published": "2026-08-13T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The Next Global Economic Crisis Could Be Made in China",
+      "link": "https://www.foreignaffairs.com/china/next-global-economic-crisis-made-china-michael-froman",
+      "summary": "How overcapacity ends.",
+      "published": "2026-08-13T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin slips near $63,500 as traders look past CPI to Fed’s next tests",
+      "link": "https://www.coindesk.com/markets/2026/08/13/bitcoin-slips-near-usd63-500-as-traders-look-past-cpi-to-fed-s-next-tests",
+      "summary": "",
+      "published": "2026-08-13T03:39:06+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Russia's Putin visits disputed Kuril Islands, samples fish roe, media say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNei1QbjNvMkM4LTlaU0FlWDFFQ0xkYlFWam1feHpUVjk4cjN2RzVYektNaktNb2c1bFlJZmFieHM3UF9YaHZlQXA0MEljX2lVQXRiTC1nSXpjc1ZVaGx0bzFoaEVOVVlrTEZ0c0dlclV3MzNzTVM4cmJvbGNDeFhTVjZ5LU1fYUN1ZmdXbV9VMG9HYXZPUXFyNnFlT09aR1hrR0RzV1l3Y3duU0RTWVNvaHJn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNei1QbjNvMkM4LTlaU0FlWDFFQ0xkYlFWam1feHpUVjk4cjN2RzVYektNaktNb2c1bFlJZmFieHM3UF9YaHZlQXA0MEljX2lVQXRiTC1nSXpjc1ZVaGx0bzFoaEVOVVlrTEZ0c0dlclV3MzNzTVM4cmJvbGNDeFhTVjZ5LU1fYUN1ZmdXbV9VMG9HYXZPUXFyNnFlT09aR1hrR0RzV1l3Y3duU0RTWVNvaHJn?oc=5\" target=\"_blank\">Russia's Putin visits disputed Kuril Islands, samples fish roe, media say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-13T03:38:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "BitGo sees revenue jump 80% to $4.3 billion in Q2 but posts net loss",
+      "link": "https://www.theblock.co/news/business/2026-08-12-bitgo-sees-revenue-jump-q2-411664",
+      "summary": "The firm recorded a net loss of $19 million in Q2, compared with net income of $38.3 million in the same period last year.",
+      "published": "2026-08-13T03:07:09+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Taiwan says it was targeted last month in AI-driven hacking campaign - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3R3WnUyejNHdDNNLTI5ZWlqc01BSlNvdzdJRnczZ3JTQkF1c3pxaWdOVTZBSlpKNjFfdE1DUFdQcS1OQklQTkpHNE4yQTNHZWo3VVZveXg0ZjdnSnN3QklJQW9VNnVYQzZUZXFubkt6V1RjaXMxQjVXOXZEcU1QV2ktdE5heGNrMzlXb1ZlVlRIY1RvZnFnMC1QOFRkeGFBRUZodXRhRkR2OXRrbG1oMk5Baw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNY3R3WnUyejNHdDNNLTI5ZWlqc01BSlNvdzdJRnczZ3JTQkF1c3pxaWdOVTZBSlpKNjFfdE1DUFdQcS1OQklQTkpHNE4yQTNHZWo3VVZveXg0ZjdnSnN3QklJQW9VNnVYQzZUZXFubkt6V1RjaXMxQjVXOXZEcU1QV2ktdE5heGNrMzlXb1ZlVlRIY1RvZnFnMC1QOFRkeGFBRUZodXRhRkR2OXRrbG1oMk5Baw?oc=5\" target=\"_blank\">Taiwan says it was targeted last month in AI-driven hacking campaign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-13T02:01:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Cisco sees record results from an AI ‘supercycle,’ but its stock pulls back",
@@ -17,6 +80,15 @@
       "summary": "An 18% revenue surge and blowout 2027 forecast weren’t enough to sustain Cisco’s stock momentum.",
       "published": "2026-08-13T01:16:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Asian stocks rise as US inflation data dents September Fed hike bets - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNazlfTWozZlI1am8yV1pmREdVZGswQ1NPWl92dGhIN3lVbWJRaFA2YWhWNDQ4NWwweXZpbmpLOGFmcDlUdDhBSGFyU1piOVBzam1JOEN2RVFDOXdWOFk2LTB1MklsRzRfVmlaR3BTb2ZFNmw2U0hjUnhNLUd3cVV0WElxVQ?oc=5\" target=\"_blank\">Asian stocks rise as US inflation data dents September Fed hike bets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-13T01:02:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -64,15 +136,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Japan's wholesale inflation spikes in July, bolsters rate-hike chance - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BxTzUyem1ETnNDcTg1SFdadWpmYmNFZVY2cFlFT0N3UklwcTA5Qnh1cjZVTGFieGVjM09lc0QtaXZwVDEtQjF4YUJaMWRnbkNXVkdOQXhZRDc3OXdIY0x4czdsSFFnOTZGUWFNS0VYM0FKaTdOR2NyMVZTSlJvWnBLMElWdTVXZ0c3WW40Y3l4LXFjb190ZThlV3A1M0x0WDc4VXZiYXpVZFBTMFNON252VmJmenJnWEQ4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxPa3BxTzUyem1ETnNDcTg1SFdadWpmYmNFZVY2cFlFT0N3UklwcTA5Qnh1cjZVTGFieGVjM09lc0QtaXZwVDEtQjF4YUJaMWRnbkNXVkdOQXhZRDc3OXdIY0x4czdsSFFnOTZGUWFNS0VYM0FKaTdOR2NyMVZTSlJvWnBLMElWdTVXZ0c3WW40Y3l4LXFjb190ZThlV3A1M0x0WDc4VXZiYXpVZFBTMFNON252VmJmenJnWEQ4?oc=5\" target=\"_blank\">Japan's wholesale inflation spikes in July, bolsters rate-hike chance</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-13T00:06:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Is $1 million enough for a household to retire? The answer keeps changing.",
@@ -80,15 +143,6 @@
       "summary": "“Some readers — and couples — would be grateful to retire on half that amount.”",
       "published": "2026-08-13T00:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Spain rejects discussing sovereignty of enclaves with Morocco - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW9YV1hRXzRJbmZmejdpLWx5bGl4WHk0VlBJcjJVTDNWaGVDVkhjbkJTNS1GZHp2UlhmYmxXR3cyLXlkaXl5SXBvZ2NMVUVkbEhEWGJpdTBKY0k5OVVGbDI3MGFJS01uRGdVRlNzZUhxLUdmdnMxekRDRXV2RFBEZXJXOG1ibW1pVXR4RGNERkdzV0J6czRDLXZna0hQSENMM29VNGFkcFV1X3M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQUW9YV1hRXzRJbmZmejdpLWx5bGl4WHk0VlBJcjJVTDNWaGVDVkhjbkJTNS1GZHp2UlhmYmxXR3cyLXlkaXl5SXBvZ2NMVUVkbEhEWGJpdTBKY0k5OVVGbDI3MGFJS01uRGdVRlNzZUhxLUdmdnMxekRDRXV2RFBEZXJXOG1ibW1pVXR4RGNERkdzV0J6czRDLXZna0hQSENMM29VNGFkcFV1X3M?oc=5\" target=\"_blank\">Spain rejects discussing sovereignty of enclaves with Morocco</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-12T23:38:32+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -102,19 +156,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQbnJXNzBsTDNMc0JITVpQUHVTUkFxSmpkQUdWM21fM2FxOGVSaFFpeHFBdzZhYnlIZXc4ZklfNGtaSG5mMkpIWnlmUUxXbTJSRmY5bkF4X1B5OTVKbVhLb0Y0NDNhOVlPb3VrLVZsTzJqUDNxcUM1dzhFdFpwS3ljX3FVc2hiaUFFNEpDbGk2VHdHWDFpOXVnYVYyZG92VHNBa2Jmc0hNWDQxXzBtVjUtbQ?oc=5\" target=\"_blank\">Senators press Rubio, Bessent on lack of counter-evasion sanctions on Russia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-12T23:13:34+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Four things we learned from primaries in Wisconsin, Minnesota and South Carolina - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3ZpXzlKUWRCVEtZejV4Z0djVHFkaDcwV2VLeU1zSUNSLTZ2S012RGFxVmYyeHhUMzNZMFFVb1k5NGFwMkNmMG1iRXBfNUV2T1cwUTd5cnlmRDhmUUgzUG1PNzhNZ3RqdFlVZk9pdVVua1VUTXJQcG1wNmRSOUc2RjlySHlEQjZWWWRQbXl0UEJDMDV1LWtyTGlnbmRzVmdkTzloNnVTTkZUaFNLRHlPWEtB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNN3ZpXzlKUWRCVEtZejV4Z0djVHFkaDcwV2VLeU1zSUNSLTZ2S012RGFxVmYyeHhUMzNZMFFVb1k5NGFwMkNmMG1iRXBfNUV2T1cwUTd5cnlmRDhmUUgzUG1PNzhNZ3RqdFlVZk9pdVVua1VUTXJQcG1wNmRSOUc2RjlySHlEQjZWWWRQbXl0UEJDMDV1LWtyTGlnbmRzVmdkTzloNnVTTkZUaFNLRHlPWEtB?oc=5\" target=\"_blank\">Four things we learned from primaries in Wisconsin, Minnesota and South Carolina</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-12T23:01:04+00:00",
+      "title": "Two US Army soldiers killed in Texas helicopter crash - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxOYVROdG1WU2licEoyR2xYTHB0NG1VZUc3cElhampMR0k4WDlXQVBkUDFTMUFlcDF4LXBrUjZDWlplR0xMNld0cVRUaEE4QlVZeTFpRnRvd1EtMjEtRzJSejR1Vk8ySl9IMm1xWDc1WVk1S2g4Vjk1ZW50OVY2MEZnZElFMFIwLXY0T3Rfb2MycVB6RUNNVTFmR0l2QQ?oc=5\" target=\"_blank\">Two US Army soldiers killed in Texas helicopter crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-12T23:06:14+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -191,6 +236,15 @@
     },
     {
       "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Conflict Between Turkey and Armed Kurdish Groups | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1hBRzFSa092WW1EYVlENVVaQ3l1emcxdWttb0ZQVkJ4VGNVUVJ1QU00dEF4Rm16N2FaNEgxNzVoSEFCaGhQVW1jdUYxN1FKeEt4RFU2UGJjMnJicjQ0TWZlRUZWVVZpS21aMXdoQ0ZiOFBLTDRTTVJUazhVeVUyQUxIMnZUM0FFNHluU3BKMzBKY3o5em1wSXEtQWRnM1ozWWwyc1dZcm1KMnZQODJaWUl2dVpCZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1hBRzFSa092WW1EYVlENVVaQ3l1emcxdWttb0ZQVkJ4VGNVUVJ1QU00dEF4Rm16N2FaNEgxNzVoSEFCaGhQVW1jdUYxN1FKeEt4RFU2UGJjMnJicjQ0TWZlRUZWVVZpS21aMXdoQ0ZiOFBLTDRTTVJUazhVeVUyQUxIMnZUM0FFNHluU3BKMzBKY3o5em1wSXEtQWRnM1ozWWwyc1dZcm1KMnZQODJaWUl2dVpCZw?oc=5\" target=\"_blank\">Latest News – Conflict Between Turkey and Armed Kurdish Groups | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-12T22:06:15+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
       "source": "Reuters World",
       "title": "Trump signed memo to allow use of cyber tools to target transnational criminal organizations, White House says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNVDd1dGl3STNGeUZmNVlxWXlRY1kxQkhOXzFIdnZyeTlvZ1Bxb0dTcGw1TXpZOHhLRlV1UlU1YzJIeFFNVHlDVDB0VlZ1N2RpWXVhVk1GcnJaeE5jVkYtRmxicTJZM2ZmNU9waExOcjc1SmoweDhXZmVWdkFsTktob0VlUXh6enpTUDF6YThxVkRGOUdSOWFRdV9CcVN1OEVxa3lJcEFKcnlqbU9RYlBnRFp1RmhmRGVwX0JaWl9uMA?oc=5",
@@ -235,15 +289,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5\" target=\"_blank\">EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-12T21:27:41+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Drone Swarms Over Langley AFB Didn’t Surprise General In Charge Of NORAD",
@@ -251,15 +296,6 @@
       "summary": "<p> Retired General VanHerck said he warned even the Secretary of Defense that U.S. military installations were sitting ducks to such actions.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/former-norad-boss-wasnt-surprised-by-langley-afb-drone-incursions\">Drone Swarms Over Langley AFB Didn&#8217;t Surprise General In Charge Of NORAD</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-12T21:25:39+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Ukraine has retaken 745 sq km in 'precision' operation this year, Zelenskiy says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkoyOTlIR2NIRXptcnZtelYxMjBCbWMwbzhkZnlEczVZa0hZQk5wYlhaQkJkM04wdDlEYUFRX3c2bm1EalpMMW9mN20xZXBEQ3QwaTdoaXhVNEFvOWpibFVHMTFlbXJGd1VDR3ZqM2prY2pLSHlFUExPRVVSNzlXdHllVlRNbWpnX2YyV3pULXZuQmFIZHpUVXRna1EzekZKQWxvZzNFVVZsSEI1WlZpU2NVNTdWbzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQdkoyOTlIR2NIRXptcnZtelYxMjBCbWMwbzhkZnlEczVZa0hZQk5wYlhaQkJkM04wdDlEYUFRX3c2bm1EalpMMW9mN20xZXBEQ3QwaTdoaXhVNEFvOWpibFVHMTFlbXJGd1VDR3ZqM2prY2pLSHlFUExPRVVSNzlXdHllVlRNbWpnX2YyV3pULXZuQmFIZHpUVXRna1EzekZKQWxvZzNFVVZsSEI1WlZpU2NVNTdWbzA?oc=5\" target=\"_blank\">Ukraine has retaken 745 sq km in 'precision' operation this year, Zelenskiy says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-12T21:24:50+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -341,6 +377,15 @@
       "summary": "With Truth API, Trump is \"selling priority access to news he himself generates.\"",
       "published": "2026-08-12T20:20:52+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US floats prospect of joint strikes on Colombian armed groups - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWFXN2pMZ2o1LW81VFFMdVJMeG1ETjZHeF9pSXpVME84WTBpZG5mZ2RfdWZqWGJsenVsU05SMGNENVVZUGZjdTVNZDMzUE1HR1pINm5hSmlMdGZma1E3eVN0LUhjTEZwU3ppUlFPWkp3bXlXWm5MbVlCb05LOE9vaTVwemJXLXYwTjNaU3RpcnU2ZF9JQmpCUHpWOEtFeE9kRXdQZ0tYeC01SGRESXR0ZTkwZTdudFVi?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNWFXN2pMZ2o1LW81VFFMdVJMeG1ETjZHeF9pSXpVME84WTBpZG5mZ2RfdWZqWGJsenVsU05SMGNENVVZUGZjdTVNZDMzUE1HR1pINm5hSmlMdGZma1E3eVN0LUhjTEZwU3ppUlFPWkp3bXlXWm5MbVlCb05LOE9vaTVwemJXLXYwTjNaU3RpcnU2ZF9JQmpCUHpWOEtFeE9kRXdQZ0tYeC01SGRESXR0ZTkwZTdudFVi?oc=5\" target=\"_blank\">US floats prospect of joint strikes on Colombian armed groups</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-12T20:14:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -467,6 +512,15 @@
       "summary": "Thrive Holdings has raised $2 billion in new funding at a $12 billion valuation from investors like SoftBank, D1 Capital Partners, and Altimeter Capital.",
       "published": "2026-08-12T17:41:29+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxOSU94aktXTlJLQ3ppVXlTTWcyZVhBNU9oT09IMXQ2UG1IenF5ZjBPemNWdDZJVFFuNk45N3VnWW8wUzhMaU1pNkQ1UXU1SnJJWFNxM29MQkFyQmp1Qy1sbE5aX3lZQ2JOX0taWW90WFpGRTFuUXI5TDRpN0FlVmItb196ZHlMMlU2VWNCLUxNa19GOXkzanZLdGM5My1CWXhLMU9B?oc=5\" target=\"_blank\">EXCLUSIVE: Inside the Google executive moves that led to its big AI reshuffle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-12T17:36:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -604,39 +658,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "BIP-110 failure shows Bitcoin would be ‘almost impossible to reproduce,’ Plan B Network director says",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-12-bip-110-failure-bitcoin-impossible-reproduce-plan-b-network-director-411596",
-      "summary": "Plan B Network director Giacomo Zucco says BIP-110’s failure exposed the challenges of recreating Bitcoin’s early development.",
-      "published": "2026-08-12T15:51:35+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Trump swaps planes via catering truck after Iranian threats, reports say",
       "link": "https://www.defensenews.com/news/pentagon-congress/2026/08/12/trump-swaps-planes-via-catering-truck-after-iranian-threats-reports-say/",
       "summary": "Trump was transferred from Air Force One to a military plane via a catering truck due to Iranian threats following a NATO summit in Turkey, reports say.",
       "published": "2026-08-12T15:13:20+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Miden bets on privacy stablecoins with introduction of USDCx",
-      "link": "https://www.coindesk.com/tech/2026/08/12/miden-bets-on-privacy-stablecoins-with-introduction-of-usdcx",
-      "summary": "",
-      "published": "2026-08-12T15:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: When capital can't move fast enough, markets pay the price",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/08/12/crypto-long-and-short",
-      "summary": "",
-      "published": "2026-08-12T14:51:12+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -955,15 +982,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Zuck’s manifesto argues for decentralized AI - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE5JenRndTYtWTdOZ1BsMW5xRmQxQ1k1SWNmM1Y1V2tiRnBpd216cU9OdkNGb0UycThkdEZ4S0p1aVZkQzQ1ZmNWYmx2ZGY3R0tQWjJqcEZWR0JWT3ZnQUFaM0RzYUtMdml2dFFMWHpJRVpubkEwck4yazdFeUJhOVVHRmc5Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxOOE5JenRndTYtWTdOZ1BsMW5xRmQxQ1k1SWNmM1Y1V2tiRnBpd216cU9OdkNGb0UycThkdEZ4S0p1aVZkQzQ1ZmNWYmx2ZGY3R0tQWjJqcEZWR0JWT3ZnQUFaM0RzYUtMdml2dFFMWHpJRVpubkEwck4yazdFeUJhOVVHRmc5Zw?oc=5\" target=\"_blank\">Zuck’s manifesto argues for decentralized AI</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-10T22:16:21+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "DOGE said it saved $1.7 billion by terminating a military health IT contract. GAO found the contract was never terminated.",
@@ -1016,6 +1034,15 @@
       "summary": "<p>Welcome to&#160;The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum, only for War on the Rocks&#160;members. Each Monday, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.American coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline and Strategy&#1062;&#1077;&#1085;&#1079;&#1086;&#1088;.&#1053;&#1045;&#1058;</p>\n<p>The post <a href=\"https://warontherocks.com/is-ukraine-drifting-towards-groupthink-on-european-integration/\">Is Ukraine Drifting Towards Groupthink on European Integration?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-10T17:45:16+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Buc-ee’s goes beast mode on trademark protection - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjAzSTQ3VmZmanpqbzN0Wnc5eUdudjFOYXBqVlJzMWJBVk5qRFJCUWlwOGN0azUyR040b0w3enRKcktPeVdHdTNYMm5aYWQ1ZV9ad0trYnV1ZnhfeGtMeFY3Zy1jLVZSSFpyMnRpTVJJcnY3aW5MSU5KOTlVWnhnWHF2di1FX0NOcDRN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjAzSTQ3VmZmanpqbzN0Wnc5eUdudjFOYXBqVlJzMWJBVk5qRFJCUWlwOGN0azUyR040b0w3enRKcktPeVdHdTNYMm5aYWQ1ZV9ad0trYnV1ZnhfeGtMeFY3Zy1jLVZSSFpyMnRpTVJJcnY3aW5MSU5KOTlVWnhnWHF2di1FX0NOcDRN?oc=5\" target=\"_blank\">Buc-ee’s goes beast mode on trademark protection</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-10T17:21:08+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1108,15 +1135,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "After Putin",
-      "link": "https://www.foreignaffairs.com/russia/after-putin",
-      "summary": "Russia’s coming succession crisis.",
-      "published": "2026-08-07T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "Latest News – Territorial Disputes in the South China Sea | Global Conflict Tracker - Council on Foreign Relations",
@@ -1133,15 +1151,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOMXFuOGZYaDNNLWF1LXV3VXFiR01TWGNsVkhfUTJLVXR3SlltVFc2Y3JXNkJ6Y29EeGZDRlE2aTJqVThDWTJMdE1TeWhGdWdOakRFRDBRajhhMTdmaF9odk51WExjWG52T0dQeThyc3FUX0NiZlZrcU8xZ1lkUHRuaUtiU3VUN1dnTmVMMlI4Rk0tczVDUW0tcjdDRHFGUE1EbU9mTHJ3?oc=5\" target=\"_blank\">Latest News – Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-08-07T00:43:30+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "Why We Should Fight",
-      "link": "https://www.foreignaffairs.com/united-states/why-we-should-fight-kori-schake",
-      "summary": "And where Trump went wrong.",
-      "published": "2026-08-06T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "World News & Politics",
@@ -1168,15 +1177,6 @@
       "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeG9HT09sdUc0LUV4c2JCZGlPdjNTY3c5RGVfOHZTcmdMUEhYWVdlVEQtUjBYX2w2WUhHLU1ZaEx6bFNPdGR3SlB5OEthM3FNeE5vZ2lDVzVpZkpaRzlUdmJhUFlKQ3dWd3dPTWx1dTh3dnBBQmo3NVhWZlAxXzhLTzVUZW5UY1JU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeG9HT09sdUc0LUV4c2JCZGlPdjNTY3c5RGVfOHZTcmdMUEhYWVdlVEQtUjBYX2w2WUhHLU1ZaEx6bFNPdGR3SlB5OEthM3FNeE5vZ2lDVzVpZkpaRzlUdmJhUFlKQ3dWd3dPTWx1dTh3dnBBQmo3NVhWZlAxXzhLTzVUZW5UY1JU?oc=5\" target=\"_blank\">ASEAN, Still Toothless, Is Losing Its Faith in the U.S.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-08-04T21:24:10+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUtneVBseU0xZU9lYVlfNWtoWEFycjUySkJBdmZlcjRhUUdYdDFWUENUWEdRWFpSRk9yUjJ4MmNfc01LRDNDR2FuanVGdGt6SlBybDRkN25NZEdyalo4UnIteUNtbG1NMDhGWWIyTDFtQXVWZTRUTk5Gbms5VzQ2aVVST1NuWU5TY05nZDNkSFY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOcUtneVBseU0xZU9lYVlfNWtoWEFycjUySkJBdmZlcjRhUUdYdDFWUENUWEdRWFpSRk9yUjJ4MmNfc01LRDNDR2FuanVGdGt6SlBybDRkN25NZEdyalo4UnIteUNtbG1NMDhGWWIyTDFtQXVWZTRUTk5Gbms5VzQ2aVVST1NuWU5TY05nZDNkSFY?oc=5\" target=\"_blank\">Latest News – Civil War in Sudan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-03T22:25:55+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1320,7 +1320,7 @@
       "title": "Read the full House ethics report on Matt Gaetz - AP News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2024-12-23T18:41:11+00:00",
+      "published": "2024-12-23T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
