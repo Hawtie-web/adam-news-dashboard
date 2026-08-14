@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14T20:35:56.650436+00:00",
+  "updated_at": "2026-08-14T21:30:00.486578+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,42 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "OCC grants conditional approval for Trump-backed World Liberty National Trust bank",
+      "link": "https://www.theblock.co/news/regulation/2026-08-14-occ-grants-conditional-approval-trump-world-liberty-national-trust-bank-411906",
+      "summary": "President Donald Trump-backed World Liberty Financial secured preliminary approval to become a national trust bank on Friday.",
+      "published": "2026-08-14T21:19:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Trump-backed World Liberty wins conditional bank charter from federal regulator",
+      "link": "https://www.coindesk.com/policy/2026/08/14/trump-backed-world-liberty-wins-conditional-bank-charter-from-federal-regulator",
+      "summary": "",
+      "published": "2026-08-14T21:05:23+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Army To Use Robinson R66 For Its New Helicopter Pilot Training Concept",
+      "link": "https://www.twz.com/air/army-to-use-robinson-r66-for-its-new-helicopter-pilot-training-concept",
+      "summary": "<p>The R66 will be part of a fundamentally different, contractor-run approach to producing Army helicopter pilots.</p>\n<p>The post <a href=\"https://www.twz.com/air/army-to-use-robinson-r66-for-its-new-helicopter-pilot-training-concept\">Army To Use Robinson R66 For Its New Helicopter Pilot Training Concept</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-14T21:03:13+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOeUM3ajNSZS1FUnR1alRkTEx5QjBoNW1TSi1haWxKcmVLUlRlTWhTNVZJaVJGNkMtVVphd0xTbUtGbFRFUW5MZmh1MExTUmdZQmxpRGNMRkhaeExUemtveEFLQ0cydmJhT2JpNFY3TDVLUGlTekY0RHZJVE5EOEItMml3SlAwTlNLY2pkdUp1bjdSNTdmVGY3Vk1OdVgtOWFpRGlORHZ4NXQyVlc1NEFTWTZoSEtwN3R1UlE?oc=5\" target=\"_blank\">Trump urges Americans to accept higher gas prices as he escalates Iran rhetoric</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-08-14T20:38:40+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
@@ -26,15 +62,6 @@
       "summary": "The Pentagon signed seven-year framework agreements Friday with Boeing and RTX to expand production of critical components for the Standard Missile-3.",
       "published": "2026-08-14T19:57:54+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-08-14T19:38:31+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -84,9 +111,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Trump asks US Supreme Court to allow White House ballroom construction to continue - Reuters",
+      "title": "Trump asks US Supreme Court to allow White House ballroom construction to continue - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOd21zREY2dHFZbWl0QzlkVWhGbWxrdjZQa3RiZEdYNjhoRnVnV2FYMlBxS0hhcjhEem5zcFlGam03S0VZTVI2djB0V1F0ZTJHc3gwbW9ELW5uZHRZeWhfdHJEdmI3Z0NlU3djNmM0a3lEbXM2ZmV0UVQwelF2V1c3S3JqdlhWWjdkSHBDcDR3OFY2V2Z1X2QyNVpZQUZwVl9RT29Zd3BKdG1pcGFGUHk1Z1o5TzNVZ0dETWc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOd21zREY2dHFZbWl0QzlkVWhGbWxrdjZQa3RiZEdYNjhoRnVnV2FYMlBxS0hhcjhEem5zcFlGam03S0VZTVI2djB0V1F0ZTJHc3gwbW9ELW5uZHRZeWhfdHJEdmI3Z0NlU3djNmM0a3lEbXM2ZmV0UVQwelF2V1c3S3JqdlhWWjdkSHBDcDR3OFY2V2Z1X2QyNVpZQUZwVl9RT29Zd3BKdG1pcGFGUHk1Z1o5TzNVZ0dETWc?oc=5\" target=\"_blank\">Trump asks US Supreme Court to allow White House ballroom construction to continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOd21zREY2dHFZbWl0QzlkVWhGbWxrdjZQa3RiZEdYNjhoRnVnV2FYMlBxS0hhcjhEem5zcFlGam03S0VZTVI2djB0V1F0ZTJHc3gwbW9ELW5uZHRZeWhfdHJEdmI3Z0NlU3djNmM0a3lEbXM2ZmV0UVQwelF2V1c3S3JqdlhWWjdkSHBDcDR3OFY2V2Z1X2QyNVpZQUZwVl9RT29Zd3BKdG1pcGFGUHk1Z1o5TzNVZ0dETWc?oc=5\" target=\"_blank\">Trump asks US Supreme Court to allow White House ballroom construction to continue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-14T19:03:12+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -156,18 +183,18 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - Reuters",
+      "title": "US wants Netanyahu to condemn settler siege in Palestinian village, officials say - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGowTHQxV1lGUC1MamNySDBPMHpVUWJFM0pMVUh1NGRJbEd4b2ZVenhuZ05zZVBwQ3k2UTdlSUotTjNzYTNlNWo5LUw4cXlHbHZqdVp6RzBQVHB6NWpyemwyVnU3VHJ1YXdublVtN053TVFTcGJoNkdabjR3cDc0ek5sNDh5Tl82YzAxZHhUQzFVT2k0bFR6Z1VJWkVNTTVaem1pZmZ4WUkyTGNIWkg3Q25CQm0ydVJVeEdr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGowTHQxV1lGUC1MamNySDBPMHpVUWJFM0pMVUh1NGRJbEd4b2ZVenhuZ05zZVBwQ3k2UTdlSUotTjNzYTNlNWo5LUw4cXlHbHZqdVp6RzBQVHB6NWpyemwyVnU3VHJ1YXdublVtN053TVFTcGJoNkdabjR3cDc0ek5sNDh5Tl82YzAxZHhUQzFVT2k0bFR6Z1VJWkVNTTVaem1pZmZ4WUkyTGNIWkg3Q25CQm0ydVJVeEdr?oc=5\" target=\"_blank\">US wants Netanyahu to condemn settler siege in Palestinian village, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMGowTHQxV1lGUC1MamNySDBPMHpVUWJFM0pMVUh1NGRJbEd4b2ZVenhuZ05zZVBwQ3k2UTdlSUotTjNzYTNlNWo5LUw4cXlHbHZqdVp6RzBQVHB6NWpyemwyVnU3VHJ1YXdublVtN053TVFTcGJoNkdabjR3cDc0ek5sNDh5Tl82YzAxZHhUQzFVT2k0bFR6Z1VJWkVNTTVaem1pZmZ4WUkyTGNIWkg3Q25CQm0ydVJVeEdr?oc=5\" target=\"_blank\">US wants Netanyahu to condemn settler siege in Palestinian village, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-14T18:23:56+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Woman charged over vandalism of Washington's World War Two memorial - Reuters",
+      "title": "Woman charged over vandalism of Washington's World War Two memorial - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5\" target=\"_blank\">Woman charged over vandalism of Washington's World War Two memorial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNYjFaTHNGZGVubjNGRTN3Qzd5aFpYcHlfdjJqUmhncXdiNXkzZWlLdk40NHpXUkhaWUQtbHNNRk9JX0xmSFQtejVod0I0X1VRUlBURFc0NmtIclB5cnZvSEdKMlVzSjJ0ZHNtZDVYWEYzQW42UFhtSEpObWxJSHpseS1zYnpYNENtZ2ZfU1ZsU3JnbUc4MzhNblJ1d2dpWEl2VzZPQVRHdzdzQWxiWjlmS243aWV2b1kyZWNvTTNWT1B6dw?oc=5\" target=\"_blank\">Woman charged over vandalism of Washington's World War Two memorial</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-14T18:01:37+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -237,9 +264,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Zambia resumes vote counting after election officials attacked - Reuters",
+      "title": "Zambia resumes vote counting after election officials attacked - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5\" target=\"_blank\">Zambia resumes vote counting after election officials attacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOc0xNRjl0dDVFdENwd0lyeF9hTnh6dTJrSjBkM09GSHZKLVBGZVB2N0NZWjVrLTZSRVNZRDYwbDRMNFRMeEJ0dFRFYktJVXBzZ0VPeC1WQ3JtWHEyNjlrb2dURmRyUkRaSWs0aENFNG9EdTlBeWxxOGNfczFPNnh1c01xMG14LUg0TXcyRVIyX0tTU1ZvQ0RFR0U3N25pM1B0SkxQSTN4SnB1SHo0TlNyRGZZdldUanEzUTRN?oc=5\" target=\"_blank\">Zambia resumes vote counting after election officials attacked</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-14T17:17:33+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -291,10 +318,19 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "France's top court blocks social media ban for under-15s - Reuters",
+      "title": "France's top court blocks social media ban for under-15s - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5\" target=\"_blank\">France's top court blocks social media ban for under-15s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQV254M2ZlOFJMWGs3OWlkUzVERktNOU8wei1RUzFBN0xyRkZQSkhIQ0ZlR21BWkV6c1VJNjFVZ2dfLWk2MHVtMDM5MDZtLXJlN19JYVhDSzd5NlFzZjhrUVVfWm9VTUdPbWVVOXRzaUY1RzdjUlhmWm5aczVLTlR6SGlQYjhKVk5PQ1Z0SkZ6enE5ekFGa0FnaThGS0ZfVEtsWUVDeWRVOFdRZ1AxSkpN?oc=5\" target=\"_blank\">France's top court blocks social media ban for under-15s</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-14T16:58:29+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Applied Materials Earnings: Momentum Continues as AI Equipment Demand Keeps Accelerating - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWxUUlVOSE1rTU1udERXTkh3MjdYdHQ5cVFZeEU3UUxNQy0tYUxOMDJsLTBEek9xODVvVUFjOWE2V0FtQ3U5SmJRY254UUZLRF9YczlkcW1idTluU0tTdWFWY1dIa1R4UUtvVXQyX052MWo3SWxXdkx1NHh4UmtPMjZmUzlnS0lCOXNkWWJ3ekwzYzlhbUlOWUt5YnZZcVdxSWMwbGtucExFX0RObUYwcjNsSm04QVhJUUFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRWxUUlVOSE1rTU1udERXTkh3MjdYdHQ5cVFZeEU3UUxNQy0tYUxOMDJsLTBEek9xODVvVUFjOWE2V0FtQ3U5SmJRY254UUZLRF9YczlkcW1idTluU0tTdWFWY1dIa1R4UUtvVXQyX052MWo3SWxXdkx1NHh4UmtPMjZmUzlnS0lCOXNkWWJ3ekwzYzlhbUlOWUt5YnZZcVdxSWMwbGtucExFX0RObUYwcjNsSm04QVhJUUFR?oc=5\" target=\"_blank\">Applied Materials Earnings: Momentum Continues as AI Equipment Demand Keeps Accelerating</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-14T16:46:27+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -309,9 +345,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Son of former Mexican president says US revoked his visa - Reuters",
+      "title": "Son of former Mexican president says US revoked his visa - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3Y1Vi1LUVJ3aWlaQVNWaEMtcUJ0YWowZ3dwSUVIZm05d2ZWbkk5OXUxU2Q0RkdodmR2a2xuamRwYXJWMjZWMVVpRV84YlhyVEg4Q0ZhOG1RY0xBSzVseXhzeTY4bkc3ZTRHMllZVDB2UU9EQm56TnpPck5WYmNNR1JkZnVCYkJwbUFZMkwtY0lPM2JIdERWa1VaLXRjYTh3OVNCN1lMOA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3Y1Vi1LUVJ3aWlaQVNWaEMtcUJ0YWowZ3dwSUVIZm05d2ZWbkk5OXUxU2Q0RkdodmR2a2xuamRwYXJWMjZWMVVpRV84YlhyVEg4Q0ZhOG1RY0xBSzVseXhzeTY4bkc3ZTRHMllZVDB2UU9EQm56TnpPck5WYmNNR1JkZnVCYkJwbUFZMkwtY0lPM2JIdERWa1VaLXRjYTh3OVNCN1lMOA?oc=5\" target=\"_blank\">Son of former Mexican president says US revoked his visa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOa3Y1Vi1LUVJ3aWlaQVNWaEMtcUJ0YWowZ3dwSUVIZm05d2ZWbkk5OXUxU2Q0RkdodmR2a2xuamRwYXJWMjZWMVVpRV84YlhyVEg4Q0ZhOG1RY0xBSzVseXhzeTY4bkc3ZTRHMllZVDB2UU9EQm56TnpPck5WYmNNR1JkZnVCYkJwbUFZMkwtY0lPM2JIdERWa1VaLXRjYTh3OVNCN1lMOA?oc=5\" target=\"_blank\">Son of former Mexican president says US revoked his visa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-14T16:43:55+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -462,9 +498,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - Reuters",
+      "title": "Hormuz traffic slows further after US threatens more economic pressure on Iran - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5\" target=\"_blank\">Hormuz traffic slows further after US threatens more economic pressure on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxNcUdkcXFHNHlWMzdKeGE0QzFWU2FRNTl4aHYxMk5VNEU1REROam1XMW5hQnVPMlVCOHV5Y1k5X2N6eEx1UlpJOExJVFlXQzU5bWE1LXE1ZndpQUtpeFpVb2FoWUhlODVPWUVxeTNwcjNXQXRzMFloclJMNFBqNDJiUmFjam1kODNyQ1BvYU90dmptbG1mLWd6enN6dDZRb2JiRFg2TGdNSzJaM1g1c2xPd0lqTFBSblp6RGFKWktyVkI3dEVRMmJqNDdfLUc?oc=5\" target=\"_blank\">Hormuz traffic slows further after US threatens more economic pressure on Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-14T14:27:38+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -559,15 +595,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Hyperscale Data sells 685 bitcoin for $43 million to fund Michigan data center",
-      "link": "https://www.theblock.co/news/business/2026-08-14-hyperscale-data-sells-685-bitcoin-for-43-million-to-fund-michigan-data-center-411827",
-      "summary": "Hyperscale Data sold 685 bitcoin for approximately $43 million as it reduced debt and funded its Michigan AI data center.",
-      "published": "2026-08-14T12:59:18+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "The Download: Flock’s new rules, cloning’s future, and children’s cells",
@@ -622,15 +649,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Russia dismisses idea of Black Sea ceasefire - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1EWFduSW94YVRwb3lfUHpQSUc2SjJIdDF1ZWlickdZS0RPVjR5MHlHd3RGV2xGQlhWWFEydXJJSFJ6bkVTTkhZZmdONW5jYUQzWGhsZHBGZzlQTHN2aXdHTTdSMUx1SGdITUZZWGYtdjBBUnJXU1ZleFhWNHBLbFJGNkFIa1lhLVNGblUtT2owSEpK?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxPOU1EWFduSW94YVRwb3lfUHpQSUc2SjJIdDF1ZWlickdZS0RPVjR5MHlHd3RGV2xGQlhWWFEydXJJSFJ6bkVTTkhZZmdONW5jYUQzWGhsZHBGZzlQTHN2aXdHTTdSMUx1SGdITUZZWGYtdjBBUnJXU1ZleFhWNHBLbFJGNkFIa1lhLVNGblUtT2owSEpK?oc=5\" target=\"_blank\">Russia dismisses idea of Black Sea ceasefire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-14T10:26:45+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "This scientist is helping build a missing map of childhood",
@@ -667,15 +685,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Live updates: Bitcoin slips back to $63,000; MSCI threatens to exclude Strategy from indices",
-      "link": "https://www.coindesk.com/tech/2026/08/14/live-updates-bitcoin-slips-below-usd63-000-as-oil-yields-climb",
-      "summary": "",
-      "published": "2026-08-14T08:51:48+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Cheap Drones, Dry Taps: The Iran War Opens a New Era of Water Infrastructure Risk",
@@ -705,18 +714,18 @@
     {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
-      "title": "The Long Shadow of the Iran Shock",
-      "link": "https://www.foreignaffairs.com/iran/long-shadow-iran-shock",
-      "summary": "Hormuz and the new geography of energy power.",
+      "title": "Standing With Afghan Women",
+      "link": "https://www.foreignaffairs.com/afghanistan/standing-afghan-women",
+      "summary": "How to support the movement resisting the Taliban’s extremism.",
       "published": "2026-08-14T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
-      "title": "Standing With Afghan Women",
-      "link": "https://www.foreignaffairs.com/afghanistan/standing-afghan-women",
-      "summary": "How to support the movement resisting the Taliban’s extremism.",
+      "title": "The Long Shadow of the Iran Shock",
+      "link": "https://www.foreignaffairs.com/iran/long-shadow-iran-shock",
+      "summary": "Hormuz and the new geography of energy power.",
       "published": "2026-08-14T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -856,15 +865,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Poland’s Powerful New Frigate Marks Major Shift For Its Navy",
-      "link": "https://www.twz.com/sea/polands-powerful-new-frigate-marks-major-shift-for-its-navy",
-      "summary": "<p>The 7,700-ton Wicher signals Warsaw’s push to build a larger, much more capable fleet in the Baltic.</p>\n<p>The post <a href=\"https://www.twz.com/sea/polands-powerful-new-frigate-marks-major-shift-for-its-navy\">Poland’s Powerful New Frigate Marks Major Shift For Its Navy</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-13T16:27:10+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Suno Studio 2.0 puts an AI assistant in the DAW",
@@ -957,9 +957,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "After Earnings, Is Palantir a Buy, a Sell, or Fairly Valued? - global.morningstar.com",
+      "title": "After Earnings, Is Palantir a Buy, a Sell, or Fairly Valued? - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZU1neUZIckpPMUxudWZjaVF3VlhqZlJfNjd0V0wzRFF3dlBESjJYNGNaS1VUUUo5UjJzN2pUaDdZc2dKLUtkRVhxYi12cXJCYmVLeGI3akhfTVlaWlR1R0VBSjFOSVRVdnJnLVJITF8zdmFmaUlEMEZrSEVTUjRhdE9XUUVYZUp0Nk1ybWZ6Q2hzNkpQQ0tlWG0yUzg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZU1neUZIckpPMUxudWZjaVF3VlhqZlJfNjd0V0wzRFF3dlBESjJYNGNaS1VUUUo5UjJzN2pUaDdZc2dKLUtkRVhxYi12cXJCYmVLeGI3akhfTVlaWlR1R0VBSjFOSVRVdnJnLVJITF8zdmFmaUlEMEZrSEVTUjRhdE9XUUVYZUp0Nk1ybWZ6Q2hzNkpQQ0tlWG0yUzg?oc=5\" target=\"_blank\">After Earnings, Is Palantir a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZU1neUZIckpPMUxudWZjaVF3VlhqZlJfNjd0V0wzRFF3dlBESjJYNGNaS1VUUUo5UjJzN2pUaDdZc2dKLUtkRVhxYi12cXJCYmVLeGI3akhfTVlaWlR1R0VBSjFOSVRVdnJnLVJITF8zdmFmaUlEMEZrSEVTUjRhdE9XUUVYZUp0Nk1ybWZ6Q2hzNkpQQ0tlWG0yUzg?oc=5\" target=\"_blank\">After Earnings, Is Palantir a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-13T09:43:17+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1154,15 +1154,6 @@
     },
     {
       "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "July CPI Expected to Bounce Back After Unexpected June Inflation Decline - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnhOVTU4cWZPcnpOZENxVVlUS29KSHV5LVhpWmNYQXZWbk9STXRjalF0ZTNiZWdkRy02UUE4LUNYZHhOZ3FQYVJKZGZ0RldSU0Vqbnd4eGc4Y01zNHF4U296YVdGQWdrQ2dwNzRRZlFMcE5RY1hyemNJM0tRM3drTURUazdyRmhlOHMtUzRUemtvYXFvd3ZjLXdreEtVSXBDdTVXOHAtaTU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnhOVTU4cWZPcnpOZENxVVlUS29KSHV5LVhpWmNYQXZWbk9STXRjalF0ZTNiZWdkRy02UUE4LUNYZHhOZ3FQYVJKZGZ0RldSU0Vqbnd4eGc4Y01zNHF4U296YVdGQWdrQ2dwNzRRZlFMcE5RY1hyemNJM0tRM3drTURUazdyRmhlOHMtUzRUemtvYXFvd3ZjLXdreEtVSXBDdTVXOHAtaTU?oc=5\" target=\"_blank\">July CPI Expected to Bounce Back After Unexpected June Inflation Decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-10T21:30:58+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "You probably can’t afford these nannies - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RWXdtWnhSWDh5a2JEWmRUbkZ6anI4bXB2Mmh2Y1VfTmpUaHk1QTJDNF9RTl83YmU1V09vWmZibnVTN1I1dF9TXzJRYXpfZll2VFBqSXVuOEV6WlU5NXVpSWxPWml1ampybi1QZzJOdGxwU0NLWW5YR3VhNDAtTVU?oc=5",
@@ -1348,6 +1339,15 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2024-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2020-12-07T16:27:24+00:00",
       "feed_type": "google_news_fallback"
     },
     {
