@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-08-17T09:49:18.946774+00:00",
-  "item_count": 152,
+  "updated_at": "2026-08-17T10:37:04.668312+00:00",
+  "item_count": 144,
   "failures": [
+    {
+      "source": "Breaking Defense",
+      "feed_url": "https://breakingdefense.com/feed/",
+      "error": "<unknown>:26:113: not well-formed (invalid token)"
+    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -9,6 +14,24 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin miner HIVE inks five-year $350 million AI cloud contract, adds $70 million in annualized revenue",
+      "link": "https://www.theblock.co/news/business/2026-08-17-bitcoin-miner-hive-inks-five-year-350-million-ai-cloud-contract-411940",
+      "summary": "HIVE's BUZZ HPC signed a five-year, $350M GPU cloud deal, adding $70M in ARR, its second large NVIDIA cluster deal in two months.",
+      "published": "2026-08-17T10:30:30+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘I’m running out of time’: I sold my $300,000 rental property at a $75,000 loss. Should I buy another one to avoid taxes?",
+      "link": "https://www.marketwatch.com/story/im-running-out-of-time-i-sold-my-300-000-rental-property-at-a-75-000-loss-should-i-buy-another-one-to-avoid-taxes-f214c172?mod=mw_rss_topstories",
+      "summary": "“My CPA hasn’t gotten back to me.”",
+      "published": "2026-08-17T10:16:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -91,6 +114,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "China's recovery sputters as consumption, output lose steam - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5\" target=\"_blank\">China's recovery sputters as consumption, output lose steam</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T08:58:04+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
@@ -102,10 +134,19 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "China's economy loses steam as consumption, output miss forecasts - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOQU1zd0xiWmtwQ3dnX2tSQlRPUjJYMWM2aHpFRkR6UC1uWlVHUWJ6V3FzN0E0TThVSFJtYjlyREVPUDlidHBWbWd6YnBZbnExU0FlTElqMFNKRmRVLXlMeHZobkI0NGl5Y0dTSWlxZ2RpZ1R2N0NDM19aZEI2Y1pob2JlQmNhTGxNX1Zwb2Z6TjhOdUJEdjVHS1VuTUN3WmEtY3BGc0NnMGc1R0tTaDZZVw?oc=5\" target=\"_blank\">China's economy loses steam as consumption, output miss forecasts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T08:32:40+00:00",
+      "title": "In Bangkok's gun district, traders say Thai crackdown misses the mark - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGlhOEl4SXZIT09Lcl9vSTU5VnlHMlBramFtN1lCdTFvNDc4bG9XNWdMdkpudlR4Um5zMnFyTThPdHVKVjlMdGlMbk1pam9OOTdzUDFvbHRWT0I0STFyRFhVVDVmTDlnbW5OclZJUzRndlRhREtnVTM5X1AtWllvNUQwOGdHRjltRmdBdGpEbGhCSFYzWm9MRUZfazU0elkyb2VDLTZYNGdvU1RQb3d1VWt0ZmFNQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxPVGlhOEl4SXZIT09Lcl9vSTU5VnlHMlBramFtN1lCdTFvNDc4bG9XNWdMdkpudlR4Um5zMnFyTThPdHVKVjlMdGlMbk1pam9OOTdzUDFvbHRWT0I0STFyRFhVVDVmTDlnbW5OclZJUzRndlRhREtnVTM5X1AtWllvNUQwOGdHRjltRmdBdGpEbGhCSFYzWm9MRUZfazU0elkyb2VDLTZYNGdvU1RQb3d1VWt0ZmFNQQ?oc=5\" target=\"_blank\">In Bangkok's gun district, traders say Thai crackdown misses the mark</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T08:31:17+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Russia hits Ukraine's Izmail and Odesa ports in overnight strikes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQekhiZmU2R25wNEdOZHBZY2FaMHZ5UXpKQjZEdGtMU0dTTV9nWHY1N3hzMFFjVXlaY1Uwd3lLa3F0bkxabEphWE1ldmcteHJpeHpNSGJqb1VxRnlnX1UxaklMUWlHOHNXeDJNVnIxNVFYMV9vWHhnaHp0UnQ1U3JzUUNBZmdzMWpwWFIyZ3lQZVFSWE5mWEZwNWRzQkR1Y0VN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQekhiZmU2R25wNEdOZHBZY2FaMHZ5UXpKQjZEdGtMU0dTTV9nWHY1N3hzMFFjVXlaY1Uwd3lLa3F0bkxabEphWE1ldmcteHJpeHpNSGJqb1VxRnlnX1UxaklMUWlHOHNXeDJNVnIxNVFYMV9vWHhnaHp0UnQ1U3JzUUNBZmdzMWpwWFIyZ3lQZVFSWE5mWEZwNWRzQkR1Y0VN?oc=5\" target=\"_blank\">Russia hits Ukraine's Izmail and Odesa ports in overnight strikes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T08:18:54+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -156,15 +197,6 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSExSQWVmRjh4WXd2YVlVdlRkX2pzRlhXT3I1Vmh6dlRwQTB2ZDhaSVJFcERxWW9LbEhsb0FRczFPYVJzSlFFM0pOUnZFS0I4TXhfbVpVYlVabDEtdElhV3dTRExUbUxMLUlJVTl0MUNKeDdrcXpycmtrUE1XQnc5MHNJUTFUeUpfYWdwZDc4b0FnZUQ0Zm5aQXFrVXJoOWM5YXQ3ZVlqeDFrWGMzYThoVG1yajJHelM0Ykl6eWYwdHpSd1ZjVHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSExSQWVmRjh4WXd2YVlVdlRkX2pzRlhXT3I1Vmh6dlRwQTB2ZDhaSVJFcERxWW9LbEhsb0FRczFPYVJzSlFFM0pOUnZFS0I4TXhfbVpVYlVabDEtdElhV3dTRExUbUxMLUlJVTl0MUNKeDdrcXpycmtrUE1XQnc5MHNJUTFUeUpfYWdwZDc4b0FnZUQ0Zm5aQXFrVXJoOWM5YXQ3ZVlqeDFrWGMzYThoVG1yajJHelM0Ykl6eWYwdHpSd1ZjVHc?oc=5\" target=\"_blank\">Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T06:42:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
       "title": "Somalia federal troops and armed opposition clash in Baidoa city - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW5uSlZTUGQtUkI3SzdjVW9jV0pDa0RRY2lEeEJWMDFuZThtZW9Jc2VRTG5NcHRiVWsxVHBjR2FGSF9hSlVLM1pvb1FTTnpJRWJTNURnbHB1eURISWJDREdGOGpRcmRINlRHS1VYMWZCRW5OX1Q3cnNZX045UFRaX3N1Z0JPUm9fUTNhQnFxdm5nM0dfV2doRGdLTWtiRXB4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW5uSlZTUGQtUkI3SzdjVW9jV0pDa0RRY2lEeEJWMDFuZThtZW9Jc2VRTG5NcHRiVWsxVHBjR2FGSF9hSlVLM1pvb1FTTnpJRWJTNURnbHB1eURISWJDREdGOGpRcmRINlRHS1VYMWZCRW5OX1Q3cnNZX045UFRaX3N1Z0JPUm9fUTNhQnFxdm5nM0dfV2doRGdLTWtiRXB4?oc=5\" target=\"_blank\">Somalia federal troops and armed opposition clash in Baidoa city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -174,19 +206,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Kushner to hold talks with Netanyahu after rare meeting with Hamas - Reuters",
+      "title": "Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5\" target=\"_blank\">Kushner to hold talks with Netanyahu after rare meeting with Hamas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5\" target=\"_blank\">Trump envoy discusses Gaza plan with Netanyahu after rare Hamas meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-17T06:17:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump seeks cuts to US-South Korea drills, reviving earlier objections - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n?oc=5\" target=\"_blank\">Trump seeks cuts to US-South Korea drills, reviving earlier objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T06:10:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -316,15 +339,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘It’s a double-edged sword’: My husband got a $42,000 bonus. Will it wipe out our Affordable Care Act subsidy?",
-      "link": "https://www.marketwatch.com/story/its-a-double-edged-sword-my-husband-got-a-42-000-bonus-will-it-wipe-out-our-affordable-care-act-subsidy-32db285e?mod=mw_rss_topstories",
-      "summary": "“We were advised to return the bonus and take out a home-equity loan.”",
-      "published": "2026-08-16T17:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Anthropic CEO says AI backlash is ‘fundamentally a crisis of trust’",
@@ -343,6 +357,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Morning Brew - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-16T12:16:05+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Wildfire smoke now bigger prenatal threat than human sources of air pollution",
@@ -350,15 +373,6 @@
       "summary": "Regulations reduced prenatal exposure to harmful emissions, but wildfire smoke is erasing gains.",
       "published": "2026-08-16T10:00:59+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-16T09:31:18+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -514,15 +528,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Mizuho cuts BitGo price target to $11, but says Clarity Act delays could prove advantageous",
-      "link": "https://www.theblock.co/news/markets/2026-08-14-mizuho-cuts-bitgo-price-target-to-11-but-says-clarity-act-delays-could-prove-advantageous-411878",
-      "summary": "Mizuho views the company as a \"high-growth/recurring revenue business,\" citing a 27% year-over-year increase in the customer base.",
-      "published": "2026-08-14T19:34:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Bringing Back Steam Catapults On Carriers Is A Huge Risk",
@@ -551,24 +556,6 @@
     },
     {
       "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "America is sailing through the Taiwan Strait less. Does it matter?",
-      "link": "https://breakingdefense.com/2026/08/america-is-sailing-through-the-taiwan-strait-less-does-it-matter/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/america-is-sailing-through-the-taiwan-strait-less-does-it-matter/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8270635-scaled-e1786717267553-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>A Heritage Foundation study shows a significant drop in Taiwan Strait transits by the US military under the second Trump administration. </p>",
-      "published": "2026-08-14T18:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5\" target=\"_blank\">Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-14T17:44:41+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Patriot makers hedge on Ukraine production deal as officials question cause of hold-up",
       "link": "https://www.defensenews.com/global/europe/2026/08/14/patriot-makers-hedge-on-ukraine-production-deal-as-officials-question-cause-of-hold-up/",
@@ -592,15 +579,6 @@
       "link": "https://arstechnica.com/tech-policy/2026/08/state-judge-orders-kalshi-to-stop-offering-sports-bets-and-other-wagers/",
       "summary": "Kalshi ordered to stop offering bets in Washington, must implement geofencing.",
       "published": "2026-08-14T17:13:14+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Army picks M1 to lead Flight School Next pilot training program",
-      "link": "https://breakingdefense.com/2026/08/army-picks-m1-to-lead-flight-school-next-pilot-training-program/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-picks-m1-to-lead-flight-school-next-pilot-training-program/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/01/r66_army-e1770231829378-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The announcement is the culmination of a months-long competition to win a contract worth up to $10 billion over the next three decades.</p>",
-      "published": "2026-08-14T17:08:25+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -676,15 +654,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Army tells industry: Soldiers need more power, but don’t just offer batteries and generators",
-      "link": "https://breakingdefense.com/2026/08/army-tells-industry-soldiers-need-more-power-but-dont-offer-us-more-batteries-and-generators/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-tells-industry-soldiers-need-more-power-but-dont-offer-us-more-batteries-and-generators/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"656\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9345547-1024x656.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>As new drones, networks and weapons come online, the Army faces a power crunch that senior officials are asking industry to help solve. “And it&#8217;s not by buying more generators,&#8221; Brig. Gen. Troy Denomy, PAE for Maneuver, said. </p>",
-      "published": "2026-08-14T15:48:31+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Does Mark Zuckerberg really believe AI is ‘for everyone’?",
@@ -712,30 +681,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Pentagon inks SM-3 framework deals with RTX, Boeing on critical components",
-      "link": "https://breakingdefense.com/2026/08/pentagon-inks-sm-3-framework-deals-with-rtx-boeing-on-critical-components/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/pentagon-inks-sm-3-framework-deals-with-rtx-boeing-on-critical-components/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/04/934664-scaled-e1713286156806-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The seven-year framework deals cover key SM-3 components including avionics and ejector assemblies.</p>",
-      "published": "2026-08-14T14:55:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "EDM.com On-Deck Circle: Afrojack, deadmau5, Subtronics & More",
       "link": "https://edm.com/music-releases/on-deck-circle-afrojack-deadmau5-subtronics-more/",
       "summary": "<p>Dropping weekly on Fridays, ‘On-Deck Circle’ is EDM.com’s weekly roundup of 9 brand-new tracks from the scene’s biggest DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/on-deck-circle-afrojack-deadmau5-subtronics-more/\">EDM.com On-Deck Circle: Afrojack, deadmau5, Subtronics &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-14T14:22:43+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Trump opens door for foreign-built Navy ships. It could get complicated.",
-      "link": "https://breakingdefense.com/2026/08/what-would-integrating-foreign-ships-into-the-us-fleet-look-like/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/what-would-integrating-foreign-ships-into-the-us-fleet-look-like/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/11/EDGE-UAE-RUSI-photo-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>President Donald Trump has called for the US to outsource the building of at least a few Navy ships to foreign shipyards. </p>",
-      "published": "2026-08-14T14:02:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -746,15 +697,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi9AFBVV95cUxQdW8yM2dGeW1zR0tEU0hOR18xejZWdW55aWg0RExRQ19MWGxSb2tZM1F0SWdNWmkycGs1WGU5THl5cEpGR09RUGxBSnVtRTRZMVZLLUtnbm83cXhGeFFJdWhIckxPVThOMlY3YjNqdUo3UWV2V2lJR2UtcEdXRk5WaFlnX1ZZZW1xR25MY2dISUYtbWE1Wnl0TEtDdVhRNUFocDY0TXExcE56b2VKRDBhaWthSEdQQ291RDliN29VV04zQTJHdFlIOWpELUpxRWJ0QjY3VzJaekFoNGowcWtyTjBMVUc0X1ZGWTZXRjZSeE9fMEFh?oc=5\" target=\"_blank\">Bond yields are at multiyear highs, yet stocks have hit fresh records. Here's how long the defiance can last.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-14T13:31:00+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "CENTCOM launches multinational one-way attack drone force",
-      "link": "https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/centcom-launches-multinational-one-way-attack-drone-force/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/Lucas-scaled-e1779201080293-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The force “will employ one-way attack drones consisting of unmanned systems from above, on, and below the sea operated by military support staff from the United States and regional partners,” the command said.</p>",
-      "published": "2026-08-14T13:26:22+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "AI & Technology",
@@ -831,6 +773,15 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
+      "title": "McDonald’s might have a huge dossier on you - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXR2SWR5d3JaS3oxWEptRkVHSHVUNDhZVVVNak1nc2czbW82M290a0FwUkloYzJQQmdQQ21SN0JnU21laml0NmQyRnJoNDI4NFFVaWlFalJjRHBtaWF1Q2dLNUNCS0gzWjFlMlpieXBpQVhRUmVvWE5MQ2xBaVJGcmgzMmc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPMXR2SWR5d3JaS3oxWEptRkVHSHVUNDhZVVVNak1nc2czbW82M290a0FwUkloYzJQQmdQQ21SN0JnU21laml0NmQyRnJoNDI4NFFVaWlFalJjRHBtaWF1Q2dLNUNCS0gzWjFlMlpieXBpQVhRUmVvWE5MQ2xBaVJGcmgzMmc?oc=5\" target=\"_blank\">McDonald’s might have a huge dossier on you</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-14T06:18:02+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
       "title": "Report: Anthropic could IPO at record $2t valuation - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX004MjFjMEU1Ri11dXZiWUc1aHBoV0RwTGhOWFBMQUVHWlJkSVFPUWFia0g0d1lYaV9NeU5lbzNPdXBKRlQycVd2M0pVLW9ET096dXpObTZYamhmanR0cDk1dlBQc2V5OHlIengzQWJUdDlhVjJONmk0U1NrUlpkVWZDZ05CSmczWmM4RHFxTFhoZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOX004MjFjMEU1Ri11dXZiWUc1aHBoV0RwTGhOWFBMQUVHWlJkSVFPUWFia0g0d1lYaV9NeU5lbzNPdXBKRlQycVd2M0pVLW9ET096dXpObTZYamhmanR0cDk1dlBQc2V5OHlIengzQWJUdDlhVjJONmk0U1NrUlpkVWZDZ05CSmczWmM4RHFxTFhoZw?oc=5\" target=\"_blank\">Report: Anthropic could IPO at record $2t valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
@@ -856,30 +807,21 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Confrontation Over Taiwan | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDI0T2NJUWh4Q2hDZFRBenBKUnp5YllZWDJZVlVDX0htejE3ckszclVzaW5FSlhfQXh3RC1seGxfZlZ1d2lsZHZzRGhESnphZ2dRQzhfcWpfWHlNVUo4TlZUYnlTZjZzNHN0dzBxdFNVd0tUblcySkpzNjRYTUU4WGdOaGJYUDNPemNUdTNIV3NtRHpmUDIw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxNMDI0T2NJUWh4Q2hDZFRBenBKUnp5YllZWDJZVlVDX0htejE3ckszclVzaW5FSlhfQXh3RC1seGxfZlZ1d2lsZHZzRGhESnphZ2dRQzhfcWpfWHlNVUo4TlZUYnlTZjZzNHN0dzBxdFNVd0tUblcySkpzNjRYTUU4WGdOaGJYUDNPemNUdTNIV3NtRHpmUDIw?oc=5\" target=\"_blank\">Latest News – Confrontation Over Taiwan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-14T03:45:08+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "U.S. Launching International One-Way Attack Drone Task Force In The Middle East",
       "link": "https://www.twz.com/news-features/u-s-launching-international-one-way-attack-drone-task-force-in-the-middle-east",
       "summary": "<p>Task Force Falcon Strike will combine allies' air, sea and underwater one-way drone operations.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/u-s-launching-international-one-way-attack-drone-task-force-in-the-middle-east\">U.S. Launching International One-Way Attack Drone Task Force In The Middle East</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-14T00:15:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Trump orders return of steam catapults on carriers, fifth public shipyard",
-      "link": "https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/trump-orders-return-of-steam-catapults-on-carriers-fifth-public-shipyard/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9595353-scaled-e1778620056383-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The memo also called for the establishment of a new component repair center in an attempt to reduce submarine repair delays. </p>",
-      "published": "2026-08-13T21:49:57+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Priorities for Army fires top off SMD Day 3",
-      "link": "https://breakingdefense.com/2026/08/priorities-for-army-fires-top-off-smd-day-3/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/priorities-for-army-fires-top-off-smd-day-3/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/SMD-day3video-pb2-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Top news from the final day of the 2026 Space and Missile Defense Symposium. </p>",
-      "published": "2026-08-13T21:48:40+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1160,15 +1102,6 @@
       "summary": "Seekers are among the most expensive parts of a guided weapon, and Boeing’s argument is that their cost is what limits how many the military can buy.",
       "published": "2026-08-11T18:39:53+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "A luxury fashion label named after poop is attracting attention - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTJYMEYwV0tXM0szRS0xRlhXdXRYZ1ZuaXBhOUNGUnlHX0pad25USzYtTDdHTElNV210N3l3M19NNkV0MzJJakZrdmhpRkpSMEp2TUxtSHkzQk5EMFluNk96WTBTTDdmOWpnT2RqRGJuUDVBWjVwN2pGT1Q2Y3BJbkhGbEY1eVJ0WEFOb3FVLTk1NnZ5aUdpQXNqM0RJOEpv?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTJYMEYwV0tXM0szRS0xRlhXdXRYZ1ZuaXBhOUNGUnlHX0pad25USzYtTDdHTElNV210N3l3M19NNkV0MzJJakZrdmhpRkpSMEp2TUxtSHkzQk5EMFluNk96WTBTTDdmOWpnT2RqRGJuUDVBWjVwN2pGT1Q2Y3BJbkhGbEY1eVJ0WEFOb3FVLTk1NnZ5aUdpQXNqM0RJOEpv?oc=5\" target=\"_blank\">A luxury fashion label named after poop is attracting attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-11T05:51:03+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
