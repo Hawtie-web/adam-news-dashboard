@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T19:32:47.020763+00:00",
+  "updated_at": "2026-08-17T20:32:52.507236+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,6 +10,69 @@
   ],
   "items": [
     {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "A new set of Trump tariffs for Canada could take effect Wednesday. Here’s what’s at stake.",
+      "link": "https://www.marketwatch.com/story/a-new-set-of-trump-tariffs-for-canada-could-take-effect-wednesday-heres-whats-at-stake-8aa0eeb8?mod=mw_rss_topstories",
+      "summary": "New 50% import taxes could hit liquor, hockey gear and wood products like particle board.",
+      "published": "2026-08-17T20:28:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
+      "link": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
+      "summary": "Some big names saw sizable paper gains on their SpaceX stakes when the stock went public, but trading has been volatile since then.",
+      "published": "2026-08-17T20:18:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5\" target=\"_blank\">EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T20:09:10+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Supreme Court rejects Verizon bid for $47 million refund of FCC fine",
+      "link": "https://arstechnica.com/tech-policy/2026/08/supreme-court-rejects-verizon-bid-for-47-million-refund-of-fcc-fine/",
+      "summary": "Despite loss, carriers still claim selling device-location data isn't illegal.",
+      "published": "2026-08-17T20:00:20+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "IREN delivers first of four AI cloud deployments to Microsoft under $9.7 billion deal",
+      "link": "https://www.theblock.co/news/business/2026-08-17-iren-delivers-first-four-ai-cloud-deployments-microsoft-under-9-7-billion-deal-412016",
+      "summary": "IREN is targeting 480 MW of AI cloud capacity in 2026 and 1.2 gigawatts by 2027 as it continues to pivot away from bitcoin mining.",
+      "published": "2026-08-17T19:54:52+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why it pays to stay invested: No amount of bad news could stop the stock market’s strongest run in more than 25 years",
+      "link": "https://www.marketwatch.com/story/why-it-pays-to-stay-invested-no-amount-of-bad-news-could-stop-the-stock-markets-strongest-run-in-more-than-25-years-54ba3f8a?mod=mw_rss_topstories",
+      "summary": "Bull markets climb a wall of worry, as the old saying goes. The past six years have tested just how high that wall can get.",
+      "published": "2026-08-17T19:48:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5\" target=\"_blank\">Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T19:27:03+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "What Flock’s defenders are missing",
@@ -17,6 +80,15 @@
       "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Flock, the police-tech giant known for its network of some 120,000 automatic license plate readers around the US, announced some changes to its platform last Thursday. The updates are meant to prevent&#8230;",
       "published": "2026-08-17T19:16:09+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5\" target=\"_blank\">US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T19:11:35+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -55,15 +127,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "SpaceX’s stock is rising, and that’s a good sign for Nvidia and Google",
-      "link": "https://www.marketwatch.com/story/spacexs-stock-is-rising-and-thats-a-good-sign-for-nvidia-and-google-913ce9de?mod=mw_rss_topstories",
-      "summary": "Some big names saw sizable paper gains on their SpaceX stakes when the stock went public, but trading has been volatile since then.",
-      "published": "2026-08-17T18:58:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Japan launches second US military payload to monitor space above Indo-Pacific",
@@ -91,13 +154,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQQi1faldMbmRDZnpQWWdTWWtyQmZZOVRnU01BVEt5aVdEQ0xxeGlWdmlNR1k4c2lWODJmcjNHUkFFc3BwLTgzVjQyd0dkTXJnUGdvN1hJeHZ0SC1aYzlVZC1DQW1ZM0NjdWhUby1JRzBjQmg1cDdjMEEydjRlVTlkT2Q4ODJad2s3eXhEaVlEY1JnVm01Y0FQb2lhLS10dGpPSlQ2aFBjQy1kTkdyOFhWWGtkMWM?oc=5\" target=\"_blank\">EXCLUSIVE: Trump approval falls to 33%, lowest of his presidency, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T18:50:52+00:00",
-      "feed_type": "google_news_fallback"
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Petlibro accused of “gaslighting” users over smart pet feeder outage",
+      "link": "https://arstechnica.com/gadgets/2026/08/petlibro-accused-of-gaslighting-users-over-smart-pet-feeder-outage/",
+      "summary": "Petlibro says feeders perform scheduled feedings offline. Users report otherwise.",
+      "published": "2026-08-17T18:43:51+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -143,15 +206,6 @@
       "summary": "Amazon’s team uses a <em>T. rex</em> preparing to devour a book as its logo.",
       "published": "2026-08-17T18:13:47+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOcVl4WFplN0o4aVNSQ0REMXZlRmNzNTk4dURRMV8wUXhVQjNzVkZ0S3R4el9XSnE1MWZfLXc1RlZtZmJITURZRS1NaThGcXBKV0NZY2JXRGU1c093dzM1M0ZLcUtaRERHS1B4QUtXU3pwUk5XVWpSTEtXXzlTQ1BBZU85ZE50NHZQN2hXa1FTODlNRHU5UzhWS0tzMGktMktwMXI3X3pNYmRFMVIzSTlJbzl5SWRQa05qZ0lXWnM1bw?oc=5\" target=\"_blank\">Iran threatens to go on offensive in Strait of Hormuz if diplomacy with US fails</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T18:03:45+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -280,24 +334,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Investor dubbed the ‘AI stock god’ had 56% of his hedge fund invested in these two stocks before the July blow-up",
-      "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
-      "summary": "At the end of the first half of 2026, on the cusp of a major correction in the sector, more than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
-      "published": "2026-08-17T16:31:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Owning a home is overrated. Renting is now often a much better money move.",
-      "link": "https://www.marketwatch.com/story/owning-a-home-is-overrated-renting-is-now-often-a-much-better-money-move-711288a6?mod=mw_rss_topstories",
-      "summary": "There are better ways to think about investments than homeownership.",
-      "published": "2026-08-17T16:17:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Groq raises $350M to fuel its pivot from AI chips to neocloud",
@@ -386,15 +422,6 @@
       "summary": "The Gasolini AR1 uses 2-cylinder Honda bike engine, and an EV is underway, too.",
       "published": "2026-08-17T15:01:25+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNaFZYVzgyUG8ybXVocm05ZExDWjZvUkpDVDdUUmJGRDZlRVl6dVhUVjNldTUwcVpQblhOcHZJQXA0ZDVrbjNkWUhjSHRUQUtrOGJwWjBDTVlnMjd1T2EtbmlQcHpVdjQ4UGMtWWZxVV9teDk5TUdDYTdYbmZMQVQ1TnZ5SS1ESzVQMzR1ajJpdk4wUVBua1Y3bFNmeG5aOUJVd3l3bGRQTk5oSV9n?oc=5\" target=\"_blank\">US Supreme Court again rebuffs Trump in $5 million E. Jean Carroll case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T14:52:10+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -685,15 +712,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Prediction market Novig sues Wisconsin AG in latest spat over sports contracts",
-      "link": "https://www.theblock.co/news/business/2026-08-16-prediction-market-novig-sues-wisconsin-ag-in-latest-spat-over-sports-contracts-411938",
-      "summary": "Novig, which recently announced a partnership with the New York Mets, has sued officials in five states including Wisconsin since Aug. 4.",
-      "published": "2026-08-16T21:40:20+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "Morning Brew - Morning Brew",
@@ -745,24 +763,6 @@
       "link": "https://techcrunch.com/2026/08/15/woman-claims-her-stepfather-used-grok-to-transform-childhood-photo-into-explicit-imagery/",
       "summary": "The woman claimed that AI tools are \"taking everyday life and turning it into child sexual abuse.\"",
       "published": "2026-08-15T21:29:19+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "VisionQuest trailer kicks off Disney's D23 fan event",
-      "link": "https://arstechnica.com/culture/2026/08/visionquest-trailer-kicks-off-disneys-d23-fan-event/",
-      "summary": "Also: <em>Ahsoka</em> S2 teaser, <em>Doomsday</em> trailer, news about MCU's <em>X-Men</em> and <em>Star Wars: Starfighter</em>.",
-      "published": "2026-08-15T21:21:27+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Ukraine strikes major Russian rocket factory with cruise missiles",
-      "link": "https://arstechnica.com/space/2026/08/ukraine-strikes-major-russian-rocket-factory-with-cruise-missiles/",
-      "summary": "\"Flamingo missiles were used. A good achievement.\"",
-      "published": "2026-08-15T15:46:05+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1254,6 +1254,15 @@
     {
       "category": "World News & Politics",
       "source": "AP Politics",
+      "title": "Photos from the People's March on Washington: 1.18.2025 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5\" target=\"_blank\">Photos from the People's March on Washington: 1.18.2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-01-18T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
       "title": "Read the full House ethics report on Matt Gaetz - AP News",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
@@ -1276,15 +1285,6 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE13WVlVRDhNdWExMFRYckdmSzQwSDRwdUI2R2o0QmdmRTJ5RkRVZURwU1lXalVYVlJPOHJ6NnU5eUIzX1RvUkIxS0ZRaVhBQmJkbHVjYlh5cmN0b01SQ1prSHZobmJPYXNlemVxQy1nMmc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE13WVlVRDhNdWExMFRYckdmSzQwSDRwdUI2R2o0QmdmRTJ5RkRVZURwU1lXalVYVlJPOHJ6NnU5eUIzX1RvUkIxS0ZRaVhBQmJkbHVjYlh5cmN0b01SQ1prSHZobmJPYXNlemVxQy1nMmc?oc=5\" target=\"_blank\">Stock, ETF, & Mutual Fund Screener Tools | Morningstar Investor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2024-08-22T16:24:21+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2023-09-13T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
