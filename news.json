@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T08:51:01.464600+00:00",
+  "updated_at": "2026-08-17T09:49:18.946774+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,9 +10,90 @@
   ],
   "items": [
     {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Investor dubbed ‘AI stock god’ had 56% of his funds in these two stocks before it blew up",
+      "link": "https://www.marketwatch.com/story/investor-dubbed-ai-stock-god-had-56-of-his-funds-in-these-two-stocks-before-it-blew-up-07472f46?mod=mw_rss_topstories",
+      "summary": "At the end of the first half of 2026, on the cusp of a major correction in the sector, more than three quarters of the Situational Awareness fund was betting on just five stocks, all of which were, in essence, one big bet on AI.",
+      "published": "2026-08-17T09:22:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin flat near $63,500, but the flows have quietly turned",
+      "title": "Binance handed user data to Russia that led to a Ukrainian donor's arrest",
+      "link": "https://www.coindesk.com/policy/2026/08/17/binance-handed-user-data-to-russia-that-led-to-a-ukrainian-donor-s-arrest",
+      "summary": "",
+      "published": "2026-08-17T09:16:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "My son does not work, yet he pays $500 for ACA health insurance. How is that fair?",
+      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
+      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for subsidies on their health insurance.”",
+      "published": "2026-08-17T09:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Coinbase-Circle USDC collaboration, FOMC minutes, oil price: Crypto Week Ahead",
+      "link": "https://www.coindesk.com/markets/2026/08/17/coinbase-circle-usdc-collaboration-fomc-minutes-oil-price-crypto-week-ahead",
+      "summary": "",
+      "published": "2026-08-17T09:13:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Drones attack the Kurdistan Regional Government prime minister's office in Iraq - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxQX1RqUHdlLUdxNkQweWdveHJybEs3OWpDaTFNRUhpWDFsSGd1V1hub0QzaTdNSlA3Sm1oX1I3NmEzNDdXRWx6UHZxUTJ0c0dmd1hUSzFfSnBraG5WVUQ5Y0RvLWlXUnY1Wi1OWnRQdFhISExZWWYyN2N0UUhJdWlMZzE3LUZXMTJrTFUtcmhIZkFmaU9YZGJONkN4NG9WSTByREhvVkpheWE1S2REbVBNcVNvNmNNQzhjVG9qcHRheG9NcnM?oc=5\" target=\"_blank\">Drones attack the Kurdistan Regional Government prime minister's office in Iraq</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T09:04:20+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Neighbors in rural Texas county are not happy about Elon Musk’s plan to erect world’s largest building",
+      "link": "https://www.marketwatch.com/story/neighbors-in-rural-texas-county-are-not-happy-about-elon-musks-plan-to-erect-worlds-largest-building-2183edcb?mod=mw_rss_topstories",
+      "summary": "The latest project of trillionaire Elon Musk is a semiconductor factory the size of 1,000 Costco stores, and local residents are concerned about the impact.",
+      "published": "2026-08-17T09:04:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Former Starbucks CEO Howard Schultz sells home in Hawaii for $36 million after moving to Florida",
+      "link": "https://www.marketwatch.com/story/former-starbucks-ceohoward-schultz-sells-home-in-hawaii-for-36-million-after-moving-to-florida-fc1de897?mod=mw_rss_topstories",
+      "summary": "Former Starbucks CEO Howard Schultz has sold his longtime Hawaii sanctuary for the staggering price of $36 million—just months after he bought a $44 million residence in Florida.",
+      "published": "2026-08-17T09:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "How much hydrogen awaits us underground?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141560/how-much-hydrogen-awaits-underground/",
+      "summary": "In the 1990s, Barbara Sherwood Lollar descended into the Kidd Creek mine in northern Ontario, which cuts more than three kilometers into the ancient root of North America. There her team of geochemists found water that had been confined underground for more than a billion years. This ancient brine turned out to be a habitat&#8230;",
+      "published": "2026-08-17T09:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "What happens when a kid’s robot best friend dies?",
+      "link": "https://www.technologyreview.com/2026/08/17/1141568/moxie-when-kids-robot-best-friend-dies/",
+      "summary": "When Xander first met Moxie, she taught him that when he was anxious, he could calm down by exhaling through his lips so that he buzzed like a bee. They practiced breathing like dragons to manage feeling mad and sniffing like bunnies to boost his energy. But in the six years they’ve known each other,&#8230;",
+      "published": "2026-08-17T09:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin flat near $63,500; lapsing US-Iran ceasefire revives the oil threat",
       "link": "https://www.coindesk.com/markets/2026/08/17/live-updates-bitcoin-flat-near-usd63-500-but-the-flows-have-quietly-turned",
       "summary": "",
       "published": "2026-08-17T08:38:26+00:00",
@@ -66,6 +147,24 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
+      "title": "Taiwan's president says record defence spending an investment in peace - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUhtZ0k5WElRd1ZLNlEtejNuLTZGcXQ0ZXMzRkpVWnk3aFVGaC1GV1EtOWwxQjM5eEdfNm85WGowWGlWQlhSekw2WnV3OXNtV1JRVjdsY2NzcF9HY1VPSDNhcktuV2l3ZWZXaVBNZExsaFN6dGZpcFBBall2MktGME84N2dHbi03WnVqRHRCU1hSMWxOdE5MZE94QnRUTHZWcDBYWFM0MkRqejlUc2xlanlIWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNMUhtZ0k5WElRd1ZLNlEtejNuLTZGcXQ0ZXMzRkpVWnk3aFVGaC1GV1EtOWwxQjM5eEdfNm85WGowWGlWQlhSekw2WnV3OXNtV1JRVjdsY2NzcF9HY1VPSDNhcktuV2l3ZWZXaVBNZExsaFN6dGZpcFBBall2MktGME84N2dHbi03WnVqRHRCU1hSMWxOdE5MZE94QnRUTHZWcDBYWFM0MkRqejlUc2xlanlIWQ?oc=5\" target=\"_blank\">Taiwan's president says record defence spending an investment in peace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T06:47:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSExSQWVmRjh4WXd2YVlVdlRkX2pzRlhXT3I1Vmh6dlRwQTB2ZDhaSVJFcERxWW9LbEhsb0FRczFPYVJzSlFFM0pOUnZFS0I4TXhfbVpVYlVabDEtdElhV3dTRExUbUxMLUlJVTl0MUNKeDdrcXpycmtrUE1XQnc5MHNJUTFUeUpfYWdwZDc4b0FnZUQ0Zm5aQXFrVXJoOWM5YXQ3ZVlqeDFrWGMzYThoVG1yajJHelM0Ykl6eWYwdHpSd1ZjVHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxNSExSQWVmRjh4WXd2YVlVdlRkX2pzRlhXT3I1Vmh6dlRwQTB2ZDhaSVJFcERxWW9LbEhsb0FRczFPYVJzSlFFM0pOUnZFS0I4TXhfbVpVYlVabDEtdElhV3dTRExUbUxMLUlJVTl0MUNKeDdrcXpycmtrUE1XQnc5MHNJUTFUeUpfYWdwZDc4b0FnZUQ0Zm5aQXFrVXJoOWM5YXQ3ZVlqeDFrWGMzYThoVG1yajJHelM0Ykl6eWYwdHpSd1ZjVHc?oc=5\" target=\"_blank\">Myanmar's Min Aung Hlaing heads to Russia for official visit, state media reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T06:42:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
       "title": "Somalia federal troops and armed opposition clash in Baidoa city - Reuters",
       "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW5uSlZTUGQtUkI3SzdjVW9jV0pDa0RRY2lEeEJWMDFuZThtZW9Jc2VRTG5NcHRiVWsxVHBjR2FGSF9hSlVLM1pvb1FTTnpJRWJTNURnbHB1eURISWJDREdGOGpRcmRINlRHS1VYMWZCRW5OX1Q3cnNZX045UFRaX3N1Z0JPUm9fUTNhQnFxdm5nM0dfV2doRGdLTWtiRXB4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOMW5uSlZTUGQtUkI3SzdjVW9jV0pDa0RRY2lEeEJWMDFuZThtZW9Jc2VRTG5NcHRiVWsxVHBjR2FGSF9hSlVLM1pvb1FTTnpJRWJTNURnbHB1eURISWJDREdGOGpRcmRINlRHS1VYMWZCRW5OX1Q3cnNZX045UFRaX3N1Z0JPUm9fUTNhQnFxdm5nM0dfV2doRGdLTWtiRXB4?oc=5\" target=\"_blank\">Somalia federal troops and armed opposition clash in Baidoa city</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -79,6 +178,24 @@
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOcEx3MFJPNUM1WXN5SzhvTjJKMjk5aXZHWkxtMlBSaS14RTZpaDZsV3cweGdLdGo3dWJDU1ZCZVlob1NESk1CT0l3OFh6OGRXVFVVLXRtb3d0UGRNMlpkSGFobzk4c1dmZ0dtRUxQcEtVQ0tLVWZZbENQRlRSR0FkNWw4eDNtcTk2bkpRNXEyNDN2OFp6clItN0ZPRWUwbmFVQlZUdEdRVmU2R2NiY2hLTFRTOWJGM1VL?oc=5\" target=\"_blank\">Kushner to hold talks with Netanyahu after rare meeting with Hamas</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-17T06:17:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump seeks cuts to US-South Korea drills, reviving earlier objections - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOTFVPX2pQSTZzb1l1ekdiT1JMWGdmeEhFbVIzeHpoYjlDY0Q2QV9TZ1ZsbXdMY2ZlOGlNc0QwS2dqaE1mT25seDhUTTBFNkFnNFNGSEQ4OHcwMjVMSHZDVGtYWnhCZUZoSkRqaDhuZk1nYm1YcjBEWEpmTDJfQ2hJOHNSQzlEV3ZBU3dyTkZLQnNReENoYXg0M084N3dmc3FxZEdsc2ZzU0lLVW5lU1NWZTA4RWs5ZGUyVS1lel9n?oc=5\" target=\"_blank\">Trump seeks cuts to US-South Korea drills, reviving earlier objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T06:10:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Xi leads event marking late leader Jiang Zemin's 100th birth anniversary - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVItdXBoQ3pYNGVQbTNmLWczdEIyaDRTZ0pKNXFXRG1VQnkxcGhPUTJVNWRTN2l5bzJfLV9QY3JhREU4YnNDSlpuUkZqQ1pJWHJCZGRiei1iTFJ6NlZZT1JKempEamN5YWRicDVNUFc1NnlRNFV0cEZfQUR3bkU2eDFCZzFOQ1JYNjVwN01tcG9zdDk0U1ZDRHA0ZEZzeHJwLUxvTTNTT2NKNWJVSFQ2RTdYd2FPdXk1aUxN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQWVItdXBoQ3pYNGVQbTNmLWczdEIyaDRTZ0pKNXFXRG1VQnkxcGhPUTJVNWRTN2l5bzJfLV9QY3JhREU4YnNDSlpuUkZqQ1pJWHJCZGRiei1iTFJ6NlZZT1JKempEamN5YWRicDVNUFc1NnlRNFV0cEZfQUR3bkU2eDFCZzFOQ1JYNjVwN01tcG9zdDk0U1ZDRHA0ZEZzeHJwLUxvTTNTT2NKNWJVSFQ2RTdYd2FPdXk1aUxN?oc=5\" target=\"_blank\">Xi leads event marking late leader Jiang Zemin's 100th birth anniversary</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T05:59:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -109,15 +226,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr?oc=5\" target=\"_blank\">Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T04:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "The Cost of Keeping China Out",
@@ -136,24 +244,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Six die at temple in India's Bihar after 'stampede-like' event, officials say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2R6ZGIzOFdNVFZud3R6OWZxNWkwdldkbXowT3JJZnhqS3NWZm5JaVdmRW55WGZZbDRVSnU2cWE0MkdJVGZVbnFRV1BERWYwODhsQ1Q5QXNNaWZBMERXeWFSSzV1VkhxWjNOQnJFMDhFNHRteXZ5TjllS3ZDSmkyS0JLTGFpejJyMExDVEhISUdicVRENjAtTmhjMnFkQ0FNQzVqREFoaWx1QlJrM0dSMlg5dXFKZHBkek9zSjJrUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2R6ZGIzOFdNVFZud3R6OWZxNWkwdldkbXowT3JJZnhqS3NWZm5JaVdmRW55WGZZbDRVSnU2cWE0MkdJVGZVbnFRV1BERWYwODhsQ1Q5QXNNaWZBMERXeWFSSzV1VkhxWjNOQnJFMDhFNHRteXZ5TjllS3ZDSmkyS0JLTGFpejJyMExDVEhISUdicVRENjAtTmhjMnFkQ0FNQzVqREFoaWx1QlJrM0dSMlg5dXFKZHBkek9zSjJrUQ?oc=5\" target=\"_blank\">Six die at temple in India's Bihar after 'stampede-like' event, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T03:44:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25yZW50Tkd2OWNLaXNJZ3N5Y2VnbmhPaUdrbnh5SjVZb1RIRWhlb0JiMlo5TV9oMHM4V243MU5zQkQ5VjhHZk1oakhvRDNHdFIyOUtCbjFJckVoR3hOTENwOWJHa2VIamZVSjVVSnFOR0I5WUh4ek1PbDd1TjMwZm5ZZzJOUVZoXzBZQkQxcWszNFlMNEItYm9CYjZhdXBMOEhiSnYycEE4LUVpeTgtNUVDcFNmN1BoT2RBdTNJQlYyajNz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQb25yZW50Tkd2OWNLaXNJZ3N5Y2VnbmhPaUdrbnh5SjVZb1RIRWhlb0JiMlo5TV9oMHM4V243MU5zQkQ5VjhHZk1oakhvRDNHdFIyOUtCbjFJckVoR3hOTENwOWJHa2VIamZVSjVVSnFOR0I5WUh4ek1PbDd1TjMwZm5ZZzJOUVZoXzBZQkQxcWszNFlMNEItYm9CYjZhdXBMOEhiSnYycEE4LUVpeTgtNUVDcFNmN1BoT2RBdTNJQlYyajNz?oc=5\" target=\"_blank\">From kangaroos to dim sum, foreign borrowers rush into Asia-Pacific bond markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T03:02:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
@@ -161,24 +251,6 @@
       "summary": "U.S. stock-index futures were little changed on Sunday after a quiet week on Wall Street, as investors await hints from the Fed concerning the outlook for interest rates.",
       "published": "2026-08-17T03:02:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Shares rise, dollar slips as markets pare Fed rate risks - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5\" target=\"_blank\">Shares rise, dollar slips as markets pare Fed rate risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T01:17:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Yen stronger as traders pare bets on Fed rate hike - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5\" target=\"_blank\">Yen stronger as traders pare bets on Fed rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T00:41:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -262,66 +334,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I’m 63, a retired CPA with a $1.2 million 401(k). Do I need to bother with a Roth conversion?",
-      "link": "https://www.marketwatch.com/story/im-63-and-a-retired-cpa-i-have-a-1-2-million-401-k-do-i-need-a-roth-conversion-0a227302?mod=mw_rss_topstories",
-      "summary": "“I don’t expect my marginal tax rate to be materially different in the future.”",
-      "published": "2026-08-16T16:22:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
-      "link": "https://www.coindesk.com/business/2026/08/16/crypto-investors-are-looking-past-market-cap-rankings-and-back-to-fundamentals",
-      "summary": "",
-      "published": "2026-08-16T16:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Hackers exploited macOS Screen Sharing flaw to install Monero miners, Dutch cyber agency says",
       "link": "https://www.theblock.co/news/defi/2026-08-16-hackers-exploited-macos-screen-sharing-flaw-to-install-monero-miners-dutch-cyber-agency-says-411932",
       "summary": "U.S. officials rated the severity of the vulnerability a critical 9.8/10 on the CVSS scale, and experts are warning users to update their devices.",
       "published": "2026-08-16T15:07:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto wallet SafePal reveals a data breach exposing nearly 40,000 customers' order info",
-      "link": "https://www.coindesk.com/tech/2026/08/16/crypto-wallet-safepal-reveals-a-data-breach-exposing-nearly-40-000-customers-order-info",
-      "summary": "",
-      "published": "2026-08-16T14:02:32+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Here’s the real reason oil prices aren’t moving higher",
-      "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
-      "summary": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
-      "published": "2026-08-16T13:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The Mediterranean diet is the best out there. Here’s why Americans struggle with it.",
-      "link": "https://www.marketwatch.com/story/the-mediterranean-diet-is-the-best-out-there-heres-why-americans-struggle-with-it-081f3fe7?mod=mw_rss_topstories",
-      "summary": "It’s not just about eating well. It’s about cooking at home and sharing those meals with friends and family.",
-      "published": "2026-08-16T12:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Walmart and Target are about to reveal the health of the U.S. consumer",
-      "link": "https://www.marketwatch.com/story/walmart-and-target-are-about-to-reveal-the-health-of-the-u-s-consumer-d5b89491?mod=mw_rss_topstories",
-      "summary": "Earnings reports from the two major retailers will show how shoppers are holding up in an era of persistent inflation.",
-      "published": "2026-08-16T11:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -979,24 +997,6 @@
       "link": "https://musictech.com/news/industry/suno-alliance-bmg-ai-choice-artists/?utm_source=rss&utm_medium=rss&utm_campaign=suno-alliance-bmg-ai-choice-artists",
       "summary": "<p><img alt=\"Suno logo\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2025/11/Suno-logo-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>BMG says that the choice of its artists is a “guiding principle” in the deal, and that it “establishes strong protections”.</p>\n<p>The post <a href=\"https://musictech.com/news/industry/suno-alliance-bmg-ai-choice-artists/\">Suno forms “global alliance” with BMG giving musicians “real choice” over AI use</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-13T14:29:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "MIT Technology Review",
-      "title": "Flock is tightening its rules in response to a growing surveillance backlash",
-      "link": "https://www.technologyreview.com/2026/08/13/1141904/flock-is-tightening-its-rules-in-response-to-a-growing-surveillance-backlash/",
-      "summary": "The police-tech giant Flock is announcing today that it will change officers’ access to its nationwide network of license plate readers, in an apparent effort to quell a growing backlash and win back contracts lost amid concerns about mass surveillance and police abuse. Several changes aim directly at a problem that has made recent headlines:&#8230;",
-      "published": "2026-08-13T13:41:10+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "MIT Technology Review",
-      "title": "The Download: kids’ thoughts on AI, and female clones of male mice",
-      "link": "https://www.technologyreview.com/2026/08/13/1141896/the-download-kids-thoughts-on-ai-female-clones-male-mice/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. How kids feel about AI, in their own words —Jen Swetzoff and Keeley McNamara, the founding editors of Anyway, an independent print magazine for tweens and teens When we set out&#8230;",
-      "published": "2026-08-13T12:10:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
