@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T05:39:33.944194+00:00",
+  "updated_at": "2026-08-17T07:05:59.356721+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,15 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "The bitcoin futures market looks like a crowded club with a tiny exit – and it could cause pain",
+      "link": "https://www.coindesk.com/markets/2026/08/17/the-bitcoin-futures-market-has-a-crowded-club-tiny-exit-problem-and-it-could-cause-pain",
+      "summary": "",
+      "published": "2026-08-17T05:51:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Crypto",
       "source": "CoinDesk",
@@ -28,13 +37,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The Cost of Keeping China Out",
-      "link": "https://www.foreignaffairs.com/united-states/cost-keeping-china-out",
-      "summary": "How Washington’s fear of Chinese investment hurts American competitiveness.",
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQYkJmMlhqYzFHSXozTjNGVU1iU3JQUUtzdnRwMFZFZkhlLVVieWFxejVmclk1aGpKbVJ2bDdXdUdLU0MzcHFhQnM5ZHZsRUgzX2h3UHRiYnpjeWlJMHV0UUVSWkF6ZVA3dVJlYkoyWDQ5Q01IekZqTEEwZnR2MXNZN1J5dDRKU2ZuVFNkNERiejdmM2VOUGZheEMxVFIxWDZBOHgtb2hZVzBjZGpCZ1hoQjVVQmRtemEySEtjbHpqTjM5d2F0R0FEMHZWSmxIV1Jr?oc=5\" target=\"_blank\">Myanmar confirms nearly 309,000 Rohingya in Bangladesh, says security issues delaying repatriation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-17T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -46,12 +55,21 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The Cost of Keeping China Out",
+      "link": "https://www.foreignaffairs.com/united-states/cost-keeping-china-out",
+      "summary": "How Washington’s fear of Chinese investment hurts American competitiveness.",
+      "published": "2026-08-17T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5\" target=\"_blank\">Japan Q2 growth misses forecasts on weaker spending, investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T03:42:30+00:00",
+      "title": "Six die at temple in India's Bihar after 'stampede-like' event, officials say - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2R6ZGIzOFdNVFZud3R6OWZxNWkwdldkbXowT3JJZnhqS3NWZm5JaVdmRW55WGZZbDRVSnU2cWE0MkdJVGZVbnFRV1BERWYwODhsQ1Q5QXNNaWZBMERXeWFSSzV1VkhxWjNOQnJFMDhFNHRteXZ5TjllS3ZDSmkyS0JLTGFpejJyMExDVEhISUdicVRENjAtTmhjMnFkQ0FNQzVqREFoaWx1QlJrM0dSMlg5dXFKZHBkek9zSjJrUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQU2R6ZGIzOFdNVFZud3R6OWZxNWkwdldkbXowT3JJZnhqS3NWZm5JaVdmRW55WGZZbDRVSnU2cWE0MkdJVGZVbnFRV1BERWYwODhsQ1Q5QXNNaWZBMERXeWFSSzV1VkhxWjNOQnJFMDhFNHRteXZ5TjllS3ZDSmkyS0JLTGFpejJyMExDVEhISUdicVRENjAtTmhjMnFkQ0FNQzVqREFoaWx1QlJrM0dSMlg5dXFKZHBkek9zSjJrUQ?oc=5\" target=\"_blank\">Six die at temple in India's Bihar after 'stampede-like' event, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-08-17T03:44:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -66,36 +84,45 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Asian shares mark time as Gulf war keeps oil prices up - Reuters",
+      "title": "Asian shares rise, dollar slips as markets pare Fed rate risks - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5\" target=\"_blank\">Asian shares mark time as Gulf war keeps oil prices up</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNNl9yb3JkT21xaHcxVWgydjJJc1lLNU5LNDBicTBWTm1YekxBb0VJRUI5MWo2Qm9Ic0NfY3p4LU9BcXVQeUpZVkZ4Uk50dERwb01aOW0tM1ZVaHlDa2VIaEVOSmlGWG9PYWxNNDdRbDJtQzVrQ29RZVV5a3dBb1l0NGozaw?oc=5\" target=\"_blank\">Asian shares rise, dollar slips as markets pare Fed rate risks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-17T01:17:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Yen stronger as traders cut back bets on Fed rate hike - Reuters",
+      "title": "Yen stronger as traders pare bets on Fed rate hike - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5\" target=\"_blank\">Yen stronger as traders cut back bets on Fed rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5\" target=\"_blank\">Yen stronger as traders pare bets on Fed rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-17T00:41:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says - Reuters",
+      "title": "Japan Q2 growth misses forecasts on weaker spending, investment - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5\" target=\"_blank\">Japan Q2 growth misses forecasts on weaker spending, investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-08-17T00:19:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag?oc=5\" target=\"_blank\">EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxNbk1aZnI3eEd5X0NiUWJ6M005Sm9hekNHZkFDX21fcHQ5QTdnajFBV2xQalhOOFJHTWRmMlJXQ1ViXzIzdnFzb1YyMnpVWGRPNG1fUlNDZzVGb3VjN1I5RjVtZ05DdzlCU2RNNkhkTkNCWjNISnZuLWxzZjRFZlMyNEo1YjVvTVRsRnFBVklaWTZWcDZxSWN0SWlwdTJ4RW1VTnFhdXhtajlCbXRnUVA4Um44ZGVEZTFpTVNYYnMzWGJTcXU1RHdSag?oc=5\" target=\"_blank\">EU plans most far-reaching sanctions package against Russia in autumn, foreign chief says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-17T00:05:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - Reuters",
+      "title": "Shipping slows through Strait of Hormuz after tanker attacks, data shows - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5\" target=\"_blank\">Shipping slows through Strait of Hormuz after tanker attacks, data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOS011b1NvcmEzQUNzX2dVdzFyUmg1UnpkLXZqNW5nUFFxNGZpaE51amZaZWJDZnNTQi1yZDE2cGxwU09PdzhMWWJiV1lpMk0xSmJmb0dQNVdGN1F3RHBTaVQtRzlsU2Nwa2RER0ZlbngzOWc3aDV2MmMwRmNfZ2xXclpHRzE0RkFzeDZ3MjY2QTAwMlFPSEVTeTRQM0JDQ2VtQjVPQTFPZWxRaXB4YzBTbjBVSXlxQTBoMUE?oc=5\" target=\"_blank\">Shipping slows through Strait of Hormuz after tanker attacks, data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-16T23:54:51+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -111,9 +138,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Trump orders Pentagon to cut back military exercises with South Korea - Reuters",
+      "title": "Trump orders Pentagon to cut back military exercises with South Korea - reuters.com",
       "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5\" target=\"_blank\">Trump orders Pentagon to cut back military exercises with South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaGdQYThHbnV2b3NnalEycy1sZGpyNGNLaGNYODl2TmhhUnNma2ZhMk1MTURNQWxMalB3OUswYk10R2RJZGlBNnJoUkZzRGxGcE8xQklBZnlZYUs1d004Q09uUWdDeV96aFlJc0o2Nzh1aHZvRVBhZTV2SGU4RnZremZXWkw0YUp3SENRTDNFNkFyOWNVS2ROSEpCaVhpSmV2QWhMUGI5aVo3aUc3Z2pkWDBIQ2lRdw?oc=5\" target=\"_blank\">Trump orders Pentagon to cut back military exercises with South Korea</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
       "published": "2026-08-16T21:39:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -134,15 +161,6 @@
       "summary": "On the latest episode of Equity podcast, we discuss why not everyone is buying Zuckerberg’s vision.",
       "published": "2026-08-16T20:32:01+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "In Spain's Ceuta, hundreds of migrants stage protest and demand asylum - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNUjduYzlVZEN3NjI2YktjT0dyU3g2cVVudlhDLV95RERScG5tZ0RHb01Sdy0tTDZnMHQxdXRTa2c5dm5DY1dmTnN5WVJnVGQzemhsYjQwem9XVDNyQ1V0cHN4S2J2NzRkREd1ZWwtRWZ4RU90SDRZckpYaXo0ZEotTkx0eHI4anlfQzV4Y25VODA0MnZySVhxUXNfekowTGtmb1NLZGE3UWVuVnRDTG1MaVRRZw?oc=5\" target=\"_blank\">In Spain's Ceuta, hundreds of migrants stage protest and demand asylum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-16T18:36:25+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -208,15 +226,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Zambia's Hichilema leads presidential vote count - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUhnanphMWxUemllZGRNTXJqZE16ZHBWdUFIS2Q0TzZDdVBQUXFPSUUtU2xHUDVDLWRNZl9heVh1Sk9kNExJUGNEWDlZdzBmTVlCZ3NYSWZLTnJBS2hhLVQ3NXhHTWZsdkRCcTduelg5V0cwWHExbl81d1E0ai1yUkVCeThJcWdhZTI2M3RZb19iM0tab09iaVpxSGU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOaUhnanphMWxUemllZGRNTXJqZE16ZHBWdUFIS2Q0TzZDdVBQUXFPSUUtU2xHUDVDLWRNZl9heVh1Sk9kNExJUGNEWDlZdzBmTVlCZ3NYSWZLTnJBS2hhLVQ3NXhHTWZsdkRCcTduelg5V0cwWHExbl81d1E0ai1yUkVCeThJcWdhZTI2M3RZb19iM0tab09iaVpxSGU?oc=5\" target=\"_blank\">Zambia's Hichilema leads presidential vote count</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-16T16:13:43+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Crypto investors are looking past market-cap rankings and back to fundamentals",
@@ -268,15 +277,6 @@
       "link": "https://www.marketwatch.com/story/heres-the-real-reason-oil-prices-arent-moving-higher-256afdbc?mod=mw_rss_topstories",
       "summary": "Oil prices are not higher largely because the world does not want as much oil as it used to — and that’s arguably the more troubling story.",
       "published": "2026-08-16T13:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "The 'long bitcoin, short the bankers' era is officially over as TradFi giants embrace digital assets",
-      "link": "https://www.coindesk.com/business/2026/08/13/the-long-bitcoin-short-the-bankers-era-is-officially-over-as-tradfi-giants-embrace-digital-assets",
-      "summary": "",
-      "published": "2026-08-16T12:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -422,15 +422,6 @@
       "summary": "Utility-scale solar leads by a mile, followed by batteries. Fossil fuels, not so much.",
       "published": "2026-08-15T11:09:57+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "US consumers might be spent - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLW5HU2RlUjJSMkZEalNtNjd4d1RhcXgyeUJuNmJsSTFXZ0dXaGF0TXlsazVJZkJzaV93bW83c1RQbDZ1TlBTT2ZGeVFYVWFRTi1sWVNZU09IQWptZ1RjdlFuMmZPMUg0amdad1BxMVI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLW5HU2RlUjJSMkZEalNtNjd4d1RhcXgyeUJuNmJsSTFXZ0dXaGF0TXlsazVJZkJzaV93bW83c1RQbDZ1TlBTT2ZGeVFYVWFRTi1sWVNZU09IQWptZ1RjdlFuMmZPMUg0amdad1BxMVI?oc=5\" target=\"_blank\">US consumers might be spent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-15T06:47:30+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -1169,6 +1160,15 @@
       "summary": "<p>When the Soviet Union launched Sputnik in 1957, the U.S. government was the unrivaled patron of American science. It funded nearly two-thirds of the nation&#8217;s research and development &#8212; much of it for defense &#8212; defining the early Cold War. In a phenomenon that&#8217;s been widely explored in our Arsenal of Innovation series, for several decades federal dollars pushed the technological frontier, and the private sector followed.Today, that arrangement has been inverted. Industry now funds roughly three-quarters of U.S. research and development, while Washington&#8217;s share is less than a fifth. Because the cutting edge increasingly emerges from commercial labs, the</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/who-pays-for-americas-research-and-development/\">Who Pays for America’s Research and Development?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-11T08:00:32+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "A luxury fashion label named after poop is attracting attention - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTJYMEYwV0tXM0szRS0xRlhXdXRYZ1ZuaXBhOUNGUnlHX0pad25USzYtTDdHTElNV210N3l3M19NNkV0MzJJakZrdmhpRkpSMEp2TUxtSHkzQk5EMFluNk96WTBTTDdmOWpnT2RqRGJuUDVBWjVwN2pGT1Q2Y3BJbkhGbEY1eVJ0WEFOb3FVLTk1NnZ5aUdpQXNqM0RJOEpv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxOVTJYMEYwV0tXM0szRS0xRlhXdXRYZ1ZuaXBhOUNGUnlHX0pad25USzYtTDdHTElNV210N3l3M19NNkV0MzJJakZrdmhpRkpSMEp2TUxtSHkzQk5EMFluNk96WTBTTDdmOWpnT2RqRGJuUDVBWjVwN2pGT1Q2Y3BJbkhGbEY1eVJ0WEFOb3FVLTk1NnZ5aUdpQXNqM0RJOEpv?oc=5\" target=\"_blank\">A luxury fashion label named after poop is attracting attention</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-11T05:51:03+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
