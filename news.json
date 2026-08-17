@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17T04:49:44.145242+00:00",
+  "updated_at": "2026-08-17T05:39:33.944194+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -46,6 +46,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5\" target=\"_blank\">Japan Q2 growth misses forecasts on weaker spending, investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-17T03:42:30+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "U.S. stock futures little changed as investors ponder the Fed’s next move",
@@ -70,15 +79,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNcEx2UnRQT3N2aTdDejItdVFGZ280ZXJ1ZzYtSHRoeDg0WEd1dGxmbkRvd1ZJMVRaUkdsMEZsMWx6ZUh1Wk1NeExBUTRxbHNuaW01TFpBd1F5dWlOOWoydXdETU8tamlmU2xpeEptdDRDTk52LW9GZW5oV201MmRubl85SnNSdnVwT2NxT0VHdmxxVGJ4TGdIWFhQcUN4dnBEcmFUUENqRQ?oc=5\" target=\"_blank\">Yen stronger as traders cut back bets on Fed rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-17T00:41:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Japan Q2 growth misses forecasts on weaker spending, investment - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU21ldTFQWE1HaTVtdWZqVW5QTllNV3p1ckpqcFNnYXAxUzBZVTVkNGFYWmduXy1UQWJ2ZUJyQmZxTkt1RldUTWNtUTltLTBJb2h2My1zbGltQWp2V0NNRGpBZ0k1dFVOSjlwZkUyZmFVWEJNQTd1S3RITFJ4bzdxRmhNVjlVQUhnX3hKbnRsYWpkQ0wwQWZSZm5XTTNhczlJZlFUZm1tdWppc1E?oc=5\" target=\"_blank\">Japan Q2 growth misses forecasts on weaker spending, investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-17T00:19:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -309,9 +309,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Morning Brew - morningbrew.com",
+      "title": "Morning Brew - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-16T05:20:43+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -426,9 +426,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "US consumers might be spent - morningbrew.com",
+      "title": "US consumers might be spent - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLW5HU2RlUjJSMkZEalNtNjd4d1RhcXgyeUJuNmJsSTFXZ0dXaGF0TXlsazVJZkJzaV93bW83c1RQbDZ1TlBTT2ZGeVFYVWFRTi1sWVNZU09IQWptZ1RjdlFuMmZPMUg0amdad1BxMVI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLW5HU2RlUjJSMkZEalNtNjd4d1RhcXgyeUJuNmJsSTFXZ0dXaGF0TXlsazVJZkJzaV93bW83c1RQbDZ1TlBTT2ZGeVFYVWFRTi1sWVNZU09IQWptZ1RjdlFuMmZPMUg0amdad1BxMVI?oc=5\" target=\"_blank\">US consumers might be spent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLW5HU2RlUjJSMkZEalNtNjd4d1RhcXgyeUJuNmJsSTFXZ0dXaGF0TXlsazVJZkJzaV93bW83c1RQbDZ1TlBTT2ZGeVFYVWFRTi1sWVNZU09IQWptZ1RjdlFuMmZPMUg0amdad1BxMVI?oc=5\" target=\"_blank\">US consumers might be spent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-15T06:47:30+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -777,18 +777,18 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Companies are getting their huge tariff refunds - morningbrew.com",
+      "title": "Companies are getting their huge tariff refunds - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNME9ERVdxSDJZelZ5amVLYnlsQlVEV0xQTlpqNkxlYmNJLTBwY1NWV2trUnFfMndDSTZWLUN2bWltYm00WTdJSExXcWZ4OV9FWHdPbDJ2dWp1N2ZJNGo5SXlGclEzMU53ZjczUlNuVGtobEwwVTFWZUxWQzdqV1M5ZUtlM2podWdfZFRF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNME9ERVdxSDJZelZ5amVLYnlsQlVEV0xQTlpqNkxlYmNJLTBwY1NWV2trUnFfMndDSTZWLUN2bWltYm00WTdJSExXcWZ4OV9FWHdPbDJ2dWp1N2ZJNGo5SXlGclEzMU53ZjczUlNuVGtobEwwVTFWZUxWQzdqV1M5ZUtlM2podWdfZFRF?oc=5\" target=\"_blank\">Companies are getting their huge tariff refunds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxNME9ERVdxSDJZelZ5amVLYnlsQlVEV0xQTlpqNkxlYmNJLTBwY1NWV2trUnFfMndDSTZWLUN2bWltYm00WTdJSExXcWZ4OV9FWHdPbDJ2dWp1N2ZJNGo5SXlGclEzMU53ZjczUlNuVGtobEwwVTFWZUxWQzdqV1M5ZUtlM2podWdfZFRF?oc=5\" target=\"_blank\">Companies are getting their huge tariff refunds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-14T06:29:32+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Report: Anthropic could IPO at record $2t valuation - morningbrew.com",
+      "title": "Report: Anthropic could IPO at record $2t valuation - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOX004MjFjMEU1Ri11dXZiWUc1aHBoV0RwTGhOWFBMQUVHWlJkSVFPUWFia0g0d1lYaV9NeU5lbzNPdXBKRlQycVd2M0pVLW9ET096dXpObTZYamhmanR0cDk1dlBQc2V5OHlIengzQWJUdDlhVjJONmk0U1NrUlpkVWZDZ05CSmczWmM4RHFxTFhoZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOX004MjFjMEU1Ri11dXZiWUc1aHBoV0RwTGhOWFBMQUVHWlJkSVFPUWFia0g0d1lYaV9NeU5lbzNPdXBKRlQycVd2M0pVLW9ET096dXpObTZYamhmanR0cDk1dlBQc2V5OHlIengzQWJUdDlhVjJONmk0U1NrUlpkVWZDZ05CSmczWmM4RHFxTFhoZw?oc=5\" target=\"_blank\">Report: Anthropic could IPO at record $2t valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxOX004MjFjMEU1Ri11dXZiWUc1aHBoV0RwTGhOWFBMQUVHWlJkSVFPUWFia0g0d1lYaV9NeU5lbzNPdXBKRlQycVd2M0pVLW9ET096dXpObTZYamhmanR0cDk1dlBQc2V5OHlIengzQWJUdDlhVjJONmk0U1NrUlpkVWZDZ05CSmczWmM4RHFxTFhoZw?oc=5\" target=\"_blank\">Report: Anthropic could IPO at record $2t valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-14T06:18:01+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -910,15 +910,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Nexon Releases Earnings for Second Quarter 2026 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDA5a01sNl85NUtycWgtTVVBSDA5bFVxZDlnbERXc0x5VHlSUzVSWTZrY1BFYkx5OXZRSXFaRGN0MUxCTXZQOVhVZ19hcTMzemhHM2JxTkdnZ0FkS2kycWhEbTd5OTlnS2w5VFpTZ1NEZHBZbk1PVTdBbUNnandnUFY1TmVVZGh0WDRGN00yeVEwUGMxc3NSTUtiUDBFbmZDMmlKNHI2LTdOQ2x5X0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQcDA5a01sNl85NUtycWgtTVVBSDA5bFVxZDlnbERXc0x5VHlSUzVSWTZrY1BFYkx5OXZRSXFaRGN0MUxCTXZQOVhVZ19hcTMzemhHM2JxTkdnZ0FkS2kycWhEbTd5OTlnS2w5VFpTZ1NEZHBZbk1PVTdBbUNnandnUFY1TmVVZGh0WDRGN00yeVEwUGMxc3NSTUtiUDBFbmZDMmlKNHI2LTdOQ2x5X0E?oc=5\" target=\"_blank\">Nexon Releases Earnings for Second Quarter 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-13T17:19:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Suno Studio 2.0 puts an AI assistant in the DAW",
@@ -1009,6 +1000,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "After Earnings, Is Palantir a Buy, a Sell, or Fairly Valued? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZU1neUZIckpPMUxudWZjaVF3VlhqZlJfNjd0V0wzRFF3dlBESjJYNGNaS1VUUUo5UjJzN2pUaDdZc2dKLUtkRVhxYi12cXJCYmVLeGI3akhfTVlaWlR1R0VBSjFOSVRVdnJnLVJITF8zdmFmaUlEMEZrSEVTUjRhdE9XUUVYZUp0Nk1ybWZ6Q2hzNkpQQ0tlWG0yUzg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQZU1neUZIckpPMUxudWZjaVF3VlhqZlJfNjd0V0wzRFF3dlBESjJYNGNaS1VUUUo5UjJzN2pUaDdZc2dKLUtkRVhxYi12cXJCYmVLeGI3akhfTVlaWlR1R0VBSjFOSVRVdnJnLVJITF8zdmFmaUlEMEZrSEVTUjRhdE9XUUVYZUp0Nk1ybWZ6Q2hzNkpQQ0tlWG0yUzg?oc=5\" target=\"_blank\">After Earnings, Is Palantir a Buy, a Sell, or Fairly Valued?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-13T09:43:17+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "The True Cost of Cheap Chips",
@@ -1029,9 +1029,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "July inflation data suggests things might be cooling off - morningbrew.com",
+      "title": "July inflation data suggests things might be cooling off - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjFXdFF3V2JlV0w0SHJOOGNnRml6NFNsWE9yQlBaS2R3QmZUR0ZlTUJVT0RHbEp4UmVFc3J6U2tuSDBISWpnblNob0VISzUtQTNMRERGMXotdUc5NE95ZHFCUm4xNHdWdXpBQ3hJdXhISkxDY0MtZ0J1MDhONjg3aXln?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjFXdFF3V2JlV0w0SHJOOGNnRml6NFNsWE9yQlBaS2R3QmZUR0ZlTUJVT0RHbEp4UmVFc3J6U2tuSDBISWpnblNob0VISzUtQTNMRERGMXotdUc5NE95ZHFCUm4xNHdWdXpBQ3hJdXhISkxDY0MtZ0J1MDhONjg3aXln?oc=5\" target=\"_blank\">July inflation data suggests things might be cooling off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQTjFXdFF3V2JlV0w0SHJOOGNnRml6NFNsWE9yQlBaS2R3QmZUR0ZlTUJVT0RHbEp4UmVFc3J6U2tuSDBISWpnblNob0VISzUtQTNMRERGMXotdUc5NE95ZHFCUm4xNHdWdXpBQ3hJdXhISkxDY0MtZ0J1MDhONjg3aXln?oc=5\" target=\"_blank\">July inflation data suggests things might be cooling off</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-13T06:22:15+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1119,9 +1119,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Claude content will soon get invisible AI watermarks - morningbrew.com",
+      "title": "Claude content will soon get invisible AI watermarks - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9SbEgySjVyVFN3LWR3VEtCUVFPVFlaNFpDd0NsMHRyTXFFZFlteWVldUZjRWhEdmtWdDNoWUdQLXRFSDB4ZUItLWhGMzRRXzhoYjEyYm5QTkxxV2hxazRGc1Atb2NucTFZdlZZdmF3ZFdraFo5Y081cFBiUGNfbVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9SbEgySjVyVFN3LWR3VEtCUVFPVFlaNFpDd0NsMHRyTXFFZFlteWVldUZjRWhEdmtWdDNoWUdQLXRFSDB4ZUItLWhGMzRRXzhoYjEyYm5QTkxxV2hxazRGc1Atb2NucTFZdlZZdmF3ZFdraFo5Y081cFBiUGNfbVE?oc=5\" target=\"_blank\">Claude content will soon get invisible AI watermarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9SbEgySjVyVFN3LWR3VEtCUVFPVFlaNFpDd0NsMHRyTXFFZFlteWVldUZjRWhEdmtWdDNoWUdQLXRFSDB4ZUItLWhGMzRRXzhoYjEyYm5QTkxxV2hxazRGc1Atb2NucTFZdlZZdmF3ZFdraFo5Y081cFBiUGNfbVE?oc=5\" target=\"_blank\">Claude content will soon get invisible AI watermarks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-12T06:03:03+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1146,9 +1146,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Solar eclipse is Europe’s star tourism magnet - morningbrew.com",
+      "title": "Solar eclipse is Europe’s star tourism magnet - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUdTS1FqNGVUSjFZd0M3ZUt0Skt1bDdGbUtRelJGY0J0UHZ0ajNBNm9XU1NxNzlrY2hYaFU2TkNSZjQ0MkZ5NksxeGd2enFlcDdVQTFiWnctemlrdV8xZmdEclp0dGExbVZTdG1pdDlsT283TU9wV2JxMnJfYnQ4OUdOMktmNkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUdTS1FqNGVUSjFZd0M3ZUt0Skt1bDdGbUtRelJGY0J0UHZ0ajNBNm9XU1NxNzlrY2hYaFU2TkNSZjQ0MkZ5NksxeGd2enFlcDdVQTFiWnctemlrdV8xZmdEclp0dGExbVZTdG1pdDlsT283TU9wV2JxMnJfYnQ4OUdOMktmNkE?oc=5\" target=\"_blank\">Solar eclipse is Europe’s star tourism magnet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNcUdTS1FqNGVUSjFZd0M3ZUt0Skt1bDdGbUtRelJGY0J0UHZ0ajNBNm9XU1NxNzlrY2hYaFU2TkNSZjQ0MkZ5NksxeGd2enFlcDdVQTFiWnctemlrdV8xZmdEclp0dGExbVZTdG1pdDlsT283TU9wV2JxMnJfYnQ4OUdOMktmNkE?oc=5\" target=\"_blank\">Solar eclipse is Europe’s star tourism magnet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-11T23:58:51+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1172,20 +1172,20 @@
     },
     {
       "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Backlash to Flock cameras is now a bipartisan issue - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbl9hRTZzQk1UTFVhUnpzRXQ2aUhieE9OM3VoWHN2VUJtM09PaHlSajlUSlJpd0FRRFhOUUl0NTl5X2gzUTJXQkZiTmZCRzlFN1hDQ0Y3U1BUcEV2WkU3dURZbC1kLTR3WXRaMkUwNDJyUUJRQTNINWc1R08td3BBZ0dsZzJVWm5oaWFTcDdR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxQbl9hRTZzQk1UTFVhUnpzRXQ2aUhieE9OM3VoWHN2VUJtM09PaHlSajlUSlJpd0FRRFhOUUl0NTl5X2gzUTJXQkZiTmZCRzlFN1hDQ0Y3U1BUcEV2WkU3dURZbC1kLTR3WXRaMkUwNDJyUUJRQTNINWc1R08td3BBZ0dsZzJVWm5oaWFTcDdR?oc=5\" target=\"_blank\">Backlash to Flock cameras is now a bipartisan issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-11T04:54:21+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "July CPI Expected to Bounce Back After Unexpected June Inflation Decline - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnhOVTU4cWZPcnpOZENxVVlUS29KSHV5LVhpWmNYQXZWbk9STXRjalF0ZTNiZWdkRy02UUE4LUNYZHhOZ3FQYVJKZGZ0RldSU0Vqbnd4eGc4Y01zNHF4U296YVdGQWdrQ2dwNzRRZlFMcE5RY1hyemNJM0tRM3drTURUazdyRmhlOHMtUzRUemtvYXFvd3ZjLXdreEtVSXBDdTVXOHAtaTU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnhOVTU4cWZPcnpOZENxVVlUS29KSHV5LVhpWmNYQXZWbk9STXRjalF0ZTNiZWdkRy02UUE4LUNYZHhOZ3FQYVJKZGZ0RldSU0Vqbnd4eGc4Y01zNHF4U296YVdGQWdrQ2dwNzRRZlFMcE5RY1hyemNJM0tRM3drTURUazdyRmhlOHMtUzRUemtvYXFvd3ZjLXdreEtVSXBDdTVXOHAtaTU?oc=5\" target=\"_blank\">July CPI Expected to Bounce Back After Unexpected June Inflation Decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-10T21:30:58+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "You probably can’t afford these nannies - morningbrew.com",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1RWXdtWnhSWDh5a2JEWmRUbkZ6anI4bXB2Mmh2Y1VfTmpUaHk1QTJDNF9RTl83YmU1V09vWmZibnVTN1I1dF9TXzJRYXpfZll2VFBqSXVuOEV6WlU5NXVpSWxPWml1ampybi1QZzJOdGxwU0NLWW5YR3VhNDAtTVU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1RWXdtWnhSWDh5a2JEWmRUbkZ6anI4bXB2Mmh2Y1VfTmpUaHk1QTJDNF9RTl83YmU1V09vWmZibnVTN1I1dF9TXzJRYXpfZll2VFBqSXVuOEV6WlU5NXVpSWxPWml1ampybi1QZzJOdGxwU0NLWW5YR3VhNDAtTVU?oc=5\" target=\"_blank\">You probably can’t afford these nannies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
-      "published": "2026-08-09T08:27:36+00:00",
       "feed_type": "google_news_fallback"
     },
     {
