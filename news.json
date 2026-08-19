@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T09:39:14.968044+00:00",
+  "updated_at": "2026-08-19T10:34:16.294314+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,78 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin stuck in a six-week range as global bond yields hit highest levels for decades",
+      "link": "https://www.coindesk.com/markets/2026/08/19/bitcoin-stuck-in-a-six-week-range-as-global-bond-yields-hit-highest-levels-for-decades",
+      "summary": "",
+      "published": "2026-08-19T10:29:57+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Pakistani government files challenge against Imran Khan private hospital move - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5\" target=\"_blank\">Pakistani government files challenge against Imran Khan private hospital move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-19T10:16:10+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Rain CEO says stablecoin payments reach more than 100,000 merchants without them knowing it",
+      "link": "https://www.theblock.co/news/business/2026-08-19-rain-ceo-says-stablecoin-payments-reach-more-than-100000-merchants-without-them-knowing-it-412184",
+      "summary": "Rain CEO Farooq Malik said more than 100,000 merchants accept stablecoins unknowingly, with transactions settling through Visa in three days.",
+      "published": "2026-08-19T10:09:40+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "TikTok code includes peer-to-peer payments over messaging: Bloomberg",
+      "link": "https://www.coindesk.com/business/2026/08/19/tiktok-code-includes-peer-to-peer-payments-over-messaging-bloomberg",
+      "summary": "",
+      "published": "2026-08-19T10:04:30+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+      "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+      "summary": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+      "published": "2026-08-19T10:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Ripple raises $275 million in senior notes for prime brokerage push",
+      "link": "https://www.coindesk.com/business/2026/08/19/ripple-raises-usd275-million-in-debut-debt-offering-for-its-prime-brokerage-arm",
+      "summary": "",
+      "published": "2026-08-19T09:55:50+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Chinese robotic company’s stock soars over 600% in trading debut",
+      "link": "https://www.marketwatch.com/story/chinese-robotic-companys-stock-soars-over-600-in-trading-debut-e735426d?mod=mw_rss_topstories",
+      "summary": "Unitree is first humanoid robot firm to list in mainland China",
+      "published": "2026-08-19T09:42:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Japan criticises US over 'unfortunate' sanctions on ICC - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5\" target=\"_blank\">Japan criticises US over 'unfortunate' sanctions on ICC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-19T09:27:31+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -62,6 +134,15 @@
       "summary": "The mansion that heiress Paris Hilton and her husband, Carter Reum, rented before buying their own $63 million estate nearby has returned to the market with a sky-high asking price of $169,000 a month.",
       "published": "2026-08-19T08:59:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Turkey slams Israel's 'untenable' claims after strikes on Syrian base - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPeTdCNlA1LTNVZ0ttZ2VXTGJLVnR5YjBnUnZMNFVWVzc5cUJEcHdxekdHLXBzcDNLUnp1TUx4N3J6SzJQQ0pOTEtSRFVWOTJpZC1xZEd4QTA1TkpEaG1mOXdTM2pQWU5kV3FqWTM3SlJUZEYyb180ZWxMRHlSZlVveDMtWkNJMTFwMWs0VTB6R1M1aHhNRVAzdXc2V29oOVBBRV8wM2FmWnE4OTNJVWpWU3E0Z0VBcnQ4?oc=5\" target=\"_blank\">Turkey slams Israel's 'untenable' claims after strikes on Syrian base</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-19T08:37:09+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -118,15 +199,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Pakistan government to challenge Imran Khan hospital move, says law minister - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPbW40aTA3U1piZS03SW9vM3lNRlFUR01aVWdDR3pzS1ViZHA5czBFMVduOHZwclZMeTBNVU1LQVpTOEw5WXZmdTVZTVNOdTQwWGlFYWY4LW45QVFVUlcxYkNsbUd1UG5URmNJSElTZGNnVHVQdFNxNGJkQkFBMVIyR0tkbUZ6YU56MXktSUN1cGRaNVRMaHNOVWp0OEloQ2pRQWFvTURFRExQeFlXUXBzUkVTLWpvd3c0eWx5V0xrUzF3MDlCY0E?oc=5\" target=\"_blank\">Pakistan government to challenge Imran Khan hospital move, says law minister</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-19T07:19:43+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Proving the Negative: Three Warnings from Arms Control for the Age of AI",
@@ -134,15 +206,6 @@
       "summary": "<p>In early 1963, a single number characterized the difference in the positions of the United States and the Soviet Union on a comprehensive nuclear test ban. Nikita Khrushchev had proposed three on-site inspections each year. Washington was asking for seven. Other differences remained, including inspection procedures and treaty language. But the difference mattered: Seismology could not always distinguish an underground test from an earthquake, and inspections created both assurance and opportunities for espionage.Neither number had been delivered by a technical expert wielding a seismograph. Each represented a political judgment about how much residual uncertainty its government should accept. The negotiations</p>\n<p>The post <a href=\"https://warontherocks.com/proving-the-negative-three-warnings-from-arms-control-for-the-age-of-ai/\">Proving the Negative: Three Warnings from Arms Control for the Age of AI</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-19T07:00:54+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Japan criticises U.S. over 'unfortunate' sanctions on ICC - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNYkg0bk1MOFBFZHhkbEZ2UDlybmkzck1hRF85bUtNRWI2V0ZDV1lUVEQ0NEwtUnhEZERBbGFHMEZ1X1ltamllMW5FMldvMHlQN0Z2V2dqSWVGN01yd01BM29pYnVBMS1VQVo5Zld4VU1IdzZmcjhsMHRNWTNFQTdUS1ZhMHVEYkxRc1pzdjA4R3U0RUZUWVdIZkFGYU55bTVVYjBEaUs2d203N2ZmeXFVdUVHWGxLdw?oc=5\" target=\"_blank\">Japan criticises U.S. over 'unfortunate' sanctions on ICC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-19T06:44:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -190,15 +253,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Attacks on aid workers hit record high in 2025, UN says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNYmtzR2tmZkZCUlRxU3JkRjZla3I2ODFrRERhVmRrS3pBaHRUM3BYLXNjSEJUdTFIc1dOMVVrUDFpRlQzc3lMNkFXMlpQSjNkbFJJcUpvV0tBTkFvUU9NeWxsT1RkcDBIUzNuRm9QeGhUR0g3d1ZUeEhaSFlXUkRlT3dCcFRqS19zVThMclVOV2lSLXlPOEI0dmJWbGR3QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNYmtzR2tmZkZCUlRxU3JkRjZla3I2ODFrRERhVmRrS3pBaHRUM3BYLXNjSEJUdTFIc1dOMVVrUDFpRlQzc3lMNkFXMlpQSjNkbFJJcUpvV0tBTkFvUU9NeWxsT1RkcDBIUzNuRm9QeGhUR0g3d1ZUeEhaSFlXUkRlT3dCcFRqS19zVThMclVOV2lSLXlPOEI0dmJWbGR3QQ?oc=5\" target=\"_blank\">Attacks on aid workers hit record high in 2025, UN says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-19T04:05:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "A China Strategy That Lasts",
@@ -210,10 +264,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Hormuz traffic slows as uncertainty over waterway persists - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPYldMdWw5dWFaM0VrQzE2U1ZvSTc2VHhrVmdJNmRDV3h6dUtUTGFmS01FRjdMeHJBaExMNEgzYWxGMlZEQlpQSEwycU5zMXZGckUtT3BHY1cwaTNiT0JhZVBIbnVZTFp5OTRwLUJmbFlpdWJMdlRiZjV5OWtYM3pBOUpXSFphWFlsRVF2YVhoWTBQcnQ0UFF2QXV2enNuRlZJa1ROMUtFaHhwN0M0ZVE?oc=5\" target=\"_blank\">Hormuz traffic slows as uncertainty over waterway persists</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-19T03:39:00+00:00",
+      "title": "At least nine killed in hotel fire in India's Kolkata - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPMGRoSmZEYmRjbDdPNDdrVFRidlNIZ0dMODBMZ2p6Z1JqSWFBWmpyQU52RktYYXF1MHNHaE1rSmtFYXEtcl9iQWRqTFdlRV9WcHFkdGM2X1ozcm0yRXNLVHdUbEdMZlFJOUJRSTVpd0VYMFZLVVpheG11MFlpR3VNNmpPVWpjYlhfdHgwYi1VQ1lVWTVibnJFd0ZxcjVIOHM?oc=5\" target=\"_blank\">At least nine killed in hotel fire in India's Kolkata</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-19T03:59:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -232,15 +286,6 @@
       "link": "https://www.marketwatch.com/story/trump-holds-off-on-new-50-tariffs-for-canadian-goods-71f75005?mod=mw_rss_topstories",
       "summary": "Here’s what’s going on with the Trump administration’s plan for new tariffs for some Canadian goods.",
       "published": "2026-08-19T02:42:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
-      "link": "https://www.coindesk.com/policy/2026/08/18/it-has-to-pass-andrew-cuomo-warns-u-s-is-falling-behind-on-crypto-rules",
-      "summary": "",
-      "published": "2026-08-19T01:35:36+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -289,24 +334,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
-      "link": "https://www.marketwatch.com/story/my-son-does-not-work-yet-he-pays-500-for-aca-health-insurance-how-is-that-fair-92f578c4?mod=mw_rss_topstories",
-      "summary": "“I see people who have a lot of money but little or no taxable income who still qualify for ACA Marketplace subsidies.”",
-      "published": "2026-08-18T23:15:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Robinhood CEO urges U.S. to clear path for tokenized stocks as overseas markets advance",
-      "link": "https://www.coindesk.com/markets/2026/08/18/robinhood-ceo-urges-u-s-to-clear-path-for-tokenized-stocks-as-overseas-markets-advance",
-      "summary": "",
-      "published": "2026-08-18T23:11:12+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "New Details Emerge About Ukraine’s Homegrown “Equalizer” Glide Bomb",
@@ -349,15 +376,6 @@
       "link": "https://breakingdefense.com/2026/08/army-picks-hanwhas-wheeled-k9-for-self-propelled-howitzer-prototypes/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-picks-hanwhas-wheeled-k9-for-self-propelled-howitzer-prototypes/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/K9-on-the-move-2-e1787088335140-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Today’s decision comes after decades of fits and starts to find a new mobile howitzer, including the ill-fated Crusader, Non-Line-of-Sight Cannon and Extended Range Cannon Artillery.</p>",
       "published": "2026-08-18T21:28:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "U.S. accounting-standards group proposes way to see stablecoins as 'cash equivalent'",
-      "link": "https://www.coindesk.com/policy/2026/08/18/u-s-accounting-standards-group-proposes-way-to-see-stablecoins-as-cash-equivalent",
-      "summary": "",
-      "published": "2026-08-18T21:25:42+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -649,15 +667,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Securitize brings Neuberger’s $230 billion fixed-income platform onchain with new tokenized fund",
-      "link": "https://www.theblock.co/news/markets/2026-08-18-securitize-neubergers-230-billion-fixed-income-platform-onchain-new-tokenized-fund-412102",
-      "summary": "HINC will be available across Avalanche, Ethereum, Solana and Sui, as Securitize expands its push to bring fixed-income strategies onchain.",
-      "published": "2026-08-18T15:04:21+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Nashville’s NYE Event, To The Future, is Back With GRiZ, Tape B and More",
@@ -880,15 +889,6 @@
       "link": "https://www.twz.com/sea/where-are-the-aircraft-carriers-august-17-2026",
       "summary": "<p>USS George Washington is en route to relieve USS Abraham Lincoln in the Middle East, which leaves no carriers in the Pacific.</p>\n<p>The post <a href=\"https://www.twz.com/sea/where-are-the-aircraft-carriers-august-17-2026\">Where Are The Aircraft Carriers?: August 17, 2026</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-18T00:26:11+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Anthropic’s annualized revenue surges to $65B",
-      "link": "https://techcrunch.com/2026/08/17/anthropics-annualized-revenue-surges-to-65b/",
-      "summary": "The model maker added $18 billion in annualized revenue in two months.",
-      "published": "2026-08-17T23:56:26+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1281,54 +1281,54 @@
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Before and after satellite images of demolition of East Wing - AP News",
+      "title": "Before and after satellite images of demolition of East Wing - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2025-10-23T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
+      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2025-04-27T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections - AP News",
+      "title": "New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5\" target=\"_blank\">New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5\" target=\"_blank\">New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2025-03-06T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "PHOTO COLLECTION: Pam Bondi Swearing In - AP News",
+      "title": "PHOTO COLLECTION: Pam Bondi Swearing In - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2025-02-05T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Photos from the People's March on Washington: 1.18.2025 - AP News",
+      "title": "Photos from the People's March on Washington: 1.18.2025 - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5\" target=\"_blank\">Photos from the People's March on Washington: 1.18.2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5\" target=\"_blank\">Photos from the People's March on Washington: 1.18.2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2025-01-18T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Read the full House ethics report on Matt Gaetz - AP News",
+      "title": "Read the full House ethics report on Matt Gaetz - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2024-12-23T08:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1344,9 +1344,9 @@
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
+      "title": "As civic knowledge declines, programs work to engage young people in democracy - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2024-09-13T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1362,9 +1362,9 @@
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Politics - AP News",
+      "title": "Politics - apnews.com",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">apnews.com</font>",
       "published": "2020-12-07T16:27:24+00:00",
       "feed_type": "google_news_fallback"
     },
