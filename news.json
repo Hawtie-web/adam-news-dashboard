@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19T03:03:04.916600+00:00",
+  "updated_at": "2026-08-19T04:42:04.081691+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,6 +10,33 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Solana leads bitcoin and ether higher while Korean chip stocks slide 7%",
+      "link": "https://www.coindesk.com/markets/2026/08/19/solana-leads-bitcoin-and-ether-higher-while-korean-chip-stocks-slide-7",
+      "summary": "",
+      "published": "2026-08-19T04:25:42+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "A China Strategy That Lasts",
+      "link": "https://www.foreignaffairs.com/united-states/china-strategy-lasts",
+      "summary": "Congress must lead to compete with Beijing.",
+      "published": "2026-08-19T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Kalshi files to launch perpetual futures tied to US stock index, copper",
+      "link": "https://www.theblock.co/news/business/2026-08-18-kalshi-files-perps-equity-index-copper-412176",
+      "summary": "Kalshi has filed with the Commodity Futures Trading Commission to offer perps tied to the MerQube US Large Cap Index and copper.",
+      "published": "2026-08-19T03:22:58+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Trump holds off on new 50% tariffs for Canadian goods",
@@ -19,6 +46,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Vietnam police address ex-politician's car crash that killed a teenager - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JTSUU5dl9JdWRBLUNrUmlYYnZnazVLeUQzNjRKaS1oS3lMWlQzN0NndkJmSEVkcTczTjJjQ0ZGRGZUWkprV3pLMGU0eFVVQnFlWWFCMUtQendmNUhzYy1qRldleVo1MHA5bE9CajJ5bTdwLTdfcDN0Qk4zVVZ5LW9sM0FYdFdDQzVBZGlBVGJQYzhpeFpjUTZtaFZfSnRESjFHeE43UDQ2OGRKOU1RWldURzF2NWVfOVhhSUpzbWY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQV3JTSUU5dl9JdWRBLUNrUmlYYnZnazVLeUQzNjRKaS1oS3lMWlQzN0NndkJmSEVkcTczTjJjQ0ZGRGZUWkprV3pLMGU0eFVVQnFlWWFCMUtQendmNUhzYy1qRldleVo1MHA5bE9CajJ5bTdwLTdfcDN0Qk4zVVZ5LW9sM0FYdFdDQzVBZGlBVGJQYzhpeFpjUTZtaFZfSnRESjFHeE43UDQ2OGRKOU1RWldURzF2NWVfOVhhSUpzbWY?oc=5\" target=\"_blank\">Vietnam police address ex-politician's car crash that killed a teenager</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-19T02:40:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Nvidia H200 chips reach China in small shipments, FT reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPc2tBTmsySF9VRGZpdVNsWmM1TGhwMXRhdGFGUGZiZDNjamtuNjlRbHo3OGpDQnNZVjByNkt6cWNEMFN4MkZybm95R29hMnlTVmxMYzktVC1DNUYwUnpsa3FlYjl1QldWczlmelFwNFM0YlJ0T1lPVlB1UGZ6NXdQRGU1dFVjRkdGUXdTYlJwUnM3dEtNSjBvdmZCbG42UGNaVFRqZTI0NXN2VjlQbmpDVw?oc=5\" target=\"_blank\">Nvidia H200 chips reach China in small shipments, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-19T02:17:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "‘It has to pass’: Andrew Cuomo warns U.S. is falling behind on crypto rules",
@@ -26,15 +71,6 @@
       "summary": "",
       "published": "2026-08-19T01:35:36+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-08-19T01:28:01+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -48,9 +84,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Gold inches higher, focus on Fed minutes - Reuters",
+      "title": "Gold firms as Treasury yields ease; Fed minutes in focus - Reuters",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5\" target=\"_blank\">Gold inches higher, focus on Fed minutes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQaUdvQUdqT3pXTDBJNFJ5YWdOeUt5RE9RcVpIS2FBSmN4b2gxbXFKRHZHMGg4NDNQRGptQ0NPQjdWNmNrREpibmpQOFg0OFV2Y1A5ZFRLTG8tOEpwdm05NG5wcmFDai1BR0YzU0V1bE1qMDJsRGhhV1UwUU1tQjJWUHB3Tl81MHJXdTdiQQ?oc=5\" target=\"_blank\">Gold firms as Treasury yields ease; Fed minutes in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-19T00:59:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -181,6 +217,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US, South Korea to cut length, scope of military drills after Trump order - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjJDSC1vNWx4bEg0SXR2M0htUXhSS0Jfb0Riend2YmpHcXZSVlg0d1VacGZPa1hhYTlUREg4Y3FCVkNHV3d6VFBBYjBUYm9QYjhUcU40NmJPMnBDYVp1TFVrNnRqaFQ4NWJMb21fcUdIYmhZYWVvVU5KemNQQmJuUU9kLVVGOGpDcm5IS1BobzF1NXpsYlpkOTB4QUJicENTZ0VnQVZ1VmNOZHlfVEl1dlNEQnVyQW1oOExvclJ6UTY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPWjJDSC1vNWx4bEg0SXR2M0htUXhSS0Jfb0Riend2YmpHcXZSVlg0d1VacGZPa1hhYTlUREg4Y3FCVkNHV3d6VFBBYjBUYm9QYjhUcU40NmJPMnBDYVp1TFVrNnRqaFQ4NWJMb21fcUdIYmhZYWVvVU5KemNQQmJuUU9kLVVGOGpDcm5IS1BobzF1NXpsYlpkOTB4QUJicENTZ0VnQVZ1VmNOZHlfVEl1dlNEQnVyQW1oOExvclJ6UTY?oc=5\" target=\"_blank\">US, South Korea to cut length, scope of military drills after Trump order</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-18T22:01:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Meta is facing its ‘Big Tobacco’ moment — and investors can profit",
@@ -224,15 +269,6 @@
       "summary": "Miller Whitehouse-Levine urged regulators to move quickly, saying the industry \"can’t afford to keep waiting for Congress.\"",
       "published": "2026-08-18T21:22:47+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "UAE says two missiles detected earlier were launched from Iran - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOaVFKQ0k0Vk10ckR0U1JfNHlsLW9nWUtrc09mMUx4UzFzRHJsVk4zYkJQT2NFNHVoVTRyYjE3OTJOcXVtcHFoWGRpQndUTXFnQjFKVGZQM1ZRTkpEeVVPZlF4ZXUydnRUckVmOHU2SEtXU000ZVFhVE8teGhQZFFPbnVFX3dBM1pNa0oxbnFoTmF2bUM3MjFj?oc=5\" target=\"_blank\">UAE says two missiles detected earlier were launched from Iran</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-18T21:21:04+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -334,6 +370,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Jeff Ptak: The Simple Secret to Becoming a Better Investor - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW1BMm5pZXkwNnRZZE9ubHBFUU15MGRGcWZkR0lmaUdibk9rZEEtMEZOT0ZTSDBRS1NjVFQwR3BlRE5RNWdfbWpfOF8tYmJNMXgzOHd3dG04ZUhzdEJTYlg5QkJMeDEwdXNLOUF5WUktU0xZTlQyUFZ2RmpiLUdncDNqWkQ2Z0ZfOE5fMVFSX0lHLU1wMUVnV0hjazNLSDA1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNYW1BMm5pZXkwNnRZZE9ubHBFUU15MGRGcWZkR0lmaUdibk9rZEEtMEZOT0ZTSDBRS1NjVFQwR3BlRE5RNWdfbWpfOF8tYmJNMXgzOHd3dG04ZUhzdEJTYlg5QkJMeDEwdXNLOUF5WUktU0xZTlQyUFZ2RmpiLUdncDNqWkQ2Z0ZfOE5fMVFSX0lHLU1wMUVnV0hjazNLSDA1?oc=5\" target=\"_blank\">Jeff Ptak: The Simple Secret to Becoming a Better Investor</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-18T18:40:21+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Army leaders drafting ‘guiding document’ to ask industry for new intelligence tools",
@@ -354,9 +399,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "What Is Driving the Canadian Dollar’s Rise Against the US Dollar? - global.morningstar.com",
+      "title": "What Is Driving the Canadian Dollar’s Rise Against the US Dollar? - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWZGRjdhS08xUGsxNThkb3p6YzYwSjlKVU5fMTQ2RXBoU2VTSmJXSzY2Nk0tY05Wa1FhQ1ZwNEpsTDZUM2hBb092bktrVlhvRS0wMDZkVEhpUmY2V0lOWjQ2SWFIUUZnN0NoN1F5STVsb3NkYVVvNGhZTmRkMGo3ZGNIQXl5SzFTbzdyVm1ERHJoM1JCRWRlY0RCV3ZmRWhud1E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWZGRjdhS08xUGsxNThkb3p6YzYwSjlKVU5fMTQ2RXBoU2VTSmJXSzY2Nk0tY05Wa1FhQ1ZwNEpsTDZUM2hBb092bktrVlhvRS0wMDZkVEhpUmY2V0lOWjQ2SWFIUUZnN0NoN1F5STVsb3NkYVVvNGhZTmRkMGo3ZGNIQXl5SzFTbzdyVm1ERHJoM1JCRWRlY0RCV3ZmRWhud1E?oc=5\" target=\"_blank\">What Is Driving the Canadian Dollar’s Rise Against the US Dollar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWZGRjdhS08xUGsxNThkb3p6YzYwSjlKVU5fMTQ2RXBoU2VTSmJXSzY2Nk0tY05Wa1FhQ1ZwNEpsTDZUM2hBb092bktrVlhvRS0wMDZkVEhpUmY2V0lOWjQ2SWFIUUZnN0NoN1F5STVsb3NkYVVvNGhZTmRkMGo3ZGNIQXl5SzFTbzdyVm1ERHJoM1JCRWRlY0RCV3ZmRWhud1E?oc=5\" target=\"_blank\">What Is Driving the Canadian Dollar’s Rise Against the US Dollar?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-18T18:06:48+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -395,15 +440,6 @@
       "summary": "",
       "published": "2026-08-18T17:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Russia's Lavrov says Britain risks being seen as party to Ukraine war - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2NwX2twY3lzTEdIRkdfNzBRVUFGcEhFMmtWS1Y0ZUhLWWpsWVlGZDVsaDVfcVVXY3daRXFReEF4VnJTUjZqa25Jcll1NjEtT0FhbTlIV2JPeVh0dGJVRXFXMC1TMGlPMFQ4dTk0dEhUcm8ydDFzWUwydkUzNVQ2eEtEU2Q0QU1qUjZUX0pVQU5NMDctYWpDcm9SQ2NZWFpUUGVIc0dOQnhhWk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPU2NwX2twY3lzTEdIRkdfNzBRVUFGcEhFMmtWS1Y0ZUhLWWpsWVlGZDVsaDVfcVVXY3daRXFReEF4VnJTUjZqa25Jcll1NjEtT0FhbTlIV2JPeVh0dGJVRXFXMC1TMGlPMFQ4dTk0dEhUcm8ydDFzWUwydkUzNVQ2eEtEU2Q0QU1qUjZUX0pVQU5NMDctYWpDcm9SQ2NZWFpUUGVIc0dOQnhhWk0?oc=5\" target=\"_blank\">Russia's Lavrov says Britain risks being seen as party to Ukraine war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-18T16:53:44+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -559,30 +595,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUFBFaGFVcWFQMUh6YjRZVVpwX2piQ093ZzVJVjJtRmgtaE9RVFhJNG40STQxbDlhSG00cHBNVWNlRnZ5TE9MSmVVQTdJRk5hTDhIVEVCeXRtbmsyQkNCR1FSQm5GVGRNYmcybHN6RFNzbGJGN3hsdUUzWFh1c0NEdXd0X0h4SHdRXzlsRjd4NDZvR1VBc0M3ZDJxdG1TcTBISHBWSHRjcHBRSG90SU44cE5WM011U2g0V1dObWZXaEJSX2tONDQ0?oc=5\" target=\"_blank\">Trump says no talks planned with Iran, Tehran says Strait of Hormuz still shut</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-18T15:18:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Metaplanet takes 96% of Super League in 2,100 BTC, cash deal to launch US bitcoin treasury firm",
       "link": "https://www.theblock.co/news/deals/2026-08-18-metaplanet-super-league-2100-btc-cash-deal-launch-us-bitcoin-treasury-sle-stock-sruge-412101",
       "summary": "Metaplanet is taking its bitcoin treasury strategy to the U.S. with a controlling stake in Super League, which surged 80% on the news.",
       "published": "2026-08-18T15:09:55+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Why the Trump-backed crypto venture is distancing itself from Hong Kong AI aggregator WorldClaw",
-      "link": "https://www.coindesk.com/markets/2026/08/18/trump-linked-world-liberty-says-worldclaw-is-independent-after-questions-over-ai-model-access",
-      "summary": "",
-      "published": "2026-08-18T15:07:52+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -655,15 +673,6 @@
       "link": "https://www.twz.com/air/air-force-wants-family-of-expendable-target-drones-that-can-mimic-everything-from-stealth-fighters-to-uav-swarms",
       "summary": "<p>With rapidly evolving threats around the globe, the USAF's target drones need to start making leaps to catch up and a new family of systems is wanted for this. </p>\n<p>The post <a href=\"https://www.twz.com/air/air-force-wants-family-of-expendable-target-drones-that-can-mimic-everything-from-stealth-fighters-to-uav-swarms\">Air Force Wants Family Of Expendable Target Drones That Can Mimic Everything From Stealth Fighters To UAV Swarms</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-18T12:26:59+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Citi expects to launch bitcoin custody later this year under its new Custody+ platform",
-      "link": "https://www.theblock.co/news/business/2026-08-18-citi-bitcoin-custody-412090",
-      "summary": "The platform also includes real-time asset servicing, instant settlements, liquidity tools, and AI-powered market intelligence.",
-      "published": "2026-08-18T12:15:31+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -759,6 +768,24 @@
     {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
+      "title": "The Abandoned Order",
+      "link": "https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard",
+      "summary": "Learning to live in a post-American world.",
+      "published": "2026-08-18T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "AI and the New Age of Bioweapons",
+      "link": "https://www.foreignaffairs.com/united-states/ai-and-new-age-bioweapons-sherwood-randall",
+      "summary": "Preparing for a world of synthetic pathogens.",
+      "published": "2026-08-18T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
       "title": "How China Found Its Most Potent Weapon",
       "link": "https://www.foreignaffairs.com/china/how-china-found-most-potent-weapon-xiong-weiss",
       "summary": "The real history of Beijing’s rare-earth dominance.",
@@ -795,36 +822,9 @@
     {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
-      "title": "AI and the New Age of Bioweapons",
-      "link": "https://www.foreignaffairs.com/united-states/ai-and-new-age-bioweapons-sherwood-randall",
-      "summary": "Preparing for a world of synthetic pathogens.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
       "title": "America’s Missing Military Revolution",
       "link": "https://www.foreignaffairs.com/united-states/americas-missing-military-revolution-doug-beck",
       "summary": "Why Washington still risks losing the tech race.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The Abandoned Order",
-      "link": "https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard",
-      "summary": "Learning to live in a post-American world.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The End of the American Middle East",
-      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
-      "summary": "Iran and the last gasp of a failed order.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -1144,15 +1144,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Thu, Aug 27th, 2026 — Solve this Brew Mini: Switcheroo - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zWUhfNEJERm5IcEEtRTRlS19QUGZOR1lLanFxNWZLaklmcW1Bem9maW9rVnBhVG4yMHJ5Z2dVN2dGOTRuQjZ0MzhsZThEa3oxUWw0VDFaRUZNXzV4amRXWldBQzA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTE0zWUhfNEJERm5IcEEtRTRlS19QUGZOR1lLanFxNWZLaklmcW1Bem9maW9rVnBhVG4yMHJ5Z2dVN2dGOTRuQjZ0MzhsZThEa3oxUWw0VDFaRUZNXzV4amRXWldBQzA?oc=5\" target=\"_blank\">Thu, Aug 27th, 2026 — Solve this Brew Mini: Switcheroo</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-14T04:07:04+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "The U.S.-Led Middle East Order Is Over. The Mecca Agreement Proves It. - Council on Foreign Relations",
@@ -1189,12 +1180,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "July CPI Expected to Bounce Back After Unexpected June Inflation Decline - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnhOVTU4cWZPcnpOZENxVVlUS29KSHV5LVhpWmNYQXZWbk9STXRjalF0ZTNiZWdkRy02UUE4LUNYZHhOZ3FQYVJKZGZ0RldSU0Vqbnd4eGc4Y01zNHF4U296YVdGQWdrQ2dwNzRRZlFMcE5RY1hyemNJM0tRM3drTURUazdyRmhlOHMtUzRUemtvYXFvd3ZjLXdreEtVSXBDdTVXOHAtaTU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVnhOVTU4cWZPcnpOZENxVVlUS29KSHV5LVhpWmNYQXZWbk9STXRjalF0ZTNiZWdkRy02UUE4LUNYZHhOZ3FQYVJKZGZ0RldSU0Vqbnd4eGc4Y01zNHF4U296YVdGQWdrQ2dwNzRRZlFMcE5RY1hyemNJM0tRM3drTURUazdyRmhlOHMtUzRUemtvYXFvd3ZjLXdreEtVSXBDdTVXOHAtaTU?oc=5\" target=\"_blank\">July CPI Expected to Bounce Back After Unexpected June Inflation Decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-10T07:00:00+00:00",
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Territorial Disputes in the South China Sea | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWV9kUFVvdFRWdk5VSU9aZVphYVhTZmtLeG1KN0tPUnVycXFMNmY5Q0ZwbDh2QnphbFNEbUhMaEFtQm14UkhsNlQtOWRtRy1CMkpYOHg3alNuVC1TbmViVTBuVklPc3lOWjdEai1zZ1c4Xzc1c1dPd2tuc2E5VFMwWXJ6bnNiRWcwVGxfWWdVd041c1A3T19YNVNXZmx6TFlCRkxKTmJB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPWV9kUFVvdFRWdk5VSU9aZVphYVhTZmtLeG1KN0tPUnVycXFMNmY5Q0ZwbDh2QnphbFNEbUhMaEFtQm14UkhsNlQtOWRtRy1CMkpYOHg3alNuVC1TbmViVTBuVklPc3lOWjdEai1zZ1c4Xzc1c1dPd2tuc2E5VFMwWXJ6bnNiRWcwVGxfWWdVd041c1A3T19YNVNXZmx6TFlCRkxKTmJB?oc=5\" target=\"_blank\">Latest News – Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-07T01:20:45+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1333,6 +1324,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Business News and Trends - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5\" target=\"_blank\">Business News and Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2024-11-18T18:07:29+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
@@ -1352,11 +1352,11 @@
     },
     {
       "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5\" target=\"_blank\">War in Ukraine | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2020-05-29T13:47:04+00:00",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2020-12-07T16:27:24+00:00",
       "feed_type": "google_news_fallback"
     },
     {
