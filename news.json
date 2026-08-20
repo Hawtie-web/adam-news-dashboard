@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-08-20T19:37:03.279586+00:00",
-  "item_count": 144,
+  "updated_at": "2026-08-20T20:34:39.633313+00:00",
+  "item_count": 152,
   "failures": [
-    {
-      "source": "The Block",
-      "feed_url": "https://www.theblock.co/rss.xml",
-      "error": "<unknown>:26:113: not well-formed (invalid token)"
-    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -14,6 +9,60 @@
     }
   ],
   "items": [
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
+      "link": "https://www.defensenews.com/air-warfare/2026/08/20/us-navy-leads-multinational-effort-for-next-gen-seasparrow-missile/",
+      "summary": "The U.S. Navy is leading a multinational effort to develop a new version of the Evolved SeaSparrow air defense missile.",
+      "published": "2026-08-20T20:23:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Apple Music Will Require ‘AI Transparency Tags’ for Songs Created Using Generative Software",
+      "link": "https://edm.com/industry/apple-music-announces-ai-transparency-tags/",
+      "summary": "<p>Apple Music informed major distributors on Thursday that public labels for AI-generated music will arrive on the streaming service before the end of the year.</p>\n<p>The post <a href=\"https://edm.com/industry/apple-music-announces-ai-transparency-tags/\">Apple Music Will Require &#8216;AI Transparency Tags&#8217; for Songs Created Using Generative Software</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-08-20T20:22:34+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Ukraine braces for combined salvos of up to 200 missiles as overnight attack kills 15 in Kyiv",
+      "link": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
+      "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
+      "published": "2026-08-20T20:09:46+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After ‘Retirement’",
+      "link": "https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement",
+      "summary": "<p>We can only imagine the crazy logistics that keep just a handful of F-117s flying, and a contract to help do this highlights one of the \"Black Jet's\" unique features.</p>\n<p>The post <a href=\"https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement\">F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After &#8216;Retirement&#8217;</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-20T19:57:42+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Army network needs digital twin for training, testing, cybersecurity: NETCOM chief",
+      "link": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8944263-e1787254586489.jpg\" style=\"height: auto!important;\" width=\"798\" /></a></p><p>“It’s a big ask,” acknowledged Maj. Gen. Denise McPhail, chief of Army Network Command, but it could allow NETCOM to “leverage AI in that model to understand our vulnerabilities, where our gaps are.”</p>",
+      "published": "2026-08-20T19:55:53+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Anxious bond market sends troubling message to investors: There’s no easy fix for U.S. debt",
+      "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
+      "summary": "Treasury Secretary Scott Bessent’s plan to calm markets is being short-circuited.",
+      "published": "2026-08-20T19:40:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
@@ -26,7 +75,7 @@
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+      "title": "Runlayer, Rippling drop lawsuits — but the brouhaha is still a cautionary tale for founders",
       "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
       "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
       "published": "2026-08-20T19:15:05+00:00",
@@ -80,11 +129,20 @@
     {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
-      "title": "Drone companies, Trump admin leaders meet for first White House ‘Drone Dominance’ meeting",
+      "title": "Drone companies, admin leaders meet for first White House ‘Drone Dominance’ meeting",
       "link": "https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IMG_2621-scaled-e1787241010570-1024x577.jpeg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“The cavalry arrived here to meet your cavalry in private industry to make sure that we are not drone sufficient, from parity, but drone dominant,” Pentagon R&#038;E chief Emil Michaels said.</p>",
       "published": "2026-08-20T18:24:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US imposes more sanctions on Cuba - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5\" target=\"_blank\">US imposes more sanctions on Cuba</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T18:22:11+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -96,6 +154,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5\" target=\"_blank\">US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T18:20:15+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Neocloud stocks like CoreWeave are having a moment — and time’s running out to cash in",
@@ -103,15 +170,6 @@
       "summary": "The neoclouds are destined to be “cyclical leasing companies,” according to BCA analyst Noah Weisberger, which implies low valuations for the stocks.",
       "published": "2026-08-20T18:20:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5\" target=\"_blank\">EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T18:15:38+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -177,12 +235,21 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "U.S. bond yields are already surging again a day after Bessent’s debt-buyback plan",
-      "link": "https://www.marketwatch.com/story/treasury-rout-restarts-one-day-after-bessents-beefed-up-buyback-plan-972766a1?mod=mw_rss_topstories",
-      "summary": "Treasury Secretary Scott Bessent’s plan to calm markets is being short-circuited.",
-      "published": "2026-08-20T17:44:00+00:00",
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Ondo executive says tokenization is following the same path as early ETFs",
+      "link": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
+      "summary": "The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.",
+      "published": "2026-08-20T17:53:38+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Inside the Oval Office meeting: Trump appears ‘bullish’ on Clarity Act as he solicits feedback from crypto, finance CEOs",
+      "link": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340",
+      "summary": "During a private Oval Office meeting, President Trump appeared “bullish” on passing the Clarity Act, one source said.",
+      "published": "2026-08-20T17:44:28+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -220,6 +287,33 @@
       "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
       "published": "2026-08-20T17:14:08+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Cameroon president returns home after 10-week absence - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMkhfdlJFNncxRzRvWUt6d3VXNmIxdlNseFdZX1NtTHNFYTRyc2JRTVluaVNVSVZEU3JHaHdKd1djbWNXVFhqSXZHbzBuTjdYSW9HNVM1THAzcHpmNW9VUF9HNVlucUdBcXFrZlplNnB1WGFLR1FRcHZrY240N2lsZU5IUEZSYzFuOXRjeGJtNEluZzdMRldxWUoxNDVxVXFkeXBTdg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPMkhfdlJFNncxRzRvWUt6d3VXNmIxdlNseFdZX1NtTHNFYTRyc2JRTVluaVNVSVZEU3JHaHdKd1djbWNXVFhqSXZHbzBuTjdYSW9HNVM1THAzcHpmNW9VUF9HNVlucUdBcXFrZlplNnB1WGFLR1FRcHZrY240N2lsZU5IUEZSYzFuOXRjeGJtNEluZzdMRldxWUoxNDVxVXFkeXBTdg?oc=5\" target=\"_blank\">Cameroon president returns home after 10-week absence</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T17:08:41+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze",
+      "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
+      "summary": "Analysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.",
+      "published": "2026-08-20T17:06:01+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTZYaWxlbjdRU3lSTGZVdTFzc3g4blpKdEtwODlFcnFtaEU4SFlySUJrQURDenFrdEV1ck9rbk55R2d4OW54ZGZXQzZIandvRmVNNk1uWTQ2RzNKaGZ6bEl6VEFzbkItNkpoeUk2NkdLeURSY21pT0dNNnYxWmk3b1hkRzlUbnlvbVZMb0hkRGdPTVlNQ0taeU5WOTd1WFhRb25GMmVfUXZzdFJKWkpqeUpMSFM1OF9RdTAzT1BqeWJnSUViVFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQLTZYaWxlbjdRU3lSTGZVdTFzc3g4blpKdEtwODlFcnFtaEU4SFlySUJrQURDenFrdEV1ck9rbk55R2d4OW54ZGZXQzZIandvRmVNNk1uWTQ2RzNKaGZ6bEl6VEFzbkItNkpoeUk2NkdLeURSY21pT0dNNnYxWmk3b1hkRzlUbnlvbVZMb0hkRGdPTVlNQ0taeU5WOTd1WFhRb25GMmVfUXZzdFJKWkpqeUpMSFM1OF9RdTAzT1BqeWJnSUViVFE?oc=5\" target=\"_blank\">Ousted Ukrainian defence minister's gamble against Zelenskiy backfires as protests end</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T16:57:25+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -366,15 +460,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Top Canada, US trade negotiators to meet again as deal deadline nears - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ?oc=5\" target=\"_blank\">Top Canada, US trade negotiators to meet again as deal deadline nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T14:30:27+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Behringer’s BCR32 is finally available to pre-order after five years: here’s everything you need to know",
@@ -382,6 +467,15 @@
       "summary": "<p><img alt=\"Behringer BCR32\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/08/Behringer-BCR32-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>With a little help from ZAQ Audio, the BCR2000 has been reborn...</p>\n<p>The post <a href=\"https://musictech.com/news/gear/behringer-bcr32-available-to-pre-order-features/\">Behringer’s BCR32 is finally available to pre-order after five years: here’s everything you need to know</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-20T14:29:32+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The Index Fund Turns 50: How Jack Bogle Changed Investing Forever - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEdCUTByM1hEMlNfVW54NmhOdk9sZFdWcmFVZDFXaHVLUVJHVlJPQnhvZ2NpUUh2WnN6VHRNMU5nNm4wdnZzdTJGZHpyTFNjZkh2eXRQalJhWmlwZkF2VFp6MFRSa3Z3b2FEem9BOE1sd05RRVZnR2FpMWtWc3hhOU1MTzZTRkMtQl9LUXp4QlZJMHVEZGJjRERR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEdCUTByM1hEMlNfVW54NmhOdk9sZFdWcmFVZDFXaHVLUVJHVlJPQnhvZ2NpUUh2WnN6VHRNMU5nNm4wdnZzdTJGZHpyTFNjZkh2eXRQalJhWmlwZkF2VFp6MFRSa3Z3b2FEem9BOE1sd05RRVZnR2FpMWtWc3hhOU1MTzZTRkMtQl9LUXp4QlZJMHVEZGJjRERR?oc=5\" target=\"_blank\">The Index Fund Turns 50: How Jack Bogle Changed Investing Forever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-20T14:29:12+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -420,6 +514,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions",
+      "link": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
+      "summary": "McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.",
+      "published": "2026-08-20T13:58:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Army Cyber training AI agents in cyber ‘work roles’ alongside human counterparts",
@@ -427,24 +530,6 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-cyber-training-ai-agents-in-cyber-work-roles-alongside-human-counterparts/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/06/250620_DVIDS_army_computer_9097412-e1750444098988-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Task Force Lexington houses all of Army Cyber Command&#8217;s AI efforts, including an AI &#8220;red team.&#8221;</p>",
       "published": "2026-08-20T13:57:40+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Academic who raised concerns over Jason Arday suspended by Ghent University - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NMXzdBM1JoMGlUVGUzRDZ6WDFfaUZtd3l6YVFiNkFQYnAtM1VRVnZRcXJhVUctb21YcHdmMHlBS280LUhMMEFXemxFUkdIeGN3QVFUY1hwVkd4d3JlUXl5ZlVfUGJPRFhDWEJUc3BUR1Fqa3FTNm1SOEVVbFNzMjc2Sk5ZUy1kYUJRZDlvc2xUZlg5UEhfWjBVcnJTdVZqVzR4dFVBdU5DZmthc3BMSFBPdVBfbDNx?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa3NMXzdBM1JoMGlUVGUzRDZ6WDFfaUZtd3l6YVFiNkFQYnAtM1VRVnZRcXJhVUctb21YcHdmMHlBS280LUhMMEFXemxFUkdIeGN3QVFUY1hwVkd4d3JlUXl5ZlVfUGJPRFhDWEJUc3BUR1Fqa3FTNm1SOEVVbFNzMjc2Sk5ZUy1kYUJRZDlvc2xUZlg5UEhfWjBVcnJTdVZqVzR4dFVBdU5DZmthc3BMSFBPdVBfbDNx?oc=5\" target=\"_blank\">Academic who raised concerns over Jason Arday suspended by Ghent University</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T13:52:49+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Micron unveils $10 billion AI memory research lab in Boise - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOU0dOS0FhM005bXNxVTkwWUNSR3pCaHJKb01nbXpualU1V0FNakliNmJMeHZsdXYtREhjOThWLUdVVGlTZExHZXBaVDFHcHJ3ZHRPY3BsLUxfX2NHMmV4U2hmRm9ibE1MTkhmV3FFWXY3aXVsYWRaWElRa2MwdDdaNVI4VnFXYWZvQ0FLeFlWY2dFNWlhVlB1TUh5dEwyeUFXV1hLNHZWX1Y3dUx2WVE?oc=5\" target=\"_blank\">Micron unveils $10 billion AI memory research lab in Boise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T13:45:44+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -501,21 +586,30 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "New White House strategy clarifies military tech priorities: undersea, outer space and AI",
-      "link": "https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/new-white-house-strategy-clarifies-military-tech-priorities-undersea-outer-space-and-ai/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/260819_DVIDS_sub_sailing_9353211-scaled-e1787169323902-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The National Security Science &#038; Technology Strategy (NSSTS) also outlines an array of second-tier or longer-term technologies to watch, notably quantum and biotech.</p>",
-      "published": "2026-08-20T11:55:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Ripple-linked XRP jumps 15% as data shows 'banker hours' onchain pattern",
       "link": "https://www.coindesk.com/markets/2026/08/20/ripple-linked-xrp-jumps-15-as-data-shows-banker-hours-onchain-pattern",
       "summary": "",
       "published": "2026-08-20T11:35:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’",
+      "link": "https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
+      "summary": "OpenLedger core contributor Ram Kumar sees agentic payments as a major crypto use case as AI agents lack traditional banking access.",
+      "published": "2026-08-20T11:34:23+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending",
+      "link": "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
+      "summary": "The XRP-focused digital asset treasury firm plans to put its holdings to work as it also moves through the process of going public.",
+      "published": "2026-08-20T11:34:05+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -528,12 +622,39 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "These ‘Innovative’ ETFs Have Been Disastrous for Investors - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3M0bDFVcmdOQUNtRWZscXJ2eWtmalVYVlZ1TFdNbENuNWxydHlaVDdRT25SVThWVm1malMzWXRFbkJmbk1ZZ0syekVEVGJrdkE5b2ZKcmVjLVZlam9STTZ4NkNQUW5nbE85UzRCNU1WX2MzcmFSOFdFZ1paMnFYRnhhM1VscWV5eF9oTkRpMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3M0bDFVcmdOQUNtRWZscXJ2eWtmalVYVlZ1TFdNbENuNWxydHlaVDdRT25SVThWVm1malMzWXRFbkJmbk1ZZ0syekVEVGJrdkE5b2ZKcmVjLVZlam9STTZ4NkNQUW5nbE85UzRCNU1WX2MzcmFSOFdFZ1paMnFYRnhhM1VscWV5eF9oTkRpMA?oc=5\" target=\"_blank\">These ‘Innovative’ ETFs Have Been Disastrous for Investors</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-20T11:02:51+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Bitcoin rally sparks debate whether Clarity Act is already priced in",
       "link": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
       "summary": "",
       "published": "2026-08-20T10:47:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "GSR’s Baehr says tokenized fixed income could play key role in institutional collateral",
+      "link": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
+      "summary": "The idea of mass tokenization of equities is \"exciting,\" said Andy Baehr, managing director of asset management at GSR.",
+      "published": "2026-08-20T10:08:12+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Securitize’s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics",
+      "link": "https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298",
+      "summary": "Securitize says the SEC delayed its crypto trading exemption to avoid complicating Senate votes on the Clarity Act.",
+      "published": "2026-08-20T10:06:46+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -771,15 +892,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Man Arrested at Bass Canyon Festival Following Suspected Drug Poisoning Death",
-      "link": "https://edm.com/news/man-arrested-bass-canyon-drug-poisoning-death/",
-      "summary": "<p>The Grant County’s Interagency Narcotics Enforcement arrested 28-year-old Quincy R. Travers after conducting an undercover operation at the event.</p>\n<p>The post <a href=\"https://edm.com/news/man-arrested-bass-canyon-drug-poisoning-death/\">Man Arrested at Bass Canyon Festival Following Suspected Drug Poisoning Death</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-19T12:37:26+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "The Download: AI’s self-improvement problem, and what’s driving the heat",
@@ -852,15 +964,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "South Korea’s Highly Mobile 155mm Artillery System Wins U.S. Army Howitzer Contract",
-      "link": "https://www.twz.com/land/south-koreas-highly-mobile-155mm-artillery-system-wins-u-s-army-howitzer-contract",
-      "summary": "<p>The Army wants a new wheeled self-propelled 155mm howitzer to replace its towed M777s, offering a boost in range and mobility.</p>\n<p>The post <a href=\"https://www.twz.com/land/south-koreas-highly-mobile-155mm-artillery-system-wins-u-s-army-howitzer-contract\">South Korea&#8217;s Highly Mobile 155mm Artillery System Wins U.S. Army Howitzer Contract</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-19T01:12:38+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China - Council on Foreign Relations",
@@ -897,15 +1000,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "How US military funding propelled China’s robot dogs",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/18/how-us-military-funding-propelled-chinas-robot-dogs/",
-      "summary": "Chinese company Unitree Robotics based the designs for its most successful robot dogs on innovations fueled by the U.S. military.",
-      "published": "2026-08-18T16:01:40+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Technics celebrates 55th anniversary of the SL-1200 turntable with limited drop of gold-accented models",
@@ -921,15 +1015,6 @@
       "link": "https://musictech.com/guides/buyers-guide/best-ethical-ai-music-plugins/?utm_source=rss&utm_medium=rss&utm_campaign=best-ethical-ai-music-plugins",
       "summary": "<p><img alt=\"Moises Studio AI. Image: Moises\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2025/08/moises-studio-ai-daw@2000x1500.jpg\" width=\"2000\" /></p>\n<p>It turns out you don't need to steal musician's material to make powerful AI music software, and these plugins prove it. </p>\n<p>The post <a href=\"https://musictech.com/guides/buyers-guide/best-ethical-ai-music-plugins/\">Guilt-Free AI: These 6 AI music tools actually pay the artists behind them</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-18T15:46:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "US Army requests 133,000 GMLRS rockets by 2034",
-      "link": "https://www.defensenews.com/news/your-military/2026/08/18/us-army-requests-133000-gmlrs-rockets-by-2034/",
-      "summary": "The U.S. Army sent out a request this week for manufacturing 133,014 Guided Multiple Launch Rocket System, or GMLRS, rockets by 2034.",
-      "published": "2026-08-18T13:06:13+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1104,15 +1189,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "s Guide to ETF Investing - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcU03Ul9FcllXZHExN0J4THpOSThaOWNtOUdoVDV0eHF3ZTZFZWRKYjFCSzhDbE5uWTdvQUY2WWpiTUtqdFNfSW5IWkFGZmdsM3hpVGFQMi0wbVN0Q1A3ZHN5VXo5bldsWW1UYnlHNkxsTlRo?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcU03Ul9FcllXZHExN0J4THpOSThaOWNtOUdoVDV0eHF3ZTZFZWRKYjFCSzhDbE5uWTdvQUY2WWpiTUtqdFNfSW5IWkFGZmdsM3hpVGFQMi0wbVN0Q1A3ZHN5VXo5bldsWW1UYnlHNkxsTlRo?oc=5\" target=\"_blank\">s Guide to ETF Investing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-11T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "DJ TechTools",
       "title": "The 2026 Chroma Drive: Our New DJ USB Drive (with no cap to lose)",
@@ -1281,15 +1357,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2020-12-07T16:27:24+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Morningstar | Empowering Investor Success - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2012-10-14T03:17:21+00:00",
       "feed_type": "google_news_fallback"
     },
     {
