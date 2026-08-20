@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-08-20T18:48:46.370206+00:00",
-  "item_count": 152,
+  "updated_at": "2026-08-20T19:37:03.279586+00:00",
+  "item_count": 144,
   "failures": [
+    {
+      "source": "The Block",
+      "feed_url": "https://www.theblock.co/rss.xml",
+      "error": "<unknown>:26:113: not well-formed (invalid token)"
+    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -10,9 +15,72 @@
   ],
   "items": [
     {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
+      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
+      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
+      "published": "2026-08-20T19:18:21+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Runlayer, Rippling drop lawsuits. But the brouhaha is still a cautionary tale for founders.",
+      "link": "https://techcrunch.com/2026/08/20/runlayer-rippling-drop-lawsuits-but-the-brouhaha-is-still-a-cautionary-tale-for-founders/",
+      "summary": "Runlayer and Rippling have dropped their lawsuits. No money was paid. Rippling celebrated by releasing a competing product.",
+      "published": "2026-08-20T19:15:05+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Sports betting to build wealth is becoming the new American dream",
+      "link": "https://www.marketwatch.com/story/sports-betting-to-build-wealth-is-becoming-the-new-american-dream-1e29b728?mod=mw_rss_topstories",
+      "summary": "More people under 30 are using gambling as a shortcut to buying a home or paying student loans",
+      "published": "2026-08-20T19:14:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "US Air Force flight to Antarctica turns back after Russian hazardous space activity warning",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/20/us-air-force-flight-to-antarctica-turns-back-after-russian-hazardous-space-activity-warning/",
+      "summary": "A U.S. Air Force C-17A Globemaster III taking off from Christchurch, New Zealand, returned after receiving a “potentially hazardous” space activity notice.",
+      "published": "2026-08-20T19:10:05+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "The bond market is going to burst the stock-market bubble",
+      "link": "https://www.marketwatch.com/story/the-bond-market-is-going-to-burst-the-stock-market-bubble-1c6f0971?mod=mw_rss_topstories",
+      "summary": "Rising yields threaten everything, especially  overextended equities.",
+      "published": "2026-08-20T19:06:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Moderna’s personalized mRNA shot could reshape the fight against skin cancer — but it may also be overhyped",
+      "link": "https://www.marketwatch.com/story/modernas-personalized-mrna-shot-could-reshape-the-fight-against-skin-cancer-but-it-may-also-be-overhyped-a6f1bc88?mod=mw_rss_topstories",
+      "summary": "Doctors and patients are excited about the possible breakthrough, but some analysts believe there’s too much hype.",
+      "published": "2026-08-20T19:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "U.S. CFTC chief puts staff on notice to create crypto regulations if Clarity Act fails",
+      "link": "https://www.coindesk.com/policy/2026/08/20/u-s-cftc-chief-puts-staff-on-notice-to-create-crypto-regulations-if-clarity-act-fails",
+      "summary": "",
+      "published": "2026-08-20T18:54:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
-      "title": "Drone companies, Trump admin leaders meet for first White House ‘Done Dominance’ meeting",
+      "title": "Drone companies, Trump admin leaders meet for first White House ‘Drone Dominance’ meeting",
       "link": "https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/drone-companies-trump-admin-leaders-meet-for-first-white-house-done-dominance-meeting/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/IMG_2621-scaled-e1787241010570-1024x577.jpeg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“The cavalry arrived here to meet your cavalry in private industry to make sure that we are not drone sufficient, from parity, but drone dominant,” Pentagon R&#038;E chief Emil Michaels said.</p>",
       "published": "2026-08-20T18:24:00+00:00",
@@ -35,6 +103,15 @@
       "summary": "The neoclouds are destined to be “cyclical leasing companies,” according to BCA analyst Noah Weisberger, which implies low valuations for the stocks.",
       "published": "2026-08-20T18:20:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5\" target=\"_blank\">EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T18:15:38+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -82,30 +159,21 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5\" target=\"_blank\">Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T18:04:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "If rising rates were enough to end a bull market, we’d have entered a bear market long ago",
       "link": "https://www.marketwatch.com/story/if-rising-rates-were-enough-to-end-a-bull-market-wed-have-entered-a-bear-market-long-ago-0c6790a0?mod=mw_rss_topstories",
       "summary": "The “Fed Model” has turned bearish — how much should you care?",
       "published": "2026-08-20T18:03:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Ondo executive says tokenization is following the same path as early ETFs",
-      "link": "https://www.theblock.co/news/business/2026-08-20-ondo-executive-says-tokenization-following-same-path-as-early-etfs-412346",
-      "summary": "The firm hopes that passage of the Clarity Act will help open the door for it to offer tokenized products in the U.S.",
-      "published": "2026-08-20T17:53:38+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Inside the Oval Office meeting: Trump appears ‘bullish’ on Clarity Act as he solicits feedback from crypto, finance CEOs",
-      "link": "https://www.theblock.co/news/regulation/2026-08-20-inside-oval-office-meeting-trump-bullish-clarity-act-solicits-feedback-crypto-finance-ceos-412340",
-      "summary": "During a private Oval Office meeting, President Trump appeared “bullish” on passing the Clarity Act, one source said.",
-      "published": "2026-08-20T17:44:28+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -136,33 +204,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxQTFZQcDhFcFRCOGNyelJ6Q0V1c0k3VHh5WG96VU9MbE83RWgxZDN1TDV5VWtKbHB4NUR5MDVod1k4YTVMQ3JHUlVGS1Z0ZGU3V05XR2MybG95NjhoUHhJMEZmdTJiVGdfUC0yc0JvZjN4Yy11STkteFlQeEJuTFRycjVEVUxOX2pueWRJallNcDVBRlJzRVRPVm0xU185aGNBRFlpTWptS0JtcklJcHl0cGNoZW9hN2FmSmFyVlA5Y2tzNGoyRkVkMk1lazB0T2M?oc=5\" target=\"_blank\">EXCLUSIVE: Former PM Imran Khan would not confront Pakistan army chief if freed, close aide says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T17:31:41+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
-      "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
-      "summary": "“I’d love for our son to be able to attend college without needing to take out student loans.”",
-      "published": "2026-08-20T17:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Seahawks player on his real-estate side hustle: ‘I brought my Super Bowl ring to the open houses’",
-      "link": "https://www.marketwatch.com/story/i-brought-my-super-bowl-ring-to-the-open-houses-seahawks-player-shares-story-of-getting-his-real-estate-license-4372785a?mod=mw_rss_topstories",
-      "summary": "Montorie Foster Jr. of the Seattle Seahawks got his real-estate license before becoming a Super Bowl champion.",
-      "published": "2026-08-20T17:20:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "A third of web pages published since ChatGPT’s launch show signs of AI authorship, study finds",
@@ -172,12 +213,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze",
-      "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
-      "summary": "Analysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.",
-      "published": "2026-08-20T17:06:01+00:00",
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Roblox must make changes after failing to block adults creeping on kids",
+      "link": "https://arstechnica.com/tech-policy/2026/08/weak-roblox-safeguards-failed-to-stop-adults-contacting-kids-regulator-says/",
+      "summary": "Roblox is first platform to submit to independent audits under the Online Safety Act.",
+      "published": "2026-08-20T17:14:08+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -187,15 +228,6 @@
       "link": "https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/us-announces-4-5b-sale-of-four-kc-46a-refueling-aircraft-to-qatar/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/09/240913_DVIDS_kc46_japan_4866234-scaled-e1726259068659-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“The proposed sale will increase Qatar’s capability to meet current and future threats by enhancing its defense capabilities,&#8221; the US State Department said. </p>",
       "published": "2026-08-20T16:54:40+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Walmart’s stock slides as investors worry that pressure on consumers is getting worse",
-      "link": "https://www.marketwatch.com/story/walmart-shares-slide-as-u-s-sales-hit-by-falling-drug-prices-1e308c61?mod=mw_rss_topstories",
-      "summary": "The supermarket chain said it’s dealing with what is “arguably a softer consumer environment” than what it saw earlier in the year.",
-      "published": "2026-08-20T16:48:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -215,15 +247,6 @@
       "summary": "The U.S. Department of State approved a possible $4.5 billion Foreign Military Sale to Qatar for up to four KC-46As and related equipment.",
       "published": "2026-08-20T16:36:23+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxOUlFnUHhPNjlxRW5kTy03TFctOE1ST1NabGVNalozY2hiR2RKcEtfV1ZRblJ1VlJXQXRNem1yZmpIRVVYUjJOd2pzWElTX0JVeXZVR1V1Tk5NOG5oWWUtRVZzWDNFOE5KbE1VNmtubXdodnVzQ1RZMFV3TnpUUXVHM1N5MXZqZTBtdW1iUG8xS18wdi1ranhQQXpfVDdiYnRsc09iN3JtbEhZTVIwS202X0lmSkF2V0c2dFV5NQ?oc=5\" target=\"_blank\">Bessent says US will impose toughest ever sanctions on Iran, urges China to cooperate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T16:20:49+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -316,15 +339,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Romania destroys marine drone near Neptun Deep gas project, minister says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOZHhFbnVfeUN3WXExb3dCUFZTQzhPTVlnQm0xQkZ0YXFTUjVQZ3Y4WG1ET2N0T0JKMHJNWDBmU0xCYmxhT3FINXF3QlhYTDBxRWsxR2lXNkdQRThPc0lUY2FmakhSbUkwNTM3NWdRMjZ1T0JyYTUzWjBwbnRMUldCbXhaR245SWs3UFkzZFdtNzQ3dEhFQXhjZU9PV3pBS0NBX3ROTmZSVXBBOC1vbk1PN090SFF4S1poSjZBMkNn?oc=5\" target=\"_blank\">Romania destroys marine drone near Neptun Deep gas project, minister says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T15:08:48+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Dom Dolla to Headline Largest Electronic Music Event in New Zealand’s History",
@@ -350,6 +364,15 @@
       "summary": "A retractable screen, a huge heads-up display, and an optional 4-seat VIP interior.",
       "published": "2026-08-20T14:35:58+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Top Canada, US trade negotiators to meet again as deal deadline nears - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOcV90dGRFNXlmUWhKTk1uZExFRzhzNGF5VGNqcXJkcXFNNS1BUFlxeEhsbk02X1hYcVZnSUNDbjVSblNpTVpZaWZmbUV2Q3NXLWY0TXJNUDVRa0xYTmRwY0MwZlJHdVVhWUhOM0JYbUxoQVBhcnRlbjhveHFnd1R5S0U2ZEx2dGFWQWF4S3JReHFsckJPcmdmMkxCV21aeUJkTWFBLXJjQQ?oc=5\" target=\"_blank\">Top Canada, US trade negotiators to meet again as deal deadline nears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T14:30:27+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -394,15 +417,6 @@
       "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
       "summary": "The yeetcycling math resembles asteroid mining in reverse.",
       "published": "2026-08-20T13:59:50+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions",
-      "link": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
-      "summary": "McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.",
-      "published": "2026-08-20T13:58:22+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -461,15 +475,6 @@
     },
     {
       "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Meta AI’s new Mac app wants you to talk to your apps",
-      "link": "https://techcrunch.com/2026/08/20/meta-ais-new-mac-app-wants-you-to-talk-to-your-apps/",
-      "summary": "The company said that the dictation feature works across all apps, just like other tools such as Wispr Flow, Superwhisper, and Monologue.",
-      "published": "2026-08-20T12:11:57+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "The Download: polycrisis support networks and a hydrogen gold rush",
       "link": "https://www.technologyreview.com/2026/08/20/1142579/the-download-polycrisis-support-networks-underground-hydrogen-gold-rush/",
@@ -515,24 +520,6 @@
     },
     {
       "category": "Crypto",
-      "source": "The Block",
-      "title": "OpenLedger’s Ram Kumar sees agentic payments as crypto’s first AI ‘killer app’",
-      "link": "https://www.theblock.co/news/business/2026-08-20-openledger-ram-kumar-agentic-payments-crypto-ai-killer-app-412313",
-      "summary": "OpenLedger core contributor Ram Kumar sees agentic payments as a major crypto use case as AI agents lack traditional banking access.",
-      "published": "2026-08-20T11:34:23+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Evernorth eyes DeFi opportunities as XRP Ledger weighs native lending",
-      "link": "https://www.theblock.co/news/business/2026-08-20-evernorth-defi-xrp-ledger-native-lending-412315",
-      "summary": "The XRP-focused digital asset treasury firm plans to put its holdings to work as it also moves through the process of going public.",
-      "published": "2026-08-20T11:34:05+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
       "source": "CoinDesk",
       "title": "Fed liquidity promises, dollar weakness could determine bitcoin's next move",
       "link": "https://www.coindesk.com/daybook-us/2026/08/20/fed-liquidity-promises-dollar-weakness-could-determine-bitcoin-s-next-move",
@@ -547,33 +534,6 @@
       "link": "https://www.coindesk.com/markets/2026/08/20/crypto-s-bottom-is-near-as-ai-hype-fades-okx-europe-ceo-says",
       "summary": "",
       "published": "2026-08-20T10:47:35+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin breaks out of six-week range, tops $71,000 as $3 billion in shorts get wiped out",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-breaks-out-of-six-week-range-tops-usd71-000-as-usd3-billion-in-shorts-get-wiped-out",
-      "summary": "",
-      "published": "2026-08-20T10:46:21+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "GSR’s Baehr says tokenized fixed income could play key role in institutional collateral",
-      "link": "https://www.theblock.co/news/business/2026-08-20-gsr-baehr-tokenized-institutional-collateral-412302",
-      "summary": "The idea of mass tokenization of equities is \"exciting,\" said Andy Baehr, managing director of asset management at GSR.",
-      "published": "2026-08-20T10:08:12+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Securitize’s Redfearn says SEC held back crypto innovation exemption over Clarity Act politics",
-      "link": "https://www.theblock.co/news/regulation/2026-08-20-securitizes-redfearn-sec-innovation-exemption-clarity-act-politics-412298",
-      "summary": "Securitize says the SEC delayed its crypto trading exemption to avoid complicating Senate votes on the Clarity Act.",
-      "published": "2026-08-20T10:06:46+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -592,15 +552,6 @@
       "link": "https://www.technologyreview.com/2026/08/20/1142070/unlocking-hidden-revenue-streams-with-market-models/",
       "summary": "Each day, an airline transports tens of thousands of passengers on hundreds of flights. Often these are not straightforward point-to-point routes, with passengers requiring multiple connections. The airline can consider potentially hundreds of variables to price each of these journeys: demand, season, time of day, current events, global markets, and competitor airline activity to name&#8230;",
       "published": "2026-08-20T09:47:22+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Binance now lets AI agents trade, but keeping them in check is largely up to users",
-      "link": "https://techcrunch.com/2026/08/20/binance-now-lets-ai-agents-trade-but-keeping-them-in-check-is-largely-up-to-users/",
-      "summary": "Binance's Agent OS works with tools such as ChatGPT, Claude Code, and Cursor.",
-      "published": "2026-08-20T09:30:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -709,15 +660,6 @@
       "link": "https://arstechnica.com/gadgets/2026/08/framework-responds-to-complaints-that-bios-update-bricked-ryzen-7040-laptops/",
       "summary": "Framework says it's replacing some out-of-warranty AMD mainboards.",
       "published": "2026-08-19T20:21:59+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Flight attendants freaked out that Google is buying tons of Spirit employee data",
-      "link": "https://arstechnica.com/tech-policy/2026/08/flight-attendants-freaked-out-that-google-to-buy-tons-of-spirit-employee-data/",
-      "summary": "Bankrupt Spirit accused of selling out workers in massive data sale to Google.",
-      "published": "2026-08-19T20:04:41+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -845,6 +787,15 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI’s recursive self-improvement might not come so quickly after all The AI industry’s boldest promise right now is that AI will soon improve itself, with almost no need for human oversight.&#8230;",
       "published": "2026-08-19T12:10:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Can You Identify Winning Stocks in Advance? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1SbjFvOTRuU3pjOENwUE9hdkpDN0JiUlcwM2N2bnBkR3l1U2xXbjZRTU1iUFlXVkRGNmYzN2FxRzlxdnlRZzAwMFdtQS1KUU03eVlCbnlzR3h1QnhuLUk0Vjktc1FqUjY0Sld5R1Z1RXc5TjFFRFZSY3QxSEtvdUU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE1SbjFvOTRuU3pjOENwUE9hdkpDN0JiUlcwM2N2bnBkR3l1U2xXbjZRTU1iUFlXVkRGNmYzN2FxRzlxdnlRZzAwMFdtQS1KUU03eVlCbnlzR3h1QnhuLUk0Vjktc1FqUjY0Sld5R1Z1RXc5TjFFRFZSY3QxSEtvdUU?oc=5\" target=\"_blank\">Can You Identify Winning Stocks in Advance?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-19T10:00:21+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -1108,15 +1059,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "US Air Force looks to acquire target drones that can mimic stealth jets",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/17/us-air-force-looks-to-acquire-target-drones-that-can-mimic-stealth-jets/",
-      "summary": "The U.S. Air Force wants to acquire target drones that can mimic the performance of a variety of aircraft, from stealth fighters to small UAVs.",
-      "published": "2026-08-17T18:19:24+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "US consumers might be spent - Morning Brew",
@@ -1168,15 +1110,6 @@
       "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcU03Ul9FcllXZHExN0J4THpOSThaOWNtOUdoVDV0eHF3ZTZFZWRKYjFCSzhDbE5uWTdvQUY2WWpiTUtqdFNfSW5IWkFGZmdsM3hpVGFQMi0wbVN0Q1A3ZHN5VXo5bldsWW1UYnlHNkxsTlRo?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTE9jcU03Ul9FcllXZHExN0J4THpOSThaOWNtOUdoVDV0eHF3ZTZFZWRKYjFCSzhDbE5uWTdvQUY2WWpiTUtqdFNfSW5IWkFGZmdsM3hpVGFQMi0wbVN0Q1A3ZHN5VXo5bldsWW1UYnlHNkxsTlRo?oc=5\" target=\"_blank\">s Guide to ETF Investing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-11T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Violent Extremism in South Asia | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjdfVFEzejVaTjNET0M5TzJ1bVBDMXpoWGt3RXZYWTNWNlpFVUpna2Jvbkg1S3VmRllta2kydzBsSTdFdmN4SlFFZnVaQkNwSkRmLWY5bVJJTFNqNmlQQWlTaExVM2E0X05lR0lJU1VySGhfXzY5S1RSZWwxUzhCSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjdfVFEzejVaTjNET0M5TzJ1bVBDMXpoWGt3RXZYWTNWNlpFVUpna2Jvbkg1S3VmRllta2kydzBsSTdFdmN4SlFFZnVaQkNwSkRmLWY5bVJJTFNqNmlQQWlTaExVM2E0X05lR0lJU1VySGhfXzY5S1RSZWwxUzhCSQ?oc=5\" target=\"_blank\">Latest News – Violent Extremism in South Asia | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-07T00:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1263,6 +1196,15 @@
     {
       "category": "World News & Politics",
       "source": "AP Politics",
+      "title": "Before and after satellite images of demolition of East Wing - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-10-23T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
       "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
       "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
@@ -1316,15 +1258,6 @@
     },
     {
       "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2023-09-13T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93b3VSei1NWTdlTUVhWjNaVGpKU2J1WVNZdlFEdFJsUnEzNEpZbXJZVXFyZ1JXcW1OOTdFZTJSbW1SRGZEQXR0U3ZuUkJOUG5ER0lyUHFqY09JWFVBVjVJSXVMM0RvMFp2ZnktdmIzaUFVaGF3UDE0U0daSElwUQ?oc=5",
@@ -1353,19 +1286,19 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Careers at Morningstar - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2018-12-11T01:03:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
       "title": "Morningstar | Empowering Investor Success - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2012-10-14T03:17:21+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Fellowships - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2MXpza1VnQTYxZmdVWEt6RThkSENtRDhLOElKZHJiZ182ZkttWGNwY3lUbUhVZGRlQzRteUk1WUZUbm45WFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTFA2MXpza1VnQTYxZmdVWEt6RThkSENtRDhLOElKZHJiZ182ZkttWGNwY3lUbUhVZGRlQzRteUk1WUZUbm45WFE?oc=5\" target=\"_blank\">Fellowships</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2011-12-06T17:27:02+00:00",
       "feed_type": "google_news_fallback"
     },
     {
