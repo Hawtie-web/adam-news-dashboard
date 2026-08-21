@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T21:29:53.077521+00:00",
+  "updated_at": "2026-08-21T22:30:21.721972+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,33 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Crypto advocates join in suing Illinois over digital asset tax",
+      "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
+      "summary": "",
+      "published": "2026-08-21T22:10:28+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "China’s Massive New Artificial Island In The South China Sea Emerges, Primed For Militarization",
+      "link": "https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization",
+      "summary": "<p>What was a submerged reef a year ago is now a 1,500 acre artificial island with a large runway under construction, as China's militarization of the South China Sea accelerates.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization\">China’s Massive New Artificial Island In The South China Sea Emerges, Primed For Militarization</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-21T22:03:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+      "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+      "summary": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
+      "published": "2026-08-21T21:34:53+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -73,6 +100,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Thunder + fiber-optic cabling used for seismic imaging",
+      "link": "https://arstechnica.com/science/2026/08/researchers-use-thunderquakes-to-study-structure-of-earths-surface/",
+      "summary": "Thunderstorms make seismic waves that can be used to find sub-surface features.",
+      "published": "2026-08-21T20:26:46+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "World News & Politics",
       "source": "Reuters World",
       "title": "EXCLUSIVE: US plans $725 million payment towards its large UN debt - Reuters",
@@ -106,6 +142,15 @@
       "link": "https://www.marketwatch.com/story/heres-how-bessents-newly-activist-treasury-department-is-undercutting-the-feds-warsh-480455c2?mod=mw_rss_topstories",
       "summary": "The surprising move this week by Treasury Secretary Scott Bessent to intervene in Treasury markets to lower the cost of government debt undercuts the credibility of Federal Reserve Chairman Kevin Warsh to make interest-rate policy, experts said.",
       "published": "2026-08-21T20:11:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Hidden Zillow listings created fake supply shock, raising NYC rents, lawsuit says",
+      "link": "https://arstechnica.com/tech-policy/2026/08/class-action-accuses-brokers-of-hiding-zillow-listings-driving-up-nyc-rents/",
+      "summary": "Renters say hidden Zillow listings make it harder to afford living in New York City.",
+      "published": "2026-08-21T20:10:50+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -354,18 +399,18 @@
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -505,24 +550,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "As demand for Meta AI glasses explodes, it’s harder to avoid creepy recordings",
-      "link": "https://arstechnica.com/tech-policy/2026/08/meta-ai-glasses-may-get-creepier-and-apps-that-detect-them-arent-perfect/",
-      "summary": "Ars looks at Zuckoff, the latest free app detecting Meta AI glasses amid privacy backlash.",
-      "published": "2026-08-21T11:00:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Rocket Report: SpaceX makes its mark on the Moon; ULA names new boss",
-      "link": "https://arstechnica.com/space/2026/08/rocket-report-spacex-makes-a-mark-on-the-moon-ula-names-new-boss/",
-      "summary": "Taiwan's effort to develop its own satellite launcher hit a setback this week.",
-      "published": "2026-08-21T11:00:36+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
@@ -542,29 +569,11 @@
     },
     {
       "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin tops $77,000 as best week since 2023 pulls altcoins along for the ride",
-      "link": "https://www.coindesk.com/markets/2026/08/21/bitcoin-tops-usd77-000-as-best-week-since-2023-pulls-altcoins-along-for-the-ride",
-      "summary": "",
-      "published": "2026-08-21T10:15:36+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
       "source": "The Block",
       "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
       "link": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
       "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
       "published": "2026-08-21T09:17:58+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Avalanche’s Nahas: Token prices are down, but ‘I’ve never seen more opportunities’ in crypto",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-avalanches-nahas-token-prices-are-down-but-ive-never-seen-more-opportunities-in-crypto-412431",
-      "summary": "Ava Labs CBO John Nahas says crypto prices are down, but real-world adoption is creating more opportunities across the sector.",
-      "published": "2026-08-21T09:00:26+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -961,15 +970,6 @@
       "link": "https://www.foreignaffairs.com/united-states/how-ai-could-hollow-out-us-military",
       "summary": "The best soldiers know how to think for themselves.",
       "published": "2026-08-20T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "China’s Reusable Space Launch Booster Recoveries Have Major Military Implications",
-      "link": "https://www.twz.com/space/chinas-reusable-space-launch-booster-recoveries-have-major-military-implications",
-      "summary": "<p>A reusable space launch capability similar to SpaceX's Falcon 9 will degrade a key U.S. advantage in space access for national security as well as commercial applications.</p>\n<p>The post <a href=\"https://www.twz.com/space/chinas-reusable-space-launch-booster-recoveries-have-major-military-implications\">China&#8217;s Reusable Space Launch Booster Recoveries Have Major Military Implications</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-19T23:43:18+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
