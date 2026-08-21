@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-08-21T06:56:14.366267+00:00",
-  "item_count": 144,
+  "updated_at": "2026-08-21T07:49:48.878891+00:00",
+  "item_count": 152,
   "failures": [
-    {
-      "source": "The War Zone",
-      "feed_url": "https://www.twz.com/feed",
-      "error": "<urlopen error [Errno 104] Connection reset by peer>"
-    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -15,9 +10,36 @@
   ],
   "items": [
     {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "A Rock and China’s Three-Sea Problem",
+      "link": "https://warontherocks.com/a-rock-and-chinas-three-sea-problem/",
+      "summary": "<p>Two rocks surrounded by coral, with a total land size of less than 10 square meters (approximately 108 square feet) at high tide, are the entire basis on which Japan claims a 150,000-square-mile exclusive economic zone, an area nearly the size of Japan itself. The uninhabited feature, located more than 1,000 miles south of Tokyo, is called Okinotori.In late July, Japan protested Sino-Russian live-fire drills held within the exclusive economic zone it claims around Okinotori. Tokyo cited the safety risks the drills posed to nearby vessels, but its broader objection was to Beijing&#8217;s claim that Okinotori is merely a rock</p>\n<p>The post <a href=\"https://warontherocks.com/a-rock-and-chinas-three-sea-problem/\">A Rock and China’s Three-Sea Problem</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-08-21T07:30:50+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Anchorage CEO says AI agents need bank accounts for ‘The Jetsons’-like future",
+      "link": "https://www.theblock.co/news/business/2026-08-21-anchorage-ceo-ai-the-jetsons-412427",
+      "summary": "The firm has built an agentic banking platform with a 'know-your-agent' setup to facilitate AI-driven transactions.",
+      "published": "2026-08-21T07:11:13+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "Mental Health Is a Warfighting Readiness Problem for the U.S. Navy",
+      "link": "https://warontherocks.com/mental-health-is-a-warfighting-readiness-problem-for-the-u-s-navy/",
+      "summary": "<p>&#8220;You cannot be at mental peace always. You will be worried. So even my family &#8212; they are scared all the time, and they were anxiously praying [for] the vessel [to] come out of this area safely.&#8221; While Captain Chirag operates a commercial cargo vessel in the Red Sea, his comments in the aftermath of the October 7, 2023 attacks in the Middle East could just as easily be attributed to the hard-charging crew of the guided-missile destroyer USS Carney and other surface combatants fighting Houthi threats, or the experiences of the sailors assigned to Carrier Strike Group Three engaging</p>\n<p>The post <a href=\"https://warontherocks.com/mental-health-is-a-warfighting-readiness-problem-for-the-u-s-navy/\">Mental Health Is a Warfighting Readiness Problem for the U.S. Navy</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-08-21T07:00:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
+      "title": "Live updates: BTC tops $76,000; bitcoin, ether ETFs pull in $800 million",
       "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
       "summary": "",
       "published": "2026-08-21T06:43:24+00:00",
@@ -51,6 +73,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG1FLTR6ekxvVzVEOFo4d2tkbHpfMlI1STMwdjkxR204bHNwaWZ1OFVCWm41eXB4T3NHcVl4TktwTjRmSTVNOGlHQ2JRSDBHY3FxWjg1V2c4UUFwT2tjM25ubGpMaDJHU3VrWUpCZm9oMHhicXhCOTQxdTRGMkVpT0tGOEYyRW51ZWdVSzByOXFWZENab2g0d1ZsZXlKOHMwSldpeklvbjJfekxESVV1ejR2dnFSc01QZUQyZTlWeDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSG1FLTR6ekxvVzVEOFo4d2tkbHpfMlI1STMwdjkxR204bHNwaWZ1OFVCWm41eXB4T3NHcVl4TktwTjRmSTVNOGlHQ2JRSDBHY3FxWjg1V2c4UUFwT2tjM25ubGpMaDJHU3VrWUpCZm9oMHhicXhCOTQxdTRGMkVpT0tGOEYyRW51ZWdVSzByOXFWZENab2g0d1ZsZXlKOHMwSldpeklvbjJfekxESVV1ejR2dnFSc01QZUQyZTlWeDQ?oc=5\" target=\"_blank\">Russia is ready for new ideas on Ukraine peace, but with conditions, senior diplomat says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T05:25:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Bitcoin, ether and solana climb as another $1 billion shorts get wiped out",
@@ -67,6 +98,15 @@
       "summary": "MANTRA Chain has halted the network and all transactions after discovering an incident, the nature of which remains undisclosed.",
       "published": "2026-08-21T04:47:29+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1NrRUwtVERSeHZlZ0lyUWtQcXYzdHZkcEd6RDY3dU5ldnducEh1YzJHZkhodVczOGxCem80NllRVWZFaHpaMjZqSjJLcFUzaEdOekNuNlJ1T0tTY2ZQWGpRLW40ejRpbzJRWVF4eEtLX0Ztc09QeGQtWDM4ZkZBc3IxSWZQNEFPSDExN010RTZacUM0SHAyU2NReS05UGRQQUtHQkNycUc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQR1NrRUwtVERSeHZlZ0lyUWtQcXYzdHZkcEd6RDY3dU5ldnducEh1YzJHZkhodVczOGxCem80NllRVWZFaHpaMjZqSjJLcFUzaEdOekNuNlJ1T0tTY2ZQWGpRLW40ejRpbzJRWVF4eEtLX0Ztc09QeGQtWDM4ZkZBc3IxSWZQNEFPSDExN010RTZacUM0SHAyU2NReS05UGRQQUtHQkNycUc?oc=5\" target=\"_blank\">Chinese court in Guangzhou accepts bankruptcy case of Evergrande unit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T04:41:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -98,6 +138,15 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
+      "title": "Pakistan ex-PM Imran Khan back in jail after court-ordered hospital visit ends sooner than expected - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjFJUVg2WnA4NXZlQmFyTFFmVlR5dFl4SzVYNTVNMlAxT3JfVm1vLUFGN0ZIV2tsZEx4MzZCWjBjeURhcVJuRzFEQklpWFlUQ0RvaGp2YVQ4azVzbWxIZTJuOW5fZXp3eW1WV3E0dmdLNF9TSy1PaXhXSjlYUVJwaF9GZ29jTnpXYVZWNGVIam9oYnZkYk9RZnNlSEhXcE5qdVpHamtVR21kS20tREVDMEdmSnBiR1ZJNHQtNUdfa0lFM0wxbGtj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQTjFJUVg2WnA4NXZlQmFyTFFmVlR5dFl4SzVYNTVNMlAxT3JfVm1vLUFGN0ZIV2tsZEx4MzZCWjBjeURhcVJuRzFEQklpWFlUQ0RvaGp2YVQ4azVzbWxIZTJuOW5fZXp3eW1WV3E0dmdLNF9TSy1PaXhXSjlYUVJwaF9GZ29jTnpXYVZWNGVIam9oYnZkYk9RZnNlSEhXcE5qdVpHamtVR21kS20tREVDMEdmSnBiR1ZJNHQtNUdfa0lFM0wxbGtj?oc=5\" target=\"_blank\">Pakistan ex-PM Imran Khan back in jail after court-ordered hospital visit ends sooner than expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T02:52:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
       "title": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5\" target=\"_blank\">Ships passing through Hormuz hover in single digits, data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -107,10 +156,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Indian shares muted as higher oil, bond stress spur caution - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRaUnV1SklLS1c2TjZIUTAyV0Q5aHI1NDJDLUhYMUNfTUt1SzRzMl9ubnV5ejB1RV9pQnU4YXBrU0piZHF4eXZ5WjBDcnRZdy04LTMxcWs3X0RPaHV5Y3lHRGRScWwzX3pRRjZ6TWRlV0dBNWlHbExJbXlOM2liYjZRQ1pWZ1B5bFRWNXU3b3ZuQkpGeU1senpXZm1MeVJvUXk2SHNRMkdWVFlZZ0NGazlNTnY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRaUnV1SklLS1c2TjZIUTAyV0Q5aHI1NDJDLUhYMUNfTUt1SzRzMl9ubnV5ejB1RV9pQnU4YXBrU0piZHF4eXZ5WjBDcnRZdy04LTMxcWs3X0RPaHV5Y3lHRGRScWwzX3pRRjZ6TWRlV0dBNWlHbExJbXlOM2liYjZRQ1pWZ1B5bFRWNXU3b3ZuQkpGeU1senpXZm1MeVJvUXk2SHNRMkdWVFlZZ0NGazlNTnY?oc=5\" target=\"_blank\">Indian shares muted as higher oil, bond stress spur caution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-21T02:26:00+00:00",
+      "title": "Samsung board set to discuss huge shareholder return package on Friday - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYU00V3Z3amhPOVhYbVlXazNVMUpSMkxFeHRKSVJET2p0aFNkVDB2OGFRamNLZ3V5RllYVEItOTYwelFPZlg0SDEwX0NMNjVyanRDZkwwWWRKTVN2cURMTllSV0t1N0VOMkVWZEVCT3BXODZjWFZUZkZkY0d1enpzVzhJMkNlcGgzbWg0c21vT08wcGQzMkpadmtqZ3Rvb0U0M2pGUTBNUGdlcDkxNnF5R01yUWF3WWt3cjNWWEgxUTUtSUtsOUo1UXRsZWozQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQYU00V3Z3amhPOVhYbVlXazNVMUpSMkxFeHRKSVJET2p0aFNkVDB2OGFRamNLZ3V5RllYVEItOTYwelFPZlg0SDEwX0NMNjVyanRDZkwwWWRKTVN2cURMTllSV0t1N0VOMkVWZEVCT3BXODZjWFZUZkZkY0d1enpzVzhJMkNlcGgzbWg0c21vT08wcGQzMkpadmtqZ3Rvb0U0M2pGUTBNUGdlcDkxNnF5R01yUWF3WWt3cjNWWEgxUTUtSUtsOUo1UXRsZWozQQ?oc=5\" target=\"_blank\">Samsung board set to discuss huge shareholder return package on Friday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T02:31:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -186,22 +235,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Focus: AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5\" target=\"_blank\">Focus: AI reshapes India's IT services sector contracts as clients demand more for less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T23:02:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "China, Indonesia ministers meet to discuss security and economic issues - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPYS1vaHdfWG55NkRDMU1xRU1DYnB4MV94eElsODBWaF95c0VoZGxHUlB5dEk2N2w1Qkt3U3JhbThRUDdpM1ZCM05GWWtqQmhBU1VNaFMtNloxbklpUEUtV1NDcllNN0hmVUhSc00zcDJiT0JaWkRjV0VsemRVelNLWVExWGxLejExNHZ3LURtOUVsTmxaeEV4c0lleDBaNDdJLTBwQjdvaGZnNE5SUkRoNjFJSUtodDIwbHc?oc=5\" target=\"_blank\">China, Indonesia ministers meet to discuss security and economic issues</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T23:02:00+00:00",
-      "feed_type": "google_news_fallback"
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "USS George Washington’s Mideast Arrival Highlights Strain On Carrier Force",
+      "link": "https://www.twz.com/sea/uss-george-washingtons-mideast-arrival-highlights-strain-on-carrier-force",
+      "summary": "<p>The Washington's replacement of the Lincoln leaves no carrier in the Western Pacific and the Navy's struggle to meet demand may get far worse before it gets better.</p>\n<p>The post <a href=\"https://www.twz.com/sea/uss-george-washingtons-mideast-arrival-highlights-strain-on-carrier-force\">USS George Washington&#8217;s Mideast Arrival Highlights Strain On Carrier Force</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-20T23:10:13+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Investing & Markets",
@@ -229,15 +269,6 @@
       "summary": "Businesses are willing to flop back and forth as each lab releases new models, volatility that should give both companies' investors pause about how \"sticky\" enterprise AI spending really is.",
       "published": "2026-08-20T22:36:37+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Former Pakistan PM Imran Khan moved to hospital after court order, his party says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnZsUEdCeDJVU0FsUTFlYlN6SWd3aGx1aE9FdkdhSEdsbjVzeW9rYk5fYmxYWlE0Uk9aV0FsNXZhUUItMHFHQ2tIZklRc1BwNXFFa005d3lIQVk5d1dERk8xamZvWkNPa2hhNU16M0pSd3hEX2s2ang1Q011UVEydnc3Um00ZnpTVm1mLW1jeTdzLUEtaUVsRVdKVVdBTmlYbE01Z0VjM0FxMEs1Tzh6OXF4R1BCZmlyd0pSUTBqNkQwZjJ0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPTnZsUEdCeDJVU0FsUTFlYlN6SWd3aGx1aE9FdkdhSEdsbjVzeW9rYk5fYmxYWlE0Uk9aV0FsNXZhUUItMHFHQ2tIZklRc1BwNXFFa005d3lIQVk5d1dERk8xamZvWkNPa2hhNU16M0pSd3hEX2s2ang1Q011UVEydnc3Um00ZnpTVm1mLW1jeTdzLUEtaUVsRVdKVVdBTmlYbE01Z0VjM0FxMEs1Tzh6OXF4R1BCZmlyd0pSUTBqNkQwZjJ0?oc=5\" target=\"_blank\">Former Pakistan PM Imran Khan moved to hospital after court order, his party says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T22:13:18+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -336,6 +367,15 @@
       "link": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
       "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
       "published": "2026-08-20T20:09:46+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After ‘Retirement’",
+      "link": "https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement",
+      "summary": "<p>We can only imagine the crazy logistics that keep just a handful of F-117s flying, and a contract to help do this highlights one of the \"Black Jet's\" unique features.</p>\n<p>The post <a href=\"https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement\">F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After &#8216;Retirement&#8217;</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-20T19:57:42+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -456,6 +496,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Our Best Look At China’s New Y-15 Turboprop Airlifter",
+      "link": "https://www.twz.com/air/our-best-look-at-chinas-new-y-15-turboprop-airlifter",
+      "summary": "<p>The four-engine turboprop is expected to form a key new piece of China’s modernizing military transport fleet.</p>\n<p>The post <a href=\"https://www.twz.com/air/our-best-look-at-chinas-new-y-15-turboprop-airlifter\">Our Best Look At China’s New Y-15 Turboprop Airlifter</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-20T18:13:10+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Wildfire Is General Atomics’ Successor To The MQ-9 Reaper",
+      "link": "https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper",
+      "summary": "<p>The Wildfire concept has been entered into a new Pentagon competition to find a next generation of medium-altitude, long-endurance ISR and strike drone.</p>\n<p>The post <a href=\"https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper\">Wildfire Is General Atomics&#8217; Successor To The MQ-9 Reaper</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-20T18:11:01+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Ondo executive says tokenization is following the same path as early ETFs",
@@ -492,15 +550,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitcoin’s rally pushes past $72,000 as analysts see demand beyond historic short squeeze",
-      "link": "https://www.theblock.co/news/markets/2026-08-20-bitcoins-rally-pushes-past-72000-analysts-see-demand-beyond-historic-short-squeeze-412337",
-      "summary": "Analysts say the move is supported by spot and ETF demand, though BTC will need to hold above $70k to show the rally can outlast the squeeze.",
-      "published": "2026-08-20T17:06:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "US greenlights potential $4.5B sale of four KC-46A refueling aircraft to Qatar",
@@ -530,7 +579,7 @@
     {
       "category": "Crypto",
       "source": "CoinDesk",
-      "title": "Treasury buybacks could set up Bitcoin’s next move toward $180,000, says strategist",
+      "title": "Treasury buybacks could set up bitcoin’s next move toward $180,000, says strategist",
       "link": "https://www.coindesk.com/markets/2026/08/20/treasury-buybacks-could-set-up-bitcoin-s-next-move-toward-usd180-000",
       "summary": "",
       "published": "2026-08-20T16:17:32+00:00",
@@ -543,6 +592,15 @@
       "link": "https://edm.com/events/wakaan-music-festival-lineup-2026/",
       "summary": "<p>Wakaan's esteemed founder is poised for a pair of unique sets at the festival, which will also feature Flux Pavilion, Getter and Whethan, among others.</p>\n<p>The post <a href=\"https://edm.com/events/wakaan-music-festival-lineup-2026/\">Liquid Stranger Unveils Massive Lineup for 2026 Wakaan Music Festival</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-20T16:10:38+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon",
+      "link": "https://www.twz.com/air/this-is-the-new-blackbeard-cheap-hypersonic-weapon",
+      "summary": "<p>Castelion aims at building more affordable and usable hypersonic weapons that can be churned out at high production rates.</p>\n<p>The post <a href=\"https://www.twz.com/air/this-is-the-new-blackbeard-cheap-hypersonic-weapon\">This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-20T16:09:39+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -598,6 +656,15 @@
       "summary": "<p><img alt=\"Behringer BCR32\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/08/Behringer-BCR32-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>With a little help from ZAQ Audio, the BCR2000 has been reborn...</p>\n<p>The post <a href=\"https://musictech.com/news/gear/behringer-bcr32-available-to-pre-order-features/\">Behringer’s BCR32 is finally available to pre-order after five years: here’s everything you need to know</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-20T14:29:32+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The Index Fund Turns 50: How Jack Bogle Changed Investing Forever - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEdCUTByM1hEMlNfVW54NmhOdk9sZFdWcmFVZDFXaHVLUVJHVlJPQnhvZ2NpUUh2WnN6VHRNMU5nNm4wdnZzdTJGZHpyTFNjZkh2eXRQalJhWmlwZkF2VFp6MFRSa3Z3b2FEem9BOE1sd05RRVZnR2FpMWtWc3hhOU1MTzZTRkMtQl9LUXp4QlZJMHVEZGJjRERR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEdCUTByM1hEMlNfVW54NmhOdk9sZFdWcmFVZDFXaHVLUVJHVlJPQnhvZ2NpUUh2WnN6VHRNMU5nNm4wdnZzdTJGZHpyTFNjZkh2eXRQalJhWmlwZkF2VFp6MFRSa3Z3b2FEem9BOE1sd05RRVZnR2FpMWtWc3hhOU1MTzZTRkMtQl9LUXp4QlZJMHVEZGJjRERR?oc=5\" target=\"_blank\">The Index Fund Turns 50: How Jack Bogle Changed Investing Forever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-20T14:29:12+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -753,6 +820,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "China’s Reusable Space Launch Booster Recoveries Have Major Military Implications",
+      "link": "https://www.twz.com/space/chinas-reusable-space-launch-booster-recoveries-have-major-military-implications",
+      "summary": "<p>A reusable space launch capability similar to SpaceX's Falcon 9 will degrade a key U.S. advantage in space access for national security as well as commercial applications.</p>\n<p>The post <a href=\"https://www.twz.com/space/chinas-reusable-space-launch-booster-recoveries-have-major-military-implications\">China&#8217;s Reusable Space Launch Booster Recoveries Have Major Military Implications</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-19T23:43:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "Why Bond Yields Are Rising—and Might Keep Heading Higher - Morningstar",
@@ -771,12 +847,30 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "EA-37B Flew Along Kaliningrad Border As Part Of “Specialized” Recon, EW Flight Package",
+      "link": "https://www.twz.com/air/ea-37b-flew-along-kaliningrad-border-as-part-of-specialized-recon-ew-flight-package",
+      "summary": "<p>The USAF's new EA-37B Compass Call electronic warfare jet was part of a larger NATO package that flew along the doorstep of Russia's strategic military outpost.</p>\n<p>The post <a href=\"https://www.twz.com/air/ea-37b-flew-along-kaliningrad-border-as-part-of-specialized-recon-ew-flight-package\">EA-37B Flew Along Kaliningrad Border As Part Of “Specialized” Recon, EW Flight Package</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-19T21:06:53+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Inside Iran’s Wartime Regime",
       "link": "https://warontherocks.com/inside-irans-wartime-regime/",
       "summary": "<p>Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settled into a stalemate and dig into which figures in the Iranian regime have influence over Iran&#8217;s approach to the war. Afshon unpacks the implications of Mohsen Rezaei&#8217;s recent appointment as head of Iran&#8217;s Supreme National Security Council, before the two look ahead to what comes next. Normally members-only content, this</p>\n<p>The post <a href=\"https://warontherocks.com/inside-irans-wartime-regime/\">Inside Iran&#8217;s Wartime Regime</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-19T19:30:45+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "New USS John F. Kennedy Brings Back Key Feature From The Nimitz Class",
+      "link": "https://www.twz.com/sea/future-ford-class-uss-john-f-kennedy-brings-back-key-feature-from-the-nimitz-class",
+      "summary": "<p>Major radar changes mean 'illuminators' are needed to help Evolved Sea Sparrow Missiles protect the carrier.</p>\n<p>The post <a href=\"https://www.twz.com/sea/future-ford-class-uss-john-f-kennedy-brings-back-key-feature-from-the-nimitz-class\">New USS John F. Kennedy Brings Back Key Feature From The Nimitz Class</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-19T19:15:29+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -951,15 +1045,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Weekly Deep Dive",
-      "source": "War on the Rocks",
-      "title": "How Feasible Is a European Nuclear Deterrent Without Washington?",
-      "link": "https://warontherocks.com/how-feasible-is-a-european-nuclear-deterrent-without-washington/",
-      "summary": "<p>In 2025, James Cameron wrote, &#8220;Eurodeterrent: A Vision for an Anglo-French Nuclear Force,&#8221; where he argued the United Kingdom and France should cooperate to develop a nuclear deterrent umbrella for Europe, independent of Washington. A year later, after French President Emmanuel Macron&#8217;s landmark nuclear speech, we asked him to revisit his argument.&#160;Image: SAC Rob Bourne/MODIn your 2025 article, you argued that, given Europe&#8217;s perceived uncertainty about the U.S. commitment to its security and defense, the United Kingdom and France should cooperate to develop a&#160;nuclear deterrent umbrella independent of Washington.&#160;In July 2025, the United Kingdom and France signed the&#160;Northwood Declaration, and</p>\n<p>The post <a href=\"https://warontherocks.com/how-feasible-is-a-european-nuclear-deterrent-without-washington/\">How Feasible Is a European Nuclear Deterrent Without Washington?</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
-      "published": "2026-08-18T19:45:41+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "Jeff Ptak: The Simple Secret to Becoming a Better Investor - Morningstar",
@@ -1003,15 +1088,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1anJzdlJkUFJzclJ6OG13TDVDbWtiWTRDSndDalNRVVhvTEthZjJLRmdZc3h0YVZ4THBnc1hfNE9wU3VEWG5CYjJ6OGdiUTFfR084Wk16S3R0RjQyQkkzRw?oc=5\" target=\"_blank\">The next AI frontier: Why model strategy has become the differentiator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-18T10:34:38+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "War on the Rocks",
-      "title": "AI and the Risks of Tearing Down an Old System",
-      "link": "https://warontherocks.com/ai-and-the-risks-of-tearing-down-an-old-system/",
-      "summary": "<p>Operation Epic Fury made clear that AI is now at the heart of American warfighting. Central Command used Claude through Palantir&#8217;s Maven Smart System platform to generate and prioritize roughly 1,000 targets in the first 24 hours of the campaign, at an operational tempo that more than doubled the opening phase of the 2003 Iraq invasion. Over 38 days, the campaign reached 13,000 total strikes, according to Pentagon data. Project Maven says that the program has accelerated targeting even further to 5,000 in a single day. The question is whether the department can evaluate what it deploys before it deploys</p>\n<p>The post <a href=\"https://warontherocks.com/ai-and-the-risks-of-tearing-down-an-old-system/\">AI and the Risks of Tearing Down an Old System</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
-      "published": "2026-08-18T07:30:31+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Investing & Markets",
@@ -1181,15 +1257,6 @@
       "title": "SCHD Stock - Schwab US Dividend Equity ETF - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OeTNURTBJcWZsaW9STjAtRjBmcFV5T3hkQldvNWZHYjNBWU14MS1PTUxuNGRSTDBoRURJZC1mZ0ZCTWRicENrSGlQa0hRbktfOWg0eVk1eC10LTZM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OeTNURTBJcWZsaW9STjAtRjBmcFV5T3hkQldvNWZHYjNBWU14MS1PTUxuNGRSTDBoRURJZC1mZ0ZCTWRicENrSGlQa0hRbktfOWg0eVk1eC10LTZM?oc=5\" target=\"_blank\">SCHD Stock - Schwab US Dividend Equity ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-04-25T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "VYM Stock Price - Vanguard High Dividend Yield ETF - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbnJ1LXlaSzNCNGk5bGF2ZGFrOUV4SXlQR3Vaek5JNEx1WFNULVk4am9zUE1mZDNkNVZka3AtdkI4aTcyV0htUjQtSzZaSlVPaC1QSFcxRS1kOFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbnJ1LXlaSzNCNGk5bGF2ZGFrOUV4SXlQR3Vaek5JNEx1WFNULVk4am9zUE1mZDNkNVZka3AtdkI4aTcyV0htUjQtSzZaSlVPaC1QSFcxRS1kOFE?oc=5\" target=\"_blank\">VYM Stock Price - Vanguard High Dividend Yield ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-04-25T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
