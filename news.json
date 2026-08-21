@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-08-21T05:37:31.455172+00:00",
-  "item_count": 152,
+  "updated_at": "2026-08-21T06:56:14.366267+00:00",
+  "item_count": 144,
   "failures": [
+    {
+      "source": "The War Zone",
+      "feed_url": "https://www.twz.com/feed",
+      "error": "<urlopen error [Errno 104] Connection reset by peer>"
+    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -9,6 +14,33 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin, ether ETFs pull in $800 million as inflows surge for a second day",
+      "link": "https://www.coindesk.com/tech/2026/08/21/live-updates-bitcoin-ether-etfs-pull-in-usd800-million-as-inflows-surge-for-a-second-day",
+      "summary": "",
+      "published": "2026-08-21T06:43:24+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "South Korea’s Shinhan partners with Solana Foundation, Etherfuse, Orca for tokenized fund issuance",
+      "link": "https://www.theblock.co/news/regulation/2026-08-21-south-korea-shinhan-partners-solana-412420",
+      "summary": "The agreement covers a proof-of-concept for the issuance and distribution of a Korean won-denominated tokenized fund.",
+      "published": "2026-08-21T06:32:48+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "MANTRA token plunges 18% to record low as blockchain halts after exploit",
+      "link": "https://www.coindesk.com/tech/2026/08/21/mantra-token-plunges-18-to-record-low-as-blockchain-halts-after-exploit",
+      "summary": "",
+      "published": "2026-08-21T05:52:27+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Crypto",
       "source": "CoinDesk",
@@ -37,6 +69,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Myanmar military offensive targets land for Russia-backed port project - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0dtXzJ4MGc5aVI0a0tCdXVUcW9JdFJBZUctUGdjUTdwb194LUhfdHl1QnA4bDFZaFlNVmRGWWJpUUZKUUtGWGFWYWdMaGxnOFpVU1Z4S1dwWVpWWFIwTnNZV0l3YjMxYjA3WFdfdVJrOGRfaDY1aE41Q2JFaDI4azhlYnJJVENZRGY5TDJsb2syMnBFNTFvNnMtdFdoTEFialJkVkpvdXUtbmxobGVOVHBqdVpfYjFKVTk2SzdR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxNX0dtXzJ4MGc5aVI0a0tCdXVUcW9JdFJBZUctUGdjUTdwb194LUhfdHl1QnA4bDFZaFlNVmRGWWJpUUZKUUtGWGFWYWdMaGxnOFpVU1Z4S1dwWVpWWFIwTnNZV0l3YjMxYjA3WFdfdVJrOGRfaDY1aE41Q2JFaDI4azhlYnJJVENZRGY5TDJsb2syMnBFNTFvNnMtdFdoTEFialJkVkpvdXUtbmxobGVOVHBqdVpfYjFKVTk2SzdR?oc=5\" target=\"_blank\">Myanmar military offensive targets land for Russia-backed port project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T04:01:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "Why Criminals Love the Chinese Economy",
@@ -53,6 +94,24 @@
       "summary": "<p><img alt=\"Music producer working on a laptop in the studio, photo by jose carlos cerdeno martinez/Getty Images\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Software instruments, effects and mixing plugins – here’s everything fresh in the plugin marketplace this week.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/new-plugins-this-week/\">The best new music plugins this week, free and paid</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-21T03:00:52+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Ships passing through Hormuz hover in single digits, data shows - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSEhZX09yZU9wMFlFN0FUUjM0dUhpZ01zMEVvWFBlVHpoQ25lY0xFckRtVnpXMHZfZVA3TU0zRjNNYlUydy1pelQ1Q3Rmb1dPeWZmU3hDTXF2ZERfY3UyY2tteGpocUNoY0FkdE13dXV5cjV1VUh3MmN1al9MUm5xVlh6RWpwenRzQ2dzR0dxci05c2kwQ1VSUGNDTVBJVkFFd0RjZm9GRnBBdw?oc=5\" target=\"_blank\">Ships passing through Hormuz hover in single digits, data shows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T02:43:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Indian shares muted as higher oil, bond stress spur caution - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRaUnV1SklLS1c2TjZIUTAyV0Q5aHI1NDJDLUhYMUNfTUt1SzRzMl9ubnV5ejB1RV9pQnU4YXBrU0piZHF4eXZ5WjBDcnRZdy04LTMxcWs3X0RPaHV5Y3lHRGRScWwzX3pRRjZ6TWRlV0dBNWlHbExJbXlOM2liYjZRQ1pWZ1B5bFRWNXU3b3ZuQkpGeU1senpXZm1MeVJvUXk2SHNRMkdWVFlZZ0NGazlNTnY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxORTRaUnV1SklLS1c2TjZIUTAyV0Q5aHI1NDJDLUhYMUNfTUt1SzRzMl9ubnV5ejB1RV9pQnU4YXBrU0piZHF4eXZ5WjBDcnRZdy04LTMxcWs3X0RPaHV5Y3lHRGRScWwzX3pRRjZ6TWRlV0dBNWlHbExJbXlOM2liYjZRQ1pWZ1B5bFRWNXU3b3ZuQkpGeU1senpXZm1MeVJvUXk2SHNRMkdWVFlZZ0NGazlNTnY?oc=5\" target=\"_blank\">Indian shares muted as higher oil, bond stress spur caution</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T02:26:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -84,9 +143,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
+      "title": "Asia shares downbeat for week as bond yields, oil stay high - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5\" target=\"_blank\">Asia shares downbeat on the week as bond yields, oil stay high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5\" target=\"_blank\">Asia shares downbeat for week as bond yields, oil stay high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-21T01:23:00+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -118,15 +177,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Two Binance employees were detained in UAE in recent weeks, NYT reports - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVNRelR3TlJRWUxwV01fbDhUblFza29oMkhKRWV4aGluYmwta0lobVNlbjRSZ0dmM0s0SGdDcGVod3VwTldvMVJHTUxKZzl0VVpOelgwV3dwX0RINUdVaTNzOWUzQkNSTHJXeVVDVWo4X1kwN29FTEdndzZIbmZOejN5d0lBYWdycld6dTlCV3U1R3ZrMDRGejFtUjRVNlFMQkdrUnVTSS1XeHdlai1mY3BBdTFzUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcVNRelR3TlJRWUxwV01fbDhUblFza29oMkhKRWV4aGluYmwta0lobVNlbjRSZ0dmM0s0SGdDcGVod3VwTldvMVJHTUxKZzl0VVpOelgwV3dwX0RINUdVaTNzOWUzQkNSTHJXeVVDVWo4X1kwN29FTEdndzZIbmZOejN5d0lBYWdycld6dTlCV3U1R3ZrMDRGejFtUjRVNlFMQkdrUnVTSS1XeHdlai1mY3BBdTFzUQ?oc=5\" target=\"_blank\">Two Binance employees were detained in UAE in recent weeks, NYT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T23:29:14+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "The US Navy has battled operational tempo ordeals for years. The Iran war exposed the flaws.",
@@ -136,13 +186,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "USS George Washington’s Mideast Arrival Highlights Strain On Carrier Force",
-      "link": "https://www.twz.com/sea/uss-george-washingtons-mideast-arrival-highlights-strain-on-carrier-force",
-      "summary": "<p>The Washington's replacement of the Lincoln leaves no carrier in the Western Pacific and the Navy's struggle to meet demand may get far worse before it gets better.</p>\n<p>The post <a href=\"https://www.twz.com/sea/uss-george-washingtons-mideast-arrival-highlights-strain-on-carrier-force\">USS George Washington&#8217;s Mideast Arrival Highlights Strain On Carrier Force</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-20T23:10:13+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Focus: AI reshapes India's IT services sector contracts as clients demand more for less - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMUNrcEw1LWRMcThiZ3U3bzRtZ3ItREZlaXdRaEdWb3FfS09ndHZvcXhQMnlCWDVsLTAyUGNoQTM0TW9ESDVPbkxIaHRxTVFuZDRhYzlpR2Rxb2hiVnlDWHhMQ2F4NWx2c2k3VTZiOFZ3dFc4Z0lPOWVOM3k1d21wbGpJWWpTRGVFejRPdHpWdlhVSnJYQ0w1a1J3TDBmdGFKMExtZVM2c0w0ZTJrcV9HRTI4YjZPUUdnY2xjUg?oc=5\" target=\"_blank\">Focus: AI reshapes India's IT services sector contracts as clients demand more for less</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-20T23:02:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -226,15 +276,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US imposes more sanctions on Cuba, including mining sector - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUTBXOUxEdGNvYndTMlBGZHRFQk1wNU8tZk5DV29LdHNJMVlEcU5LcHNxTHJKTlMzWFJNZ0ZWelJ2Vl9GaXl4cklaVDcwd2dld2YyeDRicXVxQWhIcWpSTEY4emRvc3JEd3FrUmRnUU80UFdLdDNRN0IxYW5wVkV5NDBlc0VNanFV?oc=5\" target=\"_blank\">US imposes more sanctions on Cuba, including mining sector</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T21:29:05+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "They survived 9/11; 25 years later, their bonds remain unbroken",
@@ -242,15 +283,6 @@
       "summary": "Survivors reconnect with those who saved them in National Geographic's <em>9/11: Reunited</em>.",
       "published": "2026-08-20T21:25:25+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Woman charged with planning ISIS-inspired attack on New York State Capitol building - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzJPam00WV9rdjA3LTc2VnlCRERNajFpSWpaLS03b0xFSUNvTGJtOFFtMExtM3BKMHk1Q0N2RVRSUXY2ekpQR1loZDgtOTBxWUk4N0gtZzdGSjV3eGhXeXY5WEJYWUhnMHJLYW42THRaN09UTUxPLTRDQ0ZMcjJkS3p0dW4xRE9EdWFzcEtTaVNnWGpEUkpqUWU0eUNxUkw5UU5yUUd3OHktZnExd1RZRlR0bzhjcmdtOTJMdzBsZFRucm8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNzJPam00WV9rdjA3LTc2VnlCRERNajFpSWpaLS03b0xFSUNvTGJtOFFtMExtM3BKMHk1Q0N2RVRSUXY2ekpQR1loZDgtOTBxWUk4N0gtZzdGSjV3eGhXeXY5WEJYWUhnMHJLYW42THRaN09UTUxPLTRDQ0ZMcjJkS3p0dW4xRE9EdWFzcEtTaVNnWGpEUkpqUWU0eUNxUkw5UU5yUUd3OHktZnExd1RZRlR0bzhjcmdtOTJMdzBsZFRucm8?oc=5\" target=\"_blank\">Woman charged with planning ISIS-inspired attack on New York State Capitol building</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T21:20:48+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -304,15 +336,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/08/20/ukraine-braces-for-combined-salvos-of-up-to-200-missiles-as-overnight-attack-kills-15-in-kyiv/",
       "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
       "published": "2026-08-20T20:09:46+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After ‘Retirement’",
-      "link": "https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement",
-      "summary": "<p>We can only imagine the crazy logistics that keep just a handful of F-117s flying, and a contract to help do this highlights one of the \"Black Jet's\" unique features.</p>\n<p>The post <a href=\"https://www.twz.com/air/f-117-nighthawk-needs-fresh-explosives-for-its-tailhook-nearly-two-decades-after-retirement\">F-117 Nighthawk Needs Fresh Explosives For Its Tailhook Nearly Two Decades After &#8216;Retirement&#8217;</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-20T19:57:42+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -424,39 +447,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxNaTBkRFJMMmRQcUtXVlRSS01DTjdnZnVCZkZ2d0k5VkJ1QVQtOHRrOXR2RnNuZWRiMFBsMEMwT0JqV3VkUTJ6QlRnaUJrQXZRRXZUSlZvcy1ONWlqb3E4ZUxzcUZwV29BSU9qYUhwR1NSQmwyR1l3eGRseGJKSEhaYmE4RUxkbkNlOWs2U2tiZ2tTaUJYa0JoWmRTcnBidTZWNHYzeklGblFwcE5WSE9HdFNpTTBNQldaZG12N3NVNTRzMDBYcEVTMUhR?oc=5\" target=\"_blank\">US hits Hezbollah with fresh sanctions, emphasizing ties to Iranian government</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T18:20:15+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "No new starts, no problem: Army’s plan to get new EW capability in the hands of soldiers",
       "link": "https://breakingdefense.com/2026/08/no-new-starts-no-problem-armys-plan-to-get-new-ew-capability-in-the-hands-of-soldiers/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/no-new-starts-no-problem-armys-plan-to-get-new-ew-capability-in-the-hands-of-soldiers/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"574\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/Army-TLS-Manpack-8771417-e1777477078340-1024x574.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Army wants to field commercial EW systems to forces fast. </p>",
       "published": "2026-08-20T18:14:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Our Best Look At China’s New Y-15 Turboprop Airlifter",
-      "link": "https://www.twz.com/air/our-best-look-at-chinas-new-y-15-turboprop-airlifter",
-      "summary": "<p>The four-engine turboprop is expected to form a key new piece of China’s modernizing military transport fleet.</p>\n<p>The post <a href=\"https://www.twz.com/air/our-best-look-at-chinas-new-y-15-turboprop-airlifter\">Our Best Look At China’s New Y-15 Turboprop Airlifter</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-20T18:13:10+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Wildfire Is General Atomics’ Successor To The MQ-9 Reaper",
-      "link": "https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper",
-      "summary": "<p>The Wildfire concept has been entered into a new Pentagon competition to find a next generation of medium-altitude, long-endurance ISR and strike drone.</p>\n<p>The post <a href=\"https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper\">Wildfire Is General Atomics&#8217; Successor To The MQ-9 Reaper</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-20T18:11:01+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -551,15 +547,6 @@
     },
     {
       "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon",
-      "link": "https://www.twz.com/air/this-is-the-new-blackbeard-cheap-hypersonic-weapon",
-      "summary": "<p>Castelion aims at building more affordable and usable hypersonic weapons that can be churned out at high production rates.</p>\n<p>The post <a href=\"https://www.twz.com/air/this-is-the-new-blackbeard-cheap-hypersonic-weapon\">This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-20T16:09:39+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Turkish Aerospace plans naval version of Hurjet as it eyes expanded NATO exports",
       "link": "https://breakingdefense.com/2026/08/turkish-aerospace-plans-naval-version-of-hurjet-as-it-eyes-expanded-nato-exports/",
@@ -586,30 +573,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin's jump above $71,000 sets up bullish golden cross pattern",
-      "link": "https://www.coindesk.com/markets/2026/08/20/bitcoin-s-jump-above-usd71-000-sets-up-bullish-golden-cross-pattern",
-      "summary": "",
-      "published": "2026-08-20T15:16:12+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Dom Dolla to Headline Largest Electronic Music Event in New Zealand’s History",
       "link": "https://edm.com/events/dom-dolla-headlining-largest-electronic-music-event-new-zealand-history/",
       "summary": "<p>The record-breaking concert is taking place on Waitangi Day, the national day of New Zealand.</p>\n<p>The post <a href=\"https://edm.com/events/dom-dolla-headlining-largest-electronic-music-event-new-zealand-history/\">Dom Dolla to Headline Largest Electronic Music Event in New Zealand&#8217;s History</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-20T15:03:43+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: What are tokenized deposits?",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/08/20/crypto-for-advisors-what-are-tokenized-deposits",
-      "summary": "",
-      "published": "2026-08-20T15:01:40+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -646,15 +615,6 @@
       "link": "https://arstechnica.com/science/2026/08/spacexs-orbital-data-centers-would-create-a-new-category-of-e-waste/",
       "summary": "The yeetcycling math resembles asteroid mining in reverse.",
       "published": "2026-08-20T13:59:50+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "‘Star Wars vibes:’ Chainlink’s McCormick sees AI agents, robots driving blockchain transactions",
-      "link": "https://www.theblock.co/news/web3/2026-08-20-star-wars-vibes-chainlink-mccormick-ai-agents-robots-blockchain-transactions-412327",
-      "summary": "McCormick expects a multi-chain future as AI lowers the cost of creating new blockchain networks, increasing the need for interoperability.",
-      "published": "2026-08-20T13:58:22+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -793,15 +753,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "China’s Reusable Space Launch Booster Recoveries Have Major Military Implications",
-      "link": "https://www.twz.com/space/chinas-reusable-space-launch-booster-recoveries-have-major-military-implications",
-      "summary": "<p>A reusable space launch capability similar to SpaceX's Falcon 9 will degrade a key U.S. advantage in space access for national security as well as commercial applications.</p>\n<p>The post <a href=\"https://www.twz.com/space/chinas-reusable-space-launch-booster-recoveries-have-major-military-implications\">China&#8217;s Reusable Space Launch Booster Recoveries Have Major Military Implications</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-19T23:43:18+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "Why Bond Yields Are Rising—and Might Keep Heading Higher - Morningstar",
@@ -820,30 +771,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "EA-37B Flew Along Kaliningrad Border As Part Of “Specialized” Recon, EW Flight Package",
-      "link": "https://www.twz.com/air/ea-37b-flew-along-kaliningrad-border-as-part-of-specialized-recon-ew-flight-package",
-      "summary": "<p>The USAF's new EA-37B Compass Call electronic warfare jet was part of a larger NATO package that flew along the doorstep of Russia's strategic military outpost.</p>\n<p>The post <a href=\"https://www.twz.com/air/ea-37b-flew-along-kaliningrad-border-as-part-of-specialized-recon-ew-flight-package\">EA-37B Flew Along Kaliningrad Border As Part Of “Specialized” Recon, EW Flight Package</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-19T21:06:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Inside Iran’s Wartime Regime",
       "link": "https://warontherocks.com/inside-irans-wartime-regime/",
       "summary": "<p>Afshon Ostovar, one of the leading experts on Iran and the host of the members-only podcast The Iran Reckoning, is joined by War on the Rocks membership editor Kerry Anderson for a state-of-play conversation on the conflict between the United States and Iran. They consider why the fighting has settled into a stalemate and dig into which figures in the Iranian regime have influence over Iran&#8217;s approach to the war. Afshon unpacks the implications of Mohsen Rezaei&#8217;s recent appointment as head of Iran&#8217;s Supreme National Security Council, before the two look ahead to what comes next. Normally members-only content, this</p>\n<p>The post <a href=\"https://warontherocks.com/inside-irans-wartime-regime/\">Inside Iran&#8217;s Wartime Regime</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-19T19:30:45+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "New USS John F. Kennedy Brings Back Key Feature From The Nimitz Class",
-      "link": "https://www.twz.com/sea/future-ford-class-uss-john-f-kennedy-brings-back-key-feature-from-the-nimitz-class",
-      "summary": "<p>Major radar changes mean 'illuminators' are needed to help Evolved Sea Sparrow Missiles protect the carrier.</p>\n<p>The post <a href=\"https://www.twz.com/sea/future-ford-class-uss-john-f-kennedy-brings-back-key-feature-from-the-nimitz-class\">New USS John F. Kennedy Brings Back Key Feature From The Nimitz Class</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-19T19:15:29+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1063,15 +996,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Is the Trump-Tinubu Collaboration Working? - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjNVZPMXk0Q3JkbTk0d29WdzI2V2p3R0F6VDBFaHJ6WmcydjZ5RjkxV3AyelB6ZGVQOVNNTFBfMzY1MExERkNGaGdRRkZ3Unk0R25EMTNObmtQZkZJY0xHcTZkZVVqSDNUZ1RUdGxJdUNSNXBLSzh1cldB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBjNVZPMXk0Q3JkbTk0d29WdzI2V2p3R0F6VDBFaHJ6WmcydjZ5RjkxV3AyelB6ZGVQOVNNTFBfMzY1MExERkNGaGdRRkZ3Unk0R25EMTNObmtQZkZJY0xHcTZkZVVqSDNUZ1RUdGxJdUNSNXBLSzh1cldB?oc=5\" target=\"_blank\">Is the Trump-Tinubu Collaboration Working?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-18T12:06:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "The next AI frontier: Why model strategy has become the differentiator - Morning Brew",
@@ -1168,6 +1092,15 @@
       "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLW5HU2RlUjJSMkZEalNtNjd4d1RhcXgyeUJuNmJsSTFXZ0dXaGF0TXlsazVJZkJzaV93bW83c1RQbDZ1TlBTT2ZGeVFYVWFRTi1sWVNZU09IQWptZ1RjdlFuMmZPMUg0amdad1BxMVI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE1JLW5HU2RlUjJSMkZEalNtNjd4d1RhcXgyeUJuNmJsSTFXZ0dXaGF0TXlsazVJZkJzaV93bW83c1RQbDZ1TlBTT2ZGeVFYVWFRTi1sWVNZU09IQWptZ1RjdlFuMmZPMUg0amdad1BxMVI?oc=5\" target=\"_blank\">US consumers might be spent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-15T06:47:30+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "The U.S.-Led Middle East Order Is Over. The Mecca Agreement Proves It. - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcC1CcU1MQWlFVlJWaDI2eEhOOHFGR0lmN19XRnhqcVk2cjltbkxXN0dndk93MlBwWWNQdnZ3d3E2My15Z0lZdDVobkFsSTE4Q1lFMGhlRW1KcktNdXRhU3l4TE4tTnROTXhoNVppMnpVRG9tOEx4ZE56RXN4djluc0htVnhNeHUwcUQ2UktodG5NQng0TmM5R0xwbU0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOcC1CcU1MQWlFVlJWaDI2eEhOOHFGR0lmN19XRnhqcVk2cjltbkxXN0dndk93MlBwWWNQdnZ3d3E2My15Z0lZdDVobkFsSTE4Q1lFMGhlRW1KcktNdXRhU3l4TE4tTnROTXhoNVppMnpVRG9tOEx4ZE56RXN4djluc0htVnhNeHUwcUQ2UktodG5NQng0TmM5R0xwbU0?oc=5\" target=\"_blank\">The U.S.-Led Middle East Order Is Over. The Mecca Agreement Proves It.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-13T18:57:32+00:00",
       "feed_type": "google_news_fallback"
     },
     {
