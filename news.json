@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21T03:08:28.140425+00:00",
+  "updated_at": "2026-08-21T04:44:50.000880+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,24 @@
     }
   ],
   "items": [
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Why Criminals Love the Chinese Economy",
+      "link": "https://www.foreignaffairs.com/china/why-criminals-love-chinese-economy",
+      "summary": "And why Beijing can’t—or won’t—crack down.",
+      "published": "2026-08-21T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "The best new music plugins this week, free and paid",
+      "link": "https://musictech.com/news/gear/new-plugins-this-week/?utm_source=rss&utm_medium=rss&utm_campaign=new-plugins-this-week",
+      "summary": "<p><img alt=\"Music producer working on a laptop in the studio, photo by jose carlos cerdeno martinez/Getty Images\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/06/Producer-working-on-laptop-studio-hero-credit-jose-carlos-cerdeno-martinez-Getty@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Software instruments, effects and mixing plugins – here’s everything fresh in the plugin marketplace this week.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/new-plugins-this-week/\">The best new music plugins this week, free and paid</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-08-21T03:00:52+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Crypto",
       "source": "The Block",
@@ -35,6 +53,15 @@
       "summary": "",
       "published": "2026-08-21T01:51:56+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Asia shares downbeat on the week as bond yields, oil stay high - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNVTFQMW56em9GbmdpNkt2Y1pGekxZbWNTT2I5bHZDNUJCaFFYem9uWVlkSEd3dzBHQ19mSHA0QzZlUmMzWHJtOEtJX09qRmVaNFdYaC1wZzQ4VmJCdFdlWnFDSkhRLVkwYXRidHJPaVk2ZXFyeVNzU0dCbzNRZnhNc0dLcw?oc=5\" target=\"_blank\">Asia shares downbeat on the week as bond yields, oil stay high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T01:23:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -145,15 +172,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-08-20T21:55:22+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Europe cancels planned upgrades for Ariane 6 rocket",
@@ -251,15 +269,6 @@
       "summary": "Russia ramps up missile production as Ukraine's ballistic missile interceptors hit their lowest levels in years.",
       "published": "2026-08-20T20:09:46+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Academic who raised plagiarism allegations against Jason Arday suspended by his university - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxORW9YRm9DdzFFWG5fVWMtUWZsXzlfUkNPanUxRWtReHRWaWF1NmpGWjVhWkdxYlhZMW1IYjlkcXhqRzdOekdFaVRNQnpxM21lR2VMc0pPcnhWUDVwSUZfOFZySnNtNGE1a1dpWFhFNUFWTElJOVZYd2RlUG53Ui1MbGpEbDlSZC0yVEpxXzZSRjRpOVZzUWlSNDFtSzZLN1paQ2p6UzdxdHNlbnJsakVBXy1PanpsN01yQV95Ukd3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxORW9YRm9DdzFFWG5fVWMtUWZsXzlfUkNPanUxRWtReHRWaWF1NmpGWjVhWkdxYlhZMW1IYjlkcXhqRzdOekdFaVRNQnpxM21lR2VMc0pPcnhWUDVwSUZfOFZySnNtNGE1a1dpWFhFNUFWTElJOVZYd2RlUG53Ui1MbGpEbDlSZC0yVEpxXzZSRjRpOVZzUWlSNDFtSzZLN1paQ2p6UzdxdHNlbnJsakVBXy1PanpsN01yQV95Ukd3?oc=5\" target=\"_blank\">Academic who raised plagiarism allegations against Jason Arday suspended by his university</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-20T20:05:16+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -593,15 +602,6 @@
       "summary": "<p><img alt=\"Behringer BCR32\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/08/Behringer-BCR32-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>With a little help from ZAQ Audio, the BCR2000 has been reborn...</p>\n<p>The post <a href=\"https://musictech.com/news/gear/behringer-bcr32-available-to-pre-order-features/\">Behringer’s BCR32 is finally available to pre-order after five years: here’s everything you need to know</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-20T14:29:32+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "The Index Fund Turns 50: How Jack Bogle Changed Investing Forever - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEdCUTByM1hEMlNfVW54NmhOdk9sZFdWcmFVZDFXaHVLUVJHVlJPQnhvZ2NpUUh2WnN6VHRNMU5nNm4wdnZzdTJGZHpyTFNjZkh2eXRQalJhWmlwZkF2VFp6MFRSa3Z3b2FEem9BOE1sd05RRVZnR2FpMWtWc3hhOU1MTzZTRkMtQl9LUXp4QlZJMHVEZGJjRERR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNNEdCUTByM1hEMlNfVW54NmhOdk9sZFdWcmFVZDFXaHVLUVJHVlJPQnhvZ2NpUUh2WnN6VHRNMU5nNm4wdnZzdTJGZHpyTFNjZkh2eXRQalJhWmlwZkF2VFp6MFRSa3Z3b2FEem9BOE1sd05RRVZnR2FpMWtWc3hhOU1MTzZTRkMtQl9LUXp4QlZJMHVEZGJjRERR?oc=5\" target=\"_blank\">The Index Fund Turns 50: How Jack Bogle Changed Investing Forever</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-20T14:29:12+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -1081,15 +1081,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "MusicTech",
-      "title": "Cradle State Machine Alt Textures relies heavily on its epic sounds",
-      "link": "https://musictech.com/reviews/software-instruments/cradle-state-machine-alt-textures-review/?utm_source=rss&utm_medium=rss&utm_campaign=cradle-state-machine-alt-textures-review",
-      "summary": "<p><img alt=\"Cradle State Machine Alt Textures, photo by press\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/08/Cradle-State-Machine-Alt-Textures-hero-credit-press@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Alt Textures is a new sound collection for Cradle’s sample-based synth instrument with a dark and heavy aesthetic</p>\n<p>The post <a href=\"https://musictech.com/reviews/software-instruments/cradle-state-machine-alt-textures-review/\">Cradle State Machine Alt Textures relies heavily on its epic sounds</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
-      "published": "2026-08-18T08:32:52+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "AI and the Risks of Tearing Down an Old System",
@@ -1158,15 +1149,6 @@
       "title": "How Alliances Survive",
       "link": "https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi",
       "summary": "The case against pessimism and the path to a new allied order.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The End of the American Middle East",
-      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
-      "summary": "Iran and the last gasp of a failed order.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -1270,12 +1252,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Before and after satellite images of demolition of East Wing - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-10-23T07:00:00+00:00",
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "VYM Stock Price - Vanguard High Dividend Yield ETF - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbnJ1LXlaSzNCNGk5bGF2ZGFrOUV4SXlQR3Vaek5JNEx1WFNULVk4am9zUE1mZDNkNVZka3AtdkI4aTcyV0htUjQtSzZaSlVPaC1QSFcxRS1kOFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbnJ1LXlaSzNCNGk5bGF2ZGFrOUV4SXlQR3Vaek5JNEx1WFNULVk4am9zUE1mZDNkNVZka3AtdkI4aTcyV0htUjQtSzZaSlVPaC1QSFcxRS1kOFE?oc=5\" target=\"_blank\">VYM Stock Price - Vanguard High Dividend Yield ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-04-25T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1334,6 +1316,15 @@
     },
     {
       "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2023-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93b3VSei1NWTdlTUVhWjNaVGpKU2J1WVNZdlFEdFJsUnEzNEpZbXJZVXFyZ1JXcW1OOTdFZTJSbW1SRGZEQXR0U3ZuUkJOUG5ER0lyUHFqY09JWFVBVjVJSXVMM0RvMFp2ZnktdmIzaUFVaGF3UDE0U0daSElwUQ?oc=5",
@@ -1348,6 +1339,15 @@
       "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5\" target=\"_blank\">Why Morning Brew?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2022-02-16T05:00:44+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2020-12-07T16:27:24+00:00",
       "feed_type": "google_news_fallback"
     },
     {
