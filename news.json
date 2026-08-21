@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-08-21T22:30:21.721972+00:00",
-  "item_count": 152,
+  "updated_at": "2026-08-21T23:30:51.575057+00:00",
+  "item_count": 144,
   "failures": [
+    {
+      "source": "The Block",
+      "feed_url": "https://www.theblock.co/rss.xml",
+      "error": "<unknown>:26:113: not well-formed (invalid token)"
+    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -9,6 +14,60 @@
     }
   ],
   "items": [
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Anthropic’s Opus 4.6 is a smut-machine",
+      "link": "https://techcrunch.com/2026/08/21/anthropics-opus-4-6-is-a-smut-machine/",
+      "summary": "Anthropic forbids its Claude models from generating sexually explicit content. But a series of tests conducted by TechCrunch found that it didn't take much to get past the restriction.",
+      "published": "2026-08-21T23:07:25+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Parents Launch GoFundMe After Drug Poisoning Tragedy at Bass Canyon",
+      "link": "https://edm.com/news/zion-randall-parents-launch-gofundme-drug-poisoning-death-bass-canyon/",
+      "summary": "<p>A tragedy at the Gorge Amphitheatre has left an Olympia family grieving the sudden death of their son and seeking community support for his upcoming memorial services.</p>\n<p>The post <a href=\"https://edm.com/news/zion-randall-parents-launch-gofundme-drug-poisoning-death-bass-canyon/\">Parents Launch GoFundMe After Drug Poisoning Tragedy at Bass Canyon</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-08-21T22:42:13+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "link": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-204",
+      "summary": "<p>Now that's a door!</p>\n<p>The post <a href=\"https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-204\">Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-21T22:42:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Saab Unveils Stealthy Supersonic ‘Fighter Drone’ Concept",
+      "link": "https://www.twz.com/air/saab-unveils-stealthy-supersonic-fighter-drone-concept",
+      "summary": "<p>The advanced drone could become a high-end collaborative companion to the Gripen E, and may also shape Saab’s next crewed combat aircraft.</p>\n<p>The post <a href=\"https://www.twz.com/air/saab-unveils-stealthy-supersonic-fighter-drone-concept\">Saab Unveils Stealthy Supersonic ‘Fighter Drone’ Concept</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-21T22:40:10+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Nvidia partners with data center developer Cloverleaf",
+      "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
+      "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
+      "published": "2026-08-21T22:37:38+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "One killed, three injured when man attacks Swedish school with sword - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5\" target=\"_blank\">One killed, three injured when man attacks Swedish school with sword</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T22:21:44+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "Crypto",
       "source": "CoinDesk",
@@ -19,21 +78,21 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3ZKSm5RMU83dFhuYWFPU2JpUWc4TUg5ckc3NXJtT1N3b24wWm92Ykx3ZFFfazdyckpwZW82V2h4YW5IbFhRS0N0ZEF5ZUk2VEVKYVVrUFQwSE1KdUxDTmcwQXlCWENtOHhBaWRBcUZKZUpCZ19PbWt5MmppMF93RjZ0ZS1MYkRzQWtldUhHbklpQ3V0YW54SXI1MXhoVzZJSG9j?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQc3ZKSm5RMU83dFhuYWFPU2JpUWc4TUg5ckc3NXJtT1N3b24wWm92Ykx3ZFFfazdyckpwZW82V2h4YW5IbFhRS0N0ZEF5ZUk2VEVKYVVrUFQwSE1KdUxDTmcwQXlCWENtOHhBaWRBcUZKZUpCZ19PbWt5MmppMF93RjZ0ZS1MYkRzQWtldUhHbklpQ3V0YW54SXI1MXhoVzZJSG9j?oc=5\" target=\"_blank\">EXCLUSIVE: Fauci's lawyers set up legal defense fund as US probes multiply</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T22:03:48+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "China’s Massive New Artificial Island In The South China Sea Emerges, Primed For Militarization",
       "link": "https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization",
       "summary": "<p>What was a submerged reef a year ago is now a 1,500 acre artificial island with a large runway under construction, as China's militarization of the South China Sea accelerates.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization\">China’s Massive New Artificial Island In The South China Sea Emerges, Primed For Militarization</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-21T22:03:14+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
-      "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
-      "summary": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
-      "published": "2026-08-21T21:34:53+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -154,15 +213,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "One killed, three injured when man attacks Swedish school with sword - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5\" target=\"_blank\">One killed, three injured when man attacks Swedish school with sword</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-21T20:05:49+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Sports betting to build wealth is becoming the new American dream",
@@ -253,24 +303,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
-      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
-      "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
-      "published": "2026-08-21T17:28:34+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
-      "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-      "published": "2026-08-21T17:24:02+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Taiwan proposes record $35 billion defense budget",
@@ -278,15 +310,6 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2023/09/230918_taiwan_f16s_GettyImages-1249302776-scaled-e1695069880314-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The new budget proposal will have to be approved by the opposition-controlled legislature.</p>",
       "published": "2026-08-21T17:06:33+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "NATO members discuss Strait of Hormuz options without alliance involvement - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC1YSDVDa3NjOU9ndVc5Z2ZkNVp3Vjliay1ObVFfcUw3UGYtdFU0ZkpjVTkzNWVjQnN0dzNVaGMzUnFOeG04TkZFd21kN3FCRkVrNG9pdzg4VWQ4SHU1YkhBRTVJeF9xaFJTUlM1UnRBUVFYVHNjdk9uc1lkSF95OG5ZWTNWbkYtNVZCem9xWFdTTnBxc014Z0JTRktydjZ6TTY5MnBlcE40ZGhGUzQ4WngteHd4dzE0Y0JhcjNGaGhsS2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC1YSDVDa3NjOU9ndVc5Z2ZkNVp3Vjliay1ObVFfcUw3UGYtdFU0ZkpjVTkzNWVjQnN0dzNVaGMzUnFOeG04TkZFd21kN3FCRkVrNG9pdzg4VWQ4SHU1YkhBRTVJeF9xaFJTUlM1UnRBUVFYVHNjdk9uc1lkSF95OG5ZWTNWbkYtNVZCem9xWFdTTnBxc014Z0JTRktydjZ6TTY5MnBlcE40ZGhGUzQ4WngteHd4dzE0Y0JhcjNGaGhsS2c?oc=5\" target=\"_blank\">NATO members discuss Strait of Hormuz options without alliance involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-21T16:51:52+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -325,15 +348,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Appeals court upholds block on US Justice Department subpoenas to NY AG James' office - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOW5fN1NJSnhUYVllbTBUVTlEb3ExZGYxOGo0MkkySnFrMUNYV2Rkb3hUQWFWbEcwUGh4Q2xYcTYtbktXaUJqYWt6cjEwWkk4dVg4Yl8wNktHem54azc3bzZIX2ZGQ3VaWmdmOTR6aFJHZVNjN2RZNVVlMkQzRGVVbTFma1Rjczh1VUwzbFd5dnZ0UUJ3dFItYnFscDFseGExSWRxSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPOW5fN1NJSnhUYVllbTBUVTlEb3ExZGYxOGo0MkkySnFrMUNYV2Rkb3hUQWFWbEcwUGh4Q2xYcTYtbktXaUJqYWt6cjEwWkk4dVg4Yl8wNktHem54azc3bzZIX2ZGQ3VaWmdmOTR6aFJHZVNjN2RZNVVlMkQzRGVVbTFma1Rjczh1VUwzbFd5dnZ0UUJ3dFItYnFscDFseGExSWRxSQ?oc=5\" target=\"_blank\">Appeals court upholds block on US Justice Department subpoenas to NY AG James' office</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-21T16:23:53+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Ethena's ENA token surges 48%, but altcoin season will have to wait",
@@ -343,13 +357,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Strategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
-      "summary": "Amid a two-month puase on BTC buys, Strategy shares (MSTR) rallied alongside bitcoin as STRC continued its recovery toward its $100 target.",
-      "published": "2026-08-21T15:38:02+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iran-linked oil tanker falls victim to Somali piracy surge - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlBmdExCTDN4OFl6N05iSGtIRlNWVWFvUFpjSVQwdVFWQkl1aTBrQVl2R1NJTmViMERuSXJFZ3NtRXVHZ1JTZ1RBMDIxZzFrN01kT212NlNhYkg3NThNdVZwbnota0ZWMHFEaXkycFBZTG0wUDNXTXpVOHZleUx3a3dMWjN6RGM3YWZMaTJfQV9sRjlobEJILWQwQXczYjdCZ19fbGlYZTVYQUJ2VGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlBmdExCTDN4OFl6N05iSGtIRlNWVWFvUFpjSVQwdVFWQkl1aTBrQVl2R1NJTmViMERuSXJFZ3NtRXVHZ1JTZ1RBMDIxZzFrN01kT212NlNhYkg3NThNdVZwbnota0ZWMHFEaXkycFBZTG0wUDNXTXpVOHZleUx3a3dMWjN6RGM3YWZMaTJfQV9sRjlobEJILWQwQXczYjdCZ19fbGlYZTVYQUJ2VGc?oc=5\" target=\"_blank\">Iran-linked oil tanker falls victim to Somali piracy surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T15:28:34+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -442,15 +456,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "NGHTMRE and Jordin Sparks Reimagine ‘No Air’ as Melodic Drum & Bass Anthem",
-      "link": "https://edm.com/music-releases/nghtmre-jordin-sparks-no-air/",
-      "summary": "<p>The rework of Sparks' 2008 breakup power ballad arrives on Gud Vibrations after its live debut at ILLFest three months ago.</p>\n<p>The post <a href=\"https://edm.com/music-releases/nghtmre-jordin-sparks-no-air/\">NGHTMRE and Jordin Sparks Reimagine &#8216;No Air&#8217; as Melodic Drum &amp; Bass Anthem</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-21T13:16:54+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
@@ -506,24 +511,6 @@
     },
     {
       "category": "Crypto",
-      "source": "The Block",
-      "title": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
-      "link": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
-      "summary": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
-      "published": "2026-08-21T12:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Crypto is still in ‘winter’ price-wise but it’s an ‘institutional summer,’ STS Digital CEO says",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-crypto-is-still-in-winter-price-wise-but-an-institutional-summer-sts-digital-ceo-says-412454",
-      "summary": "STS Digital CEO Maxime Seiler says token prices have lagged institutional adoption as bitcoin futures basis converges toward risk-free rates.",
-      "published": "2026-08-21T11:58:06+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
       "source": "CoinDesk",
       "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
       "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
@@ -551,29 +538,11 @@
     },
     {
       "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
-      "summary": "U.S. spot bitcoin ETF flows have also rebounded, while Strategy's bitcoin holdings are now back above their average purchase price.",
-      "published": "2026-08-21T10:57:54+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
       "source": "CoinDesk",
       "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
       "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
       "summary": "",
       "published": "2026-08-21T10:38:47+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
-      "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
-      "published": "2026-08-21T09:17:58+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -721,15 +690,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "OK, can we actually cool data centers with our pee?",
-      "link": "https://techcrunch.com/2026/08/20/ok-can-we-actually-cool-data-centers-with-our-pee/",
-      "summary": "Jason Kelce joked that people should cool data centers with their pee, rather than potable water -- but his suggestion is not completely ludicrous.",
-      "published": "2026-08-20T20:53:13+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "US Navy leads multinational effort for next-gen SeaSparrow missile",
@@ -763,15 +723,6 @@
       "link": "https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-network-needs-digital-twin-for-training-testing-cybersecurity-netcom-chief/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"449\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/8944263-e1787254586489.jpg\" style=\"height: auto!important;\" width=\"798\" /></a></p><p>“It’s a big ask,” acknowledged Maj. Gen. Denise McPhail, chief of Army Network Command, but it could allow NETCOM to “leverage AI in that model to understand our vulnerabilities, where our gaps are.”</p>",
       "published": "2026-08-20T19:55:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Google gives publishers a new way to fight AI-driven traffic losses",
-      "link": "https://techcrunch.com/2026/08/20/google-gives-publishers-a-new-way-to-fight-ai-driven-traffic-losses/",
-      "summary": "Google is giving publishers a new button that lets readers make them a preferred source across Search, Discover, and Google News, potentially boosting their traffic as AI search sends fewer clicks to the web.",
-      "published": "2026-08-20T19:18:21+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -820,15 +771,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Wildfire Is General Atomics’ Successor To The MQ-9 Reaper",
-      "link": "https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper",
-      "summary": "<p>The Wildfire concept has been entered into a new Pentagon competition to find a next generation of medium-altitude, long-endurance ISR and strike drone.</p>\n<p>The post <a href=\"https://www.twz.com/air/wildfire-is-general-atomics-successor-to-the-mq-9-reaper\">Wildfire Is General Atomics&#8217; Successor To The MQ-9 Reaper</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-20T18:11:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "Going Into Earnings, Is Nvidia Stock a Buy, a Sell, or Fairly Valued? - Morningstar",
@@ -844,15 +786,6 @@
       "link": "https://www.defensenews.com/global/mideast-africa/2026/08/20/us-approves-possible-45-billion-sale-of-kc-46as-equipment-to-qatar/",
       "summary": "The U.S. Department of State approved a possible $4.5 billion Foreign Military Sale to Qatar for up to four KC-46As and related equipment.",
       "published": "2026-08-20T16:36:23+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon",
-      "link": "https://www.twz.com/air/this-is-the-new-blackbeard-cheap-hypersonic-weapon",
-      "summary": "<p>Castelion aims at building more affordable and usable hypersonic weapons that can be churned out at high production rates.</p>\n<p>The post <a href=\"https://www.twz.com/air/this-is-the-new-blackbeard-cheap-hypersonic-weapon\">This Is The New Blackbeard ‘Cheap’ Hypersonic Weapon</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-20T16:09:39+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -988,15 +921,6 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZV9FV0dVNndUa1d6OU1XQzdZZkV3V2hkMFJUVXh5Z3ptdGM3TXpKX3VRRF9VbWwydE5GQUhLUVBka3lUa0lsZk5tT3JzbjltdTBxa1ZobElJaURGZVh4UXB0RzBMTXMwRjNDWk94VEEySm1oVVVqa0tXSWRvUTVzVDlDSVlmd3RXWWJzR0tOeFhldl8tVEw1YkxSWHprbVE2Mmw5Zng1aw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPZV9FV0dVNndUa1d6OU1XQzdZZkV3V2hkMFJUVXh5Z3ptdGM3TXpKX3VRRF9VbWwydE5GQUhLUVBka3lUa0lsZk5tT3JzbjltdTBxa1ZobElJaURGZVh4UXB0RzBMTXMwRjNDWk94VEEySm1oVVVqa0tXSWRvUTVzVDlDSVlmd3RXWWJzR0tOeFhldl8tVEw1YkxSWHprbVE2Mmw5Zng1aw?oc=5\" target=\"_blank\">Broadcom: Multisourcing Doesn’t Erode Massive Growth and a Buying Opportunity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-19T21:48:20+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Marvell: With Google Chip Deal, Firm Landing the White Whale - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDFILUNMbXlFVExUSXpheDcxZEJCeXEyajJ4aXROVGFuN0E3T3lFdmVuUnRxLVItMmdmTnd0N3B2NEticEYwLXBjRWZXTmtXS2szTkoyR21BY3l2Q2ZDRDBrRWdVdUVsTTI1WkluZ09BZGZoUENqS1hpZ2xRNlp5Yi1TMHh0ZndEVU50MTU3bFViRms?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxOaDFILUNMbXlFVExUSXpheDcxZEJCeXEyajJ4aXROVGFuN0E3T3lFdmVuUnRxLVItMmdmTnd0N3B2NEticEYwLXBjRWZXTmtXS2szTkoyR21BY3l2Q2ZDRDBrRWdVdUVsTTI1WkluZ09BZGZoUENqS1hpZ2xRNlp5Yi1TMHh0ZndEVU50MTU3bFViRms?oc=5\" target=\"_blank\">Marvell: With Google Chip Deal, Firm Landing the White Whale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-19T21:26:56+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1275,6 +1199,15 @@
       "title": "SCHD Stock - Schwab US Dividend Equity ETF - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OeTNURTBJcWZsaW9STjAtRjBmcFV5T3hkQldvNWZHYjNBWU14MS1PTUxuNGRSTDBoRURJZC1mZ0ZCTWRicENrSGlQa0hRbktfOWg0eVk1eC10LTZM?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OeTNURTBJcWZsaW9STjAtRjBmcFV5T3hkQldvNWZHYjNBWU14MS1PTUxuNGRSTDBoRURJZC1mZ0ZCTWRicENrSGlQa0hRbktfOWg0eVk1eC10LTZM?oc=5\" target=\"_blank\">SCHD Stock - Schwab US Dividend Equity ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-04-25T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "VYM Stock Price - Vanguard High Dividend Yield ETF - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbnJ1LXlaSzNCNGk5bGF2ZGFrOUV4SXlQR3Vaek5JNEx1WFNULVk4am9zUE1mZDNkNVZka3AtdkI4aTcyV0htUjQtSzZaSlVPaC1QSFcxRS1kOFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE5GbnJ1LXlaSzNCNGk5bGF2ZGFrOUV4SXlQR3Vaek5JNEx1WFNULVk4am9zUE1mZDNkNVZka3AtdkI4aTcyV0htUjQtSzZaSlVPaC1QSFcxRS1kOFE?oc=5\" target=\"_blank\">VYM Stock Price - Vanguard High Dividend Yield ETF</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-04-25T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
