@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T19:26:34.020541+00:00",
+  "updated_at": "2026-08-22T20:29:12.418416+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,6 +10,33 @@
   ],
   "items": [
     {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
+      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
+      "summary": "“The cost is absolutely ridiculous.”",
+      "published": "2026-08-22T20:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
+      "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
+      "summary": "Canada Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
+      "published": "2026-08-22T19:51:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin and ether ETFs draw $2.6 billion in strongest inflow week since October, tripling volume",
+      "link": "https://www.theblock.co/news/markets/2026-08-22-bitcoin-and-ether-etfs-draw-2-6-billion-in-strongest-inflow-week-since-october-tripling-volume-412531",
+      "summary": "Combined ETF weekly trading volume more than tripled to $29 billion as bitcoin and ether prices rallied, though both categories are negative on the year.",
+      "published": "2026-08-22T19:31:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Inherent, founded by DeepMind alumni, says its AI ‘teammate’ just outperformed Anthropic and OpenAI at replicating research",
@@ -19,13 +46,22 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Canada announces retaliatory tariffs on U.S. goods after trade talks break down",
-      "link": "https://www.marketwatch.com/story/canada-announces-retaliatory-tariffs-on-u-s-goods-after-trade-talks-break-down-45081c2f?mod=mw_rss_topstories",
-      "summary": "Canada Prime Minister Mark Carney on Saturday announced his country would impose “dollar-for-dollar” tariffs on U.S. goods — a retaliatory measure after trade talks between the two nations broke down.",
-      "published": "2026-08-22T18:55:00+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Panama‑flagged cargo ship sinks off eastern India, coast guard says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNX2NtbU5uRUdhVTY4RFR0UzhBMGEwZ3hfUW5RYmlqQmRGRTZKcU9EZkZ0ZzBFUG5Mbk9odGpyakpuMXVjbE95Ry1MQlFGTGliekktZnJkTVNzTzdlQlBIQlU2VFI3MnlNNXdVSTBNVVUtSHprYlJVSkFGdURIb25NX2tnRWhBai0xdXRQWXN1QkF0THh6T25HTnZrVDB3bE1nOU16NS1MYl9icExBVzdpcHZDSGVtNmM?oc=5\" target=\"_blank\">Panama‑flagged cargo ship sinks off eastern India, coast guard says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-22T17:56:53+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2026-08-22T17:54:01+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -190,15 +226,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "summary": "“She looked into COBRA, but the cost is absolutely ridiculous.”",
-      "published": "2026-08-22T13:45:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
@@ -214,15 +241,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxNZVV3NExuQmFxMzNiVU9iZnhweFRMb2tvQmlqVmhNbXJia0YtcXFMalNXanhOS2gxYy12MHFZT0VoRENBOWFLMklzdWVaV3pZMVFmSmI0VEJENUxSTU5nbUJZdnpWa3lIR1IydEFSb3JIY0pjQ0RRdjh5aGhqdy1DYlVLdksyc1psREx4Q1NXUDVOTk45WndFU1RaWE5RMmdTZFZ2SnAxVFltWDhhYTJ2WlQxNS1lNU9rX29nVXVRMmEwdw?oc=5\" target=\"_blank\">Swedish police probe online networks after teenage girl killed in school sword attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-22T13:22:35+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-08-22T13:04:31+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -295,15 +313,6 @@
       "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOblRkaFZsa2c5ZW5wU1ZUV0Y1SXBlZVVPRTE0YTV2aXY4c2JGVUNJMHo2cTFkUVVBSi01TWRlS1JpdWk4b1o4dVJrQ2N6dURlTDg2NEZZczljY3U0Ul9FMHpnRlEteldCT1dCYm9tb2JyNzZWbFliWFl2VGdfWGg5WEFHcEN6SlpaVzZvZDluelp0VVowYm44RjBTZmhaXzdXRkNCSG51ZGF5TGY1QkRKM3ZleVRVUkt4NTZiQjVwT0U3Yk5VMmdB?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOblRkaFZsa2c5ZW5wU1ZUV0Y1SXBlZVVPRTE0YTV2aXY4c2JGVUNJMHo2cTFkUVVBSi01TWRlS1JpdWk4b1o4dVJrQ2N6dURlTDg2NEZZczljY3U0Ul9FMHpnRlEteldCT1dCYm9tb2JyNzZWbFliWFl2VGdfWGg5WEFHcEN6SlpaVzZvZDluelp0VVowYm44RjBTZmhaXzdXRkNCSG51ZGF5TGY1QkRKM3ZleVRVUkt4NTZiQjVwT0U3Yk5VMmdB?oc=5\" target=\"_blank\">Imran Khan's party seeks contempt action over jailed leader's hospital move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-22T08:02:28+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "South Korea ship to test Arctic commercial route amid Western concerns - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOY3h3N3U3TVFHR3drWTl1RDEzQlhJOFR5dVpfQjFGcGNLZjJuNTl6SjQ5V3BYUTRvYWhWZk5YandYWnp0RUUxX2Z4V21zbmxadWFWQWd1R1Vqa3BzdmRocFMzTnRJMFBaZWt6Y2JJS0l1OHE1V3Y3TDV6N2F6d25paERCQnJOZkRQNzVTU3VMY2ZKdmNTMlNEeFZHb05rVnFDMWlkMWQwUDhPZXdqRUNyNW5PUUp0Zw?oc=5\" target=\"_blank\">South Korea ship to test Arctic commercial route amid Western concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-22T06:47:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -655,15 +664,6 @@
       "link": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
       "summary": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
       "published": "2026-08-21T12:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Crypto is still in ‘winter’ price-wise but it’s an ‘institutional summer,’ STS Digital CEO says",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-crypto-is-still-in-winter-price-wise-but-an-institutional-summer-sts-digital-ceo-says-412454",
-      "summary": "STS Digital CEO Maxime Seiler says token prices have lagged institutional adoption as bitcoin futures basis converges toward risk-free rates.",
-      "published": "2026-08-21T11:58:06+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
