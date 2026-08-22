@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-08-21T23:30:51.575057+00:00",
-  "item_count": 144,
+  "updated_at": "2026-08-22T01:35:56.490179+00:00",
+  "item_count": 152,
   "failures": [
-    {
-      "source": "The Block",
-      "feed_url": "https://www.theblock.co/rss.xml",
-      "error": "<unknown>:26:113: not well-formed (invalid token)"
-    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -14,6 +9,24 @@
     }
   ],
   "items": [
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5\" target=\"_blank\">Russian 'double-tap' strike on shopping centre in Ukraine kills 16 and wounds 130</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T23:57:21+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Trump's space transportation policy calls for new spaceport on federal land",
+      "link": "https://arstechnica.com/space/2026/08/trump-admin-calls-for-more-spaceports-to-handle-surge-in-launches/",
+      "summary": "\"We probably need another site that's capable of heavy and super heavy launch capability.\"",
+      "published": "2026-08-21T23:32:17+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
@@ -60,15 +73,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "One killed, three injured when man attacks Swedish school with sword - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYld0b2RsdVRvRlhCVVpCRWJVYkpTeTY3SlFmcWJsSC1majhPVWFXRVAtMDdsTHJMT0FxY2RKMTFxRmpCRkxTTTFZMGI5RDctTmROWmplNDFBY0FVRzVMc1lEMnlCN0VjcE13anpXR0RfNDJkaVIzYUdQMWRnTWlGM3dwT01KNm9HcmlZYmI2ZnYwbzR3Wi1fSnQtM1VlYlRwQVk5Z2prSEEtWGo4UmhNaEhjNmlnSmVF?oc=5\" target=\"_blank\">One killed, three injured when man attacks Swedish school with sword</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-21T22:21:44+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Crypto advocates join in suing Illinois over digital asset tax",
@@ -93,6 +97,24 @@
       "link": "https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization",
       "summary": "<p>What was a submerged reef a year ago is now a 1,500 acre artificial island with a large runway under construction, as China's militarization of the South China Sea accelerates.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/chinas-massive-new-artificial-island-in-the-south-china-sea-emerges-primed-for-militarization\">China’s Massive New Artificial Island In The South China Sea Emerges, Primed For Militarization</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-21T22:03:14+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US Army Secretary Driscoll is expected to step down by year's end, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNblVNM2JWT0l4cUVHSzdxOHRqaDg2QlEzaFh2V0FkQmdobHNQeHgwZUx0M2JrOFN4Rm9ia1ZlS0g3Y2VoNGFtbVlpaXlNczktaHRwM2NCZk9jU190SkFCZWJaUGRwLXdZUkdOeEpxTzJsd1BsUGlzR0xsZFBEVEtZOVI2T2d4OW9HRE9ZcU9ZUTB2QjFaWVdyUHV3NExhaUx6NVQxTllkZHdCeUVPWUdIdXVjaWxWUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNblVNM2JWT0l4cUVHSzdxOHRqaDg2QlEzaFh2V0FkQmdobHNQeHgwZUx0M2JrOFN4Rm9ia1ZlS0g3Y2VoNGFtbVlpaXlNczktaHRwM2NCZk9jU190SkFCZWJaUGRwLXdZUkdOeEpxTzJsd1BsUGlzR0xsZFBEVEtZOVI2T2d4OW9HRE9ZcU9ZUTB2QjFaWVdyUHV3NExhaUx6NVQxTllkZHdCeUVPWUdIdXVjaWxWUQ?oc=5\" target=\"_blank\">US Army Secretary Driscoll is expected to step down by year's end, WSJ reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T21:39:22+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Grayscale moves closer to launching first Zcash ETF in US with fresh amended SEC filing",
+      "link": "https://www.theblock.co/news/regulation/2026-08-21-grayscale-moves-closer-launching-first-zcash-etf-in-us-sec-amended-filing-412517",
+      "summary": "Grayscale is inching closer to launching its Zcash ETF, filing another amendment with the Securities and Exchange Commission on Friday.",
+      "published": "2026-08-21T21:34:53+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -240,15 +262,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Russian 'double-tap' strike on shopping centre in Ukraine kills 15 and wounds 130 - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOME1nc2ZfV3l1LXlTQ29EZlNTd3drS1ZwNHBnbTdKd3VmVG5ZYkVpWngxV1BNQWFWY3VEMk8tVUVSX215cEgwV0ZRejFmR05LalNab3dkLXNwMTVkSmxDd3hlYjRGMkVZRHBlS1lQbU15R0hCQ3lvWHNpSW5QbUNvSmRVWnZhSVlYYW5IWUJCZGFTckZTdlVDNE9Wb3JsWkFvTHRkNmVscnNFUQ?oc=5\" target=\"_blank\">Russian 'double-tap' strike on shopping centre in Ukraine kills 15 and wounds 130</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-21T19:15:30+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Former JPMorgan exec takes on Social Security advisory role",
@@ -303,6 +316,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "BounceBit to sunset blockchain, migrate to BNB Chain after $3 million exploit",
+      "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
+      "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
+      "published": "2026-08-21T17:28:34+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
+      "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
+      "published": "2026-08-21T17:24:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Taiwan proposes record $35 billion defense budget",
@@ -310,6 +341,15 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/taiwan-proposes-record-35-billion-defense-budget/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2023/09/230918_taiwan_f16s_GettyImages-1249302776-scaled-e1695069880314-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The new budget proposal will have to be approved by the opposition-controlled legislature.</p>",
       "published": "2026-08-21T17:06:33+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "NATO members discuss Strait of Hormuz options without alliance involvement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC1YSDVDa3NjOU9ndVc5Z2ZkNVp3Vjliay1ObVFfcUw3UGYtdFU0ZkpjVTkzNWVjQnN0dzNVaGMzUnFOeG04TkZFd21kN3FCRkVrNG9pdzg4VWQ4SHU1YkhBRTVJeF9xaFJTUlM1UnRBUVFYVHNjdk9uc1lkSF95OG5ZWTNWbkYtNVZCem9xWFdTTnBxc014Z0JTRktydjZ6TTY5MnBlcE40ZGhGUzQ4WngteHd4dzE0Y0JhcjNGaGhsS2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNeC1YSDVDa3NjOU9ndVc5Z2ZkNVp3Vjliay1ObVFfcUw3UGYtdFU0ZkpjVTkzNWVjQnN0dzNVaGMzUnFOeG04TkZFd21kN3FCRkVrNG9pdzg4VWQ4SHU1YkhBRTVJeF9xaFJTUlM1UnRBUVFYVHNjdk9uc1lkSF95OG5ZWTNWbkYtNVZCem9xWFdTTnBxc014Z0JTRktydjZ6TTY5MnBlcE40ZGhGUzQ4WngteHd4dzE0Y0JhcjNGaGhsS2c?oc=5\" target=\"_blank\">NATO members discuss Strait of Hormuz options without alliance involvement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-21T16:51:52+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -357,13 +397,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Iran-linked oil tanker falls victim to Somali piracy surge - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlBmdExCTDN4OFl6N05iSGtIRlNWVWFvUFpjSVQwdVFWQkl1aTBrQVl2R1NJTmViMERuSXJFZ3NtRXVHZ1JTZ1RBMDIxZzFrN01kT212NlNhYkg3NThNdVZwbnota0ZWMHFEaXkycFBZTG0wUDNXTXpVOHZleUx3a3dMWjN6RGM3YWZMaTJfQV9sRjlobEJILWQwQXczYjdCZ19fbGlYZTVYQUJ2VGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPdlBmdExCTDN4OFl6N05iSGtIRlNWVWFvUFpjSVQwdVFWQkl1aTBrQVl2R1NJTmViMERuSXJFZ3NtRXVHZ1JTZ1RBMDIxZzFrN01kT212NlNhYkg3NThNdVZwbnota0ZWMHFEaXkycFBZTG0wUDNXTXpVOHZleUx3a3dMWjN6RGM3YWZMaTJfQV9sRjlobEJILWQwQXczYjdCZ19fbGlYZTVYQUJ2VGc?oc=5\" target=\"_blank\">Iran-linked oil tanker falls victim to Somali piracy surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-21T15:28:34+00:00",
-      "feed_type": "google_news_fallback"
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Strategy shares hit two-month high as STRC rebounds toward $100 alongside bitcoin",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-strategy-shares-hit-two-month-high-strc-rebounds-toward-100-alongside-bitcoin-412467",
+      "summary": "Amid a two-month puase on BTC buys, Strategy shares (MSTR) rallied alongside bitcoin as STRC continued its recovery toward its $100 target.",
+      "published": "2026-08-21T15:38:02+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -413,18 +453,18 @@
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -453,15 +493,6 @@
       "link": "https://edm.com/music-releases/blanke-debut-album-edge-of-the-world/",
       "summary": "<p>The producer's first full-length album arrives ahead of a North American co-headlining tour with Virtual Riot.</p>\n<p>The post <a href=\"https://edm.com/music-releases/blanke-debut-album-edge-of-the-world/\">Blanke Drops Long-Awaited Debut Album, &#8216;EDGE OF THE WORLD&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-21T13:29:25+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Waymo doubles spending on lobbying in robotaxi battle with Uber",
-      "link": "https://arstechnica.com/cars/2026/08/waymo-doubles-spending-on-lobbying-in-robotaxi-battle-with-uber/",
-      "summary": "Alphabet-owned company is seeking to persuade US regulators to clear a path for fully autonomous taxi services.",
-      "published": "2026-08-21T13:11:35+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -511,6 +542,24 @@
     },
     {
       "category": "Crypto",
+      "source": "The Block",
+      "title": "AI adoption in crypto crime rose 40% over the past year, TRM Labs says",
+      "link": "https://www.theblock.co/news/web3/2026-08-21-ai-adoption-in-crypto-crime-trm-412297",
+      "summary": "Crypto hackers are quickly picking up on AI developments to discover overlooked vulnerabilities and infiltrate IT firms, the report said.",
+      "published": "2026-08-21T12:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Crypto is still in ‘winter’ price-wise but it’s an ‘institutional summer,’ STS Digital CEO says",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-crypto-is-still-in-winter-price-wise-but-an-institutional-summer-sts-digital-ceo-says-412454",
+      "summary": "STS Digital CEO Maxime Seiler says token prices have lagged institutional adoption as bitcoin futures basis converges toward risk-free rates.",
+      "published": "2026-08-21T11:58:06+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
       "source": "CoinDesk",
       "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
       "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
@@ -538,11 +587,29 @@
     },
     {
       "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin surge toward $80K points to liquidity-driven momentum shift as ETF flows rebound: Bernstein",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-bitcoin-surge-80k-liquidity-driven-momentum-shift-etf-flows-rebound-bernstein-412443",
+      "summary": "U.S. spot bitcoin ETF flows have also rebounded, while Strategy's bitcoin holdings are now back above their average purchase price.",
+      "published": "2026-08-21T10:57:54+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
       "source": "CoinDesk",
       "title": "Nomura-backed Laser Digital wins Japan's first crypto approval in four years",
       "link": "https://www.coindesk.com/policy/2026/08/21/nomura-backed-laser-digital-wins-japan-s-first-crypto-approval-in-four-years",
       "summary": "",
       "published": "2026-08-21T10:38:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Upbit trading volume spikes 273% as South Korean investors re-enter crypto",
+      "link": "https://www.theblock.co/news/markets/2026-08-21-upbit-trading-volume-spikes-412435",
+      "summary": "One analyst said South Korean capital is slowly moving back to crypto, as investors are 'return-chasing' rather than 'asset-loyal.'",
+      "published": "2026-08-21T09:17:58+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
