@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T12:50:07.436765+00:00",
+  "updated_at": "2026-08-22T13:36:08.216407+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,6 +10,33 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
+      "summary": "",
+      "published": "2026-08-22T13:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Our 4-year-old son has $100,000 in his 529 account. Is a bull market a bad time to buy him stocks instead?",
+      "link": "https://www.marketwatch.com/story/our-4-year-old-son-has-100-000-in-his-529-account-should-we-buy-him-stocks-instead-3ca745b2?mod=mw_rss_topstories",
+      "summary": "“I’d love for our son to be able to attend college without needing to take out student loans.”",
+      "published": "2026-08-22T13:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why an announcement from the Treasury sparked a rally in gold and bitcoin this week",
+      "link": "https://www.marketwatch.com/story/why-an-announcement-from-the-treasury-sparked-a-rally-in-gold-and-bitcoin-this-week-d9d5972b?mod=mw_rss_topstories",
+      "summary": "Cryptocurrencies and precious metals shot higher, while the U.S. dollar weakened, after the Treasury Department said it planned to double its bond buybacks.",
+      "published": "2026-08-22T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Move over, credit cards: Social-media stars are tapping magic wands to buy things",
@@ -19,9 +46,18 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5\" target=\"_blank\">Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-22T12:07:49+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
-      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto week in 5 stories",
+      "title": "Bitcoin and Ether bears get decimated amid 'squeeze-led' rally and Musk's X wants to pay creators in stablecoins: Crypto's week in 5 stories",
       "link": "https://www.coindesk.com/business/2026/08/22/bitcoin-and-ether-bears-get-decimated-amid-squeeze-led-rally-and-musk-s-x-wants-to-pay-creators-in-stablecoins-crypto-week-in-5-stories",
       "summary": "",
       "published": "2026-08-22T12:00:00+00:00",
@@ -97,33 +133,6 @@
       "link": "https://www.marketwatch.com/story/a-massive-corporate-welfare-program-is-underway-and-consumers-want-a-bigger-cut-of-it-0ff06d67?mod=mw_rss_topstories",
       "summary": "Tariff refunds have been flowing back to companies since President Donald Trump’s levies were rejected by the Supreme Court.",
       "published": "2026-08-22T11:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTHJKQkxBdVZTZUdMeW9KTWFkbFYtOUMtUTVwalc5UF9xb1FqalVlLVlfVlJPQnRMMG5WVUIyMkhsNW9rRThJemxTYUNIdU5wRXlfVWVwcHg3Ti1WLXhZUm5fbWFvdHBKTHJHUTlySTdQd2VMbHpyVkZzdDVXaFJneGNpeV9LLWxQN3AwOEktS3h0TFRrNzlQQ0ZyUHRrUDRwTTBPREkzOThuOG5WOXRiSENOWkN0cVp1?oc=5\" target=\"_blank\">Hit by Trump tariffs, Quebec loses appetite for quick separation from Canada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-22T10:46:18+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘She’s desperate’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "summary": "“She looked into COBRA, but the cost is absolutely ridiculous.”",
-      "published": "2026-08-22T10:16:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "This has been one of the most affordable U.S. cities to buy a home for the past 134 years",
-      "link": "https://www.marketwatch.com/story/this-has-been-one-of-the-most-affordable-u-s-cities-to-buy-a-home-for-the-past-134-years-0c52895a?mod=mw_rss_topstories",
-      "summary": "Home prices in America have changed dramatically over the last century — but the Midwest has remained a bastion of affordability through it all.",
-      "published": "2026-08-22T10:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -480,18 +489,18 @@
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
-      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
-      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
+      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
+      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
+      "summary": "There's about to be a big fight to secure access to space.",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -583,15 +592,6 @@
       "link": "https://www.theblock.co/news/markets/2026-08-21-crypto-is-still-in-winter-price-wise-but-an-institutional-summer-sts-digital-ceo-says-412454",
       "summary": "STS Digital CEO Maxime Seiler says token prices have lagged institutional adoption as bitcoin futures basis converges toward risk-free rates.",
       "published": "2026-08-21T11:58:06+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Analysts split on whether Bitcoin's surge past key levels signals a new bull run",
-      "link": "https://www.coindesk.com/markets/2026/08/21/analysts-split-on-whether-bitcoin-s-surge-past-key-levels-signals-a-new-bull-run",
-      "summary": "",
-      "published": "2026-08-21T11:31:30+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
