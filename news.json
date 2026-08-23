@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T12:50:51.973857+00:00",
+  "updated_at": "2026-08-23T13:36:12.729891+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,15 @@
     }
   ],
   "items": [
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Nvidia is the beating heart of the AI boom and the stock market — which sets up a big test",
+      "link": "https://www.marketwatch.com/story/nvidia-is-the-beating-heart-of-the-ai-boom-and-the-stock-market-which-sets-up-a-big-test-bed36f98?mod=mw_rss_topstories",
+      "summary": "Nvidia is due to report earnings on Wednesday, and “a very broad universe of companies” is tied to the themes that the chip giant represents.",
+      "published": "2026-08-23T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -205,15 +214,6 @@
       "link": "https://www.twz.com/sea/chinas-next-aircraft-carrier-is-taking-shape",
       "summary": "<p>China's fourth aircraft carrier, which could be nuclear-powered, is looking more and more like a real ship.</p>\n<p>The post <a href=\"https://www.twz.com/sea/chinas-next-aircraft-carrier-is-taking-shape\">China’s Next Aircraft Carrier Is Taking Shape</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-22T17:29:15+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I hold my mother-in-law’s power of attorney. I’m also her executor and trustee. Do I have too much power over her affairs?",
-      "link": "https://www.marketwatch.com/story/im-my-mother-in-laws-power-of-attorney-executor-and-trustee-do-i-hold-all-the-power-a11968a2?mod=mw_rss_topstories",
-      "summary": "“There is a lot of legal and financial power in my hands.”",
-      "published": "2026-08-22T17:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -606,9 +606,9 @@
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -1108,15 +1108,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Is the Trump-Tinubu Collaboration Working? - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjNVZPMXk0Q3JkbTk0d29WdzI2V2p3R0F6VDBFaHJ6WmcydjZ5RjkxV3AyelB6ZGVQOVNNTFBfMzY1MExERkNGaGdRRkZ3Unk0R25EMTNObmtQZkZJY0xHcTZkZVVqSDNUZ1RUdGxJdUNSNXBLSzh1cldB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBjNVZPMXk0Q3JkbTk0d29WdzI2V2p3R0F6VDBFaHJ6WmcydjZ5RjkxV3AyelB6ZGVQOVNNTFBfMzY1MExERkNGaGdRRkZ3Unk0R25EMTNObmtQZkZJY0xHcTZkZVVqSDNUZ1RUdGxJdUNSNXBLSzh1cldB?oc=5\" target=\"_blank\">Is the Trump-Tinubu Collaboration Working?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-18T12:06:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "Meta defends itself in $1.4t trial - Morning Brew",
@@ -1186,6 +1177,15 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3Zya2RwSXRKSlpUTnM2d19zWVhrQ1pvOEdVeWVaNEtWSE84aVpyQXZqZEZCdnhVbzVxSnNnVTJBTV8wOWY3QUJHcUdlNnozeDF0ZXJ3cFJ0Rnp5ZTFPUTN1Tnd6c1YyMnE0Q25INXU5YjNBaTlKRWF0YzU2RW1SdDRSb3hWZXplMUpMNThTV1N2TkRPM0c1YmgxRFpVT3huU19UUlFsR0I5QXRDcXpEMkFEc2VjYUVtajMzeA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3Zya2RwSXRKSlpUTnM2d19zWVhrQ1pvOEdVeWVaNEtWSE84aVpyQXZqZEZCdnhVbzVxSnNnVTJBTV8wOWY3QUJHcUdlNnozeDF0ZXJ3cFJ0Rnp5ZTFPUTN1Tnd6c1YyMnE0Q25INXU5YjNBaTlKRWF0YzU2RW1SdDRSb3hWZXplMUpMNThTV1N2TkRPM0c1YmgxRFpVT3huU19UUlFsR0I5QXRDcXpEMkFEc2VjYUVtajMzeA?oc=5\" target=\"_blank\">Boat Strikes in Ecuador: Is the U.S. Behind Attacks on Fishing Vessels?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-08-17T21:28:53+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5\" target=\"_blank\">Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-14T17:44:41+00:00",
       "feed_type": "google_news_fallback"
     },
     {
