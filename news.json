@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22T23:26:24.859846+00:00",
+  "updated_at": "2026-08-23T01:45:28.766307+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,15 @@
     }
   ],
   "items": [
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2026-08-22T22:27:33+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
@@ -88,15 +97,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxNdUlteHpodFpvY0RlTjBQVWdHWmFhTTAtU0VzVlRuY3hYRTA3NEFBSHcwN3pIR1ROYnBWVmFxWDVPTmVRcXZSaUM0YURHZHBmUDg0ekNFTDJ3NTd0S2NiR3loeDlXTlUzNzI1TjlKai1uNzh5TWRPeHJzd1UzNmM4TGRYLW1ET3ZnQ3hmeWNTNWF5ZVVReUtqTGFLdEtqVXZJWEw4RXk2TjE4YkFO?oc=5\" target=\"_blank\">Israel strikes southern Syria; Damascus condemns attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-22T18:51:50+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-08-22T17:54:01+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -615,9 +615,9 @@
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
+      "title": "The DOJ is investigating a16z. What does this mean for venture capital?",
+      "link": "https://techcrunch.com/podcast/the-doj-is-investigating-a16z-what-does-this-mean-for-venture-capital/",
+      "summary": "Andreessen Horowitz has two partners sitting on the boards of companies that now&#160;compete with each other: Ben Horowitz at Databricks and Martin Casado at&#160;Fivetran. Nothing too scandalous on the surface, except&#160;the Department of&#160;Justice&#160;has&#160;reportedly&#160;been investigating the arrangement&#160;for&#160;almost&#160;a&#160;year, dusting&#160;off a 112-year-old antitrust&#160;law&#160;that&#8217;s&#160;rarely used against VCs.&#160; Board conflicts&#160;aren&#8217;t&#160;exactly new, and these companies&#160;weren&#8217;t&#160;necessarily direct competitors when a16z first invested [&#8230;]",
       "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -754,6 +754,15 @@
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmhfT1JsWDFkUWJvNlgzOUpfREN5ejNpR0RfR2EwQW1QZkszOUZiZ2N1NEZxZlpxWDd0clJYczVpM2lDZUM4OHVHVTBweTZRTGpWaDNtakFoNjh1Q1F1bEVUOVAwcm4yWGZWektYcEJnc29MN042d3ZoY1ZaZU1IZ3ZqeVVLUDAwUFJR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmhfT1JsWDFkUWJvNlgzOUpfREN5ejNpR0RfR2EwQW1QZkszOUZiZ2N1NEZxZlpxWDd0clJYczVpM2lDZUM4OHVHVTBweTZRTGpWaDNtakFoNjh1Q1F1bEVUOVAwcm4yWGZWektYcEJnc29MN042d3ZoY1ZaZU1IZ3ZqeVVLUDAwUFJR?oc=5\" target=\"_blank\">Walmart reports slowest sales growth in 6 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-21T05:32:22+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "'GTA VI' hackers threaten a nightmare scenario - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFJZUTkyYWZTRVhSWTluM1IyeTBVWTA3MHR1NG81OFlYZFVFbUF1c0kxT2Q5ckZ5dmZFRmNLSmlTT1FvU1c2YmhoclZhVElMMGtPOTlIcmtmbzF6OUtrZ0Z5ZnZnUUlwU1psRDB3V0E4RDJ1aGQ1N2lHcFBQUDNQOFgzdXl0R0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPcFJZUTkyYWZTRVhSWTluM1IyeTBVWTA3MHR1NG81OFlYZFVFbUF1c0kxT2Q5ckZ5dmZFRmNLSmlTT1FvU1c2YmhoclZhVElMMGtPOTlIcmtmbzF6OUtrZ0Z5ZnZnUUlwU1psRDB3V0E4RDJ1aGQ1N2lHcFBQUDNQOFgzdXl0R0E?oc=5\" target=\"_blank\">'GTA VI' hackers threaten a nightmare scenario</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-21T05:02:21+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1001,15 +1010,6 @@
     },
     {
       "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Bond selloff pushes yields to 19-year high - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFsbllha2Z0U3kwSFFZVndYTkl3VW5IeVJvdDFqdTZrT1RnMkFPSHl1a1lMd0FXNXc5V3dUUS1UakdGOWxiUGJfdGVmdjh2bzdBVUIwVnFLZVRPN1JHZDBzU0hWTml2Zmp4bEpZV2VMVU9scXp5SGFRR3djUy1yM1pENWk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVFFsbllha2Z0U3kwSFFZVndYTkl3VW5IeVJvdDFqdTZrT1RnMkFPSHl1a1lMd0FXNXc5V3dUUS1UakdGOWxiUGJfdGVmdjh2bzdBVUIwVnFLZVRPN1JHZDBzU0hWTml2Zmp4bEpZV2VMVU9scXp5SGFRR3djUy1yM1pENWk?oc=5\" target=\"_blank\">Bond selloff pushes yields to 19-year high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-20T00:48:17+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "Why Bond Yields Are Rising—and Might Keep Heading Higher - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUnd0VVQwLU9qTmUzSzdhZjNJaDdscE1KbUpHUWVSNTVQQW4yUFRDVTkyMDBwSlFtZEdTbG9uYjZlMHU1enBTZUdyRHdENTcwNzJVVGROd2ZlU0k5ei1SNWduei1sTVRzUEtOMFFsc0JLNm5KaXJ2UGpDQ1NsMWZOd1FzN1ZmY2FOVkpwV3ZZdG5tNUU?oc=5",
@@ -1099,6 +1099,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Disney and ABC filed a First Amendment lawsuit against the FCC - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1lwemlBQkxoQms3YlNTMk5RVy1UMUVRNlgtd21CLU5tVU5rUnprY3NhcGhOX2JDTElkYWdjczE3enZXMEEzaDRUWE9nZXJTOXZtdHlMckVZLUM2MWdjTHV0bmh5akxaTVh5em1mTHJYUV8tZFBCUTNsSF9oUjF2V1VneGxJMUJCNVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQb1lwemlBQkxoQms3YlNTMk5RVy1UMUVRNlgtd21CLU5tVU5rUnprY3NhcGhOX2JDTElkYWdjczE3enZXMEEzaDRUWE9nZXJTOXZtdHlMckVZLUM2MWdjTHV0bmh5akxaTVh5em1mTHJYUV8tZFBCUTNsSF9oUjF2V1VneGxJMUJCNVE?oc=5\" target=\"_blank\">Disney and ABC filed a First Amendment lawsuit against the FCC</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-19T07:47:07+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Managed Instability: Why the Wars Against Iran and Ukraine Can Go On and On and On…",
@@ -1115,15 +1124,6 @@
       "summary": "Congress must lead to compete with Beijing.",
       "published": "2026-08-19T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "The next AI frontier: Why model strategy has become the differentiator - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1anJzdlJkUFJzclJ6OG13TDVDbWtiWTRDSndDalNRVVhvTEthZjJLRmdZc3h0YVZ4THBnc1hfNE9wU3VEWG5CYjJ6OGdiUTFfR084Wk16S3R0RjQyQkkzRw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTFB1anJzdlJkUFJzclJ6OG13TDVDbWtiWTRDSndDalNRVVhvTEthZjJLRmdZc3h0YVZ4THBnc1hfNE9wU3VEWG5CYjJ6OGdiUTFfR084Wk16S3R0RjQyQkkzRw?oc=5\" target=\"_blank\">The next AI frontier: Why model strategy has become the differentiator</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-18T22:07:33+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -1326,15 +1326,6 @@
     {
       "category": "World News & Politics",
       "source": "AP Politics",
-      "title": "Many Nevada candidates are fined over transparency on campaign funds. Few pay in full. - AP News",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcGJSLWNSdWlDbmNxM290UnJMYWJ6SEkyR3B5LTk1QWNfOURSRmNpRmU3RTNNNTdfa1ZVRXJ6U0JCNmVkTXJTeGlUZ1ZkQWJSTC1uQnhuNGFvQTF2elBKMU1xS2QxNG90X1kwYV9DQldEbVQ1Wl9tcWtfc2E2NTJCRVYyZ21BQ0cyRkNhNDBMcjNpUWdPMmFNbkpMQUx2dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxOcGJSLWNSdWlDbmNxM290UnJMYWJ6SEkyR3B5LTk1QWNfOURSRmNpRmU3RTNNNTdfa1ZVRXJ6U0JCNmVkTXJTeGlUZ1ZkQWJSTC1uQnhuNGFvQTF2elBKMU1xS2QxNG90X1kwYV9DQldEbVQ1Wl9tcWtfc2E2NTJCRVYyZ21BQ0cyRkNhNDBMcjNpUWdPMmFNbkpMQUx2dw?oc=5\" target=\"_blank\">Many Nevada candidates are fined over transparency on campaign funds. Few pay in full.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-02-11T08:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
       "title": "PHOTO COLLECTION: Pam Bondi Swearing In - AP News",
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
@@ -1366,6 +1357,15 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2024-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2023-09-13T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
