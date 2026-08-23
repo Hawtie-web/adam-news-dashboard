@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23T14:28:59.079133+00:00",
+  "updated_at": "2026-08-23T15:27:51.324394+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,33 @@
     }
   ],
   "items": [
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Is it legal to train AI models on copyrighted books? It’s complicated",
+      "link": "https://techcrunch.com/2026/08/23/is-it-legal-to-train-ai-models-on-copyrighted-books-its-complicated/",
+      "summary": "Most published authors have, without their knowledge or consent, contributed to the development of the same AI tools that threaten to undermine their livelihoods. That seems illegal, right?",
+      "published": "2026-08-23T15:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Crypto card spending tops $1 billion as stablecoins move into everyday purchases",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-card-spending-tops-usd1-billion-as-stablecoins-move-into-everyday-purchases",
+      "summary": "",
+      "published": "2026-08-23T15:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Due to need for 'absolute success,' China delays critical Moon launch to 2027",
+      "link": "https://arstechnica.com/space/2026/08/due-to-need-for-absolute-success-china-delays-critical-moon-launch-to-2027/",
+      "summary": "\"The Chang’e 7 mission does not meet the conditions for launch.\"",
+      "published": "2026-08-23T14:30:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
@@ -21,11 +48,29 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
+      "title": "Iran says new sanctions threatened by 'desperate' US will fail - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOakhmOU5UanRITUhNTk4zZUU4c0F6allnbnZWMC1mY1FsamNsYkRKVFpnbW5DR3hNdHItZm53ZzBNM01GRHB1M0xrYW1BTDBScUhQeTZJb0VnbVQzX1BoeElyNGJURG9DWEhnaEhINERMZjBRd3NpQ2g0d1EwWm1oM2dqWXRxbDVxY1ZPemxPX3F5alJwMmtzR081cjFZNzMtVzZrYlowMHBlblE3UGoyRGJnZG1hQQ?oc=5\" target=\"_blank\">Iran says new sanctions threatened by 'desperate' US will fail</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-23T13:29:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
       "title": "Iran says Pakistan's army chief to visit Tehran on Monday - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOb1l4dmU1TFpSU2FINWVIZW5YLTMxaEhxY2hJa0tYZldGeG9Sa2loOFlfZEp5RkFDZ1JVMWQ5Y0VMY3hkeUlxZnh6QzVsTUdEcmJSckU4SGhoUURLN3M4Qi1hbkdXYXk1YWdzRUlKLU5SUmo1bC1tcE5pMzE3bkRYQmN0SW90YXNNQnNxTWZuWWwyM0x5NnRReGFiV1V3b1VOMElSVm5NVE0?oc=5\" target=\"_blank\">Iran says Pakistan's army chief to visit Tehran on Monday</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-23T13:13:07+00:00",
       "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Crypto’s next billion users might be AI agents, and they’re paying with stablecoins",
+      "link": "https://www.coindesk.com/business/2026/08/23/crypto-s-next-billion-users-might-be-ai-agents-and-they-re-paying-with-stablecoins",
+      "summary": "",
+      "published": "2026-08-23T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Investing & Markets",
@@ -143,15 +188,6 @@
       "summary": "<p>The Navy's newest extreme-range air-to-air missile is intended to be used by the F/A-18E/F Super Hornet, F-35C JSF and the upcoming F/A-XX.</p>\n<p>The post <a href=\"https://www.twz.com/air/aim-424-malice-very-long-range-air-to-air-missile-emerges-from-the-shadows\">AIM-424 &#8220;Malice&#8221; Very Long-Range Air-To-Air Missile Emerges From The Shadows (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-23T04:50:49+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Robots can outrun humans, but can they plug in a cable? - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxPM1BqLTJsOE1xcHpZa3RxVTR1Tno5azlWcXo0QUFVRmhQUm5Cb2hVOWhDc1ZOekpxMmtVU0xZVWJDcWhGRER2QmhBUV91bUVMSERvNGEzOTBsbGxIMDY0bjNmXy1pUE51RkgtZzFtNG51WmctMkVLV2lYLS1ZbWYtblpVSVk1OFhvUmNPcVhmb3l5eFpQZUswNXZEOFpmbkZC?oc=5\" target=\"_blank\">Robots can outrun humans, but can they plug in a cable?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-23T04:50:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -352,15 +388,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "How a Treasury buyback tweak helped bitcoin surge 25% to nearly $80,000 in days",
-      "link": "https://www.coindesk.com/markets/2026/08/22/how-a-treasury-buyback-tweak-helped-bitcoin-surge-nearly-25-in-days",
-      "summary": "",
-      "published": "2026-08-22T05:05:13+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Trump's space transportation policy calls for new spaceport on federal land",
@@ -412,15 +439,6 @@
       "link": "https://techcrunch.com/2026/08/21/nvidia-partners-with-data-center-developer-cloverleaf/",
       "summary": "Nvidia continues to pour money into data center development — just as AI data centers bring lots of money into Nvidia.",
       "published": "2026-08-21T22:37:38+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto advocates join in suing Illinois over digital asset tax",
-      "link": "https://www.coindesk.com/policy/2026/08/21/crypto-advocates-join-in-suing-illinois-over-digital-asset-tax",
-      "summary": "",
-      "published": "2026-08-21T22:10:28+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -493,15 +511,6 @@
       "link": "https://arstechnica.com/gadgets/2026/08/motorolas-grapheneos-phones-will-launch-in-2027-priced-higher-than-pixels/",
       "summary": "The private Android-based OS will expand beyond Pixels next year.",
       "published": "2026-08-21T19:32:29+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Lawsuit demands Logitech hand tariff refunds over to customers",
-      "link": "https://arstechnica.com/tech-policy/2026/08/lawsuit-demands-logitech-hand-tariff-refunds-over-to-customers/",
-      "summary": "Logitech increased prices by up to 25 percent last year.",
-      "published": "2026-08-21T19:04:41+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -610,15 +619,6 @@
       "link": "https://edm.com/music-releases/fresh-picks-frost-children-moceans-borne-more/",
       "summary": "<p>Every Friday, EDM.com’s ‘Fresh Picks’ series showcases bold new electronic music from the scene’s most promising DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/fresh-picks-frost-children-moceans-borne-more/\">EDM.com Fresh Picks: Frost Children, Moceans, borne &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-21T15:05:24+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Starcloud raises $250 million for orbital data centers as launch options dry up",
-      "link": "https://techcrunch.com/2026/08/21/starcloud-raises-200-million-for-orbital-data-centers-as-launch-options-dry-up/",
-      "summary": "There's about to be a big fight to secure access to space.",
-      "published": "2026-08-21T14:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1092,6 +1092,15 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
+      "title": "Iran’s War With Israel and the United States | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQMWduRExjZXhMUjFuYjV4Zzc0LS11OHVKUEhXSlpUNUdFMm9MVGlJeFd5eGh1ZWpEWWhFNEdJX0tOVTlJbnZ5NmpBQ3dYeGNpSTBOSWtISUduak5WSHhfQUhQcHBKbVpLdG1IVi1ySWVGd05NM18yektrem1TM3ZvaV9xVjR2eC04cE9RZ3FZajNCZWFHNzBaS0hhSS02dw?oc=5\" target=\"_blank\">Iran’s War With Israel and the United States | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-19T00:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
       "title": "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tuVTFlM2pEZjBrN2hWcjY0NE1jQnhobHdYQVVTVVZOSFh4Y19ybW4xdjdSSGpJcUtWS2xrSmhDREQ1X19zNEdYbVg2RmRwN2dwVU16RzMzTmJoRVdtWkRqWGQxd002SWIzYWQxamZiOVJCU0VPWVFnYTNjVzFvZUdzb0NZNlBnOG5oVDZrd3FaV3JvRi1zZ0FYR24wd1pERjBueUVLTjE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tuVTFlM2pEZjBrN2hWcjY0NE1jQnhobHdYQVVTVVZOSFh4Y19ybW4xdjdSSGpJcUtWS2xrSmhDREQ1X19zNEdYbVg2RmRwN2dwVU16RzMzTmJoRVdtWkRqWGQxd002SWIzYWQxamZiOVJCU0VPWVFnYTNjVzFvZUdzb0NZNlBnOG5oVDZrd3FaV3JvRi1zZ0FYR24wd1pERjBueUVLTjE?oc=5\" target=\"_blank\">Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
@@ -1128,9 +1137,9 @@
     {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
-      "title": "The End of the American Middle East",
-      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
-      "summary": "Iran and the last gasp of a failed order.",
+      "title": "How Alliances Survive",
+      "link": "https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi",
+      "summary": "The case against pessimism and the path to a new allied order.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -1155,18 +1164,18 @@
     {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
-      "title": "AI and the New Age of Bioweapons",
-      "link": "https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall",
-      "summary": "Preparing for a world of synthetic pathogens.",
+      "title": "The End of the American Middle East",
+      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
+      "summary": "Iran and the last gasp of a failed order.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
-      "title": "The Abandoned Order",
-      "link": "https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard",
-      "summary": "Learning to live in a post-American world.",
+      "title": "AI and the New Age of Bioweapons",
+      "link": "https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall",
+      "summary": "Preparing for a world of synthetic pathogens.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -1177,15 +1186,6 @@
       "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3Zya2RwSXRKSlpUTnM2d19zWVhrQ1pvOEdVeWVaNEtWSE84aVpyQXZqZEZCdnhVbzVxSnNnVTJBTV8wOWY3QUJHcUdlNnozeDF0ZXJ3cFJ0Rnp5ZTFPUTN1Tnd6c1YyMnE0Q25INXU5YjNBaTlKRWF0YzU2RW1SdDRSb3hWZXplMUpMNThTV1N2TkRPM0c1YmgxRFpVT3huU19UUlFsR0I5QXRDcXpEMkFEc2VjYUVtajMzeA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPT3Zya2RwSXRKSlpUTnM2d19zWVhrQ1pvOEdVeWVaNEtWSE84aVpyQXZqZEZCdnhVbzVxSnNnVTJBTV8wOWY3QUJHcUdlNnozeDF0ZXJ3cFJ0Rnp5ZTFPUTN1Tnd6c1YyMnE0Q25INXU5YjNBaTlKRWF0YzU2RW1SdDRSb3hWZXplMUpMNThTV1N2TkRPM0c1YmgxRFpVT3huU19UUlFsR0I5QXRDcXpEMkFEc2VjYUVtajMzeA?oc=5\" target=\"_blank\">Boat Strikes in Ecuador: Is the U.S. Behind Attacks on Fishing Vessels?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-08-17T21:28:53+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5\" target=\"_blank\">Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-14T17:44:41+00:00",
       "feed_type": "google_news_fallback"
     },
     {
