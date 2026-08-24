@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24T03:09:32.593611+00:00",
+  "updated_at": "2026-08-24T04:51:55.230883+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,42 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Stablecoin neobank Fasset lands $1 billion valuation as SBI backs its payments push",
+      "link": "https://www.coindesk.com/business/2026/08/22/stablecoin-neobank-fasset-lands-usd1-billion-valuation-as-sbi-backs-its-payments-push",
+      "summary": "",
+      "published": "2026-08-24T04:45:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Crypto holds big weekly rally as Warsh’s Jackson Hole debut comes into focus",
+      "link": "https://www.coindesk.com/markets/2026/08/24/crypto-holds-big-weekly-rally-as-warsh-s-jackson-hole-debut-comes-into-focus",
+      "summary": "",
+      "published": "2026-08-24T04:41:28+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The End of Thailand’s Long Stalemate?",
+      "link": "https://www.foreignaffairs.com/thailand/end-thailands-long-stalemate",
+      "summary": "Conservatives finally won and took over the state.",
+      "published": "2026-08-24T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin records largest weekly dollar gain in history; Strive CEO predicts ‘strongest’ cycle ever",
+      "link": "https://www.theblock.co/news/markets/2026-08-23-bitcoin-record-weekly-dollar-gain-412547",
+      "summary": "Strive CEO said the next bitcoin cycle will be the strongest ever, citing its strong performance against both the dollar and gold.",
+      "published": "2026-08-24T03:52:31+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -21,28 +57,46 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Shares flat in Asia before Iran sanctions news, Nvidia results - Reuters",
+      "title": "Man suspected of murdering five in Oregon found dead - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFhJQnlfZnhZbTFOdm9YMFhZRnQwNWRSSU1xSFlLZGR0NGpIcldaYVQzTGdfbm9XQkQwR1F1Wng1Slk5aDExRVFBRHNKUEdrZGlmZGJ5NzRocXFZQ3NQY1VsWEFVa0JBWnYwMUtIWWZzMGZ2NlVkQlh2OWNZUnJLaFRIYjRfcUpSMzliQ0VqeTFBWUhDSEpFdlNpbWQzcG81UWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOcFhJQnlfZnhZbTFOdm9YMFhZRnQwNWRSSU1xSFlLZGR0NGpIcldaYVQzTGdfbm9XQkQwR1F1Wng1Slk5aDExRVFBRHNKUEdrZGlmZGJ5NzRocXFZQ3NQY1VsWEFVa0JBWnYwMUtIWWZzMGZ2NlVkQlh2OWNZUnJLaFRIYjRfcUpSMzliQ0VqeTFBWUhDSEpFdlNpbWQzcG81UWc?oc=5\" target=\"_blank\">Man suspected of murdering five in Oregon found dead</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-24T02:03:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Shares dither, oil slips in wait for US details of Iran sanctions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5\" target=\"_blank\">Shares flat in Asia before Iran sanctions news, Nvidia results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMG83ZmMxSkVxZFI2eFdsTkhlblVtbE82OFd5SmxFekFOZmtQZEVLSzZOZU1tckZxd2QyOU9vYmRuWGhXeDIzVDhkQ1RaUF96T1hRZkg1SVRHWHAxcGVMTWxmMXBsSjVONURWaEFhMWp2dWdKM0piSGtyWVF1bkJ0YWFxWQ?oc=5\" target=\"_blank\">Shares dither, oil slips in wait for US details of Iran sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-24T00:49:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Samsung Electronics shares fall after shareholder return announcement - Reuters",
+      "title": "Samsung Electronics shares skid as record shareholder returns disappoint - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1FoeGxWWi1vYWUxU1dKa1lpYmZYQlFXRm53UjMzcWYyY1h1U3NSdG5ZcFlaWkNxb3JZdWx4bEUtS0loT2tqajd3X21HaUxMQTEwYnhKY3R1ZVdYNTFrVENwcWJhNExoMmkyUjQ3NU9lZG9NQmpiMkJoeG91YmZfR216MnlINEpwTE5vVGxtNGtCdlNDX1JPTURLRXQ1cU9iLXZjeE9Jd0ZiSjlCT1JJb3VJWlRPbHhSTHFmdE9HR2s2Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1FoeGxWWi1vYWUxU1dKa1lpYmZYQlFXRm53UjMzcWYyY1h1U3NSdG5ZcFlaWkNxb3JZdWx4bEUtS0loT2tqajd3X21HaUxMQTEwYnhKY3R1ZVdYNTFrVENwcWJhNExoMmkyUjQ3NU9lZG9NQmpiMkJoeG91YmZfR216MnlINEpwTE5vVGxtNGtCdlNDX1JPTURLRXQ1cU9iLXZjeE9Jd0ZiSjlCT1JJb3VJWlRPbHhSTHFmdE9HR2s2Zw?oc=5\" target=\"_blank\">Samsung Electronics shares fall after shareholder return announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPN1FoeGxWWi1vYWUxU1dKa1lpYmZYQlFXRm53UjMzcWYyY1h1U3NSdG5ZcFlaWkNxb3JZdWx4bEUtS0loT2tqajd3X21HaUxMQTEwYnhKY3R1ZVdYNTFrVENwcWJhNExoMmkyUjQ3NU9lZG9NQmpiMkJoeG91YmZfR216MnlINEpwTE5vVGxtNGtCdlNDX1JPTURLRXQ1cU9iLXZjeE9Jd0ZiSjlCT1JJb3VJWlRPbHhSTHFmdE9HR2s2Zw?oc=5\" target=\"_blank\">Samsung Electronics shares skid as record shareholder returns disappoint</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-24T00:18:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Oil falls ahead of US announcement on new Iran sanctions - Reuters",
+      "title": "Oil falls as US prepares to unveil new Iran sanctions - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5\" target=\"_blank\">Oil falls ahead of US announcement on new Iran sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxONkR4RDVXMEFvZ0x5NGhmcVVWVnU0ckNHdF9UZVp4Z05rM2pTRkppNWxTREowb0xEbVVudzlBXzVuc2FkcFQ0TjFoUUduN3hEZlFoVGo0UTVyOG40RHBDNU5FUG1zSFI5MnFlbWEzdDNiMmRoa05GUGFsREZzaWZObUY0T2NGRlNVcVRvZU1xb2I2WFI2bGRlV3lXUWxWZzJILTdaMzk4TTJHVDFaUWZkUmNRdF9CdmJTT0E?oc=5\" target=\"_blank\">Oil falls as US prepares to unveil new Iran sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-23T23:18:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVA3N0RmLUxielhCSXB5WE9MYU94X0h0dWNCZ0l2bzZMNkNIdkhEZy1xSDlpOTFpcWtBQ29SeURBR0NIQnRRem5EbExpTkI3ajZlaG1vazM4dFNoQlZ3WVd2OWtHb3RXZjYxXy1vTklDOXBZcktNTERTWTFWRlRnZTRDR0t1T2dJMVNnd1gzTVF4YkJwRWV4bzJnVE01VTVXVGdvV0h4WWJ4cXhsM3ItTXBuM0dfVjlFVmVzTGpyc1hpRURY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxOeVA3N0RmLUxielhCSXB5WE9MYU94X0h0dWNCZ0l2bzZMNkNIdkhEZy1xSDlpOTFpcWtBQ29SeURBR0NIQnRRem5EbExpTkI3ajZlaG1vazM4dFNoQlZ3WVd2OWtHb3RXZjYxXy1vTklDOXBZcktNTERTWTFWRlRnZTRDR0t1T2dJMVNnd1gzTVF4YkJwRWV4bzJnVE01VTVXVGdvV0h4WWJ4cXhsM3ItTXBuM0dfVjlFVmVzTGpyc1hpRURY?oc=5\" target=\"_blank\">Syria, Israel hold US-mediated talks to ease tensions, Syria news agency says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-23T23:12:32+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -82,15 +136,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Republicans see opportunity in progressives' primary wins while Democrats embrace debate - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW5NeEt5U3ZhMzVyQkl1Wi1SZjltMW1rTGhtMVU0SGsxeVIweWJPSlFxRzR3cEZhdUYtMkZJSWI3WTR4VHJ1Mmd2MzdYMl9SXzJtV0RjWVJ6YWE5Q1J5c3hQMklyTTB1cWlGdWp3T1hTekQ1bGVWX3UyOVpKdkNDUkpDeXhCZzZka2RfMEtjaEdheHBzWFVhZXZhZ1B3SlJBZjJxTzh1Tll2cmhHR294VEdFUlFmN2JoS2x6Vncycw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxQSW5NeEt5U3ZhMzVyQkl1Wi1SZjltMW1rTGhtMVU0SGsxeVIweWJPSlFxRzR3cEZhdUYtMkZJSWI3WTR4VHJ1Mmd2MzdYMl9SXzJtV0RjWVJ6YWE5Q1J5c3hQMklyTTB1cWlGdWp3T1hTekQ1bGVWX3UyOVpKdkNDUkpDeXhCZzZka2RfMEtjaEdheHBzWFVhZXZhZ1B3SlJBZjJxTzh1Tll2cmhHR294VEdFUlFmN2JoS2x6Vncycw?oc=5\" target=\"_blank\">Republicans see opportunity in progressives' primary wins while Democrats embrace debate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-23T20:01:29+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "My son does not work, yet pays $500 for Affordable Care Act health insurance. Is that fair?",
@@ -107,15 +152,6 @@
       "summary": "Linkdaze's smart digital calendar stands out for not putting its features behind a paywall, including an AI meal planner tool.",
       "published": "2026-08-23T19:14:08+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "French politician Glucksmann launches presidential bid amid fractured left - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjJacDNYWVJGekp2dEdlUEsySE5IRTlxRUkycG5iYXFzc1BNTWk0dXhzT211TXNvY0d5RW1MOFJmS2Rlejh1c0RFUFZEem9nb2RFWUU5VDYycHFXZy1LMjlfbHJPUXlCU3J2WXBTSFhNbkxtU0ZJeW93QjZ2cS04d0pteHFfOHZqU2FJWjhmVWt2MElwXzZlNlJCa01uSjNDZmU3ZlRlYVBpeC1xZjAzSVhCcEVQaEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNdjJacDNYWVJGekp2dEdlUEsySE5IRTlxRUkycG5iYXFzc1BNTWk0dXhzT211TXNvY0d5RW1MOFJmS2Rlejh1c0RFUFZEem9nb2RFWUU5VDYycHFXZy1LMjlfbHJPUXlCU3J2WXBTSFhNbkxtU0ZJeW93QjZ2cS04d0pteHFfOHZqU2FJWjhmVWt2MElwXzZlNlJCa01uSjNDZmU3ZlRlYVBpeC1xZjAzSVhCcEVQaEk?oc=5\" target=\"_blank\">French politician Glucksmann launches presidential bid amid fractured left</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-23T19:13:43+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -415,24 +451,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Tokenized stocks risk repeating Wall Street’s 1960s ‘paper crisis,’ Fairmint CEO says",
-      "link": "https://www.coindesk.com/tech/2026/08/22/tokenized-stocks-risk-repeating-wall-street-s-1960s-paper-crisis-fairmint-ceo-says",
-      "summary": "",
-      "published": "2026-08-22T14:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Kalshi off-limits in multiple states as prediction markets, CFTC team up for battle",
-      "link": "https://www.coindesk.com/news-analysis/2026/08/21/kalshi-off-limits-in-multiple-states-as-prediction-markets-cftc-team-up-for-battle",
-      "summary": "",
-      "published": "2026-08-22T13:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Putting mice into hibernation causes a major loss of synapses",
@@ -583,15 +601,6 @@
       "link": "https://www.theblock.co/news/ecosystems/2026-08-21-bouncebit-sunset-blockchain-migrate-bnb-chain-after-3-million-exploit-412485",
       "summary": "The attacker transferred approximately 286.5 million BB from nine wallets before block production was eventually halted.",
       "published": "2026-08-21T17:28:34+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "XRP leads broad altcoin rally as bitcoin’s biggest weekly gain in two years lifts crypto",
-      "link": "https://www.theblock.co/news/markets/2026-08-21-xrp-leads-altcoin-rally-bitcoin-biggest-weekly-gain-in-two-years-lifts-crypto-412483",
-      "summary": "Amid this week's crypto rally, HYPE is up nearly 40%, while other altcoins such as XRP, ZEC and LINK have risen over 30%.",
-      "published": "2026-08-21T17:24:02+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1127,6 +1136,15 @@
     },
     {
       "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The Top High-Dividend ETFs for Passive Income in 2026 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2lsZXl3V0hRSU01SEF6Ul85R1VSYU9NN0FVS0JPVjUzbi1EaUFqNHdBZWdEaUFYTEMxQzZQSFBORVdJQ0Y3M2pTaWt3eldGOV9wYlZkOWVrRlE0c1F0QkRCaS1GY3oxaXFsUFpKLVJUOHlMbmxKVW4wSms2aVhRYjJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2lsZXl3V0hRSU01SEF6Ul85R1VSYU9NN0FVS0JPVjUzbi1EaUFqNHdBZWdEaUFYTEMxQzZQSFBORVdJQ0Y3M2pTaWt3eldGOV9wYlZkOWVrRlE0c1F0QkRCaS1GY3oxaXFsUFpKLVJUOHlMbmxKVW4wSms2aVhRYjJR?oc=5\" target=\"_blank\">The Top High-Dividend ETFs for Passive Income in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-18T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "This movie is so bad, it became a box-office hit - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeV9relIyeDFseXZkZDhFMlNPMU9tYW53dDZGeFhpUkVubHdJMjlBcVBIVlFXM21WYlBiSURRa2hhbm1pY29PS281djV1bXV2Wjk5aUxTSV84XzdEWjN4d2VDRkVQMktFY0c3cU8xQWFoVDhHWG9nVS1Sc20yYVRQMUpubW5CbFJvZlNZ?oc=5",
@@ -1167,15 +1185,6 @@
       "title": "America’s Missing Military Revolution",
       "link": "https://www.foreignaffairs.com/united-states/americas-missing-military-revolution-doug-beck",
       "summary": "Why Washington still risks losing the tech race.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The End of the American Middle East",
-      "link": "https://www.foreignaffairs.com/united-states/end-american-middle-east-iran-marc-lynch",
-      "summary": "Iran and the last gasp of a failed order.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -1357,15 +1366,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2020-12-07T16:27:24+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Morningstar | Empowering Investor Success - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2012-10-14T03:17:21+00:00",
       "feed_type": "google_news_fallback"
     },
     {
