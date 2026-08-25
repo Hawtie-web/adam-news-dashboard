@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T04:45:07.475085+00:00",
+  "updated_at": "2026-08-25T05:36:37.275232+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,12 +10,39 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin tops $80,000, solana jumps 8% but rally now runs into overbought warning",
+      "link": "https://www.coindesk.com/markets/2026/08/25/bitcoin-tops-usd80-000-solana-jumps-8-but-rally-now-runs-into-overbought-warning",
+      "summary": "",
+      "published": "2026-08-25T05:25:11+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The New Right's Grand Strategy After Trump",
+      "link": "https://www.foreignaffairs.com/united-states/new-rights-grand-strategy-after-trump",
+      "summary": "Civilizationism would upend America's role in the world.",
+      "published": "2026-08-25T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Maximum Pressure on Iran Will Fail",
+      "link": "https://www.foreignaffairs.com/united-states/maximum-pressure-iran-will-fail",
+      "summary": "Trump's war has brought American strategy to a dead end.",
+      "published": "2026-08-25T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Gold rises to highest since mid-May as buying momentum builds - Reuters",
+      "title": "Gold retreats from three-month high as investors await US inflation data - Reuters",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5\" target=\"_blank\">Gold rises to highest since mid-May as buying momentum builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-25T02:10:00+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5\" target=\"_blank\">Gold retreats from three-month high as investors await US inflation data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T03:55:55+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -631,15 +658,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Standard Chartered becomes first bank to distribute Hong Kong dollar stablecoin",
-      "link": "https://www.coindesk.com/business/2026/08/24/standard-chartered-first-bank-to-distribute-anchorpoint-s-hong-kong-dollar-stablecoin",
-      "summary": "",
-      "published": "2026-08-24T11:36:55+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Get 84% off the SSL Native X-Echo plugin in this limited-time sale at Plugin Boutique",
@@ -1149,24 +1167,6 @@
       "title": "AI and the New Age of Bioweapons",
       "link": "https://www.foreignaffairs.com/united-states/ai-new-age-bioweapons-sherwood-randall",
       "summary": "Preparing for a world of synthetic pathogens.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The Abandoned Order",
-      "link": "https://www.foreignaffairs.com/united-states/abandoned-order-world-mark-leonard",
-      "summary": "Learning to live in a post-American world.",
-      "published": "2026-08-18T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "How Alliances Survive",
-      "link": "https://www.foreignaffairs.com/united-states/how-alliances-survive-campbell-doshi",
-      "summary": "The case against pessimism and the path to a new allied order.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
