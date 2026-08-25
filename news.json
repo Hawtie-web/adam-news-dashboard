@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T22:32:59.460658+00:00",
+  "updated_at": "2026-08-25T23:29:28.508456+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,51 @@
     }
   ],
   "items": [
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "summary": "“The property is very old and requires significant ongoing maintenance.”",
+      "published": "2026-08-25T23:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+      "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
+      "published": "2026-08-25T22:57:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGlCSnlHSWF1RnZEcDg1TmxuZlBxbnY4cWFyOHRLcktyMjRUSjRiQzF5aE02UWVVZUFPV0xZdHpXZ3RlRm5WYVNtLWh0T3NxNnFYVWpiejRXT0FxdDBEZi00RkpDaEUzY3MxV0o5aXJQZTRUUHptcHlNaVB4elk3dkhxVUs1RXg0eDhPNVd2NzctVlF2d2FpRkJuUzlTcTBlZDdpZzdGeTlQdUdfSTh2cnhsSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGlCSnlHSWF1RnZEcDg1TmxuZlBxbnY4cWFyOHRLcktyMjRUSjRiQzF5aE02UWVVZUFPV0xZdHpXZ3RlRm5WYVNtLWh0T3NxNnFYVWpiejRXT0FxdDBEZi00RkpDaEUzY3MxV0o5aXJQZTRUUHptcHlNaVB4elk3dkhxVUs1RXg0eDhPNVd2NzctVlF2d2FpRkJuUzlTcTBlZDdpZzdGeTlQdUdfSTh2cnhsSQ?oc=5\" target=\"_blank\">US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T22:48:27+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+      "published": "2026-08-25T22:45:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
+      "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
+      "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
+      "published": "2026-08-25T22:21:06+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
@@ -28,15 +73,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-08-25T21:50:31+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Zerohash back for second effort at OCC trust bank charter",
@@ -44,15 +80,6 @@
       "summary": "",
       "published": "2026-08-25T21:38:28+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGlCSnlHSWF1RnZEcDg1TmxuZlBxbnY4cWFyOHRLcktyMjRUSjRiQzF5aE02UWVVZUFPV0xZdHpXZ3RlRm5WYVNtLWh0T3NxNnFYVWpiejRXT0FxdDBEZi00RkpDaEUzY3MxV0o5aXJQZTRUUHptcHlNaVB4elk3dkhxVUs1RXg0eDhPNVd2NzctVlF2d2FpRkJuUzlTcTBlZDdpZzdGeTlQdUdfSTh2cnhsSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOdGlCSnlHSWF1RnZEcDg1TmxuZlBxbnY4cWFyOHRLcktyMjRUSjRiQzF5aE02UWVVZUFPV0xZdHpXZ3RlRm5WYVNtLWh0T3NxNnFYVWpiejRXT0FxdDBEZi00RkpDaEUzY3MxV0o5aXJQZTRUUHptcHlNaVB4elk3dkhxVUs1RXg0eDhPNVd2NzctVlF2d2FpRkJuUzlTcTBlZDdpZzdGeTlQdUdfSTh2cnhsSQ?oc=5\" target=\"_blank\">US voters favor Democratic Party on cost of living, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-25T21:32:19+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -147,15 +174,6 @@
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
-      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
-      "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
-      "published": "2026-08-25T21:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
       "title": "Callaway Golf’s apology for ad showing woman being shoved to the ground exposes a major industry blind spot",
       "link": "https://www.marketwatch.com/story/callaway-golfs-apology-for-ad-showing-woman-being-shoved-to-the-ground-exposes-a-major-industry-blind-spot-41101a13?mod=mw_rss_topstories",
       "summary": "The viral ad shows a male golfer pushing a female golfer to the ground. Since 2019, women and girls made up nearly 60% of net golfer growth.",
@@ -196,24 +214,6 @@
       "link": "https://www.marketwatch.com/story/spacex-to-build-musks-vision-for-a-spaceport-that-until-now-only-existed-in-science-fiction-f8482712?mod=mw_rss_topstories",
       "summary": "SpaceX says it will invest $100 billion to launch thousands of rockets from “Starbase, Louisiana,” with construction set to start in 2027.",
       "published": "2026-08-25T20:54:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Tax tips for TikTok stars, after judge says influencer can’t write off his Grammy tickets",
-      "link": "https://www.marketwatch.com/story/tax-tips-for-tiktok-stars-after-judge-says-influencer-cant-write-off-his-grammy-tickets-29c19139?mod=mw_rss_topstories",
-      "summary": "3 tax pitfalls for ‘influencers’ — and tips to avoid them that could help all taxpayers.",
-      "published": "2026-08-25T20:11:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Options traders are betting on the quietest Nvidia earnings reaction in years. It could be an opportunity for AI bulls.",
-      "link": "https://www.marketwatch.com/story/options-traders-are-betting-on-the-quietest-nvidia-earnings-reaction-in-years-it-could-be-an-opportunity-for-ai-bulls-91955793?mod=mw_rss_topstories",
-      "summary": "Nvidia’s quarterly earnings announcement has been a major stock-market event ever since the AI boom began in earnest with the introduction of ChatGPT in late 2022.",
-      "published": "2026-08-25T20:07:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -511,15 +511,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/08/25/european-allies-team-up-to-buy-polish-portable-anti-aircraft-systems/",
       "summary": "Poland, Norway, Lithuania and Latvia have signed a framework agreement to buy Piorun (Thunderbolt) man-portable air defense systems from Poland's PGZ.",
       "published": "2026-08-25T15:18:46+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "AI won’t replace radiologists, but it will dramatically change their jobs",
-      "link": "https://arstechnica.com/health/2026/08/ai-wont-replace-radiologists-but-it-will-dramatically-change-their-jobs/",
-      "summary": "A pioneering AI scientist once predicted computers would replace human radiologists. They haven't.",
-      "published": "2026-08-25T15:10:03+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1339,6 +1330,15 @@
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2023-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2020-12-07T16:27:24+00:00",
       "feed_type": "google_news_fallback"
     },
     {
