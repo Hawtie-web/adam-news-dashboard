@@ -1,7 +1,12 @@
 {
-  "updated_at": "2026-08-25T16:43:22.219406+00:00",
-  "item_count": 152,
+  "updated_at": "2026-08-25T17:36:12.942757+00:00",
+  "item_count": 144,
   "failures": [
+    {
+      "source": "EDM.com News",
+      "feed_url": "https://edm.com/.rss/full/news",
+      "error": "<unknown>:2:1326: not well-formed (invalid token)"
+    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -10,21 +15,48 @@
   ],
   "items": [
     {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "This driverless-truck company could be a ‘long-term winner’ in a market Tesla plans to enter soon",
+      "link": "https://www.marketwatch.com/story/this-driverless-truck-company-could-be-a-long-term-winner-in-a-market-tesla-plans-to-enter-soon-193bc8fe?mod=mw_rss_topstories",
+      "summary": "Kodiak AI logged more than 40,000 paid driverless hours through the second quarter and is pushing to offer driverless highway operations by the end of 2026.",
+      "published": "2026-08-25T17:32:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+      "summary": "“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC.”",
+      "published": "2026-08-25T17:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
+      "link": "https://www.marketwatch.com/story/dicks-sporting-goods-stock-is-having-its-worst-day-ever-as-sneakers-arent-selling-without-deeper-discounts-5a868358?mod=mw_rss_topstories",
+      "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
+      "published": "2026-08-25T16:59:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "MusicTech",
+      "title": "What is EQ in music production and mixing?",
+      "link": "https://musictech.com/glossary/what-is-eq-in-music-production-and-mixing/?utm_source=rss&utm_medium=rss&utm_campaign=what-is-eq-in-music-production-and-mixing",
+      "summary": "<p><img alt=\"Sound engineer using mixing desk\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/08/sound-engineer-mixing-desk@2000x1500.jpg\" width=\"2000\" /></p>\n<p>This is why we use EQ, and what the differences are between different EQ types.</p>\n<p>The post <a href=\"https://musictech.com/glossary/what-is-eq-in-music-production-and-mixing/\">What is EQ in music production and mixing?</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
+      "published": "2026-08-25T16:43:20+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Ukraine’s Newest USV Is A Super Sized Mothership Packed With Anti-Drone Interceptors",
       "link": "https://www.twz.com/sea/ukraines-newest-usv-is-a-super-sized-mothership-packed-with-anti-drone-interceptors",
       "summary": "<p>Designed for days-long open ocean operations, the Magura MV11 can act as a floating counter-drone battery.</p>\n<p>The post <a href=\"https://www.twz.com/sea/ukraines-newest-usv-is-a-super-sized-mothership-packed-with-anti-drone-interceptors\">Ukraine&#8217;s Newest USV Is A Super Sized Mothership Packed With Anti-Drone Interceptors</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-25T16:38:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Man Charged With Public Indecency After Ferris Wheel Incident at Download Festival",
-      "link": "https://edm.com/news/man-charged-public-indecency-sex-act-ferris-wheel-download-festival/",
-      "summary": "<p>The man is set to appear in court next month after a viral video showed a couple engaging in sexual activity above thousands of festival-goers.</p>\n<p>The post <a href=\"https://edm.com/news/man-charged-public-indecency-sex-act-ferris-wheel-download-festival/\">Man Charged With Public Indecency After Ferris Wheel Incident at Download Festival</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-25T16:35:37+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -73,15 +105,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Six Arrested After North Carolina Police Raid Illicit Nightclub",
-      "link": "https://edm.com/news/six-arrested-north-carolina-police-raid-illicit-nightclub/",
-      "summary": "<p>The raid marks the latest in a string of takedowns targeting underground nightclubs in the region this year.</p>\n<p>The post <a href=\"https://edm.com/news/six-arrested-north-carolina-police-raid-illicit-nightclub/\">Six Arrested After North Carolina Police Raid Illicit Nightclub</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-25T16:08:43+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
@@ -118,15 +141,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘She looked into COBRA’: My friend was laid off and lost her health insurance. How can she find affordable coverage?",
-      "link": "https://www.marketwatch.com/story/shes-desperate-my-friend-was-laid-off-and-lost-her-health-insurance-how-can-she-find-affordable-coverage-3b17b553?mod=mw_rss_topstories",
-      "summary": "“The cost is absolutely ridiculous.”",
-      "published": "2026-08-25T16:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
@@ -136,13 +150,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Police Dig Up Underground Drug Stash at Creamfields Site Ahead of Festival",
-      "link": "https://edm.com/news/police-dig-up-underground-drug-stash-creamfields-festival/",
-      "summary": "<p>Police discovered and unearthed significant quantities of nitrous oxide, ecstasy, MDMA and ketamine less than 48 hours before the festival's start.</p>\n<p>The post <a href=\"https://edm.com/news/police-dig-up-underground-drug-stash-creamfields-festival/\">Police Dig Up Underground Drug Stash at Creamfields Site Ahead of Festival</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-25T15:46:51+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Three killed, some 150 injured in fire at Russian gas chemical complex - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5\" target=\"_blank\">Three killed, some 150 injured in fire at Russian gas chemical complex</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T15:56:28+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -151,24 +165,6 @@
       "link": "https://www.defensenews.com/news/your-military/2026/08/25/hung-cao-taps-civilian-to-stand-up-navy-industrial-base-office/",
       "summary": "Andrew Magliochetti was tapped by Hung Cao to become the first deputy assistant secretary of the Navy for the defense industrial base.",
       "published": "2026-08-25T15:39:49+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "summary": "“We don’t know whether they have signed leases or are renting month to month.”",
-      "published": "2026-08-25T15:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Home prices in Chicago have risen more than in any other U.S. city over the past year",
-      "link": "https://www.marketwatch.com/story/home-prices-in-chicago-have-risen-the-most-in-the-u-s-over-the-past-year-3ee317a8?mod=mw_rss_topstories",
-      "summary": "Nationally, home prices are rising at a slow pace as housing inventory remains relatively low. But some markets, particularly in the Midwest, are seeing big gains.",
-      "published": "2026-08-25T15:22:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -268,15 +264,6 @@
       "link": "https://www.theblock.co/news/business/2026-08-25-bitwise-launches-automated-tokenized-stock-portfolios-for-mag-7-ai-and-robotics-themes-412706",
       "summary": "The portfolios, powered by Coinbase and implemented through Glider, will initially target themes including the Mag 7 and AI.",
       "published": "2026-08-25T14:16:26+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Court Orders Maserati to Pay Black Coffee $438,000 Over Undelivered Supercar",
-      "link": "https://edm.com/lifestyle/court-orders-maserati-pay-black-coffee-438000-undelivered-supercar/",
-      "summary": "<p>The Grammy-winning DJ won a summary judgment against Maserati over the trade-in value of a custom MC20 Cielo that never arrived.</p>\n<p>The post <a href=\"https://edm.com/lifestyle/court-orders-maserati-pay-black-coffee-438000-undelivered-supercar/\">Court Orders Maserati to Pay Black Coffee $438,000 Over Undelivered Supercar</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-25T14:02:03+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -381,29 +368,11 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Chinese dissident artist jailed for 3 years over Mao sculptures, family and rights group say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUlIdnktS3FjcXpRMEx0R2pla3h2V0pNdlA2aXptU3lqMUsyYzM0UjVhY2xLQ0pmLVlFNkhMeFRBZ3dMdW5HT1Q4d2l1dDFjNTM1eXhCeXd1MDB5MkdDVjJCZXRrSWMtbHVfdW01clRMeDA3eFk1VHM4b0NLNEtaWnBPdVNLcldrdl9PZWU0NFhuNExfSG9Vc2lCNndlYVdsa3lnb21pWE9kQ3cwTWlJSmN5bnh5VEFORHM2SnlfX3VLMkRRdkE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPLUlIdnktS3FjcXpRMEx0R2pla3h2V0pNdlA2aXptU3lqMUsyYzM0UjVhY2xLQ0pmLVlFNkhMeFRBZ3dMdW5HT1Q4d2l1dDFjNTM1eXhCeXd1MDB5MkdDVjJCZXRrSWMtbHVfdW01clRMeDA3eFk1VHM4b0NLNEtaWnBPdVNLcldrdl9PZWU0NFhuNExfSG9Vc2lCNndlYVdsa3lnb21pWE9kQ3cwTWlJSmN5bnh5VEFORHM2SnlfX3VLMkRRdkE?oc=5\" target=\"_blank\">Chinese dissident artist jailed for 3 years over Mao sculptures, family and rights group say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-25T12:57:25+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
       "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGtrT0phc3JXREFkRmdXMHpxSVRUODRBZ0R0ZmhEa2c4VjlSWE5EaHltaUZDRmtkVUxYM0F6TlJ2eTdSMEQ4N0tYNXRCc0prekVIb1N5cVg5SlZRTDVZczVtV09saWFXazJNQlowSVZFWVBFTGk3UjJaeUJMSVdYVDdmSXF0M1A1TzFTOUNtYmR5SFpyUUluTkpETUU1Y2t1dFg5c2lsM3hDdmFWNjVTZ203MENmT2RI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGtrT0phc3JXREFkRmdXMHpxSVRUODRBZ0R0ZmhEa2c4VjlSWE5EaHltaUZDRmtkVUxYM0F6TlJ2eTdSMEQ4N0tYNXRCc0prekVIb1N5cVg5SlZRTDVZczVtV09saWFXazJNQlowSVZFWVBFTGk3UjJaeUJMSVdYVDdmSXF0M1A1TzFTOUNtYmR5SFpyUUluTkpETUU1Y2t1dFg5c2lsM3hDdmFWNjVTZ203MENmT2RI?oc=5\" target=\"_blank\">USS Abraham Lincoln to dock in Thailand next week, Thai official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-25T12:56:03+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "90’s Dance Music Icons Unite for Free Concert in LA",
-      "link": "https://edm.com/events/90s-dance-music-icons-free-concert-los-angeles/",
-      "summary": "<p>Haddaway, Robin S and more headline the free public concert at Pershing Square this weekend.</p>\n<p>The post <a href=\"https://edm.com/events/90s-dance-music-icons-free-concert-los-angeles/\">90&#8217;s Dance Music Icons Unite for Free Concert in LA</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-25T12:52:54+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "World News & Politics",
@@ -489,10 +458,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "More than 120 injured in fire at Russian gas chemical complex, one Chinese worker killed - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNdGppMEJwaWlCdFdKbWJzNmdWcEVJWnVlNlBKd1dvVTdJU1RuM0xha3hHSVhpY1pfWE4wT3ZDV0QxWFZJWF9vVWJpYnpOWUhZSkRJRW9udzJ6d3BSRWZFdDZlRnBETTZCdUpreTY4N19la2k3M213STl2eGx4ZW1RdjJtT01hR1hzMEt6N1o2SjhibjJjMk9odHpMbjRzVUNSZkNhTVY1QXZuSVdyaFZoQlptT0FPTFdQaDdwWDAtQQ?oc=5\" target=\"_blank\">More than 120 injured in fire at Russian gas chemical complex, one Chinese worker killed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-25T10:56:48+00:00",
+      "title": "Bangladesh could consider joining Mecca pact, in test for foreign ties - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1R1Tlc2QWt0azkwSUMxbWtuLUotZFhEVlUtUE5sX0FkYUdhcjZwZTY4VXFSTzJVcGhHTDJ3NE9xN2tMNHhnZFE0ckhzbHhQM3JEakpFcmJHYUtwRm5LZUI5ZVlrQTkzVkYxN2xXVVQ2VTRPY050cXhQZHBJM3NKUS1KaHRJS0Z0c3lsdndqd0p4VzZoMElBckJidEFIS2pFWGJEUDVqajhibkpxdGx3VzY1TG55SnJ1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOR1R1Tlc2QWt0azkwSUMxbWtuLUotZFhEVlUtUE5sX0FkYUdhcjZwZTY4VXFSTzJVcGhHTDJ3NE9xN2tMNHhnZFE0ckhzbHhQM3JEakpFcmJHYUtwRm5LZUI5ZVlrQTkzVkYxN2xXVVQ2VTRPY050cXhQZHBJM3NKUS1KaHRJS0Z0c3lsdndqd0p4VzZoMElBckJidEFIS2pFWGJEUDVqajhibkpxdGx3VzY1TG55SnJ1?oc=5\" target=\"_blank\">Bangladesh could consider joining Mecca pact, in test for foreign ties</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T11:04:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -775,30 +744,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Eric Prydz Replaces John Summit on 2026 Creamfields Lineup",
-      "link": "https://edm.com/events/eric-prydz-replaces-john-summit-creamfields-festival-lineup/",
-      "summary": "<p>Prydz will return to Creamfields this Friday, marking his first appearance at the UK festival since he brought his 'HOLO' show back in 2022.</p>\n<p>The post <a href=\"https://edm.com/events/eric-prydz-replaces-john-summit-creamfields-festival-lineup/\">Eric Prydz Replaces John Summit on 2026 Creamfields Lineup</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-24T16:16:23+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Italy eyes US tech for souping up dumb missiles into drone interceptors",
       "link": "https://www.defensenews.com/global/europe/2026/08/24/italy-eyes-us-tech-for-souping-up-dumb-missiles-into-drone-interceptors/",
       "summary": "The Italian Air Force is mulling the purchase of U.S. technology that turns cheap unguided missiles into precision weapons.",
       "published": "2026-08-24T16:12:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Swedish Venue Hosting Memorial Screenings 10 Years After Avicii’s Final Performance",
-      "link": "https://edm.com/news/avicii-memorial-screenings-10-year-anniversary-final-performance/",
-      "summary": "<p>10 years after he walked off stage for the final time, the late EDM icon will be remembered at a special tribute event in his homeland.</p>\n<p>The post <a href=\"https://edm.com/news/avicii-memorial-screenings-10-year-anniversary-final-performance/\">Swedish Venue Hosting Memorial Screenings 10 Years After Avicii&#8217;s Final Performance</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-24T15:29:57+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -955,15 +906,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "TroyBoi’s New EP Makes Collaboration Its North Star: Listen to ‘FT.’",
-      "link": "https://edm.com/music-releases/troybois-new-ep-ft/",
-      "summary": "<p>\"The connective tissue throughout the EP is collaboration,\" TroyBoi said.</p>\n<p>The post <a href=\"https://edm.com/music-releases/troybois-new-ep-ft/\">TroyBoi&#8217;s New EP Makes Collaboration Its North Star: Listen to &#8216;FT.&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-08-22T16:14:45+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "How Seoul became the busiest international airport - Morning Brew",
@@ -979,15 +921,6 @@
       "link": "https://warontherocks.com/pressure-points-economic-strain-allied-discord-and-war-fatigue/",
       "summary": "<p>Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seems more of an adjustment in tactics to wear down Iran&#8217;s finances rather than further degrade its military capability: A combined &#8220;one-two punch&#8221; of a physical blockade against Iran&#8217;s maritime trade and increased sanctions measures, which Treasury Secretary Scott Bessent last week said, &#8220;have never been seen in the history of the economic isolation of a country.&#8221; Iran will</p>\n<p>The post <a href=\"https://warontherocks.com/pressure-points-economic-strain-allied-discord-and-war-fatigue/\">Pressure Points: Economic Strain, Allied Discord, and War Fatigue</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-21T20:50:55+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "MusicTech",
-      "title": "Tamber music creation suite gets a 2.0 update: here’s everything you need to know",
-      "link": "https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/?utm_source=rss&utm_medium=rss&utm_campaign=tamber-update-everything-you-need-to-know-features",
-      "summary": "<p><img alt=\"Tamber 2.0\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/08/Tamber-2.0@2000x1500.jpg\" width=\"2000\" /></p>\n<p>All five core tools within Tamber have new enhancements for improved functionality and organisation. </p>\n<p>The post <a href=\"https://musictech.com/news/gear/tamber-update-everything-you-need-to-know-features/\">Tamber music creation suite gets a 2.0 update: here’s everything you need to know</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
-      "published": "2026-08-21T15:23:40+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
