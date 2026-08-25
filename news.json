@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25T03:04:03.542996+00:00",
+  "updated_at": "2026-08-25T04:45:07.475085+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,15 @@
     }
   ],
   "items": [
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Gold rises to highest since mid-May as buying momentum builds - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa19NSUEzV2xqY0JpOW5BRUlWc1VQNHNxdFk1cjk2ZldBQnotS0VtRmo4MWRSdjdDMEhya0JXeURjRFVoRkpyeDVLSGxTcExWM0YxaDh4dFl5OGF6MmN3eU4zd0poVXRBMnlQRFFkUy1qQmNwck9nV01hd2RNSXlaR3lJMzFYRWt3TDFGVnJENVZEVXZDR1puXzV0dGtSdW8zZGFmYXFn?oc=5\" target=\"_blank\">Gold rises to highest since mid-May as buying momentum builds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T02:10:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "Crypto",
       "source": "The Block",
@@ -226,15 +235,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Bessent's sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPb0xQdVRQTlI0Mm5UZzJEdF9xQ1FJaG1nQzRmNDBxUHBGU2ZoLVo3WGFiWjFQOFd1Q1g0X2xReThiWG93MFZISG80QnQxU3U2V0N4clNPbVlNQURLMG1vX0l6YjJFUWxwYzc5WDB0RTFGU0hELVctUzR6REMxaDdFd3ZORkEzSUl5R09ld1ZGd05ndlBfNVJ2SnNSMWh0aUpJMGJoYVl3emticzlzc1k1cjkxSzM4NWs1TWZiYjFJSDJ0NnhrY1FNc2JBMEkzSmQ2YU1Db2VjNGRzMklrUFJlWS1qdFYwRVNmSEQ2X181YWxia0h3UVotR1F6SGVnTjRoWDFISkx6NkhsZmM3VktN?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwJBVV95cUxPb0xQdVRQTlI0Mm5UZzJEdF9xQ1FJaG1nQzRmNDBxUHBGU2ZoLVo3WGFiWjFQOFd1Q1g0X2xReThiWG93MFZISG80QnQxU3U2V0N4clNPbVlNQURLMG1vX0l6YjJFUWxwYzc5WDB0RTFGU0hELVctUzR6REMxaDdFd3ZORkEzSUl5R09ld1ZGd05ndlBfNVJ2SnNSMWh0aUpJMGJoYVl3emticzlzc1k1cjkxSzM4NWs1TWZiYjFJSDJ0NnhrY1FNc2JBMEkzSmQ2YU1Db2VjNGRzMklrUFJlWS1qdFYwRVNmSEQ2X181YWxia0h3UVotR1F6SGVnTjRoWDFISkx6NkhsZmM3VktN?oc=5\" target=\"_blank\">Bessent's sweeping sanctions against Iran send oil prices to their biggest drop in 3 weeks, while fueling hopes of de-escalation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-24T19:40:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Tiny Air-To-Air Missile In Development For Stealthy U.S. Navy Combat Aircraft",
@@ -251,15 +251,6 @@
       "summary": "",
       "published": "2026-08-24T19:36:36+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5\" target=\"_blank\">US removes Syria from terrorism sponsor list, lifting major investment obstacle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-24T19:35:45+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -370,6 +361,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US removes Syria from terrorism sponsor list, lifting major investment obstacle - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxORlU2M1F3TVF0MDVWdXBQMUs3bTdBTTRnWHhRYU85b2IyU04tVTYySkFMVGhtNDBhQUZUdGRKQUNDRnFtRlRDRF9xZFlYaklWemxNNEo0WWNaZWpoQ1JuVWV5Rm94QzRKZzcyZVJIUGlzamtwRkVkcEdWeUxOZTVKZkRJRkJ1cTFwVElRUF9KN05zdEpRRjlKbTZJek40LUJaVzRubzFyRTJmZmM?oc=5\" target=\"_blank\">US removes Syria from terrorism sponsor list, lifting major investment obstacle</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-24T17:28:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Coinbase debuts tokenized stocks on Base network, joining race to bring equities on blockchain",
@@ -386,15 +386,6 @@
       "summary": "<p>Britain is releasing classified data to enable local production, which opens the door to a slew of advantages for Ukraine. </p>\n<p>The post <a href=\"https://www.twz.com/air/storm-shadow-cruise-missile-production-is-coming-to-ukraine\">Storm Shadow Cruise Missile Production Is Coming To Ukraine</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-24T17:12:33+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1pSUXpFN2gtY3ZBNHRubzJEOGZOSE1lR0NfQmh6OHRaT052MUJaUUZlbTBrOFNXZWZiRXhoVnl6UjRFTlFjbVJsVXZ5TWYtS1B4eFN4UlkwUG9FMGRLdEtZZk5xNVlVOTA3RnQxSGRESWFTOTFOUTdMNFZrVVBCdnAxeVJoUzkwUnViWDZsX0ZwaVNacnlDcTEtOUk5Qk54aVllTlBjNTlITWtLYlVrNHVZLUFSSGNleVhtZGtOSm1XQjJtT29GRW9lNVR0QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQU1pSUXpFN2gtY3ZBNHRubzJEOGZOSE1lR0NfQmh6OHRaT052MUJaUUZlbTBrOFNXZWZiRXhoVnl6UjRFTlFjbVJsVXZ5TWYtS1B4eFN4UlkwUG9FMGRLdEtZZk5xNVlVOTA3RnQxSGRESWFTOTFOUTdMNFZrVVBCdnAxeVJoUzkwUnViWDZsX0ZwaVNacnlDcTEtOUk5Qk54aVllTlBjNTlITWtLYlVrNHVZLUFSSGNleVhtZGtOSm1XQjJtT29GRW9lNVR0QQ?oc=5\" target=\"_blank\">France, Saudi Arabia agree on €6 billion Dragon Ball Z theme park project near Paris</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-24T17:07:43+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -1099,6 +1090,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Thu, Aug 20th, 2026 — Solve this Brew Mini: Marshalls - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRVkNtMlJnNUtjaU9KWlpLMnE5X0V2N2FLemJvY3dKWnN1QkpQQzZvSGxzTzNTYUwxS0dWQlI3U3B5WEpCWmdpdTg1UHJrUEhMcVBEd1Y0cDRlTzhhVGF1U20yOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFBRVkNtMlJnNUtjaU9KWlpLMnE5X0V2N2FLemJvY3dKWnN1QkpQQzZvSGxzTzNTYUwxS0dWQlI3U3B5WEpCWmdpdTg1UHJrUEhMcVBEd1Y0cDRlTzhhVGF1U20yOA?oc=5\" target=\"_blank\">Thu, Aug 20th, 2026 — Solve this Brew Mini: Marshalls</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-19T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "A China Strategy That Lasts",
@@ -1114,15 +1114,6 @@
       "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tuVTFlM2pEZjBrN2hWcjY0NE1jQnhobHdYQVVTVVZOSFh4Y19ybW4xdjdSSGpJcUtWS2xrSmhDREQ1X19zNEdYbVg2RmRwN2dwVU16RzMzTmJoRVdtWkRqWGQxd002SWIzYWQxamZiOVJCU0VPWVFnYTNjVzFvZUdzb0NZNlBnOG5oVDZrd3FaV3JvRi1zZ0FYR24wd1pERjBueUVLTjE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tuVTFlM2pEZjBrN2hWcjY0NE1jQnhobHdYQVVTVVZOSFh4Y19ybW4xdjdSSGpJcUtWS2xrSmhDREQ1X19zNEdYbVg2RmRwN2dwVU16RzMzTmJoRVdtWkRqWGQxd002SWIzYWQxamZiOVJCU0VPWVFnYTNjVzFvZUdzb0NZNlBnOG5oVDZrd3FaV3JvRi1zZ0FYR24wd1pERjBueUVLTjE?oc=5\" target=\"_blank\">Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-08-18T20:22:13+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Is the Trump-Tinubu Collaboration Working? - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBjNVZPMXk0Q3JkbTk0d29WdzI2V2p3R0F6VDBFaHJ6WmcydjZ5RjkxV3AyelB6ZGVQOVNNTFBfMzY1MExERkNGaGdRRkZ3Unk0R25EMTNObmtQZkZJY0xHcTZkZVVqSDNUZ1RUdGxJdUNSNXBLSzh1cldB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBjNVZPMXk0Q3JkbTk0d29WdzI2V2p3R0F6VDBFaHJ6WmcydjZ5RjkxV3AyelB6ZGVQOVNNTFBfMzY1MExERkNGaGdRRkZ3Unk0R25EMTNObmtQZkZJY0xHcTZkZVVqSDNUZ1RUdGxJdUNSNXBLSzh1cldB?oc=5\" target=\"_blank\">Is the Trump-Tinubu Collaboration Working?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-18T12:06:06+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1315,6 +1306,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Morningstar Workstation - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5\" target=\"_blank\">Morningstar Workstation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2024-03-18T23:45:06+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
@@ -1333,21 +1333,21 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Why Morning Brew? - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5\" target=\"_blank\">Why Morning Brew?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2022-02-16T05:00:44+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "Politics - AP News",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2020-12-07T16:27:24+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5\" target=\"_blank\">War in Ukraine | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2020-05-29T13:47:04+00:00",
       "feed_type": "google_news_fallback"
     },
     {
