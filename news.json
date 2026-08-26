@@ -1,32 +1,7 @@
 {
-  "updated_at": "2026-08-26T01:43:43.634741+00:00",
-  "item_count": 112,
+  "updated_at": "2026-08-26T03:11:06.293255+00:00",
+  "item_count": 152,
   "failures": [
-    {
-      "source": "Reuters World",
-      "feed_url": "https://news.google.com/rss/search?q=site:reuters.com/world&hl=en-US&gl=US&ceid=US:en",
-      "error": "<unknown>:2:252: not well-formed (invalid token)"
-    },
-    {
-      "source": "AP Politics",
-      "feed_url": "https://news.google.com/rss/search?q=site:apnews.com/politics&hl=en-US&gl=US&ceid=US:en",
-      "error": "<unknown>:2:252: not well-formed (invalid token)"
-    },
-    {
-      "source": "CFR Global Conflict Tracker",
-      "feed_url": "https://news.google.com/rss/search?q=site:cfr.org%20global%20conflict&hl=en-US&gl=US&ceid=US:en",
-      "error": "<unknown>:2:252: not well-formed (invalid token)"
-    },
-    {
-      "source": "Morning Brew",
-      "feed_url": "https://news.google.com/rss/search?q=site:morningbrew.com&hl=en-US&gl=US&ceid=US:en",
-      "error": "<unknown>:2:252: not well-formed (invalid token)"
-    },
-    {
-      "source": "Morningstar",
-      "feed_url": "https://news.google.com/rss/search?q=site:morningstar.com&hl=en-US&gl=US&ceid=US:en",
-      "error": "<unknown>:2:252: not well-formed (invalid token)"
-    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -62,6 +37,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Gold holds steady as investors focus on US inflation data - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxPcjZTTDRpNkRqVkd3eW9wY0dzSmhYM2ZDamhQYUQwT0l5S2M2NGVjMElYbUhIZ29YZ0g1R2ZadWhyS3NnWVZraHRRdmd2RGhaTUNTbWxjU0xOZDF1NGJGeE1vSndKVTZ3TDRaOXFJdjBXSlRfbEVNbW9zVU9Ba01zNU9zUkpyemh2MGlkcG5ZcHVhUnE2S2xsUjhhLWdZMk9ybUE?oc=5\" target=\"_blank\">Gold holds steady as investors focus on US inflation data</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-26T00:30:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
@@ -89,6 +73,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxOQlo4djdVdDNyZ2pOQWpMS2ZnblpzdUhoSzZRRGxpR29YSW1PUl9JUmNNYzgtSXZtbDh0a0xxekVuNlVYTWVGWS1RdkE2RXdqVGJFdGE0Z2l3V0ZvaE1hWGFjNHo2RXJjOGw1RFhOSkJnTGpuMHJId1BqcTRDRmhERkZWMGh0bDMzaWpHMTVHZ05UN29UbzZMTG5Valh1dkgwbFNRZFZqRmFZU3dVdXlpbkpZVm5vVzhQeEZEWEtaOHEzeTZ1VUE?oc=5\" target=\"_blank\">Trump sends Saudi nuclear deal to Congress but says Riyadh must recognize Israel</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T23:24:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxNWGpaTWZvaVNwRmNHZEJSYm5oVkZEanpaNEMyLXlEQUZWM0dDSVVycmxLdlJXUXg0MVlCVTN4SUptQ3pqUWg1dlVYV1k3aTgwWlhYMTZHcURfcEZZR1BydDNIVVBQbXhkendYWnRzbWJSbWVndmpyYnljV3ZpVlE3X2dmNmxPMjYyMWJQQ1VCUWs1RmR1UWdIY1ZGTXRiNzlKbmN1WGtBX2Y3TG5LUDBfVW1Ud0ZkVWhMbWc?oc=5\" target=\"_blank\">Oil prices slide 2% on Iran-Oman talks to reopen Strait of Hormuz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T23:03:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
@@ -98,6 +100,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Syria's Kurdish-led SDF dissolves as part of integration with Damascus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDhnT2QxNFlGZ3MzTE56cmZZNzQ0XzhxUmZRVURPb3h6Z3BDNW5LdlhLLW5SeGVCZ0tFS054U0UyV0I2UTl6VDJEeXFCQ0Q5d253RkN6dlNDbHFZUDBBdGxpczJTYkEyenVTWHNYSEZWZ2d2OGRQTTNraXhQenlnVGFyVjhDUFFsR2Y5d1IzUEZ2UmFkSVF0YUZ1LUtMLUlsU2RDeERJSTRtbnRLanJPQlF0b3o0aTZi?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNDhnT2QxNFlGZ3MzTE56cmZZNzQ0XzhxUmZRVURPb3h6Z3BDNW5LdlhLLW5SeGVCZ0tFS054U0UyV0I2UTl6VDJEeXFCQ0Q5d253RkN6dlNDbHFZUDBBdGxpczJTYkEyenVTWHNYSEZWZ2d2OGRQTTNraXhQenlnVGFyVjhDUFFsR2Y5d1IzUEZ2UmFkSVF0YUZ1LUtMLUlsU2RDeERJSTRtbnRLanJPQlF0b3o0aTZi?oc=5\" target=\"_blank\">Syria's Kurdish-led SDF dissolves as part of integration with Damascus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T22:58:12+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Dick’s Sporting Goods’ epic drop hits other footwear giants, as shoppers sour on retro sneakers",
@@ -105,6 +116,24 @@
       "summary": "Shares of the sporting-goods retailer suffering a record selloff as profit and sales missed expectations and the full-year outlook was slashed.",
       "published": "2026-08-25T22:57:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iraq may show how U.S. can squeeze Iran's trade partners - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaHZhOEZodlIwT1prS0U3TnlSaVdzcnJwMkcwOElIUXBfOVB6aWljYllncXJCMDhiQlhxRDRCX3pOblVnNWp1Ny1qRTlWZHBzZ3NLNnBzWTVRSnZjamdWTWdONkJ0TFRHZTA2Qmtpaks1N3gtcDhKTzFEYi0wdkFZOFNYVVFCNWtZZWZPd0ZYWFN4OUJFQWFZWVhiR0Y4SVBIcUxudTB6M2JSRVU?oc=5\" target=\"_blank\">Iraq may show how U.S. can squeeze Iran's trade partners</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T22:55:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Explainer: The super peso is back — and it's starting to hurt - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRQWGxKYTl0d29jd0dBLVJQbEFBSG03SUMwOEhsbGRjUG1sVV95TDFyZmpIWDRtV1d4X19zWGdHR3lRdmgwT1kwQnNWYVptOTkyd28xT1JYcmp5aXdybVNxLXBSeFVJY1RweFhOdUM5RWxHMmlqVnpTdHNpTnFNU3htZmlIZ0N6NnlZR09XR1U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOeXRQWGxKYTl0d29jd0dBLVJQbEFBSG03SUMwOEhsbGRjUG1sVV95TDFyZmpIWDRtV1d4X19zWGdHR3lRdmgwT1kwQnNWYVptOTkyd28xT1JYcmp5aXdybVNxLXBSeFVJY1RweFhOdUM5RWxHMmlqVnpTdHNpTnFNU3htZmlIZ0N6NnlZR09XR1U?oc=5\" target=\"_blank\">Explainer: The super peso is back — and it's starting to hurt</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T22:55:08+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -123,6 +152,15 @@
       "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
       "published": "2026-08-25T22:21:06+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxNSlNYeEdXSk9RSTdWVnZwNWVQQzdPMDRqZmpxbW5rYlN6emhXUDZWbHhPTjRaUU1LejhXZnpPNUg4dlMxbER4WE9vQnhDN2ZLUHFzUHN5czhKc245Ny1xMFR5Q0U5VzQtYWVXNnlBaTJDYU5RcklwVmlEZWxGd0ljSlFPcjAwTkRWMVNnRFUtNFljYmhaZEc2QjJjZEZDZDhPdW9WNUVwUmZMQU5DbzAxQkNudw?oc=5\" target=\"_blank\">Iran and Oman discuss temporary Hormuz corridor as impasse with US drags on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T22:21:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -530,6 +568,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US spy chief visits Russia for meetings, media reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNVjQyS1RmdG5WZnRTRFNaQ0o2WXM0MVY4VHdvZzQwZTZjS1hVX2ZTdC1ORzh5U2pfTEZQeG5mWF93aGZsNGxOcXluSGtBRnhiYnNGRXNGaVE1cWhMbmprTXk1ODQxQjFWMlM0czJFa3pqWjhZZVh3bXlBMVVGVTRpTFlBRHQxcGpmOXIyRXN3Tjc1VVFUUVE?oc=5\" target=\"_blank\">US spy chief visits Russia for meetings, media reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-25T14:33:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "OpenAI’s Jalapeño chip is built for fast inference at scale, benchmarks show",
@@ -683,6 +730,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "TIPS ETFs Protect Against Inflation. So Why Did Mine Lose Money? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVl6YlZLV21Jd09CekxZME5xMTVzWXBaOVNuQTg4d0FiRlVfWkRsbXU4djk1WmpsZ2JzR2drOHEyWUFoalE1cVRKVlRPd29FX0oybFJ6dVl0b0V1Nkl1LW1uUUpkTTJERVVENEZvTFZBd1hhR0VpOENLTGx5T2pkYjdUZDJ3S3J6RnRIX1g4Tm9CNW9RbTd2WnpzV1Y?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNRVl6YlZLV21Jd09CekxZME5xMTVzWXBaOVNuQTg4d0FiRlVfWkRsbXU4djk1WmpsZ2JzR2drOHEyWUFoalE1cVRKVlRPd29FX0oybFJ6dVl0b0V1Nkl1LW1uUUpkTTJERVVENEZvTFZBd1hhR0VpOENLTGx5T2pkYjdUZDJ3S3J6RnRIX1g4Tm9CNW9RbTd2WnpzV1Y?oc=5\" target=\"_blank\">TIPS ETFs Protect Against Inflation. So Why Did Mine Lose Money?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-25T11:09:36+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "3 Cheap Stocks Offering Attractive Income - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcV9xZ0lQZEpfTTN3bFpicGhvYVljWDBwVFJXaHlpV0g2NUtaU2xjbm5NcDNaRXJVX215THFxMDhzdDRaWmtfYWdXYlNNNW42QXJHRDV6QUxkYkl0QXQzQ2xQMENram5FODhFU1d3UE9ILTRhdmtrU1ZCeUVEWXM5UVRLdHg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOcV9xZ0lQZEpfTTN3bFpicGhvYVljWDBwVFJXaHlpV0g2NUtaU2xjbm5NcDNaRXJVX215THFxMDhzdDRaWmtfYWdXYlNNNW42QXJHRDV6QUxkYkl0QXQzQ2xQMENram5FODhFU1d3UE9ILTRhdmtrU1ZCeUVEWXM5UVRLdHg?oc=5\" target=\"_blank\">3 Cheap Stocks Offering Attractive Income</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-25T09:04:10+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Dutch Navy to equip fleet with Destinus C-UAS interceptor drones",
@@ -728,6 +793,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Bitcoin nears $80,000. What’s going on? - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5\" target=\"_blank\">Bitcoin nears $80,000. What’s going on?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-25T06:12:49+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "Maximum Pressure on Iran Will Fail",
@@ -762,6 +836,15 @@
       "summary": "<p>The USS Abraham Lincoln is finally heading home and will make its first full liberty port call in Thailand soon, after being at sea for nine months.</p>\n<p>The post <a href=\"https://www.twz.com/sea/where-are-the-aircraft-carriers-august-24-2026\">Where Are The Aircraft Carriers?: August 24, 2026</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-25T00:24:41+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "5 Undervalued Stocks to Rent, Not Buy - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmJ6bGtlVktYaXR0SVF6djlYZS10R0ZzQVN1NWNrcHdrTE1KWFc1bHlnbV9PWmlPcHpFaThXQ2FUWTJBYUlDX2RSUzdHSndpTE5jOGJIaDhHSmRTdjhxQnJ1UjViSUhacWlMRFBpMllIQVlUY0kweHNlcUNsRmlMV2VuUzdUdS1tRWlaNW0yWjVfbDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPSmJ6bGtlVktYaXR0SVF6djlYZS10R0ZzQVN1NWNrcHdrTE1KWFc1bHlnbV9PWmlPcHpFaThXQ2FUWTJBYUlDX2RSUzdHSndpTE5jOGJIaDhHSmRTdjhxQnJ1UjViSUhacWlMRFBpMllIQVlUY0kweHNlcUNsRmlMV2VuUzdUdS1tRWlaNW0yWjVfbDQ?oc=5\" target=\"_blank\">5 Undervalued Stocks to Rent, Not Buy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-24T20:13:59+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -854,6 +937,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "10 Stocks Top Fund Managers Have Been Buying Amid Market Uncertainty - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzlWT1ZIaGtrcUMzbzEta04weVZvYzFnS19YaG1FMWZLR0l5THhWYUU1RXJyZE1ZeVN1c2xmb2dlOFZObFRtMnR2dDBGRExPNFA1REVlQzZDY1pFNUN0R0Z6TV9VY3ZmRDVvUWVsVU9kVXRjX2t0WW1UR2tmaUY4N3BFOUpES0pwSGsxSWxaX2ZtYkxWdHNSbmpodlc2Q2FUUHdOeTln?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONzlWT1ZIaGtrcUMzbzEta04weVZvYzFnS19YaG1FMWZLR0l5THhWYUU1RXJyZE1ZeVN1c2xmb2dlOFZObFRtMnR2dDBGRExPNFA1REVlQzZDY1pFNUN0R0Z6TV9VY3ZmRDVvUWVsVU9kVXRjX2t0WW1UR2tmaUY4N3BFOUpES0pwSGsxSWxaX2ZtYkxWdHNSbmpodlc2Q2FUUHdOeTln?oc=5\" target=\"_blank\">10 Stocks Top Fund Managers Have Been Buying Amid Market Uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-24T09:19:19+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Betting on Autonomous Aircraft",
@@ -870,6 +962,15 @@
       "summary": "<p>China has spent years modifying civilian ferries to launch amphibious armored vehicles, developing specialized equipment to move forces ashore without conventional port facilities, hardening dozens of air bases, and rapidly expanding the missile forces that could be used to deter or defeat a U.S. intervention. Yet at the same time, a recurring line of analysis has argued that concerns about China&#8217;s military capabilities are overstated &#8212; and that an invasion of Taiwan remains beyond the reach of the People&#8217;s Liberation Army.These analyses differ in important ways. Some emphasize the Chinese military&#8217;s&#160;political character, lack of combat experience, and institutional shortcomings. Others</p>\n<p>The post <a href=\"https://warontherocks.com/the-risks-of-downplaying-chinas-military/\">The Risks of Downplaying China’s Military</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-24T07:30:35+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "This means (trade) war - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBdzhtMElrelRwMGhrbXhDQlBBY2ZnR2xtMXVPQ2dmdzJvMTBkeVZEVDNBcTNPNVpFdDJ4TTdMR0VaSWNnODQyOFFrS2VEZFlmcm5mNngxSDlnTE5kOUI1bDZ6TDdLRk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBdzhtMElrelRwMGhrbXhDQlBBY2ZnR2xtMXVPQ2dmdzJvMTBkeVZEVDNBcTNPNVpFdDJ4TTdMR0VaSWNnODQyOFFrS2VEZFlmcm5mNngxSDlnTE5kOUI1bDZ6TDdLRk0?oc=5\" target=\"_blank\">This means (trade) war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-24T05:59:37+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -890,6 +991,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "You don’t need to change the world to get rich - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3A1UnJPa0hzXzJZR3YzbnpoSndZSkhMbHVKUm15NUlCU2g1RzEySUU4dzQxRUFrTXNjYzNoNnVOWVFEdFcwNzJxZWN3eEYwLVF4Z1JRMXljbndKOVRUNTRtWHBPY3lMNGlfemFZNHhlZGVEUEZfU0ZPNHFqNkNtSGR0UVZXc2t1?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3A1UnJPa0hzXzJZR3YzbnpoSndZSkhMbHVKUm15NUlCU2g1RzEySUU4dzQxRUFrTXNjYzNoNnVOWVFEdFcwNzJxZWN3eEYwLVF4Z1JRMXljbndKOVRUNTRtWHBPY3lMNGlfemFZNHhlZGVEUEZfU0ZPNHFqNkNtSGR0UVZXc2t1?oc=5\" target=\"_blank\">You don’t need to change the world to get rich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-23T07:12:12+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "How Seoul became the busiest international airport - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2ttZDlENm9XV3FFMnNPQmhKY19ITTMzakVHVDlvOUIxMzF0cGtCT2puWTFqLURpNmdBaWoyTzJWV3hBa2FDeUN1X2FyTXlZZ1lFVkFnQl9GNTZESkFLVWxDbFRIbzZMcENNQkZjWnNBWjZWS01fdkhjd2x3SWZfYzdGQUlzS1NXdXg4YXl1Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON2ttZDlENm9XV3FFMnNPQmhKY19ITTMzakVHVDlvOUIxMzF0cGtCT2puWTFqLURpNmdBaWoyTzJWV3hBa2FDeUN1X2FyTXlZZ1lFVkFnQl9GNTZESkFLVWxDbFRIbzZMcENNQkZjWnNBWjZWS01fdkhjd2x3SWZfYzdGQUlzS1NXdXg4YXl1Zw?oc=5\" target=\"_blank\">How Seoul became the busiest international airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-22T05:04:33+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Pressure Points: Economic Strain, Allied Discord, and War Fatigue",
@@ -897,6 +1016,15 @@
       "summary": "<p>Welcome to The Adversarial.&#160;Every other week, we&#8217;ll provide you with expert analysis on America&#8217;s greatest challengers: China, Russia, Iran, North Korea, and jihadists. Read more below.***IranU.S. strikes on Iranian soil tapered off in August after frequent exchanges throughout July. The hiatus seems more of an adjustment in tactics to wear down Iran&#8217;s finances rather than further degrade its military capability: A combined &#8220;one-two punch&#8221; of a physical blockade against Iran&#8217;s maritime trade and increased sanctions measures, which Treasury Secretary Scott Bessent last week said, &#8220;have never been seen in the history of the economic isolation of a country.&#8221; Iran will</p>\n<p>The post <a href=\"https://warontherocks.com/pressure-points-economic-strain-allied-discord-and-war-fatigue/\">Pressure Points: Economic Strain, Allied Discord, and War Fatigue</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-21T20:50:55+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Why Nuclear Energy Is Making a Global Comeback - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXZzbGtia3VKVlo3bzhxRjRNUDhHQ2pobGJLUkZUZ2J4Y2hDRjNfTjhHS3NST1FLS01kdjh5LXZ6STQ1VFBGMmktTnIyYWl0VHVZUUFJejduanhKVjd4Zlc2X0ZEbTZIQXBTT1pWbWZpTHl6SHZ3aHMzTG43U2p6elFvMXlNS2NaWmRZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOVXZzbGtia3VKVlo3bzhxRjRNUDhHQ2pobGJLUkZUZ2J4Y2hDRjNfTjhHS3NST1FLS01kdjh5LXZ6STQ1VFBGMmktTnIyYWl0VHVZUUFJejduanhKVjd4Zlc2X0ZEbTZIQXBTT1pWbWZpTHl6SHZ3aHMzTG43U2p6elFvMXlNS2NaWmRZ?oc=5\" target=\"_blank\">Why Nuclear Energy Is Making a Global Comeback</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-21T09:00:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -917,6 +1045,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Treasury’s plan to boost bonds falls flat - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGRlbGo5eUdQdGJwSjB3aUFtck5yZ2h1MzVoVHR1SVJpUU5nYTFiUnNyTTdXWlY4OWxCUmc0RkdFSDR2YjZOTGdCUW94SVhjbWpYODcxb2p6YWZsay0tTXNTZWs4X2RtTmYtYUU3YVh0UmZPdXlhOWs3MzVwUVV2N0tB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPcGRlbGo5eUdQdGJwSjB3aUFtck5yZ2h1MzVoVHR1SVJpUU5nYTFiUnNyTTdXWlY4OWxCUmc0RkdFSDR2YjZOTGdCUW94SVhjbWpYODcxb2p6YWZsay0tTXNTZWs4X2RtTmYtYUU3YVh0UmZPdXlhOWs3MzVwUVV2N0tB?oc=5\" target=\"_blank\">Treasury’s plan to boost bonds falls flat</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-21T05:37:16+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Walmart reports slowest sales growth in 6 years - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmhfT1JsWDFkUWJvNlgzOUpfREN5ejNpR0RfR2EwQW1QZkszOUZiZ2N1NEZxZlpxWDd0clJYczVpM2lDZUM4OHVHVTBweTZRTGpWaDNtakFoNjh1Q1F1bEVUOVAwcm4yWGZWektYcEJnc29MN042d3ZoY1ZaZU1IZ3ZqeVVLUDAwUFJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYmhfT1JsWDFkUWJvNlgzOUpfREN5ejNpR0RfR2EwQW1QZkszOUZiZ2N1NEZxZlpxWDd0clJYczVpM2lDZUM4OHVHVTBweTZRTGpWaDNtakFoNjh1Q1F1bEVUOVAwcm4yWGZWektYcEJnc29MN042d3ZoY1ZaZU1IZ3ZqeVVLUDAwUFJR?oc=5\" target=\"_blank\">Walmart reports slowest sales growth in 6 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-21T05:32:22+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "Why Criminals Love the Chinese Economy",
@@ -935,6 +1081,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "We’re one step closer to a cancer vaccine - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE04VDNRMDlkNzNDa2VidlpZSHdJNGNqbFB0andSbEhrcFBVYl9ubGFiZVR1dDJmUS1WLWg0a3pKSkpGSkdlaktncGhWbExMVTh1N0I1ZjN4ZzV2aG9xZmdGTEZ1czhnRldHbXEyWmlDZFZPR1pyUHBFdWk2VUN2MkJn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE04VDNRMDlkNzNDa2VidlpZSHdJNGNqbFB0andSbEhrcFBVYl9ubGFiZVR1dDJmUS1WLWg0a3pKSkpGSkdlaktncGhWbExMVTh1N0I1ZjN4ZzV2aG9xZmdGTEZ1czhnRldHbXEyWmlDZFZPR1pyUHBFdWk2VUN2MkJn?oc=5\" target=\"_blank\">We’re one step closer to a cancer vaccine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-20T04:34:23+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "How AI Could Hollow Out the U.S. Military",
@@ -944,6 +1099,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Trump’s South Korea Move Fuels Growing Fears of U.S. Retreat From Asia - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdXB0TE1DNkVuTUdHcDdsX0FNeVZXTVFtMWhqQUFxaWhnZWxQcWE3SHNtZm1GOXZXTjVXczFRR2pOUVFhVzBZWGl6cDR1MGJSYXZmaWp0NVNRRG5kR0xGWFBSQ0xBYWRYYTJrQTd5MVJVLTh1OThTdERIcVZReXQ2dTlnYXNMR1JJOXpiUU9sWGQ1ckxYQVRQaHQyajl4Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdXB0TE1DNkVuTUdHcDdsX0FNeVZXTVFtMWhqQUFxaWhnZWxQcWE3SHNtZm1GOXZXTjVXczFRR2pOUVFhVzBZWGl6cDR1MGJSYXZmaWp0NVNRRG5kR0xGWFBSQ0xBYWRYYTJrQTd5MVJVLTh1OThTdERIcVZReXQ2dTlnYXNMR1JJOXpiUU9sWGQ1ckxYQVRQaHQyajl4Zw?oc=5\" target=\"_blank\">Trump’s South Korea Move Fuels Growing Fears of U.S. Retreat From Asia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-19T16:23:12+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "A China Strategy That Lasts",
@@ -951,6 +1115,42 @@
       "summary": "Congress must lead to compete with Beijing.",
       "published": "2026-08-19T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tuVTFlM2pEZjBrN2hWcjY0NE1jQnhobHdYQVVTVVZOSFh4Y19ybW4xdjdSSGpJcUtWS2xrSmhDREQ1X19zNEdYbVg2RmRwN2dwVU16RzMzTmJoRVdtWkRqWGQxd002SWIzYWQxamZiOVJCU0VPWVFnYTNjVzFvZUdzb0NZNlBnOG5oVDZrd3FaV3JvRi1zZ0FYR24wd1pERjBueUVLTjE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxNd2tuVTFlM2pEZjBrN2hWcjY0NE1jQnhobHdYQVVTVVZOSFh4Y19ybW4xdjdSSGpJcUtWS2xrSmhDREQ1X19zNEdYbVg2RmRwN2dwVU16RzMzTmJoRVdtWkRqWGQxd002SWIzYWQxamZiOVJCU0VPWVFnYTNjVzFvZUdzb0NZNlBnOG5oVDZrd3FaV3JvRi1zZ0FYR24wd1pERjBueUVLTjE?oc=5\" target=\"_blank\">Out of Ammo: A Two-Year Sprint to Rebuild the American Arsenal and Deter China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-18T20:22:13+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Conflict in the Democratic Republic of Congo | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkNhOTJpbUhlMGNhTHE0LUwwb2RVR0w5d1NvNlROQjFpODBkd3JsVEdoOEpPQVg2Y21XeVZhV2t1WmgtVUhqYzJWVVd1QjRjU2praG5janNTT3Jub0piVDkzdWhjS3ZNUEhONnY3eWxWcElsU25iWE9Ob1plVWpFQXdmLWc1d1B4bW1yUDNicF9NRkc5aHoyaUJ5QzhKbzZYQ1hpcg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOVkNhOTJpbUhlMGNhTHE0LUwwb2RVR0w5d1NvNlROQjFpODBkd3JsVEdoOEpPQVg2Y21XeVZhV2t1WmgtVUhqYzJWVVd1QjRjU2praG5janNTT3Jub0piVDkzdWhjS3ZNUEhONnY3eWxWcElsU25iWE9Ob1plVWpFQXdmLWc1d1B4bW1yUDNicF9NRkc5aHoyaUJ5QzhKbzZYQ1hpcg?oc=5\" target=\"_blank\">Latest News – Conflict in the Democratic Republic of Congo | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-18T19:11:44+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Territorial Dispute - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWXkzcWY4Y2lMRm1vTEtfRDRKRXVYTlU2ZXlNektIakEzaV9fRFpuSmxxR3hlZy1VWTY4c3JRb2NFR3VSenZDS1Q5dkxUMHY3THU1bmtJcWdsX0RxdDA5cVhUbnJ2Y29BYXpvRXRhVm5QbE9KWU5Z?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWXkzcWY4Y2lMRm1vTEtfRDRKRXVYTlU2ZXlNektIakEzaV9fRFpuSmxxR3hlZy1VWTY4c3JRb2NFR3VSenZDS1Q5dkxUMHY3THU1bmtJcWdsX0RxdDA5cVhUbnJ2Y29BYXpvRXRhVm5QbE9KWU5Z?oc=5\" target=\"_blank\">Territorial Dispute</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-18T13:13:57+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The Top High-Dividend ETFs for Passive Income in 2026 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2lsZXl3V0hRSU01SEF6Ul85R1VSYU9NN0FVS0JPVjUzbi1EaUFqNHdBZWdEaUFYTEMxQzZQSFBORVdJQ0Y3M2pTaWt3eldGOV9wYlZkOWVrRlE0c1F0QkRCaS1GY3oxaXFsUFpKLVJUOHlMbmxKVW4wSms2aVhRYjJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNV2lsZXl3V0hRSU01SEF6Ul85R1VSYU9NN0FVS0JPVjUzbi1EaUFqNHdBZWdEaUFYTEMxQzZQSFBORVdJQ0Y3M2pTaWt3eldGOV9wYlZkOWVrRlE0c1F0QkRCaS1GY3oxaXFsUFpKLVJUOHlMbmxKVW4wSms2aVhRYjJR?oc=5\" target=\"_blank\">The Top High-Dividend ETFs for Passive Income in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-18T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -969,6 +1169,33 @@
       "summary": "Iran and the last gasp of a failed order.",
       "published": "2026-08-18T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "This movie is so bad, it became a box-office hit - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeV9relIyeDFseXZkZDhFMlNPMU9tYW53dDZGeFhpUkVubHdJMjlBcVBIVlFXM21WYlBiSURRa2hhbm1pY29PS281djV1bXV2Wjk5aUxTSV84XzdEWjN4d2VDRkVQMktFY0c3cU8xQWFoVDhHWG9nVS1Sc20yYVRQMUpubW5CbFJvZlNZ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPeV9relIyeDFseXZkZDhFMlNPMU9tYW53dDZGeFhpUkVubHdJMjlBcVBIVlFXM21WYlBiSURRa2hhbm1pY29PS281djV1bXV2Wjk5aUxTSV84XzdEWjN4d2VDRkVQMktFY0c3cU8xQWFoVDhHWG9nVS1Sc20yYVRQMUpubW5CbFJvZlNZ?oc=5\" target=\"_blank\">This movie is so bad, it became a box-office hit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-17T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNa1RNME1HYkloRXpzSTg0LXBVRVdELTd6dnA0Q0FKQ1J3cjIzWjFkRF9kWFRqWFJoNVFMX1BfLUllX251T0NMNHNrY25zakp0ZU1NXzdLeUpVTWFIeEl6UlVTcVM0dUxrY3FGb1p5Q19ZZDk0bkJFcVZaWUhZUkZjYUI1S3hjYUVlSzZ1dVVsTHAtckF6bV9jYWpBdng?oc=5\" target=\"_blank\">Latest News – Israeli-Palestinian Conflict | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-14T17:44:41+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Latest News – Conflict Between Turkey and Armed Kurdish Groups | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1hBRzFSa092WW1EYVlENVVaQ3l1emcxdWttb0ZQVkJ4VGNVUVJ1QU00dEF4Rm16N2FaNEgxNzVoSEFCaGhQVW1jdUYxN1FKeEt4RFU2UGJjMnJicjQ0TWZlRUZWVVZpS21aMXdoQ0ZiOFBLTDRTTVJUazhVeVUyQUxIMnZUM0FFNHluU3BKMzBKY3o5em1wSXEtQWRnM1ozWWwyc1dZcm1KMnZQODJaWUl2dVpCZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOR1hBRzFSa092WW1EYVlENVVaQ3l1emcxdWttb0ZQVkJ4VGNVUVJ1QU00dEF4Rm16N2FaNEgxNzVoSEFCaGhQVW1jdUYxN1FKeEt4RFU2UGJjMnJicjQ0TWZlRUZWVVZpS21aMXdoQ0ZiOFBLTDRTTVJUazhVeVUyQUxIMnZUM0FFNHluU3BKMzBKY3o5em1wSXEtQWRnM1ozWWwyc1dZcm1KMnZQODJaWUl2dVpCZw?oc=5\" target=\"_blank\">Latest News – Conflict Between Turkey and Armed Kurdish Groups | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-08-12T22:06:15+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1041,6 +1268,114 @@
       "summary": "<p>Native Instruments has been sold. InMusic Brands, the U.S. parent of Akai Professional, Denon DJ, Numark, Rane, M-Audio, Moog, and Engine DJ, has signed a definitive agreement to acquire NI in full. That includes Traktor, Maschine, Komplete, Kontakt, Reaktor, and the broader iZotope, Plugin Alliance, and Brainworx stack that NI absorbed over the last few [&#8230;]</p>\n<p>The post <a href=\"https://djtechtools.com/2026/05/08/inmusic-just-bought-native-instruments-so-what-now-for-traktor/\">InMusic just bought Native Instruments. So what now for Traktor?</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
       "published": "2026-05-08T23:14:52+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
+      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-04-27T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections - AP News",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZnhtbTBlYVYxRW5oVFlxOEotWW9sVXVmbEJpR01TN0UzdFlhVWpNd2Y4bjBLMlFZaTRsZFRSdUJDdUlTUW9OcnFuelhuZkkzdXJoTm1DRVdnRTl1blByRVhTV3BtbXI1X1pwVnBxRU84LW1CbUFrN3hIbjJtUTkyOVF1eFpLblVqdHNMWU85RkRmOWU1eVNwYl9MNWdmbTE0VEpwdlktb1BlWFlnWjZpbUpabE1lcElFWUJncm9ySmdfRWlXNlVVN0N6MVJ6X0V5?oc=5\" target=\"_blank\">New Mississippi legislative maps head to court for approval despite DeSoto lawmakers’ objections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-03-06T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "PHOTO COLLECTION: Pam Bondi Swearing In - AP News",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQV2dfS0Q0dHJVNHhTaEJOTEoxbVhEZkp1N1pOTGc5a19udDZkX0Zxalg5SkpTSGctYnJXdjNlQmZtWjNKUmdyMG1iMVpCTGFFaEx1b0J6WXpfenN6aVZNMTJkSkp5MGdISzB0bTNfSF9Rcmo1OUhOdkpnSFlzR3JwUEJtVTA4Y2JtS3Q1X0pmSUo3S21tUXVKWjFza3Z1Zw?oc=5\" target=\"_blank\">PHOTO COLLECTION: Pam Bondi Swearing In</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-02-05T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Photos from the People's March on Washington: 1.18.2025 - AP News",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE80OGowNmlrSFNnbWl1dzQ2NzQza3k1TGlPV0JEQjQ1WXFhUVIzcnJ0UFotQ19pNHpNcGxLbmRsV3VvOHVlZnBVcjdTQ3lmNmV4NmN6NjA1QTJZOEFzN2hvSjliNTBjR1E4MmhVOFJxVy14T28?oc=5\" target=\"_blank\">Photos from the People's March on Washington: 1.18.2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-01-18T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Read the full House ethics report on Matt Gaetz - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2024-12-23T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2024-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPeFU4cE80aWtZOVJJTENvR3FXeUw2WWJxWmpfNHpBbDdQNTAtaUJIYzNCbUZocE5ZeHhqYXpZZmZmMlJqUEs3YU5fdV96cXhFTExySERMWlRfeGhLVk9GWGN5cTRSTlVuNmhwVFMxRWEtOVEwRS1HczdvZ29hUFB1YWpVVFZCVlYyVHVKYmtOWFdpak12OTk4?oc=5\" target=\"_blank\">Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2023-09-13T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2020-12-07T16:27:24+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5\" target=\"_blank\">War in Ukraine | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2020-05-29T13:47:04+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Broadcom Inc (AVGO) - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWGhESUhROFdMaGctTmlwV1VQTFFxWXRWaTJ0VVJjalhLeGtVRVZyVVZkdWo4V3FCaVBaYXJhcWx6TkFNbXBDSW1NMGc0N1FEWjYweXhicUE2NjVCcmsw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWGhESUhROFdMaGctTmlwV1VQTFFxWXRWaTJ0VVJjalhLeGtVRVZyVVZkdWo4V3FCaVBaYXJhcWx6TkFNbXBDSW1NMGc0N1FEWjYweXhicUE2NjVCcmsw?oc=5\" target=\"_blank\">Broadcom Inc (AVGO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2019-07-16T01:23:42+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Careers at Morningstar - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2018-12-11T01:03:09+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Morningstar | Empowering Investor Success - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2012-10-14T03:17:21+00:00",
+      "feed_type": "google_news_fallback"
     }
   ]
 }
