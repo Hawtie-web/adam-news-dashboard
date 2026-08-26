@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T19:09:06.838787+00:00",
+  "updated_at": "2026-08-26T23:11:34.209691+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,12 +10,219 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "SEC resurrecting U.S. crypto custody rule the previous administration failed to land",
+      "link": "https://www.coindesk.com/news-analysis/2026/08/26/sec-resurrecting-u-s-crypto-custody-rule-the-previous-administration-failed-to-land",
+      "summary": "",
+      "published": "2026-08-26T23:01:44+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "Are older Americans spoiling the economy for everyone else?",
-      "link": "https://www.marketwatch.com/story/are-older-americans-spoiling-the-economy-for-everyone-else-064b5820?mod=mw_rss_topstories",
-      "summary": "How to get seniors to spend $12 trillion in home equity.",
-      "published": "2026-08-26T19:06:00+00:00",
+      "title": "Salesforce’s stock gets an Anthropic boost — and more highlights from earnings",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-surges-as-ai-momentums-fuel-revenue-growth-8c96eef3?mod=mw_rss_topstories",
+      "summary": "Salesforce cleared Wall Street’s second-quarter expectations and deepened its ties with AI lab Anthropic.",
+      "published": "2026-08-26T22:50:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Blackbeard Low-Cost Hypersonic Missile Testing On The F/A-18 Super Hornet Has Begun",
+      "link": "https://www.twz.com/air/blackbeard-low-cost-hypersonic-missile-testing-on-the-f-a-18-super-hornet-has-begun",
+      "summary": "<p>The Navy is aiming to have at least a limited operational arsenal of Blackbeard hypersonic missiles within the next two years.</p>\n<p>The post <a href=\"https://www.twz.com/air/blackbeard-low-cost-hypersonic-missile-testing-on-the-f-a-18-super-hornet-has-begun\">Blackbeard Low-Cost Hypersonic Missile Testing On The F/A-18 Super Hornet Has Begun</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-26T22:42:15+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Am I too old for Roth conversions? I’m 84 and my wife is 77. We have $8 million saved.",
+      "link": "https://www.marketwatch.com/story/am-i-too-old-for-roth-conversions-im-84-and-my-wife-is-77-we-have-8-million-saved-fb08fccd?mod=mw_rss_topstories",
+      "summary": "“We are reluctant to pay a financial adviser 2% of assets — roughly $160,000 per year.”",
+      "published": "2026-08-26T22:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I just had my first baby and don’t want to go back to work. Is quitting for a year a bad idea?",
+      "link": "https://www.marketwatch.com/story/i-just-had-my-first-baby-and-dont-want-to-go-back-to-work-is-quitting-for-a-year-a-bad-idea-780122e6?mod=mw_rss_topstories",
+      "summary": "“I really don’t want to miss my baby’s first year.”",
+      "published": "2026-08-26T22:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘There is considerable tension’: My grandmother, 99, wants to cut my mother out of her will. Should I intervene?",
+      "link": "https://www.marketwatch.com/story/there-is-considerable-tension-my-grandmother-99-wants-to-cut-my-mother-out-of-her-will-should-i-intervene-5e8f408e?mod=mw_rss_topstories",
+      "summary": "“Grandma feels that she was pressured by my mother into taking out a $50,000 HELOC.”",
+      "published": "2026-08-26T22:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Meta dodges ‘Big Tobacco’ nightmare with $18 billion settlement in child-safety lawsuit",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-the-company-settles-in-social-media-addiction-trial-78abdfbf?mod=mw_rss_topstories",
+      "summary": "The social-media giant’s agreement with state officials removes a cloud that was hanging over its stock, analysts say.",
+      "published": "2026-08-26T21:58:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "CrowdStrike’s stock soars after AI fuels the cybersecurity company’s ‘best quarter in history’",
+      "link": "https://www.marketwatch.com/story/crowdstrikes-stock-soars-after-ai-fuels-the-cybersecurity-companys-best-quarter-ever-6aeae1d5?mod=mw_rss_topstories",
+      "summary": "Shares of CrowdStrike Holdings were roaring after the cybersecurity company revealed a record-breaking quarter, one partially boosted by fears about the power of artificial intelligence.",
+      "published": "2026-08-26T21:56:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+      "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+      "summary": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+      "published": "2026-08-26T21:37:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+      "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+      "summary": "Reuters report shows Meta's challenges replacing people with AI agents.",
+      "published": "2026-08-26T21:25:27+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I’m turning 70. Here’s how I’m making this decade the richest of my retirement.",
+      "link": "https://www.marketwatch.com/story/im-turning-70-heres-how-im-making-this-decade-the-richest-of-my-retirement-ae351f90?mod=mw_rss_topstories",
+      "summary": "Tweaking my finances, work and life as I go from the “go-go” years to the “slow-go” years.",
+      "published": "2026-08-26T21:09:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "US Navy eyes port stops in Africa, India after USS Abraham Lincoln’s marathon deployment",
+      "link": "https://www.defensenews.com/news/your-military/2026/08/26/us-navy-eyes-port-stops-in-africa-india-after-uss-abraham-lincolns-marathon-deployment/",
+      "summary": "The Navy’s top admiral says the service is changing how it does pre-deployment stocking and resupply and looking at different places to make port calls.",
+      "published": "2026-08-26T21:08:19+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "How Marine Rifle Squads Plan To Fight Future Wars Dominated By Drones",
+      "link": "https://www.twz.com/sea/how-marine-rifle-squads-plan-to-fight-future-wars-dominated-by-drones",
+      "summary": "<p>The newly released Ground Combat Element 2040 is the Marine Corps' vision for fighting increasingly complex land battles.</p>\n<p>The post <a href=\"https://www.twz.com/sea/how-marine-rifle-squads-plan-to-fight-future-wars-dominated-by-drones\">How Marine Rifle Squads Plan To Fight Future Wars Dominated By Drones</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-26T21:01:15+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "New Twitter launches, says Musk's X gave up the name",
+      "link": "https://arstechnica.com/tech-policy/2026/08/new-twitter-launches-says-musks-x-gave-up-the-name/",
+      "summary": "Judge hasn't ruled on X Corp’s preliminary injunction, but Operation Bluebird plows ahead",
+      "published": "2026-08-26T20:49:04+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "US Army taps 5 firms to build on-base microreactors in nuclear energy push",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/08/26/us-army-taps-5-firms-to-build-on-base-microreactors-in-nuclear-energy-push/",
+      "summary": "The agreements, worth up to $2.2 billion, mark a step forward in the Janus program, an initiative to introduce microreactors to power installations.",
+      "published": "2026-08-26T20:48:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Nvidia shares rise after earnings top estimates, guides to $108 billion in revenue next quarter",
+      "link": "https://www.coindesk.com/markets/2026/08/26/nvidia-tops-earnings-estimates-guides-to-usd108-billion-in-revenue-next-quarter",
+      "summary": "",
+      "published": "2026-08-26T20:24:31+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘The relationship quickly deteriorated’: My friend’s lawyer settled his injury case without his consent. What can he do?",
+      "link": "https://www.marketwatch.com/story/the-relationship-quickly-deteriorated-my-friends-lawyer-settled-his-injury-case-without-his-consent-what-can-he-do-a289fee9?mod=mw_rss_topstories",
+      "summary": "“His former lawyer is now holding the settlement funds, maintaining that he is entitled to attorney’s fees.”",
+      "published": "2026-08-26T20:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Army taps 5 vendors to move forward with nuclear microreactor prototypes",
+      "link": "https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/army-taps-5-vendors-to-build-nuclear-microreactors-with-2-2b-pot/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/9775744-scaled-e1787765370435-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Up to $2.2 billion could be divvied up among the handful of vendors. </p>",
+      "published": "2026-08-26T20:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Meta settles states' child-safety claims for $18B; Florida rejects deal as \"peanuts\"",
+      "link": "https://arstechnica.com/tech-policy/2026/08/meta-settles-states-child-safety-claims-for-18b-florida-rejects-deal-as-peanuts/",
+      "summary": "Meta to impose daily limit on child social media use in deal with nearly every state.",
+      "published": "2026-08-26T19:50:52+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Florida Catholics slap down state AG by rejecting religious vaccine exemptions",
+      "link": "https://arstechnica.com/health/2026/08/catholic-bishops-tell-florida-theres-no-religious-reason-for-vaccine-exemptions/",
+      "summary": "The bishops' snub comes as the state continues to attack vaccines.",
+      "published": "2026-08-26T19:39:24+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Google’s Gemini has a branding problem, and so does the rest of AI",
+      "link": "https://techcrunch.com/2026/08/26/googles-gemini-has-a-branding-problem-and-so-does-the-rest-of-ai/",
+      "summary": "Consumer AI apps need to stop making users learn their product architecture.",
+      "published": "2026-08-26T19:37:34+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "How do we explain OpenAI’s executive exodus?",
+      "link": "https://techcrunch.com/2026/08/26/how-do-we-explain-openais-executive-exodus/",
+      "summary": "Was Greg Brockman the right executive all along?",
+      "published": "2026-08-26T19:34:04+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+      "link": "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+      "summary": "The AI that powers Gboard's Rambler is coming to more Google products, including Chrome.",
+      "published": "2026-08-26T19:19:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Hegseth stands by LaNeve nomination amid reported lawmaker hesitation",
+      "link": "https://breakingdefense.com/2026/08/hegseth-stands-by-laneve-nomination-amid-reported-lawmaker-hesitation/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/hegseth-stands-by-laneve-nomination-amid-reported-lawmaker-hesitation/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/05/9620068-scaled-e1787768503338-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Pentagon is attempting to &#8220;lock in&#8221;  LaNeve&#8217;s nomination for the next Army Chief of Staff amid lawmaker concerns and the potential departure of the service&#8217;s secretary. </p>",
+      "published": "2026-08-26T19:12:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -28,21 +235,30 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5\" target=\"_blank\">US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-26T19:00:13+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "The inside story on why OpenAI agents hacked Hugging Face",
+      "link": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+      "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a cybersecurity test that they were stuck on, has confirmed some experts’&#8230;",
+      "published": "2026-08-26T19:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "US Army seeks 8,000 new short-range missiles per year",
       "link": "https://www.defensenews.com/news/your-army/2026/08/26/us-army-seeks-8000-new-short-range-missiles-per-year/",
       "summary": "The U.S. Army wants to purchase up to 8,000 new short-range missiles per year.",
       "published": "2026-08-26T18:51:30+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘My main goal is to help people’: I’m single, 74, with $10 million burning a hole in my pocket. What should I do?",
-      "link": "https://www.marketwatch.com/story/my-main-goal-is-to-help-people-im-single-74-with-10-million-burning-a-hole-in-my-pocket-what-should-i-do-0e6112e1?mod=mw_rss_topstories",
-      "summary": "“I also own my home and an SUV outright, with no outstanding debt.”",
-      "published": "2026-08-26T18:45:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -55,58 +271,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "My father-in-law passed away, leaving a house with tenants. Do I evict them?",
-      "link": "https://www.marketwatch.com/story/my-father-in-law-passed-away-leaving-a-house-with-tenants-do-i-evict-them-f974428c?mod=mw_rss_topstories",
-      "summary": "“We don’t know whether they have signed leases or are renting month to month.”",
-      "published": "2026-08-26T18:26:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "5 affordable cities to retire in the U.S. right now",
-      "link": "https://www.marketwatch.com/story/5-cheap-u-s-cities-to-retire-in-if-you-can-deal-with-this-one-thing-fbda5d1a?mod=mw_rss_topstories",
-      "summary": "You don’t have to leave the country to find an affordable place that matches your retirement vision.",
-      "published": "2026-08-26T18:10:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I need to get out of my job, but I’ve signed a noncompete. Can I still leave for a competitor?",
-      "link": "https://www.marketwatch.com/story/i-need-to-get-out-of-my-job-can-i-leave-for-a-competitor-if-ive-signed-a-non-compete-33d3164b?mod=mw_rss_topstories",
-      "summary": "“I’ve been unhappy for a while.”",
-      "published": "2026-08-26T17:44:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Two-thirds of parents are failing at this vital safety measure for their children",
-      "link": "https://www.marketwatch.com/story/two-thirds-of-parents-dont-have-this-vital-document-they-need-in-case-of-emergency-7c54efb3?mod=mw_rss_topstories",
-      "summary": "Here’s why most parents balk at this legal task.",
-      "published": "2026-08-26T17:37:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The biggest risk to retirement plans may no longer be a stock market crash or inflation",
-      "link": "https://www.marketwatch.com/story/your-portfolio-can-recover-from-a-bear-market-but-can-it-survive-you-living-to-110-cc6d344c?mod=mw_rss_topstories",
-      "summary": "An obsolete datapoint may be sabotaging your retirement outcome",
-      "published": "2026-08-26T17:32:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The U.S. economy is better than it looks — but it might be due for a slowdown",
-      "link": "https://www.marketwatch.com/story/the-u-s-economy-is-better-than-it-looks-but-it-might-be-due-for-a-slowdown-5d9395d2?mod=mw_rss_topstories",
-      "summary": "Consumer spending soared in the second quarter. A repeat is unlikely.",
-      "published": "2026-08-26T17:31:00+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Pentagon official to brief NATO allies as review fuels questions - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWtsNUtXejhaZE1lREpUYW5SamRHSTNyM0trLW1QWXdxZzY3MUdlVExsVXoxTFA2RVlCS1RyQ0UydW0wN080RzBWcVFnRWVsUV9jNzFWZTNaZlplN1h0X3Fxc3pYSkYtc0JFR3NSUFZ4RFNmb3JxcDg0Q2diSzlHaDVOYThxYWlJTzdwRU1wcVoyNFRvOGRKem5nYW82ZlVidnAxLTBiYkhEaUE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNLWtsNUtXejhaZE1lREpUYW5SamRHSTNyM0trLW1QWXdxZzY3MUdlVExsVXoxTFA2RVlCS1RyQ0UydW0wN080RzBWcVFnRWVsUV9jNzFWZTNaZlplN1h0X3Fxc3pYSkYtc0JFR3NSUFZ4RFNmb3JxcDg0Q2diSzlHaDVOYThxYWlJTzdwRU1wcVoyNFRvOGRKem5nYW82ZlVidnAxLTBiYkhEaUE?oc=5\" target=\"_blank\">Pentagon official to brief NATO allies as review fuels questions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-26T18:00:21+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -115,6 +286,15 @@
       "link": "https://warontherocks.com/zero-problems-abroad-plenty-at-home-reassessing-al-sharaas-leadership-in-syria/",
       "summary": "<p>In 2025, Rob Geist Pinfold wrote, &#8220;The March Massacres Show That Syria Urgently Needs Solutions, Not Sanctions,&#8221; in which he argued that sanctions relief was a major way the West could positively engage with the new Syrian government. A year later, after sanctions relief materialized and the United States removed Syria from its list of terrorism sponsors, we asked him to revisit his arguments and reassess President Ahmed al Sharaa&#8217;s leadership, both foreign and domestic. Image: Voice of America via&#160;Wikimedia CommonsIn your 2025 article, you argued that one way the West should engage with post-Assad Syria was through sanctions relief.</p>\n<p>The post <a href=\"https://warontherocks.com/zero-problems-abroad-plenty-at-home-reassessing-al-sharaas-leadership-in-syria/\">“Zero Problems” Abroad, Plenty at Home: Reassessing al Sharaa’s Leadership in Syria</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-08-26T17:30:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "The Porsche 911 GT3 Touring punches above its weight class",
+      "link": "https://arstechnica.com/cars/2026/08/driven-the-992-2-porsche-911-gt3-touring-earns-its-keep/",
+      "summary": "The \"everyday\" GT3 delivers, despite looming regulations and an ever-inflating price tag.",
+      "published": "2026-08-26T17:25:53+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -142,6 +322,15 @@
       "link": "https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/air-force-awards-766-million-for-b-52-radar-modernization/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/07/B-52-scaled-e1787763849747-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>One contract worth up to $603 million was issued to RTX subsidiary Raytheon, while a second valued at roughly $163 million was issued to B-52 prime contractor Boeing. </p>",
       "published": "2026-08-26T17:06:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Xbox’s new disc-to-digital program gives physical games a digital future",
+      "link": "https://arstechnica.com/gaming/2026/08/xboxs-new-disc-to-digital-program-gives-physical-games-a-digital-future/",
+      "summary": "\"Most\" Xbox One and Series X games are compatible; discs will still work after being claimed.",
+      "published": "2026-08-26T16:59:41+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -246,20 +435,11 @@
     {
       "category": "Crypto",
       "source": "CoinDesk",
-      "title": "Shinhan and Visa team up to test stablecoin issuance and B2B settlements in South Korea",
+      "title": "South Korea’s top financial conglomerate team up with Visa to test stablecoin issuance and B2B settlements",
       "link": "https://www.coindesk.com/business/2026/08/26/south-korea-s-shinhan-financial-joins-visa-to-build-stablecoin-infrastructure",
       "summary": "",
       "published": "2026-08-26T15:15:13+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate and more - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPNWZiUFZqM2pSUlNEQmtJVEllRGF1a04tVG43Q0s2ZDYzME5GRlNsVEdaaW9ScDFDZFhyWElFbEVtQ1JGamZsMDRoaDhtRTJaQUNKaVh0VlpLYTBCVVRHUGtiWEZMdFBTTzBMdU5lV2tVUU11SUxubVVPcTNZVzRDM0Z4TGdDVVp4M085bXdmT1ZiV0Jvcjg3OC1QY0tYT1MtT0pxX3hIa0RZMFRLTTVuMElMY1I0VmFSY2c?oc=5\" target=\"_blank\">US says Chinese hackers broke into Justice Department, NASA, Federal Reserve, Senate and more</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-26T15:13:23+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -268,15 +448,6 @@
       "link": "https://www.theblock.co/news/business/2026-08-26-coinbase-better-make-token-backed-mortgages-generally-available-412810",
       "summary": "Coinbase and Better expand token-backed mortgage access to Coinbase One members, with a 1% closing-cost credit now available.",
       "published": "2026-08-26T15:00:35+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Researchers get two genetic codes to work at the same time",
-      "link": "https://arstechnica.com/science/2026/08/researchers-get-two-genetic-codes-to-work-at-the-same-time/",
-      "summary": "Messing with the genetic code might have gotten a bit easier to do.",
-      "published": "2026-08-26T15:00:34+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -325,15 +496,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Kremlin says US spy chief met with Russian counterparts during Moscow visit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5\" target=\"_blank\">Kremlin says US spy chief met with Russian counterparts during Moscow visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-26T14:44:49+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Bill Gates wants to see a robot tax and ‘Human Reserved’ jobs to mitigate harms from AI",
@@ -352,13 +514,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "15,000 years of solar wind in four hours? A Seattle company gives it a go.",
-      "link": "https://arstechnica.com/space/2026/08/15000-years-of-solar-wind-in-four-hours-a-seattle-company-gives-it-a-go/",
-      "summary": "\"We're living in this world of scarcity with the Moon.\"",
-      "published": "2026-08-26T14:14:52+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Nine killed in Ukrainian strike on bus in Russian-controlled Luhansk region, Russia says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzh2UlBSX2tWWENlZVdZVWsyWmpHMW5ieTJDZzdmcXo1Y3hjc1R0UVdSaGFkaGRjQ0J3cWoxd0JKZ1U4WG5fZUpoUXpCX0N0U2NaaTQwTlpiQXRWWTJJOHRldURNRWNIVk5yMEJfczVDS0RsUVM0UXRBNXJDQUtiQ21hOVNMdHdZa0hjbGdoV2FENnR1cHdNWnpSbDBNTzhlWmlFM2VMaDVrYUJYNmE4YXlZelYtX3NyMldsbVFmNURpNmJ2OEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxPMzh2UlBSX2tWWENlZVdZVWsyWmpHMW5ieTJDZzdmcXo1Y3hjc1R0UVdSaGFkaGRjQ0J3cWoxd0JKZ1U4WG5fZUpoUXpCX0N0U2NaaTQwTlpiQXRWWTJJOHRldURNRWNIVk5yMEJfczVDS0RsUVM0UXRBNXJDQUtiQ21hOVNMdHdZa0hjbGdoV2FENnR1cHdNWnpSbDBNTzhlWmlFM2VMaDVrYUJYNmE4YXlZelYtX3NyMldsbVFmNURpNmJ2OEE?oc=5\" target=\"_blank\">Nine killed in Ukrainian strike on bus in Russian-controlled Luhansk region, Russia says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-26T14:18:26+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -388,30 +550,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Psychiatry’s diagnostic bible is finally getting a biological upgrade",
-      "link": "https://arstechnica.com/health/2026/08/psychiatrys-diagnostic-bible-is-finally-getting-a-biological-upgrade/",
-      "summary": "Biology is coming to psychiatry’s diagnostic manual, even as reliable biomarkers remain rare.",
-      "published": "2026-08-26T13:53:32+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "United Is Launching the First Nonstop Flight From the US to Ibiza",
       "link": "https://edm.com/lifestyle/first-nonstop-flight-us-to-ibiza/",
       "summary": "<p>Four flights a week out of Newark will be scheduled starting May 31, 2027. </p>\n<p>The post <a href=\"https://edm.com/lifestyle/first-nonstop-flight-us-to-ibiza/\">United Is Launching the First Nonstop Flight From the US to Ibiza</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-26T13:33:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Robot brain builders are pushing out of their GPT-2 era",
-      "link": "https://techcrunch.com/2026/08/26/robot-brain-builders-are-pushing-out-of-their-gpt-2-era/",
-      "summary": "Robot bodies are waiting for their AI brains to catch up.",
-      "published": "2026-08-26T13:30:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -451,30 +595,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "QueryStory wants you to believe what AI is telling you",
-      "link": "https://techcrunch.com/2026/08/26/querystory-wants-you-to-believe-what-ai-is-telling-you/",
-      "summary": "The startup came out of stealth with $6 million in seed funding and a plan to use LLMs and cybersecurity know-how to make AI queries coherent.",
-      "published": "2026-08-26T13:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "The evidence doesn't support the banks' case against stablecoin rewards",
       "link": "https://www.coindesk.com/opinion/2026/08/25/the-evidence-doesn-t-support-the-banks-case-against-stablecoin-rewards",
       "summary": "",
       "published": "2026-08-26T13:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Arga Labs is building a better way to train enterprise AI agents",
-      "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
-      "summary": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
-      "published": "2026-08-26T12:55:28+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -505,15 +631,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Narrow majority of Icelanders back EU membership talks, poll shows ahead of referendum - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMS0yd2lIZndjLWdPYkxnUzlncHRYY053OWJEYXhvMlQ4dnJYaVRkbmlsNzEyRWdkVmU5VUtVemdvS1lVNVpEcG1Qc1o0NUROSUZkV0tNS1ZseElQaVU4bVhua1A0NDhDeFdoWm9LeFE0clhVNGdZSGFZSElVaEw5N2RqN2gzYWdYMEQzOXdLNU5MWEk5bjBmZ1F4RDMzYVJacnJBY00zVW9XSVFuVGk2NExXeDctM2RTT3dUYjdR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxPMS0yd2lIZndjLWdPYkxnUzlncHRYY053OWJEYXhvMlQ4dnJYaVRkbmlsNzEyRWdkVmU5VUtVemdvS1lVNVpEcG1Qc1o0NUROSUZkV0tNS1ZseElQaVU4bVhua1A0NDhDeFdoWm9LeFE0clhVNGdZSGFZSElVaEw5N2RqN2gzYWdYMEQzOXdLNU5MWEk5bjBmZ1F4RDMzYVJacnJBY00zVW9XSVFuVGk2NExXeDctM2RTT3dUYjdR?oc=5\" target=\"_blank\">Narrow majority of Icelanders back EU membership talks, poll shows ahead of referendum</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-26T11:55:46+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "‘Altitude sickness can wait’: Bitcoin’s historic short squeeze, Bessent catalyst may signal bull-market reset, analysts say",
@@ -541,40 +658,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
-      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
-      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
-      "published": "2026-08-26T11:10:49+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "The 3 catalysts that could define bitcoin's next move",
-      "link": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
-      "summary": "",
-      "published": "2026-08-26T11:02:33+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
-      "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
-      "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
-      "published": "2026-08-26T11:00:12+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
-      "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
-      "summary": "",
-      "published": "2026-08-26T10:45:29+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "How Should Investors Read the Mixed Signals Coming From Private Markets? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQWjhva0Zxa0dadE1QSm9LWmRpbTBiX0pGM0hYSnpJWWRWNzJiSjdGLU56eV9pZHRjTE1QZjFYMXAyVWM0OTlEOHF4cXZ5blVhb29mcTZoNVI5VkxDdFRaRURyaVl6c0J3WTVKT3lYaEk1dmFmYVRCZEh3RlZFSXlta3pxSGRxNnlIZ2tvZ2FZQkxJQ1d3LXlFUWhFNnBhZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQWjhva0Zxa0dadE1QSm9LWmRpbTBiX0pGM0hYSnpJWWRWNzJiSjdGLU56eV9pZHRjTE1QZjFYMXAyVWM0OTlEOHF4cXZ5blVhb29mcTZoNVI5VkxDdFRaRURyaVl6c0J3WTVKT3lYaEk1dmFmYVRCZEh3RlZFSXlta3pxSGRxNnlIZ2tvZ2FZQkxJQ1d3LXlFUWhFNnBhZw?oc=5\" target=\"_blank\">How Should Investors Read the Mixed Signals Coming From Private Markets?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-26T11:04:29+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -676,15 +766,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "The world's busiest spaceport is about to get a lot quieter, at least for now",
-      "link": "https://arstechnica.com/space/2026/08/the-worlds-busiest-spaceport-is-about-to-get-a-lot-quieter-at-least-for-now/",
-      "summary": "SpaceX aims to launch Starship from Florida by the end of the year. 2027 seems more likely.",
-      "published": "2026-08-25T22:21:06+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Ukraine needs changes to avoid losing war, ousted defense minister says",
@@ -730,24 +811,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "MIT Technology Review",
-      "title": "A new stamp on cyberfraud prevention",
-      "link": "https://www.technologyreview.com/2026/08/25/1140914/a-new-stamp-on-cyberfraud-prevention/",
-      "summary": "For Rupert Young ’95, SM ’95, his career in data science and cybersecurity began when his grandfather gifted him thousands of stamps: He built intricate databases to catalogue them, displaying the “precise eye” for detail and nuance that his MIT application essay said would make him a good engineer. Young is now chief product officer&#8230;",
-      "published": "2026-08-25T21:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "World humanoid robot games show runners breaking records, bursting into flames",
-      "link": "https://arstechnica.com/ai/2026/08/world-humanoid-robot-games-show-runners-breaking-records-bursting-into-flames/",
-      "summary": "Record-breaking robot races are less substantial than household chore challenges.",
-      "published": "2026-08-25T20:59:03+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Arcade Fire Frontman to Play Rare DJ Set at LA Halloween Event",
@@ -763,15 +826,6 @@
       "link": "https://www.twz.com/news-features/ukraine-situation-report-russia-to-seize-commercial-infrastructure-left-unprotected-from-drones",
       "summary": "<p>Russia says companies need to buy their own air defenses to protect critical facilities, and those that haven't will be commandeered.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/ukraine-situation-report-russia-to-seize-commercial-infrastructure-left-unprotected-from-drones\">Ukraine Situation Report: Russia To Seize Commercial Infrastructure Left Unprotected From Drones</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-25T19:42:25+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "US Navy’s new anti-submarine torpedo will be a glide weapon",
-      "link": "https://www.defensenews.com/industry/techwatch/2026/08/25/us-navys-new-anti-submarine-torpedo-will-be-a-glide-weapon/",
-      "summary": "What form will the Silent Anvil Air-Launched Torpedo, or SAA-LT, take? The Navy wants contractors to explore two options.",
-      "published": "2026-08-25T19:30:37+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -838,48 +892,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "USS Abraham Lincoln to dock in Thailand next week, Thai official says",
-      "link": "https://www.defensenews.com/news/your-navy/2026/08/25/uss-abraham-lincoln-to-dock-in-thailand-next-week-thai-official-says/",
-      "summary": "The aircraft carrier USS Abraham Lincoln is expected to dock in Thailand next week, according to a Thai official.",
-      "published": "2026-08-25T15:59:15+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Saudi-Turkish-Pakistani defense pact to boost Turkish  industry, entire trilateral ‘ecosystem’",
-      "link": "https://breakingdefense.com/2026/08/saudi-turkish-pakistani-defense-pact-to-boost-turkish-industry-entire-trilateral-ecosystem/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/saudi-turkish-pakistani-defense-pact-to-boost-turkish-industry-entire-trilateral-ecosystem/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/02/250226_kaan_model_idex_AGNES-scaled-e1740585056855-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“The Mecca Pact should not be viewed simply as an arms-export agreement. It is much broader,&#8221; one expert told Breaking Defense.</p>",
-      "published": "2026-08-25T15:20:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Core Sampler is “the sampler Pro Tools should already have” – this is how it works",
       "link": "https://musictech.com/news/gear/core-sampler-pro-tools-how-it-works-features/?utm_source=rss&utm_medium=rss&utm_campaign=core-sampler-pro-tools-how-it-works-features",
       "summary": "<p><img alt=\"Coretone Core Sampler\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/08/Core-Sampler-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Core Sampler was developed by film composer Nico Borromeo, who says he was “tired of turning musical ideas into timeline and audio-clip work.”</p>\n<p>The post <a href=\"https://musictech.com/news/gear/core-sampler-pro-tools-how-it-works-features/\">Core Sampler is “the sampler Pro Tools should already have” – this is how it works</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-25T14:43:17+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Navy establishes new defense industrial base office: Cao",
-      "link": "https://breakingdefense.com/2026/08/navy-establishes-new-defense-industrial-base-office-cao/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/08/navy-establishes-new-defense-industrial-base-office-cao/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/9640021-scaled-e1777409978745-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Andrew Magliochetti, who previously served as the director of the Navy’s Office of Small Business Programs, will oversee the Office of the Defense Industrial Base. </p>",
-      "published": "2026-08-25T14:21:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "USAF C-17 Makes Extremely Rare Visit To Moscow (Updated)",
-      "link": "https://www.twz.com/air/usaf-c-17-makes-extremely-rare-visit-to-moscow",
-      "summary": "<p>The C-17 flew to the Russian capital from a base just outside Washington, D.C., with a stop in Riga, Latvia.</p>\n<p>The post <a href=\"https://www.twz.com/air/usaf-c-17-makes-extremely-rare-visit-to-moscow\">USAF C-17 Makes Extremely Rare Visit To Moscow (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-25T13:06:11+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -930,18 +948,18 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Bitcoin nears $80,000. What’s going on? - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5\" target=\"_blank\">Bitcoin nears $80,000. What’s going on?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "title": "Gen-Z wants to text at the speed of pigeon - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUY0SF9VRFB5bWpjRERnQ0l0MzJZSjVQREgwWjFxY2o4Rm1CdWttQUdLazl5ZkJ4LVJhcU5XVVNnTzktVko2LXM0WjE0SlN5TUpMdWhtcnVsQkhocWN5MTBXZTJzYTUyeUxlbGxXRGlSNHBRTTRKNkZEemF1QzF5SW5uUjc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUY0SF9VRFB5bWpjRERnQ0l0MzJZSjVQREgwWjFxY2o4Rm1CdWttQUdLazl5ZkJ4LVJhcU5XVVNnTzktVko2LXM0WjE0SlN5TUpMdWhtcnVsQkhocWN5MTBXZTJzYTUyeUxlbGxXRGlSNHBRTTRKNkZEemF1QzF5SW5uUjc?oc=5\" target=\"_blank\">Gen-Z wants to text at the speed of pigeon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-25T06:12:49+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Gen-Z wants to text at the speed of pigeon - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUY0SF9VRFB5bWpjRERnQ0l0MzJZSjVQREgwWjFxY2o4Rm1CdWttQUdLazl5ZkJ4LVJhcU5XVVNnTzktVko2LXM0WjE0SlN5TUpMdWhtcnVsQkhocWN5MTBXZTJzYTUyeUxlbGxXRGlSNHBRTTRKNkZEemF1QzF5SW5uUjc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxQLUY0SF9VRFB5bWpjRERnQ0l0MzJZSjVQREgwWjFxY2o4Rm1CdWttQUdLazl5ZkJ4LVJhcU5XVVNnTzktVko2LXM0WjE0SlN5TUpMdWhtcnVsQkhocWN5MTBXZTJzYTUyeUxlbGxXRGlSNHBRTTRKNkZEemF1QzF5SW5uUjc?oc=5\" target=\"_blank\">Gen-Z wants to text at the speed of pigeon</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "title": "Bitcoin nears $80,000. What’s going on? - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5\" target=\"_blank\">Bitcoin nears $80,000. What’s going on?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-25T06:12:49+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -961,15 +979,6 @@
       "link": "https://www.foreignaffairs.com/united-states/maximum-pressure-iran-will-fail",
       "summary": "Trump's war has brought American strategy to a dead end.",
       "published": "2026-08-25T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Ship Struck In Strait Of Hormuz Hours After Trump’s “Economic D-Day” Campaign On Iran Unveiled",
-      "link": "https://www.twz.com/news-features/ship-struck-in-strait-of-hormuz-hours-after-trumps-economic-d-day-campaign-on-iran-unveiled",
-      "summary": "<p>As the U.S. attempts once again to pressure Iran into negotiating, it seems like Iran has given its answer to the U.S. in the form of another strike in the strait. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/ship-struck-in-strait-of-hormuz-hours-after-trumps-economic-d-day-campaign-on-iran-unveiled\">Ship Struck In Strait Of Hormuz Hours After Trump&#8217;s &#8220;Economic D-Day&#8221; Campaign On Iran Unveiled</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-25T00:25:25+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1016,6 +1025,15 @@
       "summary": "<p><img alt=\"Sony MDR-MV1 headphones\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2023/05/Sony-Headphones-2@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Score discounts on some of our favourite studio and monitor headphones at Guitar Center.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/guitar-center-sony-headphones-sale/\">The Sony headphones we rated 10/10 are now $78 off</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-08-24T09:23:57+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "10 Stocks Top Fund Managers Have Been Buying Amid Market Uncertainty - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxONzlWT1ZIaGtrcUMzbzEta04weVZvYzFnS19YaG1FMWZLR0l5THhWYUU1RXJyZE1ZeVN1c2xmb2dlOFZObFRtMnR2dDBGRExPNFA1REVlQzZDY1pFNUN0R0Z6TV9VY3ZmRDVvUWVsVU9kVXRjX2t0WW1UR2tmaUY4N3BFOUpES0pwSGsxSWxaX2ZtYkxWdHNSbmpodlc2Q2FUUHdOeTln?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxONzlWT1ZIaGtrcUMzbzEta04weVZvYzFnS19YaG1FMWZLR0l5THhWYUU1RXJyZE1ZeVN1c2xmb2dlOFZObFRtMnR2dDBGRExPNFA1REVlQzZDY1pFNUN0R0Z6TV9VY3ZmRDVvUWVsVU9kVXRjX2t0WW1UR2tmaUY4N3BFOUpES0pwSGsxSWxaX2ZtYkxWdHNSbmpodlc2Q2FUUHdOeTln?oc=5\" target=\"_blank\">10 Stocks Top Fund Managers Have Been Buying Amid Market Uncertainty</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-08-24T09:19:19+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -1074,10 +1092,10 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "You don’t need to change the world to get rich - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3A1UnJPa0hzXzJZR3YzbnpoSndZSkhMbHVKUm15NUlCU2g1RzEySUU4dzQxRUFrTXNjYzNoNnVOWVFEdFcwNzJxZWN3eEYwLVF4Z1JRMXljbndKOVRUNTRtWHBPY3lMNGlfemFZNHhlZGVEUEZfU0ZPNHFqNkNtSGR0UVZXc2t1?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3A1UnJPa0hzXzJZR3YzbnpoSndZSkhMbHVKUm15NUlCU2g1RzEySUU4dzQxRUFrTXNjYzNoNnVOWVFEdFcwNzJxZWN3eEYwLVF4Z1JRMXljbndKOVRUNTRtWHBPY3lMNGlfemFZNHhlZGVEUEZfU0ZPNHFqNkNtSGR0UVZXc2t1?oc=5\" target=\"_blank\">You don’t need to change the world to get rich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-23T07:12:12+00:00",
+      "title": "How Seoul became the busiest international airport - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxON2ttZDlENm9XV3FFMnNPQmhKY19ITTMzakVHVDlvOUIxMzF0cGtCT2puWTFqLURpNmdBaWoyTzJWV3hBa2FDeUN1X2FyTXlZZ1lFVkFnQl9GNTZESkFLVWxDbFRIbzZMcENNQkZjWnNBWjZWS01fdkhjd2x3SWZfYzdGQUlzS1NXdXg4YXl1Zw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxON2ttZDlENm9XV3FFMnNPQmhKY19ITTMzakVHVDlvOUIxMzF0cGtCT2puWTFqLURpNmdBaWoyTzJWV3hBa2FDeUN1X2FyTXlZZ1lFVkFnQl9GNTZESkFLVWxDbFRIbzZMcENNQkZjWnNBWjZWS01fdkhjd2x3SWZfYzdGQUlzS1NXdXg4YXl1Zw?oc=5\" target=\"_blank\">How Seoul became the busiest international airport</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-22T05:04:33+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1339,24 +1357,6 @@
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2020-12-07T16:27:24+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Broadcom Inc (AVGO) - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWGhESUhROFdMaGctTmlwV1VQTFFxWXRWaTJ0VVJjalhLeGtVRVZyVVZkdWo4V3FCaVBaYXJhcWx6TkFNbXBDSW1NMGc0N1FEWjYweXhicUE2NjVCcmsw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE0zWGhESUhROFdMaGctTmlwV1VQTFFxWXRWaTJ0VVJjalhLeGtVRVZyVVZkdWo4V3FCaVBaYXJhcWx6TkFNbXBDSW1NMGc0N1FEWjYweXhicUE2NjVCcmsw?oc=5\" target=\"_blank\">Broadcom Inc (AVGO)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2019-07-16T01:23:42+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Careers at Morningstar - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2018-12-11T01:03:09+00:00",
       "feed_type": "google_news_fallback"
     },
     {
