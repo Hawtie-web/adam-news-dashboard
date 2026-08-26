@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26T10:40:24.276478+00:00",
+  "updated_at": "2026-08-26T11:34:49.866449+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,105 @@
     }
   ],
   "items": [
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I’m 56 with $1.4 million and want to retire in 5 years. Do I move to California, New York or overseas?",
+      "link": "https://www.marketwatch.com/story/im-56-with-1-4-million-and-want-to-retire-in-5-years-do-i-move-to-california-new-york-or-overseas-7cf10b08?mod=mw_rss_topstories",
+      "summary": "“How do I prepare for market drops or crashes just before or after retirement?”",
+      "published": "2026-08-26T11:31:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘It’s the ultimate regifting’: My mom gave me a house. Should I transfer it back to her to reduce capital gains?",
+      "link": "https://www.marketwatch.com/story/its-the-ultimate-regifting-my-mom-gave-me-a-house-should-i-transfer-it-back-to-her-to-reduce-capital-gains-e357f49c?mod=mw_rss_topstories",
+      "summary": "“The property is very old and requires significant ongoing maintenance.”",
+      "published": "2026-08-26T11:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "ECB claims digital euro will offer 'maximum level of privacy' amid surveillance fears",
+      "link": "https://www.coindesk.com/policy/2026/08/26/the-digital-euro-will-offer-more-privacy-than-regular-bank-transfers-ecb-says",
+      "summary": "",
+      "published": "2026-08-26T11:14:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "IBM's new Granite 4.2 models ride the wave of interest in local LLMs",
+      "link": "https://arstechnica.com/ai/2026/08/ibms-new-granite-4-2-models-ride-the-wave-of-interest-in-local-llms/",
+      "summary": "The focus is on agentic capability and predictable enterprise deployment.",
+      "published": "2026-08-26T11:10:49+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Wall Street’s massive bet against long-term bonds is a recipe for a painful bearish unwind, says Citadel Securities",
+      "link": "https://www.marketwatch.com/story/wall-streets-massive-bet-against-long-term-bonds-is-a-recipe-for-a-painful-bearish-unwind-says-citadel-securities-430dc145?mod=mw_rss_topstories",
+      "summary": "Citadel Securities’ strategist Frank Flight says a bet that appears to be one-sided against long-term bonds could be setting up for a painful unwind.",
+      "published": "2026-08-26T11:07:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "The 3 catalysts that could define bitcoin's next move",
+      "link": "https://www.coindesk.com/daybook-us/2026/08/26/the-3-catalysts-that-could-define-bitcoin-s-next-move",
+      "summary": "",
+      "published": "2026-08-26T11:02:33+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Xtracycle's Swoop ASM e-bike brings an automatic transmission to cargo bikes",
+      "link": "https://arstechnica.com/cars/2026/08/xtracycles-swoop-asm-e-bike-brings-an-automatic-transmission-to-cargo-bikes/",
+      "summary": "A steel frame cargo bike with a unique twist: You can let it choose your gear.",
+      "published": "2026-08-26T11:00:12+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+      "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+      "summary": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+      "published": "2026-08-26T11:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin takes a breather after adding 23% in 7 days as ETF demand holds steady",
+      "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-takes-a-breather-after-adding-23-in-7-days-as-etf-demand-holds-steady",
+      "summary": "",
+      "published": "2026-08-26T10:45:29+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Strategy cuts net leverage to near zero as cash nearly matches convertible debt",
+      "link": "https://www.coindesk.com/markets/2026/08/26/strategy-cuts-net-leverage-to-near-zero-as-cash-nearly-matches-convertible-debt",
+      "summary": "",
+      "published": "2026-08-26T10:42:52+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Kremlin says US spy chief held talks with Russian counterparts during Moscow visit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxOVmlRUk55MzlrOEpyYWZiR1VqYmh2UXhibi13SVRoS0dBWjBKbTk2eTBmeWtRd1R5R1owRXFZN1VLc1RpQk9KSDR4TjVqbWhQUmRKMGJNeFpMVFhmU3BXV3gtblc5US10ai01cEhKZUlhLVZ1cVJoSFMtTjF2TnRDUjd5eHZNN3JNRzNwRk02V3gtUTB3ZUo2UkZqbG05aC1wY3FnRlVMbHBweENaZ01UX2lsY3hOZ1dEaEE?oc=5\" target=\"_blank\">Kremlin says US spy chief held talks with Russian counterparts during Moscow visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-26T10:29:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "Crypto",
       "source": "The Block",
@@ -82,15 +181,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Japan got caught in the tech selloff. Now it’s time to buy the dip, says strategist.",
-      "link": "https://www.marketwatch.com/story/japan-got-caught-in-the-tech-selloff-now-its-time-to-buy-the-dip-says-strategist-c7b4ed5f?mod=mw_rss_topstories",
-      "summary": "A research firm says there are cyclical, fundamental and technical reason to buy Japanese stocks.",
-      "published": "2026-08-26T09:09:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Japan to start stocks and bonds tokenization development plans this year",
@@ -127,24 +217,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "SAP stock slumps as UBS downgrades stock on ‘slow’ move into AI",
-      "link": "https://www.marketwatch.com/story/sap-stock-slumps-as-ubs-downgrades-stock-on-slow-move-into-ai-ed5bd4ab?mod=mw_rss_topstories",
-      "summary": "SAP stock slumped on Wednesday, making it the worst-performing large-cap European stock, after a UBS analyst criticized the German database giant’s slow rollout of artificial-intelligence-based tools.",
-      "published": "2026-08-26T08:58:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Oil prices extend slide as Iran and Oman eye temporary Hormuz deal",
-      "link": "https://www.marketwatch.com/story/oil-prices-extend-slide-as-iran-and-oman-eye-temporary-hormuz-deal-a86a86bf?mod=mw_rss_topstories",
-      "summary": "West Texas Intermediate and Brent crude’s October contracts declined by almost 7% and 9% in five days, respectively.",
-      "published": "2026-08-26T08:54:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Live updates: Zcash pulls back 8% as its Grayscale ETF goes live, capping a 60% rally",
@@ -161,6 +233,15 @@
       "summary": "The two will also test the application of stablecoins in card payments, AI-based future payment models, and B2B and B2C payment businesses.",
       "published": "2026-08-26T08:43:43+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Tibet's Gyirong suffers 'major casualties' from mudslide, Xinhua reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVV5M1FBbWFmZlRFcGxHdkJPVFVwSFJ6RXNmYldLU0JQazdDZlVtZlY3UnlaX3JwQ2wtczBGQ1VnekRXMWtqNzg5Q1ZuMzM4ZDd6SVFGMTFEbFFiZWJWdDlURk9veWJKdXZJaDM3U3draktOdTBqSmtBM21lcVA0SnVXOW90X2pMR1psUUdRTDBuS0poWVVjd1FQcVhKVGsxendNaHVFLWdSX1dhcklLeA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPVVV5M1FBbWFmZlRFcGxHdkJPVFVwSFJ6RXNmYldLU0JQazdDZlVtZlY3UnlaX3JwQ2wtczBGQ1VnekRXMWtqNzg5Q1ZuMzM4ZDd6SVFGMTFEbFFiZWJWdDlURk9veWJKdXZJaDM3U3draktOdTBqSmtBM21lcVA0SnVXOW90X2pMR1psUUdRTDBuS0poWVVjd1FQcVhKVGsxendNaHVFLWdSX1dhcklLeA?oc=5\" target=\"_blank\">Tibet's Gyirong suffers 'major casualties' from mudslide, Xinhua reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-26T08:37:01+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -199,15 +280,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Some Chinese workers see an ally in Brussels as EU trade tensions mount - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGRtUVpOeWFvQWFUbmNJeGxjYlRuaktxd1AtbUw2bFAtOWJCbjBfSmNfMlJYT2xMcThMOUQ4bXNQUzV2N19kNHBkWGtOZXd1aHRfZTV5WXNsZ2RyR1hhcFB5MGN2VTlCSGYzaGJUYUpnWWZQSHVzN3plaDY0V2VtNzlYMFV4WG9NR2JIalFfeFdkWG1pQ1hnSFdCMTdFVHJXNWdIeUQwUktVeUxHM0NRdTJjQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQcGRtUVpOeWFvQWFUbmNJeGxjYlRuaktxd1AtbUw2bFAtOWJCbjBfSmNfMlJYT2xMcThMOUQ4bXNQUzV2N19kNHBkWGtOZXd1aHRfZTV5WXNsZ2RyR1hhcFB5MGN2VTlCSGYzaGJUYUpnWWZQSHVzN3plaDY0V2VtNzlYMFV4WG9NR2JIalFfeFdkWG1pQ1hnSFdCMTdFVHJXNWdIeUQwUktVeUxHM0NRdTJjQQ?oc=5\" target=\"_blank\">Some Chinese workers see an ally in Brussels as EU trade tensions mount</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-26T07:27:44+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
@@ -226,15 +298,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "BlackRock cuts bitcoin ETF swap minimum to $1 million: Report",
-      "link": "https://www.coindesk.com/markets/2026/08/26/E",
-      "summary": "",
-      "published": "2026-08-26T05:52:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "World News & Politics",
       "source": "Reuters World",
       "title": "Six Chinese nationals among seven killed in Russian gas plant fire - Reuters",
@@ -242,15 +305,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSy1EQW5PVlpfSUNUNzNTekRBMFVoM0Rjamh3cXlLUVJfMmwxMHZwX1gwRE9fQnRVak40MGg2c1NWUFNiYVUyRWVBcThfSU5sVFVteXZ3SC0tQkt0MmVxenB5VlQ2bjJoTzI5c1o2ejVGYnQ3UGZqLVJjYmNzalp0X1JwNUdja3dQaGJfSmJaeEcxQlg1bDhEY1Z1TVBYMHBsaGt4eF8yWFFHREU2QWVGc3Vlbl9XRDVHUGkwT0JtWXR6RFE?oc=5\" target=\"_blank\">Six Chinese nationals among seven killed in Russian gas plant fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-26T05:19:00+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "XRP’s 44% rally brings leverage back, raising risk of sharper pullback",
-      "link": "https://www.coindesk.com/markets/2026/08/26/xrp-s-44-rally-brings-leverage-back-raising-risk-of-sharper-pullback",
-      "summary": "",
-      "published": "2026-08-26T05:16:32+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "World News & Politics",
@@ -271,22 +325,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto greed gauge hits highest since just before October’s $19 billion wipeout",
-      "link": "https://www.coindesk.com/markets/2026/08/26/crypto-greed-gauge-hits-highest-since-just-before-october-s-usd19-billion-wipeout",
-      "summary": "",
-      "published": "2026-08-26T04:51:49+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin holds $79,000, ether, solana slip as traders bank a week of gains",
-      "link": "https://www.coindesk.com/markets/2026/08/26/bitcoin-holds-usd79-000-ether-solana-slip-4-as-traders-bank-a-week-of-gains",
-      "summary": "",
-      "published": "2026-08-26T04:13:10+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "A new way to keep tabs on your aging parents - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUpBdDlRd0F1NE5XTHdkdEFwbi1pYVktODVsZ0xBTTFNLXVTYWY3bGhaS25CU1I1YVRDT2hFUV82VTlhcjFnekFxNkpIaGFJd2xIdTg2dU04aWlZSU1Bel9VVjRTQmFORjFiU2FYSWtva3RZbURJUjZQRjhZaEVjcy01OE16QlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQeUpBdDlRd0F1NE5XTHdkdEFwbi1pYVktODVsZ0xBTTFNLXVTYWY3bGhaS25CU1I1YVRDT2hFUV82VTlhcjFnekFxNkpIaGFJd2xIdTg2dU04aWlZSU1Bel9VVjRTQmFORjFiU2FYSWtva3RZbURJUjZQRjhZaEVjcy01OE16QlE?oc=5\" target=\"_blank\">A new way to keep tabs on your aging parents</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-26T04:11:49+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -349,15 +394,6 @@
       "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONzJwNFZmZFFlcHBkeVVmM3ZzcU9qNnFXWEFmSF9aNzlKeUhOMVBwQXhUdmZGWU0xLXdMNU5SQWhPbmYwSUdqTENxeVNKM3JIRGRHUldqcU5MV2dIYzdJem1xanBISHNMZUpGeURma3hJYWU3Vlp5TWY0Wm9kZnNSUl9ObjNVTHNwY3hfSUdJN3JhZFdZTUZUbWhkdWNxdHhudjI3OXFJcjhzc0NQUkIxb1o4ZWRFZzVHUlY2N3VzekpIRVFBQU1vUXI3LXFpQQ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxONzJwNFZmZFFlcHBkeVVmM3ZzcU9qNnFXWEFmSF9aNzlKeUhOMVBwQXhUdmZGWU0xLXdMNU5SQWhPbmYwSUdqTENxeVNKM3JIRGRHUldqcU5MV2dIYzdJem1xanBISHNMZUpGeURma3hJYWU3Vlp5TWY0Wm9kZnNSUl9ObjNVTHNwY3hfSUdJN3JhZFdZTUZUbWhkdWNxdHhudjI3OXFJcjhzc0NQUkIxb1o4ZWRFZzVHUlY2N3VzekpIRVFBQU1vUXI3LXFpQQ?oc=5\" target=\"_blank\">South Korea's Lee calls for greater police accountability after Jeju missing person cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-26T03:16:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "World stocks gain as oil slips on Hormuz hopes ahead of Nvidia results - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE91T2JHeEdCeW1LQUVJbHFFd0lzWkxUXzZjUWZodDZET0tTdWZYbEtpWnpPNGRsNzRZSjF1dUs5ZWNDV0t0a3F6YlBCdWJWTlRKc2F6NVV3T3ltWWl6Um9tbFlvVWRIZDk1dHFpNU5aUFo0UGVibk10NFE5dw?oc=5\" target=\"_blank\">World stocks gain as oil slips on Hormuz hopes ahead of Nvidia results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-26T02:17:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -604,30 +640,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Lab supply companies have been selling antibodies using manipulated images",
-      "link": "https://arstechnica.com/science/2026/08/lab-supply-companies-have-been-selling-antibodies-using-manipulated-images/",
-      "summary": "Image changes that would get a paper retracted are widespread among suppliers.",
-      "published": "2026-08-25T16:16:57+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Six Arrested After North Carolina Police Raid Illicit Nightclub",
       "link": "https://edm.com/news/six-arrested-north-carolina-police-raid-illicit-nightclub/",
       "summary": "<p>The raid marks the latest in a string of takedowns targeting underground nightclubs in the region this year.</p>\n<p>The post <a href=\"https://edm.com/news/six-arrested-north-carolina-police-raid-illicit-nightclub/\">Six Arrested After North Carolina Police Raid Illicit Nightclub</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-25T16:08:43+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "New bootloader lets you take the \"Meta\" out of the original Meta Quest",
-      "link": "https://arstechnica.com/gaming/2026/08/new-bootloader-lets-you-take-the-meta-out-of-the-original-meta-quest/",
-      "summary": "Privilege escalation attack grants \"full control\" and freedom from Meta's servers/apps.",
-      "published": "2026-08-25T16:04:37+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -763,15 +781,6 @@
       "link": "https://www.twz.com/air/usaf-c-17-makes-extremely-rare-visit-to-moscow",
       "summary": "<p>The C-17 flew to the Russian capital from a base just outside Washington, D.C., with a stop in Riga, Latvia.</p>\n<p>The post <a href=\"https://www.twz.com/air/usaf-c-17-makes-extremely-rare-visit-to-moscow\">USAF C-17 Makes Extremely Rare Visit To Moscow (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-25T13:06:11+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Accel-backed Keenable is indexing the web for AI agents",
-      "link": "https://techcrunch.com/2026/08/25/accel-backed-keenable-is-indexing-the-web-for-ai-agents/",
-      "summary": "Now exiting stealth mode with a $26 million seed round, Keenable has been building a vast web search index for AI agents.",
-      "published": "2026-08-25T13:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1106,15 +1115,6 @@
       "summary": "And why Beijing can’t—or won’t—crack down.",
       "published": "2026-08-21T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "We’re one step closer to a cancer vaccine - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE04VDNRMDlkNzNDa2VidlpZSHdJNGNqbFB0andSbEhrcFBVYl9ubGFiZVR1dDJmUS1WLWg0a3pKSkpGSkdlaktncGhWbExMVTh1N0I1ZjN4ZzV2aG9xZmdGTEZ1czhnRldHbXEyWmlDZFZPR1pyUHBFdWk2VUN2MkJn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxQOE04VDNRMDlkNzNDa2VidlpZSHdJNGNqbFB0andSbEhrcFBVYl9ubGFiZVR1dDJmUS1WLWg0a3pKSkpGSkdlaktncGhWbExMVTh1N0I1ZjN4ZzV2aG9xZmdGTEZ1czhnRldHbXEyWmlDZFZPR1pyUHBFdWk2VUN2MkJn?oc=5\" target=\"_blank\">We’re one step closer to a cancer vaccine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-20T04:34:23+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
