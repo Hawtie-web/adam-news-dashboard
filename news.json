@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-29T18:15:59.929010+00:00",
+  "updated_at": "2026-08-29T21:35:33.436570+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,13 +10,49 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Layer 1 blockchain Fogo halts mainnet after attacker receives 400 million FOGO tokens, 10% of circulating supply",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-layer-1-blockchain-fogo-halts-mainnet-after-attacker-receives-400-million-fogo-tokens-10-of-circulating-supply-413064",
+      "summary": "The affected tokens make up about 4% of FOGO's genesis supply and were worth about $3 million at the time of the incident.",
+      "published": "2026-08-29T21:16:51+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Cosmos Labs says it wrongly cleared the bug behind a $5.7 million six-chain hack",
+      "link": "https://www.theblock.co/news/defi/2026-08-29-cosmos-labs-says-it-wrongly-cleared-the-bug-behind-a-5-7-million-six-chain-hack-413061",
+      "summary": "MANTRA Chain, which lost $3.6 million, claimed the patch was only released 20 hours before the attack began and did not identify the flaw it fixed.",
+      "published": "2026-08-29T20:15:32+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Russia Changing Missile And Drone Attack Strategy On Ukrainian Capital",
+      "link": "https://www.twz.com/news-features/russia-changing-missile-and-drone-attack-strategy-on-ukrainian-captial",
+      "summary": "<p>Ukraine Situation Report: The new strategy prioritizes frequency over amplitude, wearing down the populace and exhausting air defenders. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/russia-changing-missile-and-drone-attack-strategy-on-ukrainian-captial\">Russia Changing Missile And Drone Attack Strategy On Ukrainian Capital</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-08-29T19:15:36+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
-      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
-      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
-      "published": "2026-08-29T17:36:47+00:00",
+      "title": "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+      "link": "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+      "summary": "This latest lawsuit is particularly broad and homes in on accusations of illegal piracy.",
+      "published": "2026-08-29T18:41:59+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Far-right commentator Milo Yiannopoulos deported to UK - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObURVMERBQWV0QWJua3FzNktCUjV4dE1POXg4MTBpQi1CTFJzSlpaMnpZZHNnR3VHUXpCeDdmQVdTQXU4UlFFLUtRd3JCejdiUERFNzZHTnpmTHFLM2JxMENIY0xrSUN4NjZXbU9JeFpmVnppMmlWY1F2SkdOY0NORElUN3lIX1FwVGc0RkIwSkNHM3VBbE5pYm1QNng?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxObURVMERBQWV0QWJua3FzNktCUjV4dE1POXg4MTBpQi1CTFJzSlpaMnpZZHNnR3VHUXpCeDdmQVdTQXU4UlFFLUtRd3JCejdiUERFNzZHTnpmTHFLM2JxMENIY0xrSUN4NjZXbU9JeFpmVnppMmlWY1F2SkdOY0NORElUN3lIX1FwVGc0RkIwSkNHM3VBbE5pYm1QNng?oc=5\" target=\"_blank\">Far-right commentator Milo Yiannopoulos deported to UK</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-29T18:16:34+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -24,8 +60,17 @@
       "title": "Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDJ3eXpHdUxRbndBaEJmblBpeC13Vk5sMF9lSGJOb3EwSzhDYXBWZnBjYWxqRWgyaGpKNDNsZWxacjRMWF8tQjNvQmNORXNEeVI0TG9nOVBSa2hhY2FFdklhVmVSNGxTalM0bWdtczdPWnd0d0FEeGNTRXdhN0I0eXBVRUFFRHpTX21wQUtJU1FqVmYyRTN2ZmZiNHEzV19OOWVmN3NPcE9SVjZzT29CY2U2bjRXdTAwVXIwcHU3Qjg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaDJ3eXpHdUxRbndBaEJmblBpeC13Vk5sMF9lSGJOb3EwSzhDYXBWZnBjYWxqRWgyaGpKNDNsZWxacjRMWF8tQjNvQmNORXNEeVI0TG9nOVBSa2hhY2FFdklhVmVSNGxTalM0bWdtczdPWnd0d0FEeGNTRXdhN0I0eXBVRUFFRHpTX21wQUtJU1FqVmYyRTN2ZmZiNHEzV19OOWVmN3NPcE9SVjZzT29CY2U2bjRXdTAwVXIwcHU3Qjg?oc=5\" target=\"_blank\">Israeli settlers stage new attack on home in West Bank's Qusra, witnesses say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-29T17:11:05+00:00",
+      "published": "2026-08-29T17:58:32+00:00",
       "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+      "link": "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+      "summary": "Vijay Pande — who left a16z's roughly $4 billion biotech practice last year to start the much smaller, AI-native VZVC — talks about why biology is finally shifting from a \"discovery\" science to an \"engineering\" one, why clinical trials are still brutally expensive, and why he thinks open, shared datasets (not walled-off ones) are what will actually let AI transform medicine.",
+      "published": "2026-08-29T17:36:47+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "World News & Politics",
@@ -118,6 +163,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US military families ride 'roller coaster of emotions' over six months of Iran war - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1PUndmMHEtR2czS0pLUHRwMXhjcG5mZzNjWDdQQ3I3cTlpaW5EdTFVc3BJUjBldmlZR0RJM09CZFhycFFlSmExRC05SEFvR0N1cHdaNWt4LUMxRmFpY2cyVjRfalFlT09EQXZ1XzlqaWt0SEphZFVVNGxDMmtKNUJmN090SFgwY2pfMFRBSXZ2TFpNTGJzRFlmS2ZwZlo4TThGQjhPLWJLa0ZJdmVXUm1OZldxY1hWNFoxYlJXUzF4NTJVMWZv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOUm1PUndmMHEtR2czS0pLUHRwMXhjcG5mZzNjWDdQQ3I3cTlpaW5EdTFVc3BJUjBldmlZR0RJM09CZFhycFFlSmExRC05SEFvR0N1cHdaNWt4LUMxRmFpY2cyVjRfalFlT09EQXZ1XzlqaWt0SEphZFVVNGxDMmtKNUJmN090SFgwY2pfMFRBSXZ2TFpNTGJzRFlmS2ZwZlo4TThGQjhPLWJLa0ZJdmVXUm1OZldxY1hWNFoxYlJXUzF4NTJVMWZv?oc=5\" target=\"_blank\">US military families ride 'roller coaster of emotions' over six months of Iran war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-29T13:09:27+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Nvidia’s AI advantage is moving beyond the GPU",
@@ -201,19 +255,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Norway mourns King Harald as crowds gather at royal palace - Reuters",
+      "title": "Norway's King Haakon honours 'dear father' Harald in first speech as sovereign - Reuters",
       "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEtEeDkxNXc0Zks1OENiT3RZTl9oLWpXNjZfZndzdk9RbHo5RVczY2xvSXB2MHJvVkRPV0dob2ZMamFld00ydUt4VEdqVnQ3QkVxMjBGYWZrSThscjJvOXpjdlBmekUtSzRCRXdGNWpqNnJDaTR0VHFzZ213eVZjZWxkR0lwbFN5TlNlUlZGb0xOUXcxYVdpSGpMY2pMZUdpa0pB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEtEeDkxNXc0Zks1OENiT3RZTl9oLWpXNjZfZndzdk9RbHo5RVczY2xvSXB2MHJvVkRPV0dob2ZMamFld00ydUt4VEdqVnQ3QkVxMjBGYWZrSThscjJvOXpjdlBmekUtSzRCRXdGNWpqNnJDaTR0VHFzZ213eVZjZWxkR0lwbFN5TlNlUlZGb0xOUXcxYVdpSGpMY2pMZUdpa0pB?oc=5\" target=\"_blank\">Norway mourns King Harald as crowds gather at royal palace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxNcEtEeDkxNXc0Zks1OENiT3RZTl9oLWpXNjZfZndzdk9RbHo5RVczY2xvSXB2MHJvVkRPV0dob2ZMamFld00ydUt4VEdqVnQ3QkVxMjBGYWZrSThscjJvOXpjdlBmekUtSzRCRXdGNWpqNnJDaTR0VHFzZ213eVZjZWxkR0lwbFN5TlNlUlZGb0xOUXcxYVdpSGpMY2pMZUdpa0pB?oc=5\" target=\"_blank\">Norway's King Haakon honours 'dear father' Harald in first speech as sovereign</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-29T06:49:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Temasek backs Singapore Airlines' Air India investment amid growing scrutiny - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxOVUxQZW10X0ppY0t2WDFxU2Nldm1CWVdoZ2RuT1c1OWY4RS13QUVpUi1TQ2V3RlZrcTU3NDNxeTNrR0hDVEFxOURkdDJrSWxBYlI1Zl9MVjB2TlZSVXdKanVBMkZuSnBRcWtPRElseXhEb1pXYVRma3puYkxFUy13X1h5aVhLaG4tcGJQanc3cW9sWk84RXhtY2c2cl8wVDNIaG0zMlh2ZW9kUkhadUZSdUF3SV9LSFFXaUFwNy1Wb01KZHFVcHI2cHN3?oc=5\" target=\"_blank\">Temasek backs Singapore Airlines' Air India investment amid growing scrutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-29T05:34:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -242,15 +287,6 @@
       "summary": "",
       "published": "2026-08-29T04:30:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "China's CXMT to supply memory chip for Xiaomi's upcoming folding phone - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTdabFZxanFDSFVqRTE0OTBMQWdQNnRCOUN4aGFZdGt1dTdlbzNUYnNuVGg3X1pSVGh5OTJXT0Z6cVVXb19pX0dRbDFGamV0LVhvYzVzeEJTQldmMlltY2dEdlQ5dUpuM1QwQ2ZkanRTVWlqNU9XRWtXR01TNTdudUloQ29JZmF5cnVTWk9SaF9hRDV0VURpMEYzaFVDYlJXYmFXUmNwcEMzczBBQzhiS3djMks4bGM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOSTdabFZxanFDSFVqRTE0OTBMQWdQNnRCOUN4aGFZdGt1dTdlbzNUYnNuVGg3X1pSVGh5OTJXT0Z6cVVXb19pX0dRbDFGamV0LVhvYzVzeEJTQldmMlltY2dEdlQ5dUpuM1QwQ2ZkanRTVWlqNU9XRWtXR01TNTdudUloQ29JZmF5cnVTWk9SaF9hRDV0VURpMEYzaFVDYlJXYmFXUmNwcEMzczBBQzhiS3djMks4bGM?oc=5\" target=\"_blank\">China's CXMT to supply memory chip for Xiaomi's upcoming folding phone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-29T03:29:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -676,24 +712,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Investors at least $4.7 billion underwater across Trump crypto ventures, Public Citizen says",
-      "link": "https://www.theblock.co/news/business/2026-08-28-investors-at-least-4-7-billion-underwater-across-trump-crypto-ventures-public-citizen-says-413003",
-      "summary": "Investors are $4.7 billion underwater across Trump crypto ventures while Trump earned $1.4 billion, Public Citizen reported.",
-      "published": "2026-08-28T11:26:02+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Circle strikes Chelsea front-of-shirt sponsorship deal featuring USDC",
-      "link": "https://www.theblock.co/news/business/2026-08-28-circle-strikes-chelsea-front-of-shirt-sponsorship-deal-featuring-usdc-413002",
-      "summary": "The shirt design prominently features USDC by Circle on Chelsea's men's, women's, and academy shirts beginning this season.",
-      "published": "2026-08-28T11:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations",
@@ -763,24 +781,6 @@
       "link": "https://www.twz.com/air/nasas-hunt-to-replace-its-iconic-t-38-talon-jets-kicks-off",
       "summary": "<p>NASA T-38s have helped train astronauts for decades, but they are aging and the USAF's impending retirement of its Talon fleet will create new challenges.</p>\n<p>The post <a href=\"https://www.twz.com/air/nasas-hunt-to-replace-its-iconic-t-38-talon-jets-kicks-off\">NASA&#8217;s Hunt To Replace Its Iconic T-38 Talon Jets Kicks Off</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-08-28T00:43:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Anthropic and OpenAI are joining the AI stage at TechCrunch Disrupt 2026",
-      "link": "https://techcrunch.com/2026/08/27/anthropic-and-openai-are-joining-the-ai-stage-at-techcrunch-disrupt-2026/",
-      "summary": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
-      "published": "2026-08-27T23:16:45+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Russia Is Now Using Longer-Range Iskander Ballistic Missiles: Ukraine Intel",
-      "link": "https://www.twz.com/land/russia-is-now-using-longer-range-iskander-ballistic-missiles-ukraine-intel",
-      "summary": "<p>Russia's longer-range Iskanders will make it harder for Ukraine to successfully hunt and destroy them as part of a new campaign.</p>\n<p>The post <a href=\"https://www.twz.com/land/russia-is-now-using-longer-range-iskander-ballistic-missiles-ukraine-intel\">Russia Is Now Using Longer-Range Iskander Ballistic Missiles: Ukraine Intel</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-08-27T21:52:57+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -862,15 +862,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjBrMEpfOHd6cFlHWHhBNEN5RzgtSG5ibGVvUXlUdVRKTXVSMG1YWGt5LU1rZ0hKZ0EybThzcmhmWDRUNkpVNFZpTVFMVHpRcEZhT3BZVnZ6YUZxVDhDdWE2V01Mb294Q2dHRHU3Y2R1bXRReVVKWnZxd25DZjM4b25jYlh1Xzc2SDBPNGR1cW9iQmRKNzVfeXU4Mm1Rd2U4X0NReS1HT3JGMDE1c2ZLV0FoSWc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPUjBrMEpfOHd6cFlHWHhBNEN5RzgtSG5ibGVvUXlUdVRKTXVSMG1YWGt5LU1rZ0hKZ0EybThzcmhmWDRUNkpVNFZpTVFMVHpRcEZhT3BZVnZ6YUZxVDhDdWE2V01Mb294Q2dHRHU3Y2R1bXRReVVKWnZxd25DZjM4b25jYlh1Xzc2SDBPNGR1cW9iQmRKNzVfeXU4Mm1Rd2U4X0NReS1HT3JGMDE1c2ZLV0FoSWc?oc=5\" target=\"_blank\">CrowdStrike Earnings: Raising Fair Value Estimate as AI-Driven Demand Lifts Results</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-08-27T16:16:17+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Victory Capital Makes Its Biggest Bet Yet - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTjNNUFJibkoxblIwSW1TZzRrZjU0b0xVRnQ5Y0NpMXY3SDJKU2hWai1vOE5kRFBFSkZCdHZUQkswOTY1RGxqcmFKc1BCWmdHRWMtQ1VDQWlmci1YTjNtN0ZheWNnRmNLeXM4TW0zT21sNThrdlY3cVMwczBCVmJ2Yg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPTjNNUFJibkoxblIwSW1TZzRrZjU0b0xVRnQ5Y0NpMXY3SDJKU2hWai1vOE5kRFBFSkZCdHZUQkswOTY1RGxqcmFKc1BCWmdHRWMtQ1VDQWlmci1YTjNtN0ZheWNnRmNLeXM4TW0zT21sNThrdlY3cVMwczBCVmJ2Yg?oc=5\" target=\"_blank\">Victory Capital Makes Its Biggest Bet Yet</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-27T16:11:45+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1128,6 +1119,15 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
+      "title": "Bitcoin nears $80,000. What’s going on? - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5\" target=\"_blank\">Bitcoin nears $80,000. What’s going on?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-25T06:12:49+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
       "title": "US unveils supersized Iran sanctions - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tWWhmcEN1OEJqaUtWbzZ3T3VuLXA2NG50SzFrekVBNXBuZGtIck9vdWlyMWlWcnVlb1VmSk0xa3VjMlN5WFZhdTQ2LXAwakNlNXk5Sng3OGRkT0lmVGViZnpIZExlVGdyYWpwcDBFczJ5UndqS2hwM2dTekU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4tWWhmcEN1OEJqaUtWbzZ3T3VuLXA2NG50SzFrekVBNXBuZGtIck9vdWlyMWlWcnVlb1VmSk0xa3VjMlN5WFZhdTQ2LXAwakNlNXk5Sng3OGRkT0lmVGViZnpIZExlVGdyYWpwcDBFczJ5UndqS2hwM2dTekU?oc=5\" target=\"_blank\">US unveils supersized Iran sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
@@ -1159,15 +1159,6 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBdzhtMElrelRwMGhrbXhDQlBBY2ZnR2xtMXVPQ2dmdzJvMTBkeVZEVDNBcTNPNVpFdDJ4TTdMR0VaSWNnODQyOFFrS2VEZFlmcm5mNngxSDlnTE5kOUI1bDZ6TDdLRk0?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBdzhtMElrelRwMGhrbXhDQlBBY2ZnR2xtMXVPQ2dmdzJvMTBkeVZEVDNBcTNPNVpFdDJ4TTdMR0VaSWNnODQyOFFrS2VEZFlmcm5mNngxSDlnTE5kOUI1bDZ6TDdLRk0?oc=5\" target=\"_blank\">This means (trade) war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-08-24T05:59:37+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "You don’t need to change the world to get rich - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3A1UnJPa0hzXzJZR3YzbnpoSndZSkhMbHVKUm15NUlCU2g1RzEySUU4dzQxRUFrTXNjYzNoNnVOWVFEdFcwNzJxZWN3eEYwLVF4Z1JRMXljbndKOVRUNTRtWHBPY3lMNGlfemFZNHhlZGVEUEZfU0ZPNHFqNkNtSGR0UVZXc2t1?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNa3A1UnJPa0hzXzJZR3YzbnpoSndZSkhMbHVKUm15NUlCU2g1RzEySUU4dzQxRUFrTXNjYzNoNnVOWVFEdFcwNzJxZWN3eEYwLVF4Z1JRMXljbndKOVRUNTRtWHBPY3lMNGlfemFZNHhlZGVEUEZfU0ZPNHFqNkNtSGR0UVZXc2t1?oc=5\" target=\"_blank\">You don’t need to change the world to get rich</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-23T07:12:12+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1285,6 +1276,15 @@
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2025-10-23T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "I Thought I Had These 3 Retirement Topics Figured Out. Here’s Why I Changed My Mind - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQamx2Y3V4SnNWSXYwWk0xVkNqeFl5RUN6djd5by1vRm5JWDN4NjgwNTVZQ2VDTUZTcGg3cjN1cFNZWDN5VzRBSllQcTVYc3NkTHRRNVgxaVlLTFh5Y1ZFbWd4UFlPMFZpNENQVnpoMGFQMnVjY2luQVhDX0oyYUE0UXRZdWkyQVU5cHhhVEU3MjlCclFVNDUwYjY5ZkpHd2tk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxQamx2Y3V4SnNWSXYwWk0xVkNqeFl5RUN6djd5by1vRm5JWDN4NjgwNTVZQ2VDTUZTcGg3cjN1cFNZWDN5VzRBSllQcTVYc3NkTHRRNVgxaVlLTFh5Y1ZFbWd4UFlPMFZpNENQVnpoMGFQMnVjY2luQVhDX0oyYUE0UXRZdWkyQVU5cHhhVEU3MjlCclFVNDUwYjY5ZkpHd2tk?oc=5\" target=\"_blank\">I Thought I Had These 3 Retirement Topics Figured Out. Here’s Why I Changed My Mind</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2025-07-07T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
