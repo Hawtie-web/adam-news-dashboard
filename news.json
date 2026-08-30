@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-30T16:28:19.368907+00:00",
+  "updated_at": "2026-08-30T19:41:59.207456+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,13 +10,85 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Crypto.com-linked Cronos network halts after Tectonic exploit estimated at $75 million",
+      "link": "https://www.theblock.co/news/defi/2026-08-30-crypto-com-linked-cronos-network-halts-after-tectonic-exploit-estimated-at-75-million-413069",
+      "summary": "Li says the attacker manipulated the price of Tectonic's illiquid TONIC token before borrowing against the inflated collateral, a Mango Markets-style hack.",
+      "published": "2026-08-30T18:40:08+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
+      "link": "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
+      "summary": "The lawsuit asks a federal court to block the $95 million TRM contract and require ICE to conduct a full and open competition.",
+      "published": "2026-08-30T17:51:54+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5\" target=\"_blank\">US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-30T17:41:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Why it matters that President Trump just dialed into a NASA news conference",
+      "link": "https://arstechnica.com/space/2026/08/why-it-matters-that-president-trump-just-dialed-into-a-nasa-news-conference/",
+      "summary": "With just one more major mission upcoming, NASA's science programs need a boost.",
+      "published": "2026-08-30T17:40:30+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "World News & Politics",
       "source": "Reuters World",
       "title": "Niger says it regains control of airbase after soldiers mutiny - Reuters",
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFhGUjNRU2FTZVljRzFkYmhEZnZXRHhZdDJhVng3eVdTSTZBLVRGc0hoSDBadTZ6TW1DUDhOTElKYzRQaTM0aWtqSGdNNnJfcFRxVm5kYU0tbzdjZjBFMTh2aktHdmdnUTZEcFJCaHlKRmVkSy0wRWRDeU9NOEpEVWM1Tml1X0k0WGplV2VWd3R3QzRvNlM3eEIyejF6cG9YdXRSQzE3VlRXZFZZ?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQdFhGUjNRU2FTZVljRzFkYmhEZnZXRHhZdDJhVng3eVdTSTZBLVRGc0hoSDBadTZ6TW1DUDhOTElKYzRQaTM0aWtqSGdNNnJfcFRxVm5kYU0tbzdjZjBFMTh2aktHdmdnUTZEcFJCaHlKRmVkSy0wRWRDeU9NOEpEVWM1Tml1X0k0WGplV2VWd3R3QzRvNlM3eEIyejF6cG9YdXRSQzE3VlRXZFZZ?oc=5\" target=\"_blank\">Niger says it regains control of airbase after soldiers mutiny</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-30T15:53:02+00:00",
+      "published": "2026-08-30T17:32:28+00:00",
       "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Merz says Germany finalising response to suspected Leipzig attack - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXZkNUhuVmd1NFhwYXByM0hKSVNJcE52WUJrYXNZMkRQMjA4WElMZHZCcFJKN09COWdlSS1wRWlka0prdklCRF9hYVEyaWw4N0Z2UzR1TlA0SjA0TXdMZVNvWVFyaExoM3dxbW1VOXpBQWdUTF81N3UzRWpELU5SYlB6cjVnY2FXa09ONk1hWWZHOExZRFVaeGJpV1NSUW1mV2haSEZ1MA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxObXZkNUhuVmd1NFhwYXByM0hKSVNJcE52WUJrYXNZMkRQMjA4WElMZHZCcFJKN09COWdlSS1wRWlka0prdklCRF9hYVEyaWw4N0Z2UzR1TlA0SjA0TXdMZVNvWVFyaExoM3dxbW1VOXpBQWdUTF81N3UzRWpELU5SYlB6cjVnY2FXa09ONk1hWWZHOExZRFVaeGJpV1NSUW1mV2haSEZ1MA?oc=5\" target=\"_blank\">Merz says Germany finalising response to suspected Leipzig attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-30T17:17:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "At least eight die, 17 missing after ferry capsizes off North Cyprus - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5\" target=\"_blank\">At least eight die, 17 missing after ferry capsizes off North Cyprus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-30T17:15:53+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Musk’s faster path to more gas turbines comes with pollution problem",
+      "link": "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+      "summary": "Elon Musk says a secretive new SpaceX foundry will let him cast his own turbine blades and get gas power online 18 months faster than anyone else — but it's a bet on a fuel source that's already triggering lawsuits and health studies everywhere his (and others') turbines have gone in.",
+      "published": "2026-08-30T16:54:25+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+      "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
+      "published": "2026-08-30T16:30:00+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Crypto",
@@ -64,6 +136,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Nepal steps up rescue effort to reach hundreds trapped in tunnels - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXo4U3I1UGt5SHN2eEwyM0QwQmVtZllCN0RabmhCSUs2czlLRHZiaHhCYjJMUXVseWROVjdtLS1rX1Z4Y3VSejFlSU1aRjlXTzVneTNCekNBclNlSjVPMkFDeEM1YnFpcEpXQzRUVG9aTzlEQnI1LWNaX2diZVY3YkVyZi0zMVF4YlVmQl9iSlI3bm9IYW9KMDMwSnNsWGFYeC1pc2M4X0tLZWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNXo4U3I1UGt5SHN2eEwyM0QwQmVtZllCN0RabmhCSUs2czlLRHZiaHhCYjJMUXVseWROVjdtLS1rX1Z4Y3VSejFlSU1aRjlXTzVneTNCekNBclNlSjVPMkFDeEM1YnFpcEpXQzRUVG9aTzlEQnI1LWNaX2diZVY3YkVyZi0zMVF4YlVmQl9iSlI3bm9IYW9KMDMwSnNsWGFYeC1pc2M4X0tLZWs?oc=5\" target=\"_blank\">Nepal steps up rescue effort to reach hundreds trapped in tunnels</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-30T14:09:43+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "My contractor handed my $42,000 pool upgrade to a subcontractor I had already rejected. What can I do?",
@@ -75,10 +156,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Seven die, many more missing after ferry capsizes off North Cyprus - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPNVlzWG1uLXVQZXVpTWtnajhCNzhhQV85eGNBTWc5V0NDYm91bWZHMFVSX2xUY19EU3RDRXF5d005RE8xUFZObEJsR2VqdUxGTWV3eUdVVm5ZLWxGLUtvMVNjWDFydlQxYUNudU5nOGMzNFo2SVVOZElxUk9OWDBWblNHMzloNEN6bnZJb3QzZU1wQXhET3BYeGQ4NERmT0VsYnQwQzVJVGc5SXk3YzJvWllBbw?oc=5\" target=\"_blank\">Seven die, many more missing after ferry capsizes off North Cyprus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-30T13:55:25+00:00",
+      "title": "Ukraine defence chief pledges 'clear' war plan to win early loan release - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3pyLXRWVzhHRFhiUGpqQWNVbk1SV25DX2RuU1pYLTVfYnRDUzI1NzZiMjFIcjk3bEVSRF9weVhQVU9udXFpSUwwc1FHQVd1Sy0wNnpDeHVpTkVOMlF1cXc4cUNNakpuV3gwU3BDNGtISE5xWnk1QUxKZXdsSUgxNDR3NWcwRHFKNVpvQmZxUi1pdVBSOUQtTmJ3V0xIZzdDajFVVnNfZzJQY3NPRDNKS0JMeUhMMkU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNX3pyLXRWVzhHRFhiUGpqQWNVbk1SV25DX2RuU1pYLTVfYnRDUzI1NzZiMjFIcjk3bEVSRF9weVhQVU9udXFpSUwwc1FHQVd1Sy0wNnpDeHVpTkVOMlF1cXc4cUNNakpuV3gwU3BDNGtISE5xWnk1QUxKZXdsSUgxNDR3NWcwRHFKNVpvQmZxUi1pdVBSOUQtTmJ3V0xIZzdDajFVVnNfZzJQY3NPRDNKS0JMeUhMMkU?oc=5\" target=\"_blank\">Ukraine defence chief pledges 'clear' war plan to win early loan release</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-08-30T13:45:55+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -106,15 +187,6 @@
       "link": "https://www.marketwatch.com/story/these-charts-show-how-leverage-happy-investors-are-transforming-the-stock-market-d4e350c3?mod=mw_rss_topstories",
       "summary": "A rush of retail investors and quant funds has caused a shift toward more borrowed money and more short-term trading.",
       "published": "2026-08-30T13:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
-      "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
-      "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
-      "published": "2026-08-30T12:32:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -156,46 +228,10 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxNTDhtblJ1TEhZZGpCTjZQVUNEc0lHMmoxXzJYVmoxUzh5V0I2MFVWMTl4SnBGTHN6bjFTd3VmNGh4ek5MdzIxdVI5OV9WNjZ1ZEhnQUFPNXVUWldFaDNDY0ZPX1JwQW4yQXJnaE9SMmRIbWU5bVlYOVE1QnhkVTAwcmRHNjZacUVGRkp3Q2pPczlOT01iLU9MUmRjN0dEN1hTTXdNUmtvUjc2aVZjS2tXZE5ES2IyV2l3WVVKdW00Zw?oc=5\" target=\"_blank\">Iran's Khamenei urges Gulf rulers in written message to confront 'real enemy'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-30T10:40:22+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxORVlaS1VmZVF5Rjh3RFkwVk40ZGpBSU1LLXM3XzQ1REFxbnl0aHREWXhieU9vUnU0aUdkTWgtNmJrYk9BRDE3aEllamozWFJVMHZ5QTJUS0pkckpwbjFVQ2dxaEhBaWZWZXg3a05ISG1Fb3k4aWV0QmRSbGFiOHdsQ0x6QWZjUUN6b3lsc2c5MEZOc2RCWXZXcERhdkN4NFJGVHBGejVxbTBZWDdvczdJamxDQ3Jib29xS1lzcURfX05MQ1BET25r?oc=5\" target=\"_blank\">US Treasury's Bessent faces G20 diplomacy test amid tariffs, Iran war, bond turmoil</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-30T10:32:20+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
       "title": "Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says - Reuters",
       "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGEtTUQ0dGF3WlJacDh2Y2tEZ1BsR3hrRG9BY2ZPQjRFVkloRzJPN1o0UWtRVFRnUjgtVHJvVGFwY3FNVy1mbW1DMTdXek9mdDJZSjUxRy1UQm5kVlRBTzZpcFNrVjFWd1YwOU11TUtDRVk0VHVvbFJWVWRKdDN5TlIyeDhyY3VtdXNSQ2dXLUxhRmt1X2I3QzdpbUhEQV9NMjNxNmZNVkxQbEdaU1dKV0x2Y3E3M2U3VktPNDBiM1h1ZlpVYWc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMixgFBVV95cUxQTGEtTUQ0dGF3WlJacDh2Y2tEZ1BsR3hrRG9BY2ZPQjRFVkloRzJPN1o0UWtRVFRnUjgtVHJvVGFwY3FNVy1mbW1DMTdXek9mdDJZSjUxRy1UQm5kVlRBTzZpcFNrVjFWd1YwOU11TUtDRVk0VHVvbFJWVWRKdDN5TlIyeDhyY3VtdXNSQ2dXLUxhRmt1X2I3QzdpbUhEQV9NMjNxNmZNVkxQbEdaU1dKV0x2Y3E3M2U3VktPNDBiM1h1ZlpVYWc?oc=5\" target=\"_blank\">Turkey, Saudi Arabia, Pakistan to hold first defence pact meeting, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-08-30T10:05:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "North Korea names new defense minister, KCNA says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOT09qbVFsMFIyb1lCNThXYm1ia1ktRkRXTV9MRUotV3gweGQ3SXhKb3hWOVZsaFJydWpQM0RKS2phUmVRVkg4X3d5SDhiTWRIUWozeEkxbE90R1ViVDh5Nk96OGJVSGhSQWE5eGdMbFd6WURudjBhMUVrQVFKZmoyU2sxYnhSakh6LUoyb1NEYVlYRW14QWxSV3JvcngwN0FvanJpME9B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxOT09qbVFsMFIyb1lCNThXYm1ia1ktRkRXTV9MRUotV3gweGQ3SXhKb3hWOVZsaFJydWpQM0RKS2phUmVRVkg4X3d5SDhiTWRIUWozeEkxbE90R1ViVDh5Nk96OGJVSGhSQWE5eGdMbFd6WURudjBhMUVrQVFKZmoyU2sxYnhSakh6LUoyb1NEYVlYRW14QWxSV3JvcngwN0FvanJpME9B?oc=5\" target=\"_blank\">North Korea names new defense minister, KCNA says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-30T09:31:56+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Kyiv region strike death toll rises to 38, Zelenskiy says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWoxSm1UNnk2MVVYY0YtM0FBamczZko1djdoZDBZdEtobFJWTC1EME1EemxLbUI3WVhwQTFDM3BFZGFEYXVWY2tHamUzcm1WZ0hUcVlsR1NwbEs3VDNqVUhYY3Q5emhmOHQ5ODIwUWE3Nm1mWEpHaWVTUE1XWGlKLVBZYzdENzlHcU9JdmZwTHFxTHlsRnpXdG9QMno1bzdEd09FUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxONWoxSm1UNnk2MVVYY0YtM0FBamczZko1djdoZDBZdEtobFJWTC1EME1EemxLbUI3WVhwQTFDM3BFZGFEYXVWY2tHamUzcm1WZ0hUcVlsR1NwbEs3VDNqVUhYY3Q5emhmOHQ5ODIwUWE3Nm1mWEpHaWVTUE1XWGlKLVBZYzdENzlHcU9JdmZwTHFxTHlsRnpXdG9QMno1bzdEd09FUQ?oc=5\" target=\"_blank\">Kyiv region strike death toll rises to 38, Zelenskiy says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-08-30T09:21:56+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -514,15 +550,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Apple One and Apple TV subscription prices increase by up to 20 percent",
-      "link": "https://arstechnica.com/gadgets/2026/08/apple-one-and-apple-tv-subscription-prices-increase-by-up-to-20-percent/",
-      "summary": "Annual Apple TV subscriptions get the biggest bump.",
-      "published": "2026-08-28T17:23:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "U.S. Expanding B-52 Bomber Capacity At Moron Air Base In Spain",
@@ -673,33 +700,6 @@
       "link": "https://breakingdefense.com/2026/08/the-president-doesnt-need-a-one-trick-army/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/08/the-president-doesnt-need-a-one-trick-army/\"><img alt=\"Soldiers from A Battery, 5th Battalion, 4th Air Defense Artillery Regiment conduct Maneuver Short Range Air Defense (M SHORAD) live fire operations during a multi-phase FAMFIRE event at Grafenwoehr Training Area, Germany,\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/04/Karako-2-scaled-e1787778455489-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>In our high-tech, fast-moving world, the US Army should stop optimizing for prediction and start optimizing for uncertainty, argues this retired one-star general. </p>",
       "published": "2026-08-28T13:38:24+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
-      "link": "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
-      "summary": "Ajaib offers crypto and stablecoins alongside traditional investments, including OTC settlement services for institutional clients.",
-      "published": "2026-08-28T13:32:26+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "IREN’s $25 billion-$30 billion AI buildout may have ‘spooked’ investors, Bernstein says",
-      "link": "https://www.theblock.co/news/business/2026-08-28-irens-25-billion-30-billion-ai-buildout-may-have-spooked-investors-bernstein-says-413016",
-      "summary": "IREN has $4 billion in contracted cloud ARR for 2026 capacity and has secured over $20M in annual revenue per IT megawatt on recent deals.",
-      "published": "2026-08-28T12:57:52+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Anthropic gets its first court win over the Pentagon’s supply-chain risk label",
-      "link": "https://techcrunch.com/2026/08/28/anthropic-gets-its-first-court-win-over-the-pentagons-supply-chain-risk-label/",
-      "summary": "A federal judge ruled the Trump administration illegally labeled Anthropic a supply-chain risk, handing the AI company a victory as its second Pentagon lawsuit continues in Washington.",
-      "published": "2026-08-28T12:46:12+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1155,6 +1155,15 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
+      "title": "Bitcoin nears $80,000. What’s going on? - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9PSk5NR29RemEtS3JhNHJGRFFPWVRlLUctNV94ckkzY3h2WmtCTjNvSF8zWkptTGs5aUlvQkY4a1J0ZVhPcExlUDRHV2RobWFIeU5mbFJhMF9FMWdCOS1RbEhNNnN5RC0weW1OdzRRSzdBX0VwVkZBRW5FcXBVZ0U?oc=5\" target=\"_blank\">Bitcoin nears $80,000. What’s going on?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-08-25T06:12:49+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
       "title": "US unveils supersized Iran sanctions - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4tWWhmcEN1OEJqaUtWbzZ3T3VuLXA2NG50SzFrekVBNXBuZGtIck9vdWlyMWlWcnVlb1VmSk0xa3VjMlN5WFZhdTQ2LXAwakNlNXk5Sng3OGRkT0lmVGViZnpIZExlVGdyYWpwcDBFczJ5UndqS2hwM2dTekU?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4tWWhmcEN1OEJqaUtWbzZ3T3VuLXA2NG50SzFrekVBNXBuZGtIck9vdWlyMWlWcnVlb1VmSk0xa3VjMlN5WFZhdTQ2LXAwakNlNXk5Sng3OGRkT0lmVGViZnpIZExlVGdyYWpwcDBFczJ5UndqS2hwM2dTekU?oc=5\" target=\"_blank\">US unveils supersized Iran sanctions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
@@ -1178,15 +1187,6 @@
       "summary": "Trump's war has brought American strategy to a dead end.",
       "published": "2026-08-25T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "This means (trade) war - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBdzhtMElrelRwMGhrbXhDQlBBY2ZnR2xtMXVPQ2dmdzJvMTBkeVZEVDNBcTNPNVpFdDJ4TTdMR0VaSWNnODQyOFFrS2VEZFlmcm5mNngxSDlnTE5kOUI1bDZ6TDdLRk0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZ0FVX3lxTFBBdzhtMElrelRwMGhrbXhDQlBBY2ZnR2xtMXVPQ2dmdzJvMTBkeVZEVDNBcTNPNVpFdDJ4TTdMR0VaSWNnODQyOFFrS2VEZFlmcm5mNngxSDlnTE5kOUI1bDZ6TDdLRk0?oc=5\" target=\"_blank\">This means (trade) war</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-24T05:59:37+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
