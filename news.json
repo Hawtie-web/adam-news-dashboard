@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-02T08:43:07.844631+00:00",
+  "updated_at": "2026-09-02T13:29:19.372074+00:00",
   "item_count": 151,
   "failures": [
     {
@@ -10,21 +10,336 @@
   ],
   "items": [
     {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Businesses created the fewest new jobs in 7 months, ADP says. Hiring slowed in the summer.",
+      "link": "https://www.marketwatch.com/story/adp-says-businesses-create-the-fewest-new-jobs-in-7-months-hiring-slowed-in-the-summer-59291cd9?mod=mw_rss_topstories",
+      "summary": "U.S. businesses created just 38,000 new jobs in August, ADP said, the second small increase in a row, pointing to a slowdown in hiring during the summer.",
+      "published": "2026-09-02T13:26:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "We’re in our 60s. My wife and I have $345,000 in annual pensions and $1 million in 403(b)s. Is it too late for Roth conversions?",
+      "link": "https://www.marketwatch.com/story/were-in-our-60s-my-wife-and-i-have-345-000-in-annual-pensions-and-1-million-in-403-b-s-is-it-too-late-for-roth-conversions-5df35d42?mod=mw_rss_topstories",
+      "summary": "“Roth assets would provide our children with tax-free distributions.”",
+      "published": "2026-09-02T13:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "CrowdStrike and federal authorities dismantle Russian malware that secretly stole crypto for 8 years",
+      "link": "https://www.coindesk.com/tech/2026/09/02/crowdstrike-and-federal-authorities-dismantle-russian-malware-that-secretly-stole-crypto-for-8-years",
+      "summary": "",
+      "published": "2026-09-02T13:14:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Wyoming expands Chainlink partnership with onchain reserve verification for FRNT",
+      "link": "https://www.theblock.co/news/ecosystems/2026-09-02-wyoming-expands-chainlink-partnership-onchain-reserve-verification-frnt-413294",
+      "summary": "Last month, Wyoming’s Stable Token Commission fully migrated FRNT from LayerZero to Chainlink CCIP after a security review.",
+      "published": "2026-09-02T13:05:03+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "The token supercycle: everything of value is becoming programmable",
+      "link": "https://www.coindesk.com/opinion/2026/09/02/the-token-supercycle-everything-of-value-is-becoming-programmable",
+      "summary": "",
+      "published": "2026-09-02T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘I feel shoehorned’: My father funded my $800,000 Roth IRA. Does that give him the right to say how I invest it?",
+      "link": "https://www.marketwatch.com/story/i-feel-shoehorned-my-father-funded-my-800-000-roth-ira-does-that-give-him-the-right-to-say-how-i-invest-it-7b1e3ab3?mod=mw_rss_topstories",
+      "summary": "“His argument is essentially that, since my parents provided the money for the Roth, they have a say in how I invest it.”",
+      "published": "2026-09-02T13:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "China's Xi urges new Middle East security framework during Egypt visit - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZS1HRXhpY18xZjJMeV8tOU5UcFVxOFkzSVRKT3ZSR1Myak1oRHZZN081aVY2MldCemZNa1c0U1hKaUtyOHRJaUVjb0U0S2xCWC14cGIyN2QxQzVzVFhfZl85dkhRdFZtMjBCeGVpV2lQQ0g5alBZVnFiUGg5MDkzdDF3eGozTkg4Sm9kc2FIcHZNbXA3TVZoLW4zZ001ejY1UWFaOVdB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxPZS1HRXhpY18xZjJMeV8tOU5UcFVxOFkzSVRKT3ZSR1Myak1oRHZZN081aVY2MldCemZNa1c0U1hKaUtyOHRJaUVjb0U0S2xCWC14cGIyN2QxQzVzVFhfZl85dkhRdFZtMjBCeGVpV2lQQ0g5alBZVnFiUGg5MDkzdDF3eGozTkg4Sm9kc2FIcHZNbXA3TVZoLW4zZ001ejY1UWFaOVdB?oc=5\" target=\"_blank\">China's Xi urges new Middle East security framework during Egypt visit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T12:59:53+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "America’s renter generation is trying to build wealth by investing in stocks instead of owning a house",
+      "link": "https://www.marketwatch.com/story/americas-renter-generation-is-trying-to-build-wealth-by-investing-in-stocks-instead-of-owning-a-house-c2f91799?mod=mw_rss_topstories",
+      "summary": "They have a new personal finance script they are following — that doesn’t include a white picket fence.",
+      "published": "2026-09-02T12:40:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Physics AI is different and changes the way defense systems are designed",
+      "link": "https://breakingdefense.com/2026/09/physics-ai-is-different-and-changes-the-way-defense-systems-are-designed/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/physics-ai-is-different-and-changes-the-way-defense-systems-are-designed/\"><img alt=\"Physics AI - Luminary\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/industry_insight_luminary_copy_10_v5-1080p-frame-at-0m58s-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>[Sponsored] Models that replicate real-world physics streamline design, testing and iteration processes.</p>",
+      "published": "2026-09-02T12:35:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
+      "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
+      "summary": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
+      "published": "2026-09-02T12:32:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "How these homeowners pulled off buying a house in their early 20s",
+      "link": "https://www.marketwatch.com/story/how-these-homeowners-pulled-off-buying-a-house-in-their-early-20s-7b2baf84?mod=mw_rss_topstories",
+      "summary": "Despite typical first-time buyers navigating a challenging housing market in recent history, a growing number of young adults have been able to become homeowners.",
+      "published": "2026-09-02T12:32:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Adam Back invests another $8.8 million in Capital B as bitcoin treasury firm targets 3,521 BTC",
+      "link": "https://www.theblock.co/news/business/2026-09-02-adam-back-invests-another-8-8-million-in-capital-b-as-bitcoin-treasury-firm-targets-3521-btc-413339",
+      "summary": "Capital B raised $8.8 million from Adam Back in a private placement as the French bitcoin treasury firm targets 3,521 BTC.",
+      "published": "2026-09-02T12:31:27+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
+      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
+      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
+      "published": "2026-09-02T12:31:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Stocks that rise when the S&P 500 falls are keeping up with the rest of Wall Street. It’s weird.",
+      "link": "https://www.marketwatch.com/story/stocks-that-rise-when-the-s-p-500-falls-are-weirdly-keeping-up-with-the-rest-of-wall-street-0cf76f31?mod=mw_rss_topstories",
+      "summary": "So-called negative-beta stocks are thriving and offer a way to ride out volatility events, says one strategist.",
+      "published": "2026-09-02T12:29:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bart Simpson pattern feared for bitcoin and XRP as prices pull back",
+      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-flashes-the-bart-simpsom-pattern-analyst-debate-whether-it-will-actually-form",
+      "summary": "",
+      "published": "2026-09-02T12:13:26+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EU to hit back at Russia after drone attack as Germany probes new sabotage cases - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxPRzFCdE02NmRoUGVHUmVoUTMtbzRyV1VkSkN4OTR6U2pudFdXdlFqbFVmMldMX2RPZWxOSklmY2JCV0IwSmdOU3ktNjVVNXRubXlTWV9HcUI1OWNTMklxUDFSUlpXV3NOdEk0YUhFRlFjMUx6X3lmTHo3S29UR2hLSkVpNE1TeEQxY3ZvOS1KTkJpU3ZmY21nT2hydFBDeEJIV00yakNZc0R5NzFVbXN3a3R0cXdiU0JveHc?oc=5\" target=\"_blank\">EU to hit back at Russia after drone attack as Germany probes new sabotage cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T12:12:56+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "The Download: AI puzzles and a path to our nearest star system",
+      "link": "https://www.technologyreview.com/2026/09/02/1143283/the-download-ai-puzzles-alpha-centauri-mission/",
+      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. AI models flub these intelligence tests. Can you fare any better? Puzzles and games have always been central to AI development. The term “machine learning” was popularized in a 1959 article&#8230;",
+      "published": "2026-09-02T12:10:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "OpenAI faces 30 more lawsuits tied to Tumbler Ridge shooting",
+      "link": "https://techcrunch.com/2026/09/02/openai-faces-30-more-lawsuits-tied-to-tumbler-ridge-shooting/",
+      "summary": "Edelson PC is filing 30 new lawsuits against OpenAI over the Tumbler Ridge shooting, escalating claims to aiding and abetting and naming Chris Lehane, though evidence remains unconfirmed.",
+      "published": "2026-09-02T12:09:42+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Capital B aims to add 376 BTC to bitcoin treasury following $8.8 million Adam Back investment",
+      "link": "https://www.coindesk.com/business/2026/08/29/capital-b-aims-to-add-376-btc-to-bitcoin-treasury-following-usd8-8-million-adam-back-investment",
+      "summary": "",
+      "published": "2026-09-02T11:45:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Japan-listed Remixpoint sells all ETH, SOL, XRP and DOGE holdings in shift to bitcoin-only crypto strategy",
+      "link": "https://www.theblock.co/news/business/2026-09-02-japan-listed-remixpoint-sells-all-eth-sol-xrp-and-doge-holdings-in-shift-to-bitcoin-only-crypto-strategy-413333",
+      "summary": "Bitcoin is now Remixpoint's only cryptocurrency holding, with approximately 1,506 BTC, worth around $115 million.",
+      "published": "2026-09-02T11:32:55+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Is Russia's rival to Starlink failing? Here's what we know.",
+      "link": "https://arstechnica.com/space/2026/09/rassvet-russias-rival-to-starlink-is-getting-off-to-a-slow-start/",
+      "summary": "At least three of the first 32 Rassvet satellites likely suffered outright failures, and more may be in trouble.",
+      "published": "2026-09-02T11:15:23+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "A Fed rate increase would be a mistake, some observers say as bitcoin, gold, stocks fall",
+      "link": "https://www.coindesk.com/daybook-us/2026/09/02/a-fed-rate-increase-would-be-a-mistake-some-observers-say-as-bitcoin-gold-stocks-fall",
+      "summary": "",
+      "published": "2026-09-02T11:14:58+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Lawsuit challenges Tether for allegedly freezing $42.4 million USDT before U.S. warrant",
+      "link": "https://www.coindesk.com/business/2026/09/02/tether-sued-over-usd42-4-million-usdt-freeze-allegedly-made-months-before-u-s-warrant",
+      "summary": "",
+      "published": "2026-09-02T11:03:46+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "BGP hijack infecting networks caused by a comedy of errors that’s not funny at all",
+      "link": "https://arstechnica.com/security/2026/09/well-executed-bgp-attack-uses-hijacked-ips-to-infect-real-networks/",
+      "summary": "What can we learn from a BGP hijacking that poisoned production software? Plenty.",
+      "published": "2026-09-02T11:00:43+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin slips below $76,500 as U.S. strikes on Iran send oil above $93",
+      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-slips-below-usd77-000-as-u-s-strikes-on-iran-send-oil-above-usd93",
+      "summary": "",
+      "published": "2026-09-02T10:50:38+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Estonia elects human rights ombudsman Madise as its next president - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGZLUERUSGc1eXFDUTNvb2xyMHlBZUxIYUdVeGxTaTlESlp4YS1xQ0RIQUZuRVF3RndvcC1QeUV3NE1YOU1SMzlOS2dYQ0RENl9GYXFpQ0NJWmEtc2Q5U25mdmdTWVpUdGhoekM4QVNtd1NMSlVMb1JfRzlQakoxbVVfOXhKam9zTTdRSDhDVTM0RDN2clVNXzV2eEVuR1JBblJCVGYtenY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMGZLUERUSGc1eXFDUTNvb2xyMHlBZUxIYUdVeGxTaTlESlp4YS1xQ0RIQUZuRVF3RndvcC1QeUV3NE1YOU1SMzlOS2dYQ0RENl9GYXFpQ0NJWmEtc2Q5U25mdmdTWVpUdGhoekM4QVNtd1NMSlVMb1JfRzlQakoxbVVfOXhKam9zTTdRSDhDVTM0RDN2clVNXzV2eEVuR1JBblJCVGYtenY?oc=5\" target=\"_blank\">Estonia elects human rights ombudsman Madise as its next president</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T10:48:09+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump aides, fearing a midterm rout, push to keep Iran war 'quiet' for now - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMDJDS3ZmaHY1S0hTTlJiUUVPQ081YTU5bWV3NmJJLTRTNDdNQUhKNWdFTXd4TzVVRkRiRXd6SV9xZ1hmbHVxMFVGOUhXMkJLTkdaN0VWa3g3aEZ1aWZDbnlNTkRoUk5zY2ltOW9PNVk1SlFJVU1mNzZFSE9GTGpGbmhwdW1sMFNuTFhwcTVmSlFUNUIwM3lOV3ZpQ0NCX3B2TmMwbXZB?oc=5\" target=\"_blank\">Trump aides, fearing a midterm rout, push to keep Iran war 'quiet' for now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T10:42:42+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkE3SEY4Mk1STzZZZXp0NGtSNXh3NV96RVBHQTlqRGVGZml6YWRKaVdqRnZHN1N4LUJrdms4UG9zY0NLVFJiMnZqUkNad1A0YVUteGxNdVdHU2JLOUFPeVI4TmtQT2xmZUhWRmZrcVE1bUlpdXRFd2ZNSGJjQUMxNEVTa3FwYU9pcnFCa3RiemZoWU5hcjYzaXEzbDVBaDFqNGV0R1lLVXhYaVJmbWxHbkdUVW1rX21ubzM1UVl3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxOWkE3SEY4Mk1STzZZZXp0NGtSNXh3NV96RVBHQTlqRGVGZml6YWRKaVdqRnZHN1N4LUJrdms4UG9zY0NLVFJiMnZqUkNad1A0YVUteGxNdVdHU2JLOUFPeVI4TmtQT2xmZUhWRmZrcVE1bUlpdXRFd2ZNSGJjQUMxNEVTa3FwYU9pcnFCa3RiemZoWU5hcjYzaXEzbDVBaDFqNGV0R1lLVXhYaVJmbWxHbkdUVW1rX21ubzM1UVl3?oc=5\" target=\"_blank\">Trump pledged fiscal restraint. Instead, debt tops $40 trillion as borrowing costs rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T10:31:33+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Sweden to ‘evaluate’ adding French long-range strike missiles to new frigates",
+      "link": "https://breakingdefense.com/2026/09/sweden-to-evaluate-adding-french-long-range-strike-missiles-to-new-frigates/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/sweden-to-evaluate-adding-french-long-range-strike-missiles-to-new-frigates/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260901_france_sweden_frigate_signing_JONAS-scaled-e1788281372436-1024x577.jpeg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>After inking a €4.3 billion frigate deal, Sweden’s defense minister told Breaking Defense Stockholm was keeping an “open mind” about additional cruise missiles.</p>",
+      "published": "2026-09-02T10:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Erdogan says Turkey would consider full membership of China- and Russia-led security bloc - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmdUcW9tZnRjR1AzRkZoNjJPeTRmQTNIdGVwNGs1eDdDXzZpeTUtQjVKZVI5Ny1pRkJrU3BMMGZ3S0JoR3dic2ExNlVuRzhGS3V5dXZhLXVkbmp4UVRkUncwSnRobnBjQ1RrTFZodF9zLV8tN3Baa0NkQ0FqZzBqMEdrUDMwUUdRaGhPTDk0UzR2YUppVFlIU29RQUJHSklHNmNVTFA2Z3AtVlFCSGR3QTJzeVdLN3pxUnAwSGxDX3d3UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPQmdUcW9tZnRjR1AzRkZoNjJPeTRmQTNIdGVwNGs1eDdDXzZpeTUtQjVKZVI5Ny1pRkJrU3BMMGZ3S0JoR3dic2ExNlVuRzhGS3V5dXZhLXVkbmp4UVRkUncwSnRobnBjQ1RrTFZodF9zLV8tN3Baa0NkQ0FqZzBqMEdrUDMwUUdRaGhPTDk0UzR2YUppVFlIU29RQUJHSklHNmNVTFA2Z3AtVlFCSGR3QTJzeVdLN3pxUnAwSGxDX3d3UQ?oc=5\" target=\"_blank\">Erdogan says Turkey would consider full membership of China- and Russia-led security bloc</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T10:29:45+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Former UK Prime Minister Liz Truss says bond rout could force emergency spending cuts",
+      "link": "https://www.coindesk.com/markets/2026/09/02/former-uk-prime-minister-liz-truss-says-bond-rout-could-force-emergency-spending-cuts",
+      "summary": "",
+      "published": "2026-09-02T10:27:30+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Strategy CEO says selling bitcoin at $60,000 before buying at $80,000 was the ‘right trade’",
+      "link": "https://www.theblock.co/news/business/2026-09-02-strategy-ceo-says-selling-bitcoin-at-60000-before-buying-at-80000-was-the-right-trade-413323",
+      "summary": "Strategy CEO Phong Le defended selling bitcoin at $60,000 before buying at $80,000, citing corporate capital costs.",
+      "published": "2026-09-02T10:26:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin hovers near $77,000 as global bond selloff tests post-rally resilience",
+      "link": "https://www.theblock.co/news/markets/2026-09-02-bitcoin-hovers-near-77000-as-global-bond-selloff-tests-post-rally-resilience-413320",
+      "summary": "Bitcoin hovers near $77,000 as global bond yields surge and renewed U.S.-Iran tensions push oil prices higher.",
+      "published": "2026-09-02T10:20:03+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US, China arm for space warfare: hunter satellites and orbital weapons - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTFkS3hQM190ZEszNldpWmYwLXh6QnhmSHJvUDV3WFNIMHJMc3BVMmloVlA2NHp5X09rVVJaTDExMFZrX3EwUVUyTl9rclo5dzJVeWxBeWhSVGZKWHh1UkRHSDdOR1BaQjcycXhhUjhMN2JqWmZPQnJ0d3RNQWJ4X1daSXVoX3ZVekt6TGRPSzJ6aEJlQXZVa3U3T1p0QV9LVEZDSGtabFBfMFhjWnJVdHF4Zl9mQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVTFkS3hQM190ZEszNldpWmYwLXh6QnhmSHJvUDV3WFNIMHJMc3BVMmloVlA2NHp5X09rVVJaTDExMFZrX3EwUVUyTl9rclo5dzJVeWxBeWhSVGZKWHh1UkRHSDdOR1BaQjcycXhhUjhMN2JqWmZPQnJ0d3RNQWJ4X1daSXVoX3ZVekt6TGRPSzJ6aEJlQXZVa3U3T1p0QV9LVEZDSGtabFBfMFhjWnJVdHF4Zl9mQQ?oc=5\" target=\"_blank\">US, China arm for space warfare: hunter satellites and orbital weapons</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T10:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EU's Kallas says Leipzig attack had hallmarks of state-sponsored terrorism - reuters.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNSk9pYWk1NTFtU3FFWjB5RGF4R1lLbEVGTUJJVjNuN2d1YktKSDZxdDRqTFVISWxwMDdwTUVFT0xERVBHSWpKZzlqSEd3NTR6S1Q0TndpTlhiR2ZhZ2RYYjFNbUNBal82ZDIyYU9fN1pyeVRyTzhaRGNuaVVFMXBjYlh6Z3F5YzloZ0JuXzZXNGROOGUxQks1S2Rub2xaU1NlMmFuR1oyVmM5c2F1VklFU05B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNSk9pYWk1NTFtU3FFWjB5RGF4R1lLbEVGTUJJVjNuN2d1YktKSDZxdDRqTFVISWxwMDdwTUVFT0xERVBHSWpKZzlqSEd3NTR6S1Q0TndpTlhiR2ZhZ2RYYjFNbUNBal82ZDIyYU9fN1pyeVRyTzhaRGNuaVVFMXBjYlh6Z3F5YzloZ0JuXzZXNGROOGUxQks1S2Rub2xaU1NlMmFuR1oyVmM5c2F1VklFU05B?oc=5\" target=\"_blank\">EU's Kallas says Leipzig attack had hallmarks of state-sponsored terrorism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "published": "2026-09-02T09:40:14+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Europe’s airpower future is evolving. Here’s what to know.",
+      "link": "https://breakingdefense.com/2026/09/europes-airpower-future-is-evolving-heres-what-to-know/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/europes-airpower-future-is-evolving-heres-what-to-know/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"433\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260902_euro_roundtable_PLAY.png\" style=\"height: auto!important;\" width=\"768\" /></a></p><p>Breaking Defense kicks off a new video series focused on how Europe is modernizing its manned and unmanned aircraft. </p>",
+      "published": "2026-09-02T08:45:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "German government blames Russia for Leipzig airport drone attack with explosives",
       "link": "https://www.defensenews.com/global/europe/2026/09/02/german-government-blames-russia-for-leipzig-airport-drone-attack-with-explosives/",
       "summary": "Russia was behind the failed explosive drone attack on Germany’s key Leipzig/Halle Airport last month, the authorities in Berlin have concluded.",
       "published": "2026-09-02T08:33:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Live updates: BlackRock's IBIT drives $236 million bitcoin ETF outflow",
-      "link": "https://www.coindesk.com/business/2026/09/02/live-updates-blackrock-s-ibit-drives-usd236-million-bitcoin-etf-outflow",
-      "summary": "",
-      "published": "2026-09-02T08:31:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -55,15 +370,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Denmark sends conscripts to Greenland as Arctic tensions grow - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQemVBSlRpczJQNXZRb2VyR1cyLUxYTG90bWhoNUhjVGxIXzVXUjNnWkk2elhYZ1AwTDJBTU50T1YwZjN3MWdrYVJNQk1PYkNldmdXelgwWkdBLXhfcURpTFQ3clcwUW1YM2YwcDlDZjBTNFhtdUpYNllTdW1reWxMZUZBM1lJUTM1ZEpKaXJBWmtubmFlekswcW9FeXdwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQemVBSlRpczJQNXZRb2VyR1cyLUxYTG90bWhoNUhjVGxIXzVXUjNnWkk2elhYZ1AwTDJBTU50T1YwZjN3MWdrYVJNQk1PYkNldmdXelgwWkdBLXhfcURpTFQ3clcwUW1YM2YwcDlDZjBTNFhtdUpYNllTdW1reWxMZUZBM1lJUTM1ZEpKaXJBWmtubmFlekswcW9FeXdwQQ?oc=5\" target=\"_blank\">Denmark sends conscripts to Greenland as Arctic tensions grow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T07:37:47+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Ukraine’s Ground Robots and the Economics of Survival",
@@ -73,13 +379,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "XRP ETFs pull in $170 million over eleven days. Goldman tops institutional holders",
-      "link": "https://www.coindesk.com/markets/2026/09/02/xrp-etfs-pull-in-usd160-million-over-nine-days-as-goldman-tops-institutional-holders",
-      "summary": "",
-      "published": "2026-09-02T07:20:03+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Reports: MrBeast and James Patterson’s new book is a flop - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkQ5U296V05FSElUTVcwUkxvTklPcS1JNnV4UnZEdkFJcnJTcUJ6TmVMWUptSUlMb0doUVAyamZnMGhkTkZ0WHZfRWNKX1BCNzlIUmFqUXNUd0Q2LUZEZm5EdmVSaHlCT1lOWFRKUkhUNWJDYVRrUE5reUFpVVZUbEd0RTQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNTkQ5U296V05FSElUTVcwUkxvTklPcS1JNnV4UnZEdkFJcnJTcUJ6TmVMWUptSUlMb0doUVAyamZnMGhkTkZ0WHZfRWNKX1BCNzlIUmFqUXNUd0Q2LUZEZm5EdmVSaHlCT1lOWFRKUkhUNWJDYVRrUE5reUFpVVZUbEd0RTQ?oc=5\" target=\"_blank\">Reports: MrBeast and James Patterson’s new book is a flop</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-09-02T07:16:09+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -91,85 +397,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US and Iran exchange attacks as lull in war appears over - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxORjZ4d3JRTk1WcXR6eThpVm1wcVpzQV8wMm42eDB4bDJRMVhxelJpdmZTYXVPQ0JTUmtiNXFVWEZyb1NBTTZibmZJTkk4bjlRNGwtWTU1OF8zXzhENVZhWDN4TUwzekdfVG8xWUpmY3hmcHBDQk5TUzBLSERGbFJ0c05nekFpclo3cFdMcm93dHlEUXctVTY2MjJIMkkxSTRGWnc?oc=5\" target=\"_blank\">US and Iran exchange attacks as lull in war appears over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T07:06:39+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "A China indicator that supports risk-taking in stocks and bitcoin is flashing red",
-      "link": "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red",
-      "summary": "",
-      "published": "2026-09-02T06:53:22+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "German power grid under fresh sabotage attack, police say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnhHa3pMVHB4TzBwMmZZd3NGb1hYSERTNmJIRXZyY0twUlhRMnRwdGt3dzNRRHhKVkk1WDdyTnNLVnRsdWVlUXFEdXR1eWdLQml2Q1hOM1pfRk5MRFYwX2ZQRmdkRDdjZkFMa2p3NjVpTUpIMDY1cThnVkt4SDZTNnBFazkxcC1TWTVRdTF2QWdWU2NNWnZHUGdlWGc0X2JBTDNLcDJRcS0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVnhHa3pMVHB4TzBwMmZZd3NGb1hYSERTNmJIRXZyY0twUlhRMnRwdGt3dzNRRHhKVkk1WDdyTnNLVnRsdWVlUXFEdXR1eWdLQml2Q1hOM1pfRk5MRFYwX2ZQRmdkRDdjZkFMa2p3NjVpTUpIMDY1cThnVkt4SDZTNnBFazkxcC1TWTVRdTF2QWdWU2NNWnZHUGdlWGc0X2JBTDNLcDJRcS0?oc=5\" target=\"_blank\">German power grid under fresh sabotage attack, police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T06:44:16+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "AI capital expenditure forecast to exceed the cost of building railways in both the U.S. and the U.K. — with the internet added on top",
-      "link": "https://www.marketwatch.com/story/ai-capital-expenditure-forecasted-to-exceed-the-cost-of-building-railways-in-both-the-u-s-and-the-u-k-with-the-internet-added-on-top-765b927f?mod=mw_rss_topstories",
-      "summary": "The accounting giant says the buildout of artificial intelligence differs from the development of railways and the internet because of its scale and spending growth.",
-      "published": "2026-09-02T06:36:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Bond selloff deepens as inflation risks, oil prices jolt markets - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPSkJqeC1yeWhxa0NETU9oT1R3YUdoYm9fNE4zamM3MlhJTUFkZ3gwWDliZmFZRHpXaEFOLW1JMHN4dEhkTTlfY282eG9yWlJZRVpaR281SlMtWkpuLTRXYnQ4dkt0VnlwckFQU0JUR21WM2VBZTRYb3VKM0M0Zlg3aF83SUY0WERMb2dWdWlLQ3U2ZmlON1pJdU5WMTdEVUZoNlowM0ZhZDJNeEdFcUE?oc=5\" target=\"_blank\">Bond selloff deepens as inflation risks, oil prices jolt markets</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T06:06:48+00:00",
+      "source": "Morning Brew",
+      "title": "So there’s this $499 AI Dyson camera toothbrush - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXNFUmdLeU1oMGJMTmRfejlNMTFXSGUyNlpPSWphcVNCdUoxMHR3azBhSnRqRWY1MmJCNjNEdFJ3c056NF9vN0tPam5BbjhVcXVmZlJ4aF91RmJQaGcxZzJPS0loQlgycXpfaG51aFVBb2pKTmdpT2d3emdUOVZIUmtza2k5R01YZzJsaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXNFUmdLeU1oMGJMTmRfejlNMTFXSGUyNlpPSWphcVNCdUoxMHR3azBhSnRqRWY1MmJCNjNEdFJ3c056NF9vN0tPam5BbjhVcXVmZlJ4aF91RmJQaGcxZzJPS0loQlgycXpfaG51aFVBb2pKTmdpT2d3emdUOVZIUmtza2k5R01YZzJsaw?oc=5\" target=\"_blank\">So there’s this $499 AI Dyson camera toothbrush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-09-02T05:13:16+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Sixteen killed in bus accident in Egypt's South Sinai, ministry says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORG9lbnhEQ1JEZzhQdnlZamMxamdPdXd0VmhGdVhqSmJUaUZMTmhLbjFSVjRvTkhTWnp6NVFCdTV1UW4xcjdUZlRDYnJfNjRvQWZyZmgwTWlQcV93cE1OejkwSU9xN2N5NlI4SThZUHZWRUNXRk92VVE5TUUxOWk5a0VYaC1XVVFkOE5fOU5RN3BlaHBHZmxOTVJKa01hUEExNElBd1l1MXJndVcwQTVZekxCY3pMOW1Tb2hVYg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxORG9lbnhEQ1JEZzhQdnlZamMxamdPdXd0VmhGdVhqSmJUaUZMTmhLbjFSVjRvTkhTWnp6NVFCdTV1UW4xcjdUZlRDYnJfNjRvQWZyZmgwTWlQcV93cE1OejkwSU9xN2N5NlI4SThZUHZWRUNXRk92VVE5TUUxOWk5a0VYaC1XVVFkOE5fOU5RN3BlaHBHZmxOTVJKa01hUEExNElBd1l1MXJndVcwQTVZekxCY3pMOW1Tb2hVYg?oc=5\" target=\"_blank\">Sixteen killed in bus accident in Egypt's South Sinai, ministry says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T06:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "OpenAI says its new 'Astra' AI can build attacks without human help",
-      "link": "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
-      "summary": "",
-      "published": "2026-09-02T05:28:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "China restores road access to Tibet disaster zone as search intensifies - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2hxTG5JYmVZR2d0c3pTUEpldXI4MTExcjRZQUQwSUdQSmpzcWpEbG9wVDRZWmRBVGJraWF2Tzl5UkZNcWxJNUFxWmk5M2xVWk90NXlabkFMRGNEdEt5bHVqdDdMNVRHOGNIY01kUkIxbEpnTVAza2Z5Vmhhbk1KcnE1ZkdFbXUtSGJ2NFd4Y0ZYNVpDREJZQ0RoVERGVEhQSE8wck5lMjFKdFJ5ZFVpMFJtQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQM2hxTG5JYmVZR2d0c3pTUEpldXI4MTExcjRZQUQwSUdQSmpzcWpEbG9wVDRZWmRBVGJraWF2Tzl5UkZNcWxJNUFxWmk5M2xVWk90NXlabkFMRGNEdEt5bHVqdDdMNVRHOGNIY01kUkIxbEpnTVAza2Z5Vmhhbk1KcnE1ZkdFbXUtSGJ2NFd4Y0ZYNVpDREJZQ0RoVERGVEhQSE8wck5lMjFKdFJ5ZFVpMFJtQQ?oc=5\" target=\"_blank\">China restores road access to Tibet disaster zone as search intensifies</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T05:13:46+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
-      "link": "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
-      "summary": "",
-      "published": "2026-09-02T05:01:25+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Crypto",
@@ -182,30 +416,12 @@
     },
     {
       "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin withstands $90 oil and rising yields while gold slides. A firm dollar is the catch",
-      "link": "https://www.coindesk.com/markets/2026/09/02/bitcoin-withstands-usd90-oil-and-rising-yields-as-gold-slides-a-firm-dollar-is-the-catch",
-      "summary": "",
-      "published": "2026-09-02T04:40:36+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
       "source": "The Block",
       "title": "Kalshi and Polymarket’s combined volume falls 15% in August, first monthly decline in a year",
       "link": "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
       "summary": "Kalshi recorded $37.17 billion in volume in August, while Polymarket and its US platform saw a combined $8.16 billion.",
       "published": "2026-09-02T04:28:38+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Taiwan says its companies plan to invest another $20 billion in US - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWV4cXdLS25XYWhtOWpBMV9sTW5GdjRXbERoQlBrWFFXT1pUNnJNRkNiUXRUeWlSLWNycC1tMllJakJvazNPYmpzZHZDZC1yX0NucHByTkNhbGQ1b241dVlDdVRQaFFraDhLZjBaQml2cFNuS20tZllPWGxsbGxCdHBYei1vMURMT0JDVDVkd0NQT01hNmtpb0ZxNnZEaWVzUUc0WFhlZTZCbjQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNOWV4cXdLS25XYWhtOWpBMV9sTW5GdjRXbERoQlBrWFFXT1pUNnJNRkNiUXRUeWlSLWNycC1tMllJakJvazNPYmpzZHZDZC1yX0NucHByTkNhbGQ1b241dVlDdVRQaFFraDhLZjBaQml2cFNuS20tZllPWGxsbGxCdHBYei1vMURMT0JDVDVkd0NQT01hNmtpb0ZxNnZEaWVzUUc0WFhlZTZCbjQ?oc=5\" target=\"_blank\">Taiwan says its companies plan to invest another $20 billion in US</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T04:23:11+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -244,48 +460,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Gold hits over 3-week low as Mideast tensions fan rate-hike fears - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQTHRQNlR5eU9VUm53X3dNNDg4MktpOFdWaGhGakVQXzBHb3NlLXdUVWpDSUFwem4tbS1vdHdRbFQtLWtpZEVHRm5sbGJlbmszMXJvU1FGMVNsRnktZUNEZ3pZV1Vka3hPSVBfUk1TM3VJdTFuc2JuZXpPMUFFeThKVU9TLXRkRXdmNEdnYVhyU1dzWUdfbTZwdVQyV0VIY3p2RGZPckt1M2pPQmJWcEpz?oc=5\" target=\"_blank\">Gold hits over 3-week low as Mideast tensions fan rate-hike fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-02T02:18:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Chinese Cargo Ships Clandestinely Gather Signals Intelligence: Report",
       "link": "https://www.twz.com/news-features/chinese-cargo-ships-clandestinely-gather-signals-intelligence-report",
       "summary": "<p>It should not come as too much of a surprise that China is using its massive commercial fleet to spy around the globe as they go about their business.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/chinese-cargo-ships-clandestinely-gather-signals-intelligence-report\">Chinese Cargo Ships Clandestinely Gather Signals Intelligence: Report</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-09-02T01:05:41+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Dell’s AI servers drive a stellar earnings performance, and a raised outlook",
-      "link": "https://www.marketwatch.com/story/dells-ai-servers-drive-a-stellar-earnings-performance-and-a-raised-outlook-86476ace?mod=mw_rss_topstories",
-      "summary": "The company’s backlog has reached $95 billion as demand accelerates for its AI servers",
-      "published": "2026-09-02T00:19:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Palo Alto Networks’ stock falls despite strong AI cybersecurity demand",
-      "link": "https://www.marketwatch.com/story/palo-alto-networks-stock-climbs-as-demand-for-ai-cybersecurity-powers-an-earnings-beat-4b39578c?mod=mw_rss_topstories",
-      "summary": "Enterprise cyber threats and AI adoption are giving Palo Alto Networks ‘durable tailwinds,’ according to CEO Nikesh Arora, but the stock retreated after an earnings beat",
-      "published": "2026-09-02T00:18:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘I’m leaving money on the table’: I’m 64 and my husband is 70. Should I take spousal benefits or wait for my own?",
-      "link": "https://www.marketwatch.com/story/im-leaving-money-on-the-table-im-64-and-my-husband-is-70-should-i-take-spousal-benefits-or-wait-for-my-own-2490f5cd?mod=mw_rss_topstories",
-      "summary": "“I paid a significant amount into Social Security.”",
-      "published": "2026-09-02T00:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -298,30 +478,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "SEC proposes transfer agent rule, sets event to figure out round-the-clock U.S. trading",
-      "link": "https://www.coindesk.com/policy/2026/09/01/sec-proposes-transfer-agent-rule-sets-event-to-figure-out-round-the-clock-u-s-trading",
-      "summary": "",
-      "published": "2026-09-01T23:55:46+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Ousted Ukrainian defense chief lands Palantir CEO as first investor in new venture",
       "link": "https://www.defensenews.com/global/europe/2026/09/01/ousted-ukrainian-defense-chief-lands-palantir-ceo-as-first-investor-in-new-venture/",
       "summary": "Ukraine’s recently ousted defense minister Mykhailo Fedorov is teaming up with Palantir CEO Alex Karp to launch a new defense company.",
       "published": "2026-09-01T23:42:38+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘It’s not fair’: My twin brother and I were left houses by our parents. Can I make him pay his share for taxes and upkeep?",
-      "link": "https://www.marketwatch.com/story/its-not-fair-my-twin-brother-and-i-were-left-houses-by-our-parents-can-i-make-him-pay-his-share-for-taxes-and-upkeep-43feb780?mod=mw_rss_topstories",
-      "summary": "“I am frustrated and financially exhausted from continuing to invest my own money into  these properties.”",
-      "published": "2026-09-01T23:15:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -352,30 +514,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Dow drops below a key chart level, warning of more trouble ahead",
-      "link": "https://www.marketwatch.com/story/dow-drops-below-a-key-chart-level-warning-of-more-trouble-ahead-ec3eb664?mod=mw_rss_topstories",
-      "summary": "The index last closed below its 50-day moving average on April 10, which marked the end of a correction phase that included a 5,000-point drop at its low point.",
-      "published": "2026-09-01T21:56:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
       "link": "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
       "summary": "OpenAI previewed the precautions it is taking as it prepares to release Astra, its newest, cyber-critical LLM.",
       "published": "2026-09-01T21:06:24+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Which workers are using AI surprisingly often? Dry cleaners and construction workers.",
-      "link": "https://www.marketwatch.com/story/which-workers-are-using-ai-surprisingly-often-dry-cleaners-and-construction-workers-b0ea5655?mod=mw_rss_topstories",
-      "summary": "The adoption of artificial intelligence at work has been widespread, but more “shallow” than expected — for now.",
-      "published": "2026-09-01T21:02:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -397,30 +541,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "This could be the 10-year Treasury’s tipping point into the danger zone",
-      "link": "https://www.marketwatch.com/story/this-could-be-the-10-year-treasurys-tipping-point-into-the-danger-zone-891cd45d?mod=mw_rss_topstories",
-      "summary": "An unrelenting rout has global bond yields touching their highest levels since 2008, driving up borrowing costs for households, businesses and world governments.",
-      "published": "2026-09-01T20:36:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Anthropic’s new Fable release is cheaper, less restrictive",
       "link": "https://techcrunch.com/2026/09/01/anthropics-new-fable-release-is-cheaper-less-restrictive/",
       "summary": "Fable 5.1 includes changes meant to reduce token cost and false-positive restrictions from the model's safeguards.",
       "published": "2026-09-01T19:39:22+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Buying memecoins with credit cards on Robinhood Wallet and Fomo appears to sidestep card-network crypto rules",
-      "link": "https://www.theblock.co/news/business/2026-09-01-buying-memecoins-with-credit-cards-on-robinhood-wallet-fomo-sidestep-card-network-crypto-rules-411911",
-      "summary": "Test memecoin purchases were coded as \"digital media\" rather than crypto, earning credit card points despite card network restrictions.",
-      "published": "2026-09-01T19:33:37+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -505,15 +631,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Crypto treasury companies hit $340 billion market cap as altcoin DATs outperform",
-      "link": "https://www.theblock.co/news/markets/2026-09-01-crypto-treasury-companies-hit-340-billion-market-cap-as-altcoin-dats-outperform-413142",
-      "summary": "Cumulative market capitalization for these companies is up 10% since mid-August and hovers around $340 billion.",
-      "published": "2026-09-01T18:11:02+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "House passes funding stopgap, averting government shutdown in October",
@@ -550,15 +667,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "The defense intelligence community’s AI and cyber view forward",
-      "link": "https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/the-defense-intelligence-communitys-ai-and-cyber-view-forward/\"><img alt=\"The Defense Intelligence Community’s AI and Cyber View Forward\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/DoDIIS-eBook-featured-image-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>From AI adoption and agentic systems to Zero Trust and cyber resilience, Breaking Defense’s latest eBook brings together key reporting from DoDIIS 2026 on the technologies and strategies shaping the future of defense intelligence.</p>",
-      "published": "2026-09-01T17:49:50+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
@@ -574,24 +682,6 @@
       "link": "https://arstechnica.com/cars/2026/09/this-is-what-a-supercar-was-like-a-century-ago/",
       "summary": "When the average car could only do 40 mph, this Bentley could break 100.",
       "published": "2026-09-01T17:34:16+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "SEC seeks to update its 1970s-era transfer agent rules for the blockchain age",
-      "link": "https://www.theblock.co/news/regulation/2026-09-01-sec-seeks-update-1970s-era-transfer-agent-rules-for-blockchain-age-413278",
-      "summary": "The SEC is seeking to update its rules for transfer agents to keep pace with new technology, including blockchain and tokenization.",
-      "published": "2026-09-01T17:16:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "French army chief releases first agenda, shares ambitions for service",
-      "link": "https://breakingdefense.com/2026/09/french-army-chief-releases-first-agenda-shares-ambitions-for-service/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/french-army-chief-releases-first-agenda-shares-ambitions-for-service/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/260901_french_soldier_GettyImages-2281120884-e1788285399112.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>French Army Chief of Staff Army Chief of Staff Gen. Jacques de Montgros said he wants “an Army that is feared, proud, and bold.”</p>",
-      "published": "2026-09-01T17:12:55+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -623,56 +713,11 @@
     },
     {
       "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "MH-139 helo tasked with nuclear missile escort role is operational, Air Force says",
-      "link": "https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/mh-139-helo-tasked-with-nuclear-missile-escort-role-is-operational-air-force-says/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/Mh-139-scaled-e1788275686626-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Grey Wolf achieved initial operational capability Aug. 10, and will replace the Vietnam-era UH-1N to protect the Air Force’s nuclear missile fields.  </p>",
-      "published": "2026-09-01T16:02:03+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Amazon Alexa can now alert you when something new might tempt you to shop",
-      "link": "https://techcrunch.com/2026/09/01/amazon-alexa-can-now-alert-you-when-something-new-might-tempt-you-to-shop/",
-      "summary": "Amazon is adding a new Alexa-powered feature called “Update Me When” that can send personalized alerts about product launches, tours, books, shows, and other events that could trigger a purchase.",
-      "published": "2026-09-01T15:51:55+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Cango shares plunge 20% after bitcoin miner reports $81.6 million Q2 loss",
-      "link": "https://www.theblock.co/news/markets/2026-09-01-cango-shares-plunge-20-after-bitcoin-miner-reports-81-6-million-q2-loss-413259",
-      "summary": "Cango scaled back its mining fleet in the second quarter as revenue fell and the company focused on efficiency.",
-      "published": "2026-09-01T15:48:19+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Citi, Goldman, other global banks and asset managers team up on stablecoin venture",
-      "link": "https://www.coindesk.com/business/2026/09/01/citi-goldman-other-global-banks-and-asset-managers-team-up-on-stablecoin-venture",
-      "summary": "",
-      "published": "2026-09-01T15:36:27+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "American Rheinmetall delivers its first prototype to replace Bradley Fighting Vehicle",
       "link": "https://www.defensenews.com/news/your-military/2026/09/01/american-rheinmetall-delivers-its-first-prototype-to-replace-bradley-fighting-vehicle/",
       "summary": "The move is the latest in the service’s yearslong effort to replace the Bradley Fighting Vehicle.",
       "published": "2026-09-01T15:08:48+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "It turns out that Orion's much-maligned heat shield performed really well",
-      "link": "https://arstechnica.com/space/2026/09/it-turns-out-that-orions-much-maligned-heat-shield-performed-really-well/",
-      "summary": "Independent safety officials also have high praise for changes by NASA leadership.",
-      "published": "2026-09-01T14:46:28+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -691,15 +736,6 @@
       "link": "https://edm.com/news/suspect-arrested-killing-woman-swiss-rave/",
       "summary": "<p>One woman, 22, was killed and five others wounded when gunfire broke out at the annual Aarauer Rave.</p>\n<p>The post <a href=\"https://edm.com/news/suspect-arrested-killing-woman-swiss-rave/\">Suspect Arrested After Woman Shot and Killed at Swiss Rave</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-09-01T14:32:24+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitcoin and gold move in lockstep as debasement trade gains more steam",
-      "link": "https://www.theblock.co/news/markets/2026-09-01-bitcoin-gold-move-lockstep-debasement-trade-gains-steam-413137",
-      "summary": "Bitcoin's 90-day Pearson correlation coefficient with gold hits all-time high while the Fear and Greed Index sits at 68.",
-      "published": "2026-09-01T14:26:02+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -754,15 +790,6 @@
       "link": "https://www.foreignaffairs.com/united-states/real-risk-trade-war-canada",
       "summary": "America needs its neighbors to counter China.",
       "published": "2026-09-01T11:21:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Without new landers or rovers, it's helicopters or bust for NASA's Mars program",
-      "link": "https://arstechnica.com/space/2026/09/without-new-landers-or-rovers-its-helicopters-or-bust-for-nasas-mars-program/",
-      "summary": "NASA's cost estimate for SR-1 Freedom is $2.1 billion, but that doesn't include the helicopters.",
-      "published": "2026-09-01T11:00:35+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -825,6 +852,15 @@
       "title": "Ternus inherits prosperity, uncertainty as Apple CEO - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlBxdFl2SlRtSjJjcWVtejZNMzVJaW9KSXNUSlo3MzZjSmRYTjZ5NlNfRlI1UldnUnVobzlubERiRkNjY2FNSmtOQlJnN0hWWnFpYW1sVXFQWDJMMy0zLVFCOU94aGUwY1pxTExVekpUZzJQMWh6Q1REc3I0cEVJSXAyWTVINF9tT25jdTY0eTE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOYlBxdFl2SlRtSjJjcWVtejZNMzVJaW9KSXNUSlo3MzZjSmRYTjZ5NlNfRlI1UldnUnVobzlubERiRkNjY2FNSmtOQlJnN0hWWnFpYW1sVXFQWDJMMy0zLVFCOU94aGUwY1pxTExVekpUZzJQMWh6Q1REc3I0cEVJSXAyWTVINF9tT25jdTY0eTE?oc=5\" target=\"_blank\">Ternus inherits prosperity, uncertainty as Apple CEO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-09-01T04:47:12+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "MapQuest is belle of App Store after defying Trump - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhsLUd6dzNuNkV2ckdNMFhpdm5vYnFZNzNZUVRteWZYS2xpRkQzYTlQeEdESENTZ0hKY2l6TWdvMUR2cl9oRllMYS03REhoaDk3MGpxUjNEM0Zacll6aU5MMXVNVGt4SXA4dzFlV25IS19DTUN0cEVOdmx4LTh1amc2d2kyTzRoLWJubWU4VQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPOGhsLUd6dzNuNkV2ckdNMFhpdm5vYnFZNzNZUVRteWZYS2xpRkQzYTlQeEdESENTZ0hKY2l6TWdvMUR2cl9oRllMYS03REhoaDk3MGpxUjNEM0Zacll6aU5MMXVNVGt4SXA4dzFlV25IS19DTUN0cEVOdmx4LTh1amc2d2kyTzRoLWJubWU4VQ?oc=5\" target=\"_blank\">MapQuest is belle of App Store after defying Trump</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-01T04:47:12+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -917,15 +953,6 @@
       "summary": "<p>Clubbers heading to the venue in Queens are being told to leave their smart glasses at home or risk a permanent ban.</p>\n<p>The post <a href=\"https://edm.com/news/smart-glasses-banned-nyc-nightclub-basement/\">Smart Glasses Banned From NYC Nightclub Basement</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-08-31T15:46:27+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "11 New 4-Star Stocks This Week - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9hUGpxQWM0V1VLU2tpT0N1Q256TmRqRzZaOWMteXpTcU1QXzYyNWNaMGtaSzVYa1pwUlcyLTJzalNyV1BCZ2RCVW54aGFBZ1JzZkV3OE8zT3lONERicFltUkpqM2RPbEJrYWVDc3dqcy1KRDNJRlE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE9hUGpxQWM0V1VLU2tpT0N1Q256TmRqRzZaOWMteXpTcU1QXzYyNWNaMGtaSzVYa1pwUlcyLTJzalNyV1BCZ2RCVW54aGFBZ1JzZkV3OE8zT3lONERicFltUkpqM2RPbEJrYWVDc3dqcy1KRDNJRlE?oc=5\" target=\"_blank\">11 New 4-Star Stocks This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-08-31T14:45:39+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1054,15 +1081,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Six Flags roller coaster linked to brain injuries - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHA5cTBaSkxVMjJRZUtEajFoWm94Zms3dE04TW4zVjNoOGkwNmFtZ3hEdXl6RjFrNENyRmE0WjRpekU4SFBZQXYyS0NRTlhBNmc5clpUZHQ4R3BBQzVDTUZiN1o5TjZRUmlzdmlFQ2R1dEQxU3V2ZnB2V2hSMmlaaUhTeHNmd1BvTVFtSjl3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPaHA5cTBaSkxVMjJRZUtEajFoWm94Zms3dE04TW4zVjNoOGkwNmFtZ3hEdXl6RjFrNENyRmE0WjRpekU4SFBZQXYyS0NRTlhBNmc5clpUZHQ4R3BBQzVDTUZiN1o5TjZRUmlzdmlFQ2R1dEQxU3V2ZnB2V2hSMmlaaUhTeHNmd1BvTVFtSjl3?oc=5\" target=\"_blank\">Six Flags roller coaster linked to brain injuries</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-08-28T04:03:50+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "Leave Europe to the Europeans",
@@ -1088,15 +1106,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5\" target=\"_blank\">The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-08-27T20:45:06+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "MIT Technology Review",
-      "title": "A startup claims it’s found a drug to make your blood young",
-      "link": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-      "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment,&#160;an injectable combination of two existing drugs which they call 1 Generation. This wasn’t just any antiaging treatment, either. A company fact sheet says that&#8230;",
-      "published": "2026-08-27T19:48:13+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1297,15 +1306,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Latest Issue - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ia3JHV0c0S2ZyLXRfaUh3NEpPWHJYaVpqbUZ5RVNycXcwVTNJdUQxV3NXUXdDdzZwZnVteFVzdTFISXVCaEJTcXk2cUl6RS1KRzNJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ia3JHV0c0S2ZyLXRfaUh3NEpPWHJYaVpqbUZ5RVNycXcwVTNJdUQxV3NXUXdDdzZwZnVteFVzdTFISXVCaEJTcXk2cUl6RS1KRzNJ?oc=5\" target=\"_blank\">Latest Issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2024-11-18T18:11:46+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
@@ -1352,11 +1352,11 @@
     },
     {
       "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2017-07-07T01:37:33+00:00",
+      "source": "Morningstar",
+      "title": "Careers at Morningstar - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2018-12-11T01:03:09+00:00",
       "feed_type": "google_news_fallback"
     },
     {
