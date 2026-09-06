@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-05T23:42:10.793545+00:00",
-  "item_count": 151,
+  "updated_at": "2026-09-06T04:02:22.841432+00:00",
+  "item_count": 152,
   "failures": [
     {
       "source": "RAND Corporation",
@@ -9,6 +9,24 @@
     }
   ],
   "items": [
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Germany's far-right AfD seeks landmark state victory as Saxony-Anhalt votes - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHlKLTRObzFSci1rMWZ6aTRzcFhXUGtKc0JQakJVb1FBUmdNTFowMHU4X0tiRkdFUkVnbWhremU0V05zSUtYVzBxUkZ0bHdPZjhadEF4T3lZLXdrajlidkQ2b05OVTdydG1va0NjbGp4TEVHXzJNUmI2dkF5ZEJneUtta19hT0tnTDE2OEZiS2V0SFh6VFE0YVpXOFhqS3pENV9idTd6V0lwd0lOcEdCV3J2UQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPTHlKLTRObzFSci1rMWZ6aTRzcFhXUGtKc0JQakJVb1FBUmdNTFowMHU4X0tiRkdFUkVnbWhremU0V05zSUtYVzBxUkZ0bHdPZjhadEF4T3lZLXdrajlidkQ2b05OVTdydG1va0NjbGp4TEVHXzJNUmI2dkF5ZEJneUtta19hT0tnTDE2OEZiS2V0SFh6VFE0YVpXOFhqS3pENV9idTd6V0lwd0lOcEdCV3J2UQ?oc=5\" target=\"_blank\">Germany's far-right AfD seeks landmark state victory as Saxony-Anhalt votes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-06T00:06:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘Poverty doesn’t have to be my reality’: I thought I’d have to rely on Social Security. Then I taught myself how to invest.",
+      "link": "https://www.marketwatch.com/story/i-didnt-know-what-i-didnt-know-i-thought-id-have-to-depend-on-social-security-then-i-taught-myself-how-to-invest-0129870b?mod=mw_rss_topstories",
+      "summary": "“It always baffled me how some people managed to retire with significant wealth.”",
+      "published": "2026-09-05T23:45:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -26,15 +44,6 @@
       "summary": "Two more news organizations are suing OpenAI and Microsoft over the supposed use of their journalism to train AI.",
       "published": "2026-09-05T22:49:55+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5\" target=\"_blank\">Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-05T22:27:49+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -70,15 +79,6 @@
       "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPM3NpSzg5T0lwZ2VwSkh6VjJtLUF5N0U2TWZoM2dhSW1sUDRsUk5nRWJpNkZPaXNhWkNQNFl3S25QVkRNcUxWRno0SU1uVU84NzczVzhWODl0UXZBWkoxNGlwbjU3eGxIV3R4MGhRS1d0ZVN1bDBFWTRDRmU5ZlZvQXM3a2gycDZ2cWoxR2ZtTUFkUWRBR1otODM1Z010SkY3NGMxRjVVakxINXdDT2VRLVdoN3NFSGxuUWowS1FaOA?oc=5\" target=\"_blank\">Putin says US-Russia contacts beneficial as talks begin with Witkoff and Kushner</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-09-05T18:57:45+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Chinese national rescued from Nepal tunnel 10 days after flash flood - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOaG1aeTdsTDc5NHp0U0J2UFV0eGtnY1k4TjBqT3FzS3hmM3o1Um1hRW1Xa0UtcmV3YlRFZTVROFVVRVBYY2t5MF9WekJzLXZMdWJLa1ZYeWpIZmpjcC1Vamt3bzJvd21WeWFnTjB2QWJqXzA5bWM5dHJhLTNwLXRDMnJ0SVNqUmo4cjBQYXNjWi15aURhVTE4NXhtVHJFcVJxeUlVZVRERUlXa1dZY01PVGpmclFnMkpldFZGQkdXdw?oc=5\" target=\"_blank\">Chinese national rescued from Nepal tunnel 10 days after flash flood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-05T18:56:16+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -142,15 +142,6 @@
       "link": "https://www.marketwatch.com/story/theres-a-new-record-number-of-401-k-millionaires-as-retirement-savings-hold-at-all-time-highs-94f2c520?mod=mw_rss_topstories",
       "summary": "Retirement savings hovered at record highs in the second quarter, pushing the number of 401(k) millionaires to a record as investors focused on their long-term goals despite persistent anxiety about the broader economy, Fidelity Investments said Thursday.",
       "published": "2026-09-05T17:01:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘I currently give him $1,000 a month’: My grandson has severe mental illness. How do I protect him after I’m gone?",
-      "link": "https://www.marketwatch.com/story/im-desperately-trying-to-plan-ahead-im-leaving-everything-to-my-grandson-who-has-severe-mental-illness-how-can-i-protect-him-d8df2646?mod=mw_rss_topstories",
-      "summary": "“I’m desperately trying to plan ahead while I’m still able.”",
-      "published": "2026-09-05T17:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -233,6 +224,15 @@
       "summary": "",
       "published": "2026-09-05T12:00:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUkQ0OXgwdkJCdnZWd0VsRWZIZThHY3FrWG8xYXhVZ3FMVmJrZ2VzN1MtQmw5T3RhNTFMTzNaWk9jQVpTcnlvY0hNQmNYdWN4ZmJ4OXlEZDUtTFI5elpNc3RublQ4MWFBVjV5aTFsQnZOYW4tWDBncXBWRUgyUWNPNFFlcFpRc2R5eDZ2eFZTaWlobWEwVnRuOEVscm5RWDg3THR3QlNVdFoyQkQ3LVUtSXVWLWduNmJ6UjFXRFFJV0tweUdWbGhSeA?oc=5\" target=\"_blank\">Kremlin says Ukraine talks with US envoys were useful; no sign of breakthrough</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-05T10:01:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -332,15 +332,6 @@
       "summary": "In all, 3,700 internal agents posted 18,000 messages discussing cheating on a test.",
       "published": "2026-09-04T22:17:36+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Bloom Energy was just named to the S&P 500. These other stocks are joining the index as well. - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXkyMkRkbC1lQm1KWjB0elE3Ylp4RlNJQ2lRc1lPeC00Q1pXOUM4NVFFWm1Zd2RXNzNWZ0RZWHE5VEdrV3o4dG02RXlJNmRCeGdEc3hGOW1RZEdhR2lPekJIR3FrTnlwZ1VsRk9SV2hONVdtYnJyMkZGaGFwZ3VvZnAzWG4tZnlrWkZaU2V0SllaVWxvUGJFMXBmUXI2aXQ0djF5SngwbUstQldVdnB4aDF3WE55akczd29fOVIzc1RQTzN2MFlBVjNVdXhseXNvSWtzQ1dMTGJYcGpRUHpfbQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxPYXkyMkRkbC1lQm1KWjB0elE3Ylp4RlNJQ2lRc1lPeC00Q1pXOUM4NVFFWm1Zd2RXNzNWZ0RZWHE5VEdrV3o4dG02RXlJNmRCeGdEc3hGOW1RZEdhR2lPekJIR3FrTnlwZ1VsRk9SV2hONVdtYnJyMkZGaGFwZ3VvZnAzWG4tZnlrWkZaU2V0SllaVWxvUGJFMXBmUXI2aXQ0djF5SngwbUstQldVdnB4aDF3WE55akczd29fOVIzc1RQTzN2MFlBVjNVdXhseXNvSWtzQ1dMTGJYcGpRUHpfbQ?oc=5\" target=\"_blank\">Bloom Energy was just named to the S&amp;P 500. These other stocks are joining the index as well.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-09-04T21:46:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -939,9 +930,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "What’s Next for Gold Prices After the Latest Rebound? - global.morningstar.com",
+      "title": "What’s Next for Gold Prices After the Latest Rebound? - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUlXM0hzWFdWa0lybHZVOVFoNElPRUF3a2hIN2pyVU1IOTZKX1lHRWJNeWk0Q3o3X1dZY0xfQ0lER1BWUm85cHVfNTZBSUpXWGdWUGd6QVBERmxRcXhYTjlQY3g3SFMxRy05NHBQcmdmdk9xZEhuTGtvbHp3MTNIQlVYNExONkp6VTMxMWpYQ2hPUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUlXM0hzWFdWa0lybHZVOVFoNElPRUF3a2hIN2pyVU1IOTZKX1lHRWJNeWk0Q3o3X1dZY0xfQ0lER1BWUm85cHVfNTZBSUpXWGdWUGd6QVBERmxRcXhYTjlQY3g3SFMxRy05NHBQcmdmdk9xZEhuTGtvbHp3MTNIQlVYNExONkp6VTMxMWpYQ2hPUQ?oc=5\" target=\"_blank\">What’s Next for Gold Prices After the Latest Rebound?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">global.morningstar.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxNUUlXM0hzWFdWa0lybHZVOVFoNElPRUF3a2hIN2pyVU1IOTZKX1lHRWJNeWk0Q3o3X1dZY0xfQ0lER1BWUm85cHVfNTZBSUpXWGdWUGd6QVBERmxRcXhYTjlQY3g3SFMxRy05NHBQcmdmdk9xZEhuTGtvbHp3MTNIQlVYNExONkp6VTMxMWpYQ2hPUQ?oc=5\" target=\"_blank\">What’s Next for Gold Prices After the Latest Rebound?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-09-03T06:21:20+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1045,6 +1036,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "So there’s this $499 AI Dyson camera toothbrush - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXNFUmdLeU1oMGJMTmRfejlNMTFXSGUyNlpPSWphcVNCdUoxMHR3azBhSnRqRWY1MmJCNjNEdFJ3c056NF9vN0tPam5BbjhVcXVmZlJ4aF91RmJQaGcxZzJPS0loQlgycXpfaG51aFVBb2pKTmdpT2d3emdUOVZIUmtza2k5R01YZzJsaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQLXNFUmdLeU1oMGJMTmRfejlNMTFXSGUyNlpPSWphcVNCdUoxMHR3azBhSnRqRWY1MmJCNjNEdFJ3c056NF9vN0tPam5BbjhVcXVmZlJ4aF91RmJQaGcxZzJPS0loQlgycXpfaG51aFVBb2pKTmdpT2d3emdUOVZIUmtza2k5R01YZzJsaw?oc=5\" target=\"_blank\">So there’s this $499 AI Dyson camera toothbrush</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-09-02T05:13:16+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "How Does the World Really View China?",
@@ -1092,9 +1092,9 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Conflict Between India and Pakistan | Global Conflict Tracker - Council on Foreign Relations",
+      "title": "Latest News – Conflict Between India and Pakistan | Global Conflict Tracker - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmZZMXVHOFF6ckNHbUpGdDk0eE05UlM1OG94RFpqbWJPN0IyTURWN0l3ZnRHYVpCZldVbWxkZXVCemtrc21sZVl1OFkxUXhMbjBsMUc4TlF2Y0RNZ2MwQV9mRWdPY3ZsRGJ2a081elVzc21yZmFUQ2s0U1QtcHZqYWEyVy1vSXBVbjE4SXZQbWR2bURwZDNlTTgwakFFcWFwZW9sVGF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmZZMXVHOFF6ckNHbUpGdDk0eE05UlM1OG94RFpqbWJPN0IyTURWN0l3ZnRHYVpCZldVbWxkZXVCemtrc21sZVl1OFkxUXhMbjBsMUc4TlF2Y0RNZ2MwQV9mRWdPY3ZsRGJ2a081elVzc21yZmFUQ2s0U1QtcHZqYWEyVy1vSXBVbjE4SXZQbWR2bURwZDNlTTgwakFFcWFwZW9sVGF3?oc=5\" target=\"_blank\">Latest News – Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmZZMXVHOFF6ckNHbUpGdDk0eE05UlM1OG94RFpqbWJPN0IyTURWN0l3ZnRHYVpCZldVbWxkZXVCemtrc21sZVl1OFkxUXhMbjBsMUc4TlF2Y0RNZ2MwQV9mRWdPY3ZsRGJ2a081elVzc21yZmFUQ2s0U1QtcHZqYWEyVy1vSXBVbjE4SXZQbWR2bURwZDNlTTgwakFFcWFwZW9sVGF3?oc=5\" target=\"_blank\">Latest News – Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2026-09-01T07:25:13+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1119,18 +1119,18 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Conflict Between India and Pakistan | Global Conflict Tracker - Council on Foreign Relations",
+      "title": "Latest News – Conflict Between India and Pakistan | Global Conflict Tracker - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFlEWkM2T0dzN2tNRXpJS29Na0MwQ1hvS1VucTRhMWFHaGt3N1htdk43OXYtbmZxTmcycURjMDhlV2xNWGNOUVZBN3RvTXZpdUZnRjd0bXZsS3E3VnJ2U3JPYWZxS1ZwWEFfN2ZZRFJnTWYxajFEamZndThkWDVqWThXd29WZlNIUHF0aEV1SmRuNm5lSGFQTkJlcjdlY1ZMb2Ntdg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFlEWkM2T0dzN2tNRXpJS29Na0MwQ1hvS1VucTRhMWFHaGt3N1htdk43OXYtbmZxTmcycURjMDhlV2xNWGNOUVZBN3RvTXZpdUZnRjd0bXZsS3E3VnJ2U3JPYWZxS1ZwWEFfN2ZZRFJnTWYxajFEamZndThkWDVqWThXd29WZlNIUHF0aEV1SmRuNm5lSGFQTkJlcjdlY1ZMb2Ntdg?oc=5\" target=\"_blank\">Latest News – Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxPcFlEWkM2T0dzN2tNRXpJS29Na0MwQ1hvS1VucTRhMWFHaGt3N1htdk43OXYtbmZxTmcycURjMDhlV2xNWGNOUVZBN3RvTXZpdUZnRjd0bXZsS3E3VnJ2U3JPYWZxS1ZwWEFfN2ZZRFJnTWYxajFEamZndThkWDVqWThXd29WZlNIUHF0aEV1SmRuNm5lSGFQTkJlcjdlY1ZMb2Ntdg?oc=5\" target=\"_blank\">Latest News – Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2026-09-01T03:58:24+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Conflict Between India and Pakistan | Global Conflict Tracker - Council on Foreign Relations",
+      "title": "Latest News – Conflict Between India and Pakistan | Global Conflict Tracker - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXdDYUQ3WFFJZ1dXSlk1dUJSanFyeDdPazdqRXQyYUZpdU9rM0NIYVU4ejZHMTRZVDJJVWFFdDRzbGFDaFpxMkEySkgyTEM5elkzMFJCQXFWOWRBaHRvVDc3eE5FMzR4YWtoaXlYVkNpTFdMMWpmdXQ2Z1R2aTl3WG1SS0lVQnVtbGNUNUR5ajd2Uy1qbkJEeno2N2pDYlprTm56RA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXdDYUQ3WFFJZ1dXSlk1dUJSanFyeDdPazdqRXQyYUZpdU9rM0NIYVU4ejZHMTRZVDJJVWFFdDRzbGFDaFpxMkEySkgyTEM5elkzMFJCQXFWOWRBaHRvVDc3eE5FMzR4YWtoaXlYVkNpTFdMMWpmdXQ2Z1R2aTl3WG1SS0lVQnVtbGNUNUR5ajd2Uy1qbkJEeno2N2pDYlprTm56RA?oc=5\" target=\"_blank\">Latest News – Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOXdDYUQ3WFFJZ1dXSlk1dUJSanFyeDdPazdqRXQyYUZpdU9rM0NIYVU4ejZHMTRZVDJJVWFFdDRzbGFDaFpxMkEySkgyTEM5elkzMFJCQXFWOWRBaHRvVDc3eE5FMzR4YWtoaXlYVkNpTFdMMWpmdXQ2Z1R2aTl3WG1SS0lVQnVtbGNUNUR5ajd2Uy1qbkJEeno2N2pDYlprTm56RA?oc=5\" target=\"_blank\">Latest News – Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2026-09-01T00:05:26+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1146,36 +1146,36 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - Council on Foreign Relations",
+      "title": "Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZm5aRFZkUm5oU0tERzVnU0IxZHprYkVDQS1aeklGRkNhS1hxc0hfdUlKbk4wbXRDWkZjNWp6Y1J3cHl5NS1vNEFvX1cwOUNmU0Z0SnRSOXlsMWpYa2xqQ2xGdmVNcXllZ1BiendRUDJuTXRyX3hWYVUyOVZlZWRPRDFTZDkyZ1JUci16NzBrY21hcE1NSDRZdlZB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZm5aRFZkUm5oU0tERzVnU0IxZHprYkVDQS1aeklGRkNhS1hxc0hfdUlKbk4wbXRDWkZjNWp6Y1J3cHl5NS1vNEFvX1cwOUNmU0Z0SnRSOXlsMWpYa2xqQ2xGdmVNcXllZ1BiendRUDJuTXRyX3hWYVUyOVZlZWRPRDFTZDkyZ1JUci16NzBrY21hcE1NSDRZdlZB?oc=5\" target=\"_blank\">Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxNZm5aRFZkUm5oU0tERzVnU0IxZHprYkVDQS1aeklGRkNhS1hxc0hfdUlKbk4wbXRDWkZjNWp6Y1J3cHl5NS1vNEFvX1cwOUNmU0Z0SnRSOXlsMWpYa2xqQ2xGdmVNcXllZ1BiendRUDJuTXRyX3hWYVUyOVZlZWRPRDFTZDkyZ1JUci16NzBrY21hcE1NSDRZdlZB?oc=5\" target=\"_blank\">Crude Calculations: Why the Iran War Hasn’t Yet Caused an Oil Shock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2026-08-28T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed - Council on Foreign Relations",
+      "title": "The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5\" target=\"_blank\">The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQVmV2aGlOQU5JRVc4N3lMVUxqa1l3empTb0dTRUJ4bEV4QXRJTTRSOHNfNGkxSG9lbWZKcGlkUHBWbjlHMzRWamRoYjdFaE5rVk5xcnRnRkxrb0RQTTFBN2xjdGl0MXVFSF9FSTd3YlVNMzVub3hTODJrQk01V2NEdjVHNUNkdUppUnVTaTdnUGREWFdlaDlYTFc1cGVTMmJpdHE1ZVpWdmFtZmZXYThz?oc=5\" target=\"_blank\">The Iran War at Six Months: A Region—and Its Relationship With the U.S.—Transformed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2026-08-27T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Tensions Between Armenia and Azerbaijan | Global Conflict Tracker - Council on Foreign Relations",
+      "title": "Latest News – Tensions Between Armenia and Azerbaijan | Global Conflict Tracker - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV19xanNuY0dlcm1IeTQ3VDFnNURKVTlPWlE5dENJTWtNeGlVaVVNVmZZOXV5d3JFa2N2aC1EampkRXVkaUh0bDZueS1jcThkeWhXbzlJUERQN01CSlNGS2laMjU3dHZwamRFY3BVUGYzSWFZYUJRZWJXUWtJZjExQVZYdTdnd1JtQnJSdXkzT0d3elVYQXpJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOV19xanNuY0dlcm1IeTQ3VDFnNURKVTlPWlE5dENJTWtNeGlVaVVNVmZZOXV5d3JFa2N2aC1EampkRXVkaUh0bDZueS1jcThkeWhXbzlJUERQN01CSlNGS2laMjU3dHZwamRFY3BVUGYzSWFZYUJRZWJXUWtJZjExQVZYdTdnd1JtQnJSdXkzT0d3elVYQXpJ?oc=5\" target=\"_blank\">Latest News – Tensions Between Armenia and Azerbaijan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxOV19xanNuY0dlcm1IeTQ3VDFnNURKVTlPWlE5dENJTWtNeGlVaVVNVmZZOXV5d3JFa2N2aC1EampkRXVkaUh0bDZueS1jcThkeWhXbzlJUERQN01CSlNGS2laMjU3dHZwamRFY3BVUGYzSWFZYUJRZWJXUWtJZjExQVZYdTdnd1JtQnJSdXkzT0d3elVYQXpJ?oc=5\" target=\"_blank\">Latest News – Tensions Between Armenia and Azerbaijan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2026-08-26T15:50:22+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Territorial Dispute | Global Conflict Tracker - Council on Foreign Relations",
+      "title": "Territorial Dispute | Global Conflict Tracker - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWXkzcWY4Y2lMRm1vTEtfRDRKRXVYTlU2ZXlNektIakEzaV9fRFpuSmxxR3hlZy1VWTY4c3JRb2NFR3VSenZDS1Q5dkxUMHY3THU1bmtJcWdsX0RxdDA5cVhUbnJ2Y29BYXpvRXRhVm5QbE9KWU5Z?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWXkzcWY4Y2lMRm1vTEtfRDRKRXVYTlU2ZXlNektIakEzaV9fRFpuSmxxR3hlZy1VWTY4c3JRb2NFR3VSenZDS1Q5dkxUMHY3THU1bmtJcWdsX0RxdDA5cVhUbnJ2Y29BYXpvRXRhVm5QbE9KWU5Z?oc=5\" target=\"_blank\">Territorial Dispute | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMid0FVX3lxTE1VWXkzcWY4Y2lMRm1vTEtfRDRKRXVYTlU2ZXlNektIakEzaV9fRFpuSmxxR3hlZy1VWTY4c3JRb2NFR3VSenZDS1Q5dkxUMHY3THU1bmtJcWdsX0RxdDA5cVhUbnJ2Y29BYXpvRXRhVm5QbE9KWU5Z?oc=5\" target=\"_blank\">Territorial Dispute | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2026-08-18T13:13:57+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1279,6 +1279,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Before and after satellite images of demolition of East Wing - AP News",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2025-10-23T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "Morningstar",
       "title": "I Thought I Had These 3 Retirement Topics Figured Out. Here’s Why I Changed My Mind - Morningstar",
@@ -1344,9 +1353,9 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
+      "title": "Civil War in Sudan | Global Conflict Tracker - cfr.org",
       "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93b3VSei1NWTdlTUVhWjNaVGpKU2J1WVNZdlFEdFJsUnEzNEpZbXJZVXFyZ1JXcW1OOTdFZTJSbW1SRGZEQXR0U3ZuUkJOUG5ER0lyUHFqY09JWFVBVjVJSXVMM0RvMFp2ZnktdmIzaUFVaGF3UDE0U0daSElwUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE93b3VSei1NWTdlTUVhWjNaVGpKU2J1WVNZdlFEdFJsUnEzNEpZbXJZVXFyZ1JXcW1OOTdFZTJSbW1SRGZEQXR0U3ZuUkJOUG5ER0lyUHFqY09JWFVBVjVJSXVMM0RvMFp2ZnktdmIzaUFVaGF3UDE0U0daSElwUQ?oc=5\" target=\"_blank\">Civil War in Sudan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE93b3VSei1NWTdlTUVhWjNaVGpKU2J1WVNZdlFEdFJsUnEzNEpZbXJZVXFyZ1JXcW1OOTdFZTJSbW1SRGZEQXR0U3ZuUkJOUG5ER0lyUHFqY09JWFVBVjVJSXVMM0RvMFp2ZnktdmIzaUFVaGF3UDE0U0daSElwUQ?oc=5\" target=\"_blank\">Civil War in Sudan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">cfr.org</font>",
       "published": "2023-07-11T17:26:26+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1361,11 +1370,11 @@
     },
     {
       "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2017-07-07T01:37:33+00:00",
+      "source": "Morningstar",
+      "title": "Careers at Morningstar - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2018-12-11T01:03:09+00:00",
       "feed_type": "google_news_fallback"
     }
   ]
