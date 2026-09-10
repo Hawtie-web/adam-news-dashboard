@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-09T23:58:29.059657+00:00",
-  "item_count": 152,
+  "updated_at": "2026-09-10T04:27:31.735365+00:00",
+  "item_count": 151,
   "failures": [
     {
       "source": "RAND Corporation",
@@ -10,6 +10,96 @@
   ],
   "items": [
     {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Trump promises $5,000 checks if Republicans win the midterms. He also teased tariff and ‘DOGE’ dividends last year that never came.",
+      "link": "https://www.marketwatch.com/story/trump-promises-5-000-checks-if-republicans-win-the-midterms-but-he-also-promised-tariff-dividends-last-year-that-never-came-d062c602?mod=mw_rss_topstories",
+      "summary": "President Trump’s speech at his party’s midterm convention in Dallas comes as many analysts expect losses for Republicans in November’s elections due to voters’ frustrations with high prices.",
+      "published": "2026-09-10T03:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Trezor says third-party security breach led to phishing emails from legitimate domain",
+      "link": "https://www.theblock.co/news/defi/2026-09-09-trezor-phishing-emails-414086",
+      "summary": "This follows last month's security breach at shipping provider ShipMonk, which exposed the personal information of Trezor customers.",
+      "published": "2026-09-10T02:26:58+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Xi's India visit to help diplomatic thaw, but business ties bound by suspicion - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPTE5zWFZ4Z2JRY1VhbF94Z01fZFlvRDRvVFFjMHpwQnN3RnpUN1RHZW1kSFJiWDM2RnZadHhRVy0yOS1xcU85UEZucEN0ZHZ1YXdtYzE1WW9NQ2lQcEtZZEN0VW5qQTk1emRJT2hNSXV1SmRkdGVScHQwX1p2NkpiRlVpZ2kxYVJtbF96U2NjVC05Nmg0TEhBa1lJUVUyX3QyOWQzdVd0S1g5UjZibVNHODRyNDdLSGli?oc=5\" target=\"_blank\">Xi's India visit to help diplomatic thaw, but business ties bound by suspicion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-10T02:20:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump promises $5,000 payout to U.S. adults if Republicans win election - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEFFd19FaHhIWU1ueFQwa1lDUWZMNTBZR1drTW1lRUV3a0Q1eUhYbFZJYjdmX3BEbWJudThqUFpldmNoODNhS2NubGw2Q3o0aC1TU3AwQnc0bXdsUDJPSk9oX3l2anhGMkRXTDIzYnppLVB2eTZMUExKbnh5R1VMY0FOOC12NTI3R3kyOUdvTXI1SHdRQTFWNnB5QzFfU0JiQ3d4Tkt1aDllRjA2R1E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOaEFFd19FaHhIWU1ueFQwa1lDUWZMNTBZR1drTW1lRUV3a0Q1eUhYbFZJYjdmX3BEbWJudThqUFpldmNoODNhS2NubGw2Q3o0aC1TU3AwQnc0bXdsUDJPSk9oX3l2anhGMkRXTDIzYnppLVB2eTZMUExKbnh5R1VMY0FOOC12NTI3R3kyOUdvTXI1SHdRQTFWNnB5QzFfU0JiQ3d4Tkt1aDllRjA2R1E?oc=5\" target=\"_blank\">Trump promises $5,000 payout to U.S. adults if Republicans win election</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-10T02:19:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Hunter Biden memecoin $LAPTOP loses 95% of market value just hours after launch",
+      "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
+      "summary": "Investor appetite for memecoins has clearly not recovered, even as bitcoin prices have crept higher.",
+      "published": "2026-09-10T02:04:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYThzMWZWYWVaeVkzaGR4Z3AxbHpidm9CMTFNSTVKWmNvVGZoRkg5MjJRV1RvdW9wWWtWS3R6V1dNWmFQUEl1Y0Q4dWdYY19EMUk3RkE4aUlsYVRLbkxmemVJM1gxVzlSNGs5a24wbjg5dWxBZ2tRallJTTV0UExCUFZXWGxYZXhsZHA4clFtT2JPa3IxbHpnVnZnU2RMTnpsZDVLU0RMYW9RM0x6TlY5aUtXRU9tZzJRZ0hV?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxOYThzMWZWYWVaeVkzaGR4Z3AxbHpidm9CMTFNSTVKWmNvVGZoRkg5MjJRV1RvdW9wWWtWS3R6V1dNWmFQUEl1Y0Q4dWdYY19EMUk3RkE4aUlsYVRLbkxmemVJM1gxVzlSNGs5a24wbjg5dWxBZ2tRallJTTV0UExCUFZXWGxYZXhsZHA4clFtT2JPa3IxbHpnVnZnU2RMTnpsZDVLU0RMYW9RM0x6TlY5aUtXRU9tZzJRZ0hV?oc=5\" target=\"_blank\">Multiple US military aircraft suffered damage in overnight strikes on Jordan air base, CBS says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-10T01:42:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Five dead, more than 80 missing after Philippine ferry fire - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2d4ekhwd2hlUTVSSHhxMFRsTzNXQjc4M0xjRzhHLXQzcjQtOF9XZHFLOExQNkhXQS13MHBoRkpqM2kzb2kyZ1JiYk1YQ2FwRUdxNEl4TUl3d1MzcW1QVXNiQlRSN0ZLenQ0NGk2MDIzTkZRMTd3V29VRVZuWm96cnlkd2wxNTViMS1mNE40T0k3V29GVVF2c2g3WnRsVkJSUXc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOY2d4ekhwd2hlUTVSSHhxMFRsTzNXQjc4M0xjRzhHLXQzcjQtOF9XZHFLOExQNkhXQS13MHBoRkpqM2kzb2kyZ1JiYk1YQ2FwRUdxNEl4TUl3d1MzcW1QVXNiQlRSN0ZLenQ0NGk2MDIzTkZRMTd3V29VRVZuWm96cnlkd2wxNTViMS1mNE40T0k3V29GVVF2c2g3WnRsVkJSUXc?oc=5\" target=\"_blank\">Five dead, more than 80 missing after Philippine ferry fire</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-10T01:14:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Nvidia teams up with Australian partners to build AI factory capacity - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk5MZDBuUUItQ1c2dnBiWWJudnJhczJ4MUh1azQxTjBBNmhCZHJsWVNEcWFRLUtJX1p6WXFaLVFrZ0tPeHNWWEhYYXZYd3BwNU1XZ2lvSEgxOUdHLW1mZ1dJdkZFYUg5bjZIVm9SbWNHdmw2MjBnenIzekF3UkJJdG5DTnVjc1ZXazR6M3UwZzA0X3c4by1uSUE2Z0o2U2hwTTJRdURmQTRFTzBQSDZWeDUzSENMYjdMYzJ6VUx3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMk5MZDBuUUItQ1c2dnBiWWJudnJhczJ4MUh1azQxTjBBNmhCZHJsWVNEcWFRLUtJX1p6WXFaLVFrZ0tPeHNWWEhYYXZYd3BwNU1XZ2lvSEgxOUdHLW1mZ1dJdkZFYUg5bjZIVm9SbWNHdmw2MjBnenIzekF3UkJJdG5DTnVjc1ZXazR6M3UwZzA0X3c4by1uSUE2Z0o2U2hwTTJRdURmQTRFTzBQSDZWeDUzSENMYjdMYzJ6VUx3?oc=5\" target=\"_blank\">Nvidia teams up with Australian partners to build AI factory capacity</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-10T00:22:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSGlCSkhKXzBhbWZWekZJVGdkaDA1VEZqYndkSGlucjZET1A3RE1Nbi1fNTlRdHh5bnRHckh2VkFTU080U1ZROWpwS3BnTWs1Q2cwSk1XVDNjVDBxQTBJNDVUdmwwV2JTOE5vZlc1a3BkcS1YNFF5eVFuSk84UUVGNEJFN0VIQnJXRW0yUlJrVVY3NDZ2dTZzNUhQdGZ3RlNfZEUzWG5BSkpwN3o3cHdseU52UEFsLWR0SDQwQmlLY0RZZVg0Vm84?oc=5\" target=\"_blank\">EXCLUSIVE: After outrunning Bolt, China's robot champion races towards real-world work</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-10T00:03:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "AI research startup Listen Labs scrubbed a $1.5B funding round for Salesforce talks",
+      "link": "https://techcrunch.com/2026/09/09/ai-research-startup-listen-labs-scrubbed-a-1-5b-funding-round-for-salesforce-talks/",
+      "summary": "Listen Labs walked away from a signed Series C term sheet from Menlo Ventures, sources say.",
+      "published": "2026-09-10T00:00:37+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Israeli-based defense company rebrands American subsidiary to  Twenty-Six Defense",
@@ -17,6 +107,15 @@
       "summary": "The U.S. arm of Israeli-based Elbit Systems has rebranded to Twenty-Six Defense, a new name that emphasizes the subsidiary’s American-made brand.",
       "published": "2026-09-09T23:32:12+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iran likely to reverse-engineer captured US underwater drone - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVJXWnFxd25USERSYUk0Nmt5N1RFUzMxbllBa2NqNkJGUVplYkFJVEJYRThSdkxCa3NhNDVLdV8wRGE5VGpGVlhhVzRKdUpOeHExUXRONFprbmtaTDZNaEhuZGZEdGhta3FrQ1FBZDAwSXQ0TV9wMWxGMExaT2FURVpsa0d5WjdwakhhT1ZOVDhzRGwwS0tUUmxxVUk3R2NrcGdlRGVDNjZCcS0xZTQ0cw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOSVJXWnFxd25USERSYUk0Nmt5N1RFUzMxbllBa2NqNkJGUVplYkFJVEJYRThSdkxCa3NhNDVLdV8wRGE5VGpGVlhhVzRKdUpOeHExUXRONFprbmtaTDZNaEhuZGZEdGhta3FrQ1FBZDAwSXQ0TV9wMWxGMExaT2FURVpsa0d5WjdwakhhT1ZOVDhzRGwwS0tUUmxxVUk3R2NrcGdlRGVDNjZCcS0xZTQ0cw?oc=5\" target=\"_blank\">Iran likely to reverse-engineer captured US underwater drone</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-09T22:59:01+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -39,9 +138,9 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court - reuters.com",
+      "title": "Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court - Reuters",
       "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQakhlTUFKNEd3c2ZZenBtLWhtY3ZMdmdJYzVrQ1p5R0VPSXY4TV9yb09kX3RRQ2RnWmpHNXlDMUthRHFQcjBtSV82YVpubGI0TFIwVGJvYkhzam1WRmFlY3hLYjd5Q0Q4YlFaNm1QazlZV3JtaHh1Vll6a19iQktNelBVWHFWLU03N2g3MXcwR2pfM1JKR0IzcHNLQnR3dXVrZEVHTWlPYVRzbnRScHMxaGdMbHlLSjR5M1RLM3VB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQakhlTUFKNEd3c2ZZenBtLWhtY3ZMdmdJYzVrQ1p5R0VPSXY4TV9yb09kX3RRQ2RnWmpHNXlDMUthRHFQcjBtSV82YVpubGI0TFIwVGJvYkhzam1WRmFlY3hLYjd5Q0Q4YlFaNm1QazlZV3JtaHh1Vll6a19iQktNelBVWHFWLU03N2g3MXcwR2pfM1JKR0IzcHNLQnR3dXVrZEVHTWlPYVRzbnRScHMxaGdMbHlLSjR5M1RLM3VB?oc=5\" target=\"_blank\">Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQakhlTUFKNEd3c2ZZenBtLWhtY3ZMdmdJYzVrQ1p5R0VPSXY4TV9yb09kX3RRQ2RnWmpHNXlDMUthRHFQcjBtSV82YVpubGI0TFIwVGJvYkhzam1WRmFlY3hLYjd5Q0Q4YlFaNm1QazlZV3JtaHh1Vll6a19iQktNelBVWHFWLU03N2g3MXcwR2pfM1JKR0IzcHNLQnR3dXVrZEVHTWlPYVRzbnRScHMxaGdMbHlLSjR5M1RLM3VB?oc=5\" target=\"_blank\">Fight over Republican-drawn congressional map in Missouri returns to US Supreme Court</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-09-09T22:28:56+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -75,24 +174,6 @@
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "Hunter Biden’s memecoin flops, falling 95% just hours after launch",
-      "link": "https://www.marketwatch.com/story/hunter-bidens-memecoin-flops-falling-95-just-hours-after-launch-3e9307d0?mod=mw_rss_topstories",
-      "summary": "Investor appetite for memecoins has clearly not recovered, even as bitcoin prices have crept higher.",
-      "published": "2026-09-09T22:02:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxOTDFmbU9kUFlkTGo3Qmg3SzFVajhJVVRYdnF4UWdWU3VId1c1TnJCZFpQZ1BTYzlMak94eFZ0WlhnMGxaVGEtWTctRUNmbV85cjhldmpSVDN4Y2hrbEJ1SWdaNzl2ODlZTE1vc0h5MlNDQ2xzbDRrNUc2RHRyMmRrQ1JsenFIUV9DQU1zUUk1TnlLOHh2QVoyajExU1I3ak1JZ2I3R21SeWtackpsYTgweEZR?oc=5\" target=\"_blank\">Trump departs DC on Qatar-gifted Air Force One after emergency slide accidentally deploys</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-09-09T22:01:22+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
       "title": "‘We fear financial exploitation’: Who will manage our finances if my wife and I become incapacitated?",
       "link": "https://www.marketwatch.com/story/we-fear-financial-exploitation-who-will-manage-our-finances-if-my-wife-and-i-become-incapacitated-32efc180?mod=mw_rss_topstories",
       "summary": "“We have witnessed our parents’ gradual decline in cognitive ability.”",
@@ -107,15 +188,6 @@
       "summary": "Massachusetts has become the third state in as many months to slap new restrictions on data center development.",
       "published": "2026-09-09T21:43:34+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Drone alert delayed Zelenskiy's departure for Norway, Moldova says - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JTaC1oOWFvY2xYWEI5a3VVdTlpaktkSXJud0xnbTRNY3lNVzZoTU1zX2ZuZWZlckpSM0oxbHdZcUt1WnRlUFROeW80eDQxZEpQM2RQSlppcXRpNGpBMG1pb1FweXhwZjYydGtNNjM5cDVVVlo1d184UXRlUFUtTjhJN19nTjhKd2trWFF0a0g1SHByOHd6VWJFSFpwTVRZNk1TS1dZd3VkS3JS?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPY3JTaC1oOWFvY2xYWEI5a3VVdTlpaktkSXJud0xnbTRNY3lNVzZoTU1zX2ZuZWZlckpSM0oxbHdZcUt1WnRlUFROeW80eDQxZEpQM2RQSlppcXRpNGpBMG1pb1FweXhwZjYydGtNNjM5cDVVVlo1d184UXRlUFUtTjhJN19nTjhKd2trWFF0a0g1SHByOHd6VWJFSFpwTVRZNk1TS1dZd3VkS3JS?oc=5\" target=\"_blank\">Drone alert delayed Zelenskiy's departure for Norway, Moldova says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-09-09T21:33:21+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -145,24 +217,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US spy chief Ratcliffe preparing for bigger role in Russia, Ukraine talks, FT reports - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG9RZmFtYnpwTDBuUjlVQkNGYkU3VG1uU0s0bENNbVJ1bVVmQW1Oa2hWYzFJWUVoT2lHM21qMU02TTA1MkxLZHdiQjFOSEtHd0lNUkxXUEJnM2lxLVFtdHpWNE9jV2JCbGNCYWdXM1JSeTFsQ2RRa2Q2SWRUTEFJdVdoeHBwTmFhU1YxdWdnQUpXRUxGdVZMa0RYQ3BzZ3h5d01uSjFadUE4WU03TENHcl9OU1FuU2FuMlhVQTRjd091ZFk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUG9RZmFtYnpwTDBuUjlVQkNGYkU3VG1uU0s0bENNbVJ1bVVmQW1Oa2hWYzFJWUVoT2lHM21qMU02TTA1MkxLZHdiQjFOSEtHd0lNUkxXUEJnM2lxLVFtdHpWNE9jV2JCbGNCYWdXM1JSeTFsQ2RRa2Q2SWRUTEFJdVdoeHBwTmFhU1YxdWdnQUpXRUxGdVZMa0RYQ3BzZ3h5d01uSjFadUE4WU03TENHcl9OU1FuU2FuMlhVQTRjd091ZFk?oc=5\" target=\"_blank\">US spy chief Ratcliffe preparing for bigger role in Russia, Ukraine talks, FT reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-09-09T21:14:46+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Pakistan warns Iran to rein in Houthis as Riyadh strikes back - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjRjUTJjbW9GMXo2aGNZTXVJTmxOQWhON20ycG5GTGxhcjlSZWJqOWFkSGdCZDVTTldYMnBSeHpYT09GTU5fS0ZVSTVLamF3cDFXc21KTzJaTE56cEdZc2JjNFk4WG53UTQ2OURwMTFrTUE5SHFjQS03M084UExUZlRTOWlURlpDVm1aRzBBc0QxeV9pQy1IUVlGN0xaVW5KMFc0Nm90VFhWNlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQjRjUTJjbW9GMXo2aGNZTXVJTmxOQWhON20ycG5GTGxhcjlSZWJqOWFkSGdCZDVTTldYMnBSeHpYT09GTU5fS0ZVSTVLamF3cDFXc21KTzJaTE56cEdZc2JjNFk4WG53UTQ2OURwMTFrTUE5SHFjQS03M084UExUZlRTOWlURlpDVm1aRzBBc0QxeV9pQy1IUVlGN0xaVW5KMFc0Nm90VFhWNlk?oc=5\" target=\"_blank\">EXCLUSIVE: Pakistan warns Iran to rein in Houthis as Riyadh strikes back</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-09-09T21:05:31+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "4 groups caught using the same Chrome and Windows exploit kit",
@@ -182,12 +236,12 @@
     },
     {
       "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Oil’s surge back above $100 fuels fresh inflation fears at a crucial time for interest rates",
-      "link": "https://www.marketwatch.com/story/brent-crude-reaches-100-as-war-in-iran-intensifies-b73832e2?mod=mw_rss_topstories",
-      "summary": "A prolonged oil shock could keep consumer prices elevated and complicate the path for central banks already navigating a difficult policy environment.",
-      "published": "2026-09-09T20:36:00+00:00",
-      "feed_type": "official_or_site_feed"
+      "source": "Morningstar",
+      "title": "7 Investments to Keep Out of Your Taxable Account - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFJSTXFQNy15dVJ6ZzhwcWJEZGlhWm12ajJQQ2ROS2lZWGRadnFScmxvSWxWZFZQQzF4ekl6ZGdoaVB1QXRlUUoybHAzdGFtQkVwUFdhSnB1aUxxTHdiZDVPczl6RHZkcW5OZUkzdW9qeGRpcXBBRFBKRDZlcjVOV3ZTTS1VbmxRVWZfc3VQWXVtdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQcFJSTXFQNy15dVJ6ZzhwcWJEZGlhWm12ajJQQ2ROS2lZWGRadnFScmxvSWxWZFZQQzF4ekl6ZGdoaVB1QXRlUUoybHAzdGFtQkVwUFdhSnB1aUxxTHdiZDVPczl6RHZkcW5OZUkzdW9qeGRpcXBBRFBKRDZlcjVOV3ZTTS1VbmxRVWZfc3VQWXVtdw?oc=5\" target=\"_blank\">7 Investments to Keep Out of Your Taxable Account</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-09-09T20:43:01+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -217,15 +271,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says Iran war will end right after U.S. midterm elections - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONUt1ZG9kcVg5Q3VMUjZuM0JScHFocjZZOFNvTjRsYWNRZ1lBQUlLUm45XzBJTEh2dnVLLXVqeDh1dlh2aGFObVVqN09PTHFtck02aUZrX3VZRWFLVURzeUt3eFFXc25NcFoxVFNSMHdLSmQ1alBaWGRsOHBpc2RTTy1ULWUyZEk4TXNKc0FxX3NlWXhYS3hVMERTb2R4RVo2UjJPRzRFN2w0a0hhbHE0d0EyZmZHUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxONUt1ZG9kcVg5Q3VMUjZuM0JScHFocjZZOFNvTjRsYWNRZ1lBQUlLUm45XzBJTEh2dnVLLXVqeDh1dlh2aGFObVVqN09PTHFtck02aUZrX3VZRWFLVURzeUt3eFFXc25NcFoxVFNSMHdLSmQ1alBaWGRsOHBpc2RTTy1ULWUyZEk4TXNKc0FxX3NlWXhYS3hVMERTb2R4RVo2UjJPRzRFN2w0a0hhbHE0d0EyZmZHUQ?oc=5\" target=\"_blank\">Trump says Iran war will end right after U.S. midterm elections</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-09-09T20:06:33+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Six Chinese AI firms accused of aggressively copying US frontier models",
@@ -251,24 +296,6 @@
       "summary": "<p><img alt=\"Soundcraft Signature Plus 22, photo by press\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/09/Soundcraft-Signature-Plus-22-hero-credit-press@2000x1500.jpg\" width=\"2000\" /></p>\n<p>Versatile and intuitive, the Signature Plus 22 presents a refreshing alternative to the dominance of digital mixing</p>\n<p>The post <a href=\"https://musictech.com/reviews/studio-recording-gear/soundcraft-signature-plus-22-review/\">Soundcraft Signature Plus 22 mixer review: “Analogue mixers are back, baby!”</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-09-09T20:02:15+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says Putin wants to make a deal in Ukraine - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTNtY0FRMUh3Y1dBNENBWG1zeEYtWUxiajFIX09mX1NoWG04TERuVlptWi1FMEpyMEhJamtmRlYteE5OaVBFc01UbHNTZ09YcmFBQlYzZ3hQUVQ2dEdSaWhodTFoOXNWRDVETUprXzl3NTU1SUN4QkRWTFNWVzYyWUg3aGkySHo5Wkl6cjhrUUlRRTg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxNOTNtY0FRMUh3Y1dBNENBWG1zeEYtWUxiajFIX09mX1NoWG04TERuVlptWi1FMEpyMEhJamtmRlYteE5OaVBFc01UbHNTZ09YcmFBQlYzZ3hQUVQ2dEdSaWhodTFoOXNWRDVETUprXzl3NTU1SUN4QkRWTFNWVzYyWUg3aGkySHo5Wkl6cjhrUUlRRTg?oc=5\" target=\"_blank\">Trump says Putin wants to make a deal in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-09-09T19:55:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says he would consider pardon for former fixer Michael Cohen - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0JOZ1VCTnhTUHVLem1NeTREY0JHQ04zOFBGSU1xMDR4NFIyS0hXRk9Ja2w4dkJ4Z3JYWVlfOTJfTnltcXhOZlBNdWlNdzU5NFVDbTdOWEFqSkNVR0FGdEduMHV2RWxUeWx0WVhfQW1GeHNBNUpzZW1XelFqV2I3eVJOakZhRHVCS085S2o0WWV1N0NXR3dGUlBBbXh6cFVGbEZTS0t0MA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxNX0JOZ1VCTnhTUHVLem1NeTREY0JHQ04zOFBGSU1xMDR4NFIyS0hXRk9Ja2w4dkJ4Z3JYWVlfOTJfTnltcXhOZlBNdWlNdzU5NFVDbTdOWEFqSkNVR0FGdEduMHV2RWxUeWx0WVhfQW1GeHNBNUpzZW1XelFqV2I3eVJOakZhRHVCS085S2o0WWV1N0NXR3dGUlBBbXh6cFVGbEZTS0t0MA?oc=5\" target=\"_blank\">Trump says he would consider pardon for former fixer Michael Cohen</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-09-09T19:47:55+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -385,15 +412,6 @@
       "link": "https://www.theblock.co/news/business/2026-09-09-solana-treasury-firm-skyai-board-challenge-would-be-acquirer-forward-industries-shareholder-group-414061",
       "summary": "SkyAI’s proposed equity plan would authorize 5.145 million shares for stock-based compensation, representing roughly 7.2% additional dilution.",
       "published": "2026-09-09T17:56:26+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Apple CEO John Ternus says the best AI device is still the iPhone",
-      "link": "https://techcrunch.com/2026/09/09/apple-ceo-john-ternus-says-the-best-ai-device-is-still-the-iphone/",
-      "summary": "The company also argued that its on-device models offer consumers more privacy.",
-      "published": "2026-09-09T17:36:05+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -610,15 +628,6 @@
       "link": "https://www.theblock.co/news/business/2026-09-09-consensys-splits-metamask-institutional-ethereum-infrastructure-businesses-414022",
       "summary": "The separation is expected to be completed by the end of 2026, with the existing entity rebranding as MetaMask under CEO Joe Lubin.",
       "published": "2026-09-09T14:54:15+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Ink Foundation, GSR and others open Charter Foundation to help cut token launch costs",
-      "link": "https://www.theblock.co/news/ecosystems/2026-09-09-ink-foundation-gsr-crypto-charter-foundation-token-launch-costs-414023",
-      "summary": "A group of crypto firms has launched Charter Foundation to offer a new framework to help founders reduce the cost of launching tokens.",
-      "published": "2026-09-09T14:49:03+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1110,6 +1119,15 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
+      "title": "Girls flag football is on a remarkable a run - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmJoVTBpc3ZTaU13TE9WVGdkVnJMTUdCMnNyb1JNUHBEYmRMOWhvalV3cHp5alFqU2JEX0FxazgwWEJCc3hCMU11S0lmQ2d0NkpqQTl3Y0pzcGE1NjZDVkpNM0hyZGhMNnBKV043VjlydW11RFZHZVFPUkVOeDJEbkNQSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWmJoVTBpc3ZTaU13TE9WVGdkVnJMTUdCMnNyb1JNUHBEYmRMOWhvalV3cHp5alFqU2JEX0FxazgwWEJCc3hCMU11S0lmQ2d0NkpqQTl3Y0pzcGE1NjZDVkpNM0hyZGhMNnBKV043VjlydW11RFZHZVFPUkVOeDJEbkNQSQ?oc=5\" target=\"_blank\">Girls flag football is on a remarkable a run</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-09-06T06:06:45+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
       "title": "There’s surprising good news about the job market - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNU29yNm5LdmdOeC1QR1N5aFQycUdYdkI5bzlMNjNBZG1JYVgyY0lzU0J5R0ctdm5ETGt0T3NSbVFSZ2ltZ3FubDBwQ1kzc2pDVG1iMUNpTVdLeGJLTlZ5V01zQk0wSG9uaXB1dVZJZklWTTV0aFNldlBsVUc4eDhJeEFaS2cxdUJSaUpQcA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNU29yNm5LdmdOeC1QR1N5aFQycUdYdkI5bzlMNjNBZG1JYVgyY0lzU0J5R0ctdm5ETGt0T3NSbVFSZ2ltZ3FubDBwQ1kzc2pDVG1iMUNpTVdLeGJLTlZ5V01zQk0wSG9uaXB1dVZJZklWTTV0aFNldlBsVUc4eDhJeEFaS2cxdUJSaUpQcA?oc=5\" target=\"_blank\">There’s surprising good news about the job market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
@@ -1144,15 +1162,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "A judge deemed it an illegal monopoly, but ruled Google doesn’t have to sell its ad business - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPR21NNXUyMzF4S3pJRjdKcURYVDJmcEliUEJhQWNjWWlYWDhYekxuSktpZ3V6czFyU21rQlN3WTJ2bW9uQVZNNFdxa29LNmlJU3Iyd2xPZmZxMThpZnU4cnJPZjduZ3Z2R1I2cXUzekoxZ3d0YVlJalNldjU4R3JXbC1lT3JXXy1oZ0hnQjJqTmxGV2RCMm04QUNDdG5aazFCZE1vS3QwNUt5SGx5WmRod1VNS2dSNmlFb2dOVTZnR0E1Vi1u?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPR21NNXUyMzF4S3pJRjdKcURYVDJmcEliUEJhQWNjWWlYWDhYekxuSktpZ3V6czFyU21rQlN3WTJ2bW9uQVZNNFdxa29LNmlJU3Iyd2xPZmZxMThpZnU4cnJPZjduZ3Z2R1I2cXUzekoxZ3d0YVlJalNldjU4R3JXbC1lT3JXXy1oZ0hnQjJqTmxGV2RCMm04QUNDdG5aazFCZE1vS3QwNUt5SGx5WmRod1VNS2dSNmlFb2dOVTZnR0E1Vi1u?oc=5\" target=\"_blank\">A judge deemed it an illegal monopoly, but ruled Google doesn’t have to sell its ad business</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-09-03T09:52:28+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "The Case for a Stalemate With Iran",
@@ -1160,15 +1169,6 @@
       "summary": "America can win if it stays the course.",
       "published": "2026-09-03T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Conflict Between India and Pakistan | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmZZMXVHOFF6ckNHbUpGdDk0eE05UlM1OG94RFpqbWJPN0IyTURWN0l3ZnRHYVpCZldVbWxkZXVCemtrc21sZVl1OFkxUXhMbjBsMUc4TlF2Y0RNZ2MwQV9mRWdPY3ZsRGJ2a081elVzc21yZmFUQ2s0U1QtcHZqYWEyVy1vSXBVbjE4SXZQbWR2bURwZDNlTTgwakFFcWFwZW9sVGF3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNMmZZMXVHOFF6ckNHbUpGdDk0eE05UlM1OG94RFpqbWJPN0IyTURWN0l3ZnRHYVpCZldVbWxkZXVCemtrc21sZVl1OFkxUXhMbjBsMUc4TlF2Y0RNZ2MwQV9mRWdPY3ZsRGJ2a081elVzc21yZmFUQ2s0U1QtcHZqYWEyVy1vSXBVbjE4SXZQbWR2bURwZDNlTTgwakFFcWFwZW9sVGF3?oc=5\" target=\"_blank\">Latest News – Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-09-01T07:25:13+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1241,15 +1241,6 @@
       "summary": "<p>Native Instruments has been sold. InMusic Brands, the U.S. parent of Akai Professional, Denon DJ, Numark, Rane, M-Audio, Moog, and Engine DJ, has signed a definitive agreement to acquire NI in full. That includes Traktor, Maschine, Komplete, Kontakt, Reaktor, and the broader iZotope, Plugin Alliance, and Brainworx stack that NI absorbed over the last few [&#8230;]</p>\n<p>The post <a href=\"https://djtechtools.com/2026/05/08/inmusic-just-bought-native-instruments-so-what-now-for-traktor/\">InMusic just bought Native Instruments. So what now for Traktor?</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
       "published": "2026-05-08T23:14:52+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Before and after satellite images of demolition of East Wing - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-10-23T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -1360,12 +1351,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Careers at Morningstar - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2018-12-11T01:03:09+00:00",
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Careers - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BWDBMdDh0N0JyRlRXbDdGUFRreDdMZXY4TzBGZ2ZESUo1bnpSYkxRSUwxeGNHQWJYUHNacUc0T2NUdHlmajltemZZZWNxbHI0N3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiUkFVX3lxTE9BWDBMdDh0N0JyRlRXbDdGUFRreDdMZXY4TzBGZ2ZESUo1bnpSYkxRSUwxeGNHQWJYUHNacUc0T2NUdHlmajltemZZZWNxbHI0N3c?oc=5\" target=\"_blank\">Careers</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2017-05-16T11:03:24+00:00",
       "feed_type": "google_news_fallback"
     },
     {
