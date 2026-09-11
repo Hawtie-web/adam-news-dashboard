@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-11T18:19:04.874246+00:00",
+  "updated_at": "2026-09-11T21:37:31.555760+00:00",
   "item_count": 151,
   "failures": [
     {
@@ -10,12 +10,75 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Former Alameda CEO Caroline Ellison joins nonprofit charity Manifund",
+      "link": "https://www.theblock.co/news/business/2026-09-11-former-alameda-ceo-caroline-ellison-joins-nonprofit-charity-manifund-414310",
+      "summary": "Former Alameda Research CEO Caroline Ellison has a new gig at the charity Manifund, its cofounder Austin Chen said Friday.",
+      "published": "2026-09-11T21:37:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "The Fed could raise interest rates three times. Here’s where the market could face the stiffest test.",
-      "link": "https://www.marketwatch.com/story/the-fed-could-raise-interest-rates-three-times-heres-where-the-market-could-face-the-stiffest-test-757872a1?mod=mw_rss_topstories",
-      "summary": "Economists note that the Fed historically has not been content to raise rates only once.",
-      "published": "2026-09-11T18:09:00+00:00",
+      "title": "Marvell is sitting on an incredibly ‘sticky’ business that could help it unlock a $30 billion opportunity",
+      "link": "https://www.marketwatch.com/story/marvell-is-sitting-on-an-incredibly-sticky-business-that-could-help-it-unlock-a-30-billion-opportunity-caa6c83f?mod=mw_rss_topstories",
+      "summary": "Marvell is best known for making custom chips — but an analyst notes there’s arguably more potential in supporting components and optical networking.",
+      "published": "2026-09-11T21:16:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘I’m the executor’: My two siblings and I inherited an IRA. Can we just cash it out?",
+      "link": "https://www.marketwatch.com/story/im-the-executor-my-two-siblings-and-i-inherited-an-ira-can-we-just-cash-it-out-dafc5b8d?mod=mw_rss_topstories",
+      "summary": "“Am I required to create three new inherited IRAs so that the firm can divide it equally?”",
+      "published": "2026-09-11T21:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Y Combinator’s Garry Tan wants U.S. open-weight AI labs to ‘distill’ frontier models, too",
+      "link": "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+      "summary": "Tan argues that frontier models themselves trained on public human knowledge so access to capable AI should be \"a form of public good.\"",
+      "published": "2026-09-11T20:59:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "OpenAI’s feud with mathematicians is only escalating",
+      "link": "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+      "summary": "Twenty-five leading mathematicians signed an open letter arguing that AI labs are threatening their intellectual work.",
+      "published": "2026-09-11T20:57:36+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
+      "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
+      "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.",
+      "published": "2026-09-11T20:49:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Oracle shook off fears about AI spending, but its stock still loses ground",
+      "link": "https://www.marketwatch.com/story/oracle-shares-are-climbing-after-results-what-wall-street-analysts-are-saying-now-0d4517ae?mod=mw_rss_topstories",
+      "summary": "“Several of Oracle’s bear cases were addressed head on” in the latest earnings report, according to an analyst.",
+      "published": "2026-09-11T20:45:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Salesforce’s stock has been riding a wave of AI optimism. Here’s what Wall Street wants to see next.",
+      "link": "https://www.marketwatch.com/story/salesforces-stock-has-been-riding-a-wave-of-ai-optimism-heres-what-wall-street-wants-to-see-next-72f20e95?mod=mw_rss_topstories",
+      "summary": "Salesforce’s Dreamforce conference next week could offer a glimpse of how its recently announced Claudeforce partnership with Anthropic will play out.",
+      "published": "2026-09-11T20:44:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -24,8 +87,134 @@
       "title": "Politics - AP News",
       "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-09-11T18:06:34+00:00",
+      "published": "2026-09-11T20:36:14+00:00",
       "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "One week left to book your exhibit table at TechCrunch Disrupt 2026",
+      "link": "https://techcrunch.com/2026/09/11/one-week-left-to-book-your-exhibit-table-at-techcrunch-disrupt-2026/",
+      "summary": "Only one week left to secure your exhibit table. Tables are limited and can sell out before the September 18 deadline.",
+      "published": "2026-09-11T20:33:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Final, final, final call for TechCrunch Disrupt 2026 Side Events",
+      "link": "https://techcrunch.com/2026/09/11/final-final-final-call-for-techcrunch-disrupt-2026-side-events/",
+      "summary": "The absolute last chance to apply to host an official Side Event during TechCrunch Disrupt 2026 is tonight, September 11, at 11:59 p.m. PT.",
+      "published": "2026-09-11T20:30:17+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I’m a single 58-year-old veteran in California with $1.5 million and a VA pension. Can I retire?",
+      "link": "https://www.marketwatch.com/story/im-a-single-58-year-old-veteran-with-1-5-million-in-assets-and-a-va-pension-can-i-afford-to-retire-9fadfd41?mod=mw_rss_topstories",
+      "summary": "“I expect to receive at least $9,000 per month before federal and California state taxes.”",
+      "published": "2026-09-11T20:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why Dell and HPE were the S&P 500’s top-performing stocks today",
+      "link": "https://www.marketwatch.com/story/why-dell-and-hpe-were-the-s-p-500s-top-performing-stocks-today-13d1dd14?mod=mw_rss_topstories",
+      "summary": "Oracle’s earnings provided an upbeat read for hardware suppliers — but the Fed’s interest-rate moves could dictate just how much they continue benefitting.",
+      "published": "2026-09-11T20:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US consumer prices accelerate in August, push Fed closer to rate hike - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5\" target=\"_blank\">US consumer prices accelerate in August, push Fed closer to rate hike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-11T20:08:57+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Your Social Security COLA could go up another $71 a month in 2027. That’s not necessarily good news.",
+      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
+      "summary": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
+      "published": "2026-09-11T20:08:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "Roundtables: Will AI really kill us all?",
+      "link": "https://www.technologyreview.com/2026/09/11/1143936/roundtables-will-ai-really-kill-us-all/",
+      "summary": "Employees at the world&#8217;s leading AI labs are saying there&#8217;s a real possibility that advanced AI could destroy humanity. Are they right? Or is this more scaremongering and hype? Join MIT Technology Review executive editor Niall Firth for a conversation with senior AI editor Will Douglas Heaven and AI reporter Grace Huckins unpacking AI extinction&#8230;",
+      "published": "2026-09-11T20:05:06+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Raves for Babies and Toddlers Surge 93% in One Year",
+      "link": "https://edm.com/industry/raves-babies-toddler-eventbrite/",
+      "summary": "<p>Eventbrite data shows a surge in listings for baby and toddler raves as the trend expands from viral social media posts to sold-out tours.</p>\n<p>The post <a href=\"https://edm.com/industry/raves-babies-toddler-eventbrite/\">Raves for Babies and Toddlers Surge 93% in One Year</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-09-11T20:03:59+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US House to vote on Russia sanctions backed by late Senator Graham - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ?oc=5\" target=\"_blank\">US House to vote on Russia sanctions backed by late Senator Graham</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-11T19:43:18+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "Concurrent attacks across multiple domains force rethinking of air-and-missile-defense",
+      "link": "https://breakingdefense.com/2026/09/concurrent-attacks-across-multiple-domains-force-rethinking-of-air-and-missile-defense/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/concurrent-attacks-across-multiple-domains-force-rethinking-of-air-and-missile-defense/\"><img alt=\"A U.S. Army air defense artilleryman inspects a Terminal High Altitude Area Defense (THAAD) launcher in the U.S. Central Command area of responsibility. THAAD is an anti-ballistic missile system designed to intercept missiles in their terminal phase. (U.S. Army photo)\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/L3Harris-wrapup-1-scaled-e1789155482620-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>While overall effectiveness is high, damage to US bases and assets in the Iran conflict shows gaps in air-and-missile-defense.</p>",
+      "published": "2026-09-11T19:41:08+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Kimi-maker Moonshot AI targets $2B in annual revenue",
+      "link": "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+      "summary": "While K3's usage figures have declined slightly in recent months, OpenRouter data currently shows as many as 300 billion tokens being generated each day by K3 models on the system.",
+      "published": "2026-09-11T19:35:54+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Scientists unlock secrets of ancient Egyptian materials with proteomics",
+      "link": "https://arstechnica.com/science/2026/09/scientists-unlock-secrets-of-ancient-egyptian-materials-with-proteomics/",
+      "summary": "Analysis revealed seed proteins from sesame and moringa, which held religious and symbolic significance.",
+      "published": "2026-09-11T18:49:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+      "link": "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+      "summary": "An Anthropic researcher resigned this week,&#160;warning in a post on X&#160;that the company is “racing straight to self-improving superintelligence and gambling with our lives”.&#160;The company&#8217;s own alignment&#160;lead&#160;even&#160;co-signed the message&#160;rather than walking it back.&#160;It&#8217;s&#160;the kind of&#160;doomer&#160;warning the AI industry has flirted with before, but the timing, with Anthropic reportedly&#160;preparing for&#160;an IPO, makes it land differently.&#160; On [&#8230;]",
+      "published": "2026-09-11T18:41:49+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Oracle tries to appease Stargate data center opponents with renewables push",
+      "link": "https://arstechnica.com/gadgets/2026/09/oracle-promises-2-gw-of-renewables-to-match-stargate-data-center-emissions/",
+      "summary": "Renewables pledge won’t change the Oracle and OpenAI data center’s use of gas.",
+      "published": "2026-09-11T18:22:22+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -42,15 +231,6 @@
       "title": "Support for Patriot air-and-missile defense is a case study for the industrial base",
       "link": "https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/09/support-for-patriot-air-and-missile-defense-is-a-case-study-for-the-industrial-base/\"><img alt=\"Moog Core Defense Capabilities\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/08/moog_-_radio_copy_01._video_v1-1080p-frame-at-0m35s-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>[Sponsored] Manufacturing scale, global sustainment, and next-gen tech are becoming inseparable.</p>",
-      "published": "2026-09-11T17:41:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Tesla could transform the trucking business — and capitalize on high diesel prices",
-      "link": "https://www.marketwatch.com/story/tesla-could-transform-the-trucking-business-and-capitalize-on-high-diesel-prices-e4c48d79?mod=mw_rss_topstories",
-      "summary": "The EV maker aims to finally kick its long-awaited Semi truck into high gear — unlocking a potentially huge opportunity, according to Morgan Stanley.",
       "published": "2026-09-11T17:41:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -73,6 +253,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Canada's former leader Justin Trudeau launches production company - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVNWLTBQYXBwMHF6aXRSMkJIbWhyTjkwdXNhUVBRMnFyMWlXcURCR3ZINlVxeXN6SzZ6clJTMmoyWS1Udk9faGtjMW1kOGRZdUdsNTRwOWxsWERmOEQweGxnUVVBZXMtaE9uU08xcnQzX19UVy0xcm9xSkxqRDlobVA1b0lGV2c3NW1SRjlOVF9WcmU2c09zWncxYWtqOE1KSGhDYXBiZEtNQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRVNWLTBQYXBwMHF6aXRSMkJIbWhyTjkwdXNhUVBRMnFyMWlXcURCR3ZINlVxeXN6SzZ6clJTMmoyWS1Udk9faGtjMW1kOGRZdUdsNTRwOWxsWERmOEQweGxnUVVBZXMtaE9uU08xcnQzX19UVy0xcm9xSkxqRDlobVA1b0lGV2c3NW1SRjlOVF9WcmU2c09zWncxYWtqOE1KSGhDYXBiZEtNQQ?oc=5\" target=\"_blank\">Canada's former leader Justin Trudeau launches production company</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-11T17:38:22+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "EDM.com On-Deck Circle: Dillon Francis, CamelPhat, Ganja White Night & More",
@@ -89,24 +278,6 @@
       "summary": "<p>Every Friday, EDM.com’s ‘Fresh Picks’ series showcases bold new electronic music from the scene’s most promising DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/fresh-picks-janus-oliverse-viperactive-more/\">EDM.com Fresh Picks: Janus, Oliverse, Viperactive &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-09-11T17:35:20+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I went to a dinner party, brought an appetizer and wine — and the host charged me $60. Should I cut ties with her?",
-      "link": "https://www.marketwatch.com/story/i-went-to-a-dinner-party-brought-an-appetizer-and-wine-and-the-host-charged-me-60-should-i-cut-ties-with-her-5a1c5261?mod=mw_rss_topstories",
-      "summary": "“Am I right to think this is pretty cheap and rude?”",
-      "published": "2026-09-11T17:31:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Twenty-five years after September 11, Americans reflect on attack that changed a nation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUV1QV9MNGlUbTdkanZIUUEwY0x1UlRXaXViVFlMVi14NW1aMkwwUjMzOUdnclVJSWFCQ3p6SGYtQ1NtY3NDMlVvUmZ3bk42bUdjVDAwNHpaLUVGTkFqak40WTlrdFhJX2RRdjZDTV9sUmRYSXU5V3dtM09hOVpmT3hwbzRxbDlCZFFqUnY3dGZNZ0VraWR5WC1qeFNEM0ZmRWFwZUd3ZjZlYWRfWjBfZEprWE5MZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQTUV1QV9MNGlUbTdkanZIUUEwY0x1UlRXaXViVFlMVi14NW1aMkwwUjMzOUdnclVJSWFCQ3p6SGYtQ1NtY3NDMlVvUmZ3bk42bUdjVDAwNHpaLUVGTkFqak40WTlrdFhJX2RRdjZDTV9sUmRYSXU5V3dtM09hOVpmT3hwbzRxbDlCZFFqUnY3dGZNZ0VraWR5WC1qeFNEM0ZmRWFwZUd3ZjZlYWRfWjBfZEprWE5MZw?oc=5\" target=\"_blank\">Twenty-five years after September 11, Americans reflect on attack that changed a nation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-11T17:15:50+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -136,24 +307,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Why a shrinking population doesn’t have to be the kiss of death for an economy or stock market",
-      "link": "https://www.marketwatch.com/story/investors-are-all-wrong-about-demography-ebfb5f2f?mod=mw_rss_topstories",
-      "summary": "Investors are all wrong about demography, a new study finds. Keep that in mind when allocating your portfolio.",
-      "published": "2026-09-11T17:09:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The traditional paths to building wealth are becoming less accessible for young Americans. Here’s what happened.",
-      "link": "https://www.marketwatch.com/story/the-traditional-paths-to-building-wealth-are-becoming-less-accessible-for-young-americans-80112c08?mod=mw_rss_topstories",
-      "summary": "Generation Z and young millennials are navigating major shifts in the economy that have made it harder to build wealth the way Americans did in the past.",
-      "published": "2026-09-11T17:01:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Pentagon eyeing tech testbed expansion along US-Mexico border",
@@ -161,15 +314,6 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/09/pentagon-eyeing-tech-testbed-expansion-along-us-mexico-border/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/12/241205_DVIDS_drone_swarm_5356116-scaled-e1733415596741-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“We want to do as much as we can; I would love to continue to bring on new projects, new programs to the border and try it out, but we want to do it in a responsible way that&#8217;s safe,” Mark Ditlevson, assistant secretary of defense for Homeland Defense and Americas Security Affairs, told Breaking Defense.</p>",
       "published": "2026-09-11T16:58:44+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US consumer inflation picks up in August - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxOdW10dVZWcHQ3MkdPRy1fRGN2VVUzeV8tV2tRSnRfVHdBbllhS0hfTzlWUy1tM0pHZWxmTl84b3loTVFqRHdUX3I2REFQQ1h5ZTZIcHBJTy1Jcmd1VUpPdDRtdVhvbVpHMEVCQmJkbnNqYXBCUGZiTjVmcTM5NUpEbFgwb08wQU92TFE?oc=5\" target=\"_blank\">US consumer inflation picks up in August</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-11T16:58:23+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -190,24 +334,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "This investment is safe from both Trump and the Democrats — and it pays 4.7%",
-      "link": "https://www.marketwatch.com/story/this-investment-is-safe-from-both-trump-and-the-democrats-and-it-pays-4-7-4b76c2f3?mod=mw_rss_topstories",
-      "summary": "There’s a safe haven hiding in plain sight.",
-      "published": "2026-09-11T16:45:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I’m locked into a 10-year annuity and now I’m strapped for cash. What are my options?",
-      "link": "https://www.marketwatch.com/story/im-locked-into-a-10-year-annuity-and-now-im-strapped-for-cash-what-are-my-options-e6463c91?mod=mw_rss_topstories",
-      "summary": "A self-described “spender” is concerned about taxes.",
-      "published": "2026-09-11T16:34:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Saudi crown prince sought US military help with Houthis, sources say",
@@ -215,24 +341,6 @@
       "summary": "Saudi Crown Prince Mohammed bin Salman reportedly sought assistance from President Donald Trump on Thursday to help fight Yemen’s Iran-aligned Houthis.",
       "published": "2026-09-11T16:32:18+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Your Social Security check could go up another $71 next year. That’s not necessarily good news.",
-      "link": "https://www.marketwatch.com/story/your-social-security-check-could-go-up-another-71-next-year-thats-not-necessarily-good-news-f952c08a?mod=mw_rss_topstories",
-      "summary": "A higher COLA is a sign that persistent inflation isn’t going anywhere.",
-      "published": "2026-09-11T16:32:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US House to vote on Russia sanctions backed by late Senator Graham - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPYXo0TE8tLVZ2VzF0TjRlTFJBbEZIRDVqWndXMTNMb0VlT1lxd1JBMEdpNGJmaVE2a2Q2emtmTUZ2NVdvOUloVEdrdnVrOVRnSTRWbmd4MGNSUzFXR3JUR0o5ZHloaU5JRzd5TVNtenpjd3ZBNk5aZU9ubVE5aTRlTUtFM0M1dWFCUGVZcEp0b01SejVmS0p4Z2RHV2YyRm1PQUR0UzUxeUtJM2NmQzJVdTVsRQ?oc=5\" target=\"_blank\">US House to vote on Russia sanctions backed by late Senator Graham</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-11T16:26:49+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -332,6 +440,15 @@
       "summary": "<p>The festival's debut footwear drop arrives in seven colorways with an underlying design inspired by nature.</p>\n<p>The post <a href=\"https://edm.com/lifestyle/tomorrowland-festival-first-ever-sneaker/\">Tomorrowland Is Releasing Its First-Ever Sneaker</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-09-11T14:59:41+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Nigeria parliament boycotts South Africa events over anti-migrant attacks - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3VBb25tVnFLMm1EVHJaN0o4LVNlN3JHUGZJXzBaX3R2RTBGTnhTdTVzMlZPenNXNXRQR3N0Um84MnhrWll5YXllUE1fS0MwWjh5YThZT1dIV3FwbHRuYnAwQndydFg5RDl6T3ZRdXBXYmQ3M1k5eGhqWnR2NkFMdG1CN29wOW15b2RXSi1aSUxvZ2NOX2JLUUFXNDhXUmZkVHB5U0xINTViNzJzY1F4QnNLMlVpeS1zdzlOdTc2OA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxOX3VBb25tVnFLMm1EVHJaN0o4LVNlN3JHUGZJXzBaX3R2RTBGTnhTdTVzMlZPenNXNXRQR3N0Um84MnhrWll5YXllUE1fS0MwWjh5YThZT1dIV3FwbHRuYnAwQndydFg5RDl6T3ZRdXBXYmQ3M1k5eGhqWnR2NkFMdG1CN29wOW15b2RXSi1aSUxvZ2NOX2JLUUFXNDhXUmZkVHB5U0xINTViNzJzY1F4QnNLMlVpeS1zdzlOdTc2OA?oc=5\" target=\"_blank\">Nigeria parliament boycotts South Africa events over anti-migrant attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-11T14:40:09+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -451,15 +568,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Space Force picks Texas as US home for trinational DARC space radar network",
-      "link": "https://breakingdefense.com/2026/09/space-force-picks-texas-as-us-home-for-trinational-darc-space-radar-network/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/09/space-force-picks-texas-as-us-home-for-trinational-darc-space-radar-network/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/06/220614_darc_radar_northrop-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Space Force expects the US site, the third and final one in the multi-nation DARC network, to complete civil construction in 2029, and begin operations in 2030.</p>",
-      "published": "2026-09-11T13:10:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "World News & Politics",
       "source": "Reuters World",
       "title": "Israel kills Hamas commander in Gaza strike, military and militants say - Reuters",
@@ -476,15 +584,6 @@
       "summary": "Some dangerous biology looks much like legitimate research, complicating AI safeguards.",
       "published": "2026-09-11T13:02:35+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Germany charges seven suspected Hamas members over planned attack - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeThSa1B3MUFEV3I1YTU2QkpkcFRSVDJuZW5GY1I3dEM4YXRsMjFucHZFME1jODM2OG5xYkkzdkNIbUc3ZkZIQkFJV2s3dG1maXdSbG03VVJBNGFIdkJfVHdKSnNxWTJEZE5fMDlvNlNyZnhpU1RuVTh0TUUxRnVZOU84NG80WjNXbW9SeVZlMDJXbE5PVzNJZlhZVkVDUl9UdVQySjVyNy1Ka2JPdkhUbi11S2JjUnRoeDBF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeThSa1B3MUFEV3I1YTU2QkpkcFRSVDJuZW5GY1I3dEM4YXRsMjFucHZFME1jODM2OG5xYkkzdkNIbUc3ZkZIQkFJV2s3dG1maXdSbG03VVJBNGFIdkJfVHdKSnNxWTJEZE5fMDlvNlNyZnhpU1RuVTh0TUUxRnVZOU84NG80WjNXbW9SeVZlMDJXbE5PVzNJZlhZVkVDUl9UdVQySjVyNy1Ka2JPdkhUbi11S2JjUnRoeDBF?oc=5\" target=\"_blank\">Germany charges seven suspected Hamas members over planned attack</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-11T12:43:36+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -552,7 +651,7 @@
     {
       "category": "Crypto",
       "source": "CoinDesk",
-      "title": "Live updates: Bitcoin gives up early gains as markets fully price in Fed rate hike",
+      "title": "Live updates: Bitcoin gives up early gains, with markets moving to price in multiple rate hikes",
       "link": "https://www.coindesk.com/business/2026/09/11/live-updates-bitcoin-sinks-to-usd77-000-as-cpi-lands-with-hike-odds-near-70",
       "summary": "",
       "published": "2026-09-11T11:04:12+00:00",
@@ -658,15 +757,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Boy developed \"toasted skin\" condition from using a laptop every day",
-      "link": "https://arstechnica.com/health/2026/09/boy-developed-toasted-skin-condition-from-using-a-laptop-every-day/",
-      "summary": "Laptops don't usually get hot enough to burn—but they can still be harmful.",
-      "published": "2026-09-10T22:16:05+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Work At Underground Test Site A New Indicator Of Possible Strikes On Iran’s Pickaxe Mountain Bunker",
@@ -685,48 +775,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-      "link": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-      "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-      "published": "2026-09-10T21:35:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Houthis’ Stranglehold On Strategic Bab Al-Mandab Strait Grows Stronger",
       "link": "https://www.twz.com/news-features/houthis-stranglehold-on-strategic-bab-al-mandab-strait-grows-stronger",
       "summary": "<p>The capture of the port of Mokha and possibly the islands of Perim and Zuraq can give the Houthis key points of control over the Red Sea and the Strait.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/houthis-stranglehold-on-strategic-bab-al-mandab-strait-grows-stronger\">Houthis&#8217; Stranglehold On Strategic Bab Al-Mandab Strait Grows Stronger</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-09-10T21:28:44+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "OpenAI puts Pro subscriptions on hold due to Astra demand",
-      "link": "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
-      "summary": "The company said Pro subscriptions put the most strain on its systems, so it's pausing sign-ups while adding more capacity.",
-      "published": "2026-09-10T20:59:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
-      "summary": "A new report released Thursday by Anthropic alleges persistent distillation attacks by China-based AI companies, which have escalated in recent months as competition in the space has intensified.",
-      "published": "2026-09-10T20:57:30+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "LinkedIn beats \"BrowserGate\" lawsuits over scanning users' Chrome extensions",
-      "link": "https://arstechnica.com/tech-policy/2026/09/linkedin-beats-browsergate-lawsuits-over-scanning-users-chrome-extensions/",
-      "summary": "Judge tosses lawsuits, says plaintiffs didn't allege any real privacy violation.",
-      "published": "2026-09-10T20:55:29+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -739,30 +793,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitwise shuts down Dogecoin ETF less than a year after launch",
-      "link": "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
-      "summary": "BWOW generated about $3 million in trading volume when it launched in November 2025, but has failed to come anywhere close ever since.",
-      "published": "2026-09-10T20:28:46+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Iran attack on base in Jordan damaged American military aircraft, US official says",
       "link": "https://www.defensenews.com/flashpoints/middle-east/2026/09/10/iran-attack-on-base-in-jordan-damaged-american-military-aircraft-us-official-says/",
       "summary": "Iranian strikes damaged one A-10 Thunderbolt II and eight F-15s this week on the Muwaffaq Salti Air Base in Jordan.",
       "published": "2026-09-10T20:22:31+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Meta’s AI agent Muse is now the No. 2 app in the US",
-      "link": "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
-      "summary": "Meta's newest app Muse is off to a slower start than the company's other apps, like Meta AI or Threads.",
-      "published": "2026-09-10T19:50:04+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -773,33 +809,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxQVVpjOUdqelRkTm1QZ0dqMkFqRF9tMUl5dmxRbVZWeEZDX3d0OGV2bHNic01YSllrajRiTHBoQ3htdFZRVVF6aEhQbFhUU3VHU1dVV2Z1dllsc0xoV2tDaU1TQW4zZExka3BqZEtkUWQ2Qk5FaW45cEZUemRyOURKVg?oc=5\" target=\"_blank\">Why Higher Bond Yields Can Be ‘a Great Thing’</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-09-10T19:06:55+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Music Production & DJ Industry",
-      "source": "EDM.com News",
-      "title": "Ravers Are Sharing the Most “Unhinged” Items They’ve Snuck Into Shows",
-      "link": "https://edm.com/lifestyle/ravers-share-most-unhinged-items-snuck-into-shows-festivals/",
-      "summary": "<p>A wild Reddit thread has yielded stories involving microwaves, live oysters and pineapple deities, among other bizarre items.</p>\n<p>The post <a href=\"https://edm.com/lifestyle/ravers-share-most-unhinged-items-snuck-into-shows-festivals/\">Ravers Are Sharing the Most &#8220;Unhinged&#8221; Items They&#8217;ve Snuck Into Shows</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
-      "published": "2026-09-10T18:59:39+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Anthropic reveals rogue AI agents hate CAPTCHAs, just like you",
-      "link": "https://techcrunch.com/2026/09/10/anthropic-reveals-rogue-ai-agents-hate-captchas-just-like-you/",
-      "summary": "Come inside the mind of a bot trying to convince the internet it's human.",
-      "published": "2026-09-10T17:54:44+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
-      "link": "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
-      "summary": "Pocket FM uses AI to produce 99% of its new content, helping make content production about 80 times cheaper.",
-      "published": "2026-09-10T17:45:00+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Weekly Deep Dive",
@@ -934,15 +943,6 @@
       "link": "https://www.technologyreview.com/2026/09/10/1143588/indxcoin-god-regalados-sell-crypto-investors-lost-everything/",
       "summary": "This article was produced in partnership with Type Investigations and with support from the Fund for Investigative Journalism. When Eli Regalado first heard God speak to him, he wondered whether he was hallucinating. Now he likens the experience to having “a thought that is not my thought.” Divine words echo in his mind like a&#8230;",
       "published": "2026-09-10T09:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "MIT Technology Review",
-      "title": "Healthcare AI’s next test is integration",
-      "link": "https://www.technologyreview.com/2026/09/10/1141421/healthcare-ais-next-test-is-integration/",
-      "summary": "The entrance of major AI companies into healthcare is a meaningful and welcome development, accelerating the technical foundation available to the industry. Their models are increasingly capable of processing long clinical records, interpreting complex terminology, comparing documentation against evidence and generating coherent summaries from large volumes of information. For clinicians, operators, and administrative teams who&#8230;",
-      "published": "2026-09-10T08:58:01+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1173,10 +1173,10 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "This ETF Paid Out Big. Its Total Returns Tell Another Story - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkx4WnpvWTEtVGtPZWxjVHlxaTVGZ1p0cXVqVEdWc3RIVFl1Qm5Ed2R2cUd5bU0tOFEyUGhVa1dhNVNYN2d6Y3RTeU5sQm5JR0VZWEU3Q1dnSjY5UGtzM0VIMjhKdTViTXM5SElEdGdrNFVDSy1yQWplNkRyMGNXaHZvWFVKNjJuQTB6bmpiVDAwOExLV3RR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQYkx4WnpvWTEtVGtPZWxjVHlxaTVGZ1p0cXVqVEdWc3RIVFl1Qm5Ed2R2cUd5bU0tOFEyUGhVa1dhNVNYN2d6Y3RTeU5sQm5JR0VZWEU3Q1dnSjY5UGtzM0VIMjhKdTViTXM5SElEdGdrNFVDSy1yQWplNkRyMGNXaHZvWFVKNjJuQTB6bmpiVDAwOExLV3RR?oc=5\" target=\"_blank\">This ETF Paid Out Big. Its Total Returns Tell Another Story</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-09-08T10:06:25+00:00",
+      "title": "The Best AI Stocks to Buy Now - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5MSWticmVUcmhzVVpBMWg0bFpvRGpXR1FIdzhKMmVOdVVETlV0MzVfemFuMzBwX3Q2Ykh4TFRjakstUDZVX2N6NEpsSWxZZU54bTZnQmNMal9Fdkw3ei04N2htZldJYkhl?oc=5\" target=\"_blank\">The Best AI Stocks to Buy Now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-09-08T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
