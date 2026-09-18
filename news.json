@@ -1,6 +1,6 @@
 {
-  "updated_at": "2026-09-17T23:28:23.756855+00:00",
-  "item_count": 152,
+  "updated_at": "2026-09-18T04:11:22.666557+00:00",
+  "item_count": 151,
   "failures": [
     {
       "source": "RAND Corporation",
@@ -10,9 +10,36 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bank of Japan raises interest rates by 25 basis points. Bitcoin tops $77,000",
+      "link": "https://www.coindesk.com/markets/2026/09/17/boj-rate-hike",
+      "summary": "",
+      "published": "2026-09-18T03:03:38+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "BOJ raises interest rates to 31-year high in widely expected move - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNME52a2lPWjhiY0l0eFpoZmQxaVYwRzBNOWxFYk1JUjB2R0lJV2psVHRDdU52ajhBYjFnODByT1FvakVnNTRTNnJna1hFcC15VUxRMFJvU1BwV3ozU1NEOWsyNmk4MXJUcEo2Rnp3d1YwVjZfUlpjMTVldTJRaFNpeFJIRExJUDRYOUtTZWdVVnJPR05FaU5UQTF1blpvanliQ092Q3JnZVVEal9UcFlYV252YVc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxNME52a2lPWjhiY0l0eFpoZmQxaVYwRzBNOWxFYk1JUjB2R0lJV2psVHRDdU52ajhBYjFnODByT1FvakVnNTRTNnJna1hFcC15VUxRMFJvU1BwV3ozU1NEOWsyNmk4MXJUcEo2Rnp3d1YwVjZfUlpjMTVldTJRaFNpeFJIRExJUDRYOUtTZWdVVnJPR05FaU5UQTF1blpvanliQ092Q3JnZVVEal9UcFlYV252YVc?oc=5\" target=\"_blank\">BOJ raises interest rates to 31-year high in widely expected move</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-18T03:01:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Yen slumps after BOJ hikes rates as expected - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQZTZWMHVPOWZ5RDBIc2NmX2tmcE5pODNpeGhnaGJhZ0RrVkRtVTVud1FUY2NhNkttREN4QjNtTlZRTGtPNTFZVUIzWm1XNU5xNEdqTnNILXhybG1oMXVJV3N6YmxpRjFIX01sZWVEQ2xiRW1weUpEWjFfU1NCOXZuU0Vjc2xtMGpacjFGZ2ZZLXpnN1R3YWphMDcta0VyYjEyYU40?oc=5\" target=\"_blank\">Yen slumps after BOJ hikes rates as expected</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-18T00:59:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Crusoe raises $3.9B to build massive data centers and small modular “AI factories”",
+      "title": "Crusoe raises $3.9B to build massive data centers and small modular ‘AI factories’",
       "link": "https://techcrunch.com/2026/09/17/crusoe-raises-3-9b-to-build-massive-data-centers-and-small-modular-ai-factories/",
       "summary": "The round values the data center giant at $30.9 billion.",
       "published": "2026-09-17T23:25:52+00:00",
@@ -23,9 +50,18 @@
       "source": "TechCrunch AI",
       "title": "Google DeepMind launches institute to widen the AGI debate",
       "link": "https://techcrunch.com/2026/09/17/google-deepmind-launches-institute-to-widen-the-agi-debate/",
-      "summary": "Google DeepMind just launched an institute to hash out the big AGI questions in public",
+      "summary": "The new institute aims to surface differing views between Google, Google DeepMind, and the broader global research community around AGI. \"They will not always agree, and they will likely change their minds, as more data and information comes to light at the fast-moving frontier.\"",
       "published": "2026-09-17T23:21:17+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "How Bessent, America's bond salesman, cornered Japan on big spending - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM1l2aTVxZmpyM2FYbWhjSUJ6d0IzaE16TDA2a0xLTDlnUUFhcEVPbW9relE0aVBDSUJIZ0NBS0ZXNTZwT3JDbUVTWHozbHlPSGFzU0JHMFhRWlJ4TFgzcm9KeHJhNVNaT210QUNNY1VqR2E3aUt1M2dJNHlSTG9UZGxRak1ITlRzV0VRQjNnTVpiQUI5MG43aDFRa2p3bkJsemVaYUN2U3lITXZ4ZFJSbGVjc2Iwc25Z?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOM1l2aTVxZmpyM2FYbWhjSUJ6d0IzaE16TDA2a0xLTDlnUUFhcEVPbW9relE0aVBDSUJIZ0NBS0ZXNTZwT3JDbUVTWHozbHlPSGFzU0JHMFhRWlJ4TFgzcm9KeHJhNVNaT210QUNNY1VqR2E3aUt1M2dJNHlSTG9UZGxRak1ITlRzV0VRQjNnTVpiQUI5MG43aDFRa2p3bkJsemVaYUN2U3lITXZ4ZFJSbGVjc2Iwc25Z?oc=5\" target=\"_blank\">How Bessent, America's bond salesman, cornered Japan on big spending</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-17T23:04:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -53,6 +89,24 @@
       "summary": "A new AI-based software program is being launched to help air traffic controllers better navigate their jobs as the crossing guards of America's skies.",
       "published": "2026-09-17T22:14:59+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Bank of Japan set to raise interest rates to 31-year high - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxON2RfLXdWN0d6WEpRd3JFZ09UTGszUGZWQ0FKUnkzT2VCRE1jUmxMLXg4QlNqdERTc1hqaHRUY3lNNHRLZVRzbWJLQzg1bEdkRjl4eGZKRXVrTWoyUVBhVFRWT1RkV0F4azdlaVVKSWtaZXJfbnJEOThMVW5STEZZVDlWUV9UX25TMUkyanlKMlZSY2J4bHcyV3k2NGQ4UWxOdE5lNG9n?oc=5\" target=\"_blank\">Bank of Japan set to raise interest rates to 31-year high</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-17T22:04:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Disney says Trump threats against reporters should prompt court to block FCC action - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVp1ZWNiQjgzc1NsajJpbTVRakI1OWhBNXZOc2E0WWhiVDFCdkZ0OUYxY1dSYThDNFdzR1Y3dXBHbFpWNUhYOUl1ZDV4dE9fZ0c2VlU5MVZaazVGY01TZU8ybFh6ZWs0RVE3c3FzLUpIWFkzSXMybHlwVEFYT1FQemVTUXRjcDZrX2ptVzNobEh5UE9aWnRkTzN3b2RZc2R2TFZtazlRX01jeVp2UHB1SUU1MEZidjdBazNHbkhORQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPLVp1ZWNiQjgzc1NsajJpbTVRakI1OWhBNXZOc2E0WWhiVDFCdkZ0OUYxY1dSYThDNFdzR1Y3dXBHbFpWNUhYOUl1ZDV4dE9fZ0c2VlU5MVZaazVGY01TZU8ybFh6ZWs0RVE3c3FzLUpIWFkzSXMybHlwVEFYT1FQemVTUXRjcDZrX2ptVzNobEh5UE9aWnRkTzN3b2RZc2R2TFZtazlRX01jeVp2UHB1SUU1MEZidjdBazNHbkhORQ?oc=5\" target=\"_blank\">Disney says Trump threats against reporters should prompt court to block FCC action</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-17T22:01:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -136,6 +190,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "What will Trump and Xi discuss in Washington next week? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHdmMERXdzJrTFFzNkJOSXZhblo3Tkp1YXctZHBVQU9jdHR0TTZhUmFiYjVMRmsxaGhhbHFEMUdMd2daWVJzcnU0NUZGQTd0bGk0WjBIa0xWRkdGaHRWa2doWU11dGlTRW44ZFRhdmhFYm1ad3NDVV9ndTZQd1VoWXdUcXB1N0JZZ1FGWkJ0b2plUHJTVGk3dnowWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQOHdmMERXdzJrTFFzNkJOSXZhblo3Tkp1YXctZHBVQU9jdHR0TTZhUmFiYjVMRmsxaGhhbHFEMUdMd2daWVJzcnU0NUZGQTd0bGk0WjBIa0xWRkdGaHRWa2doWU11dGlTRW44ZFRhdmhFYm1ad3NDVV9ndTZQd1VoWXdUcXB1N0JZZ1FGWkJ0b2plUHJTVGk3dnowWQ?oc=5\" target=\"_blank\">What will Trump and Xi discuss in Washington next week?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-09-17T21:03:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "Teletech and Fresh Start to Kick Off 2027 With Massive Techno Takeover in San Francisco",
@@ -170,15 +233,6 @@
       "summary": "OpenAI disclosed instances of GPT-5.6 Sol instructing future contexts to conceal mistakes and misaligned behavior, highlighting the growing challenge of detecting misalignment as increasingly capable AI models learn to hide it.",
       "published": "2026-09-17T20:34:24+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Prince Harry makes first public appearances 'back on British soil' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2tiZ1NkdklibndFU2RlUHBIcHNGUXBKNnNVQTRsb3lHOHFaSGIyTlZ2ZkRnTXNBNEVuWFFlbUI0WEdNX3lCRzRNMUw4Q19CaFVxVGdPRzM4RXJJTVpNTzhhT2NhOFZmcmU3MV8xeFo2WkIwbExQV3gxTzZwenlVNGstMklnQU8yVFJoTVEzZDAtZjFocVktM3lBeHZZbndzMkEtM0Itbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPU2tiZ1NkdklibndFU2RlUHBIcHNGUXBKNnNVQTRsb3lHOHFaSGIyTlZ2ZkRnTXNBNEVuWFFlbUI0WEdNX3lCRzRNMUw4Q19CaFVxVGdPRzM4RXJJTVpNTzhhT2NhOFZmcmU3MV8xeFo2WkIwbExQV3gxTzZwenlVNGstMklnQU8yVFJoTVEzZDAtZjFocVktM3lBeHZZbndzMkEtM0Itbw?oc=5\" target=\"_blank\">Prince Harry makes first public appearances 'back on British soil'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-17T20:32:07+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -253,15 +307,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says progress made toward establishing US Army base in Poland - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjdFSHZhMlFhUklCRWFFb3VqMEJ0c1RWWjdWOFNxdmZVbnFSeXpBN2FNWFlsckJXVnkxNzBnZnJHNVNyMnBoODlPYUZva1hPV2x5bm5yd1pfZGEtX1pZSmdIdlJvSUlfdF9RQlJMamFUOXZWT0ptZ251LUs5MGxSdXNlbXBSZ0dPSkpVWnI0OGw5anFkY2c2NmM2NnB2X0VqMEFzc054T3J5ODh2VUZFV0t4Yw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjdFSHZhMlFhUklCRWFFb3VqMEJ0c1RWWjdWOFNxdmZVbnFSeXpBN2FNWFlsckJXVnkxNzBnZnJHNVNyMnBoODlPYUZva1hPV2x5bm5yd1pfZGEtX1pZSmdIdlJvSUlfdF9RQlJMamFUOXZWT0ptZ251LUs5MGxSdXNlbXBSZ0dPSkpVWnI0OGw5anFkY2c2NmM2NnB2X0VqMEFzc054T3J5ODh2VUZFV0t4Yw?oc=5\" target=\"_blank\">Trump says progress made toward establishing US Army base in Poland</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-17T20:08:56+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "US sanctions Iranian crypto exchange BitBank over alleged bitcoin transfers to IRGC",
@@ -308,11 +353,11 @@
     },
     {
       "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "UN allows Palestinian president to again speak via video after US denies visa - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaEp5ZGlDMDNYcWN6aTBiU2RUd2VmRnVwM1JGYWpvUEM4c0pKQUREWW1QNTFiQlQ2MW1wdVlsbzB6Wkk2QkZueWdfcThhVDFhMjlnNW1WTkJRM2VZbC1vWEZIbkpBbHdDZXZBc3ctdXFMcFVxaWlXRTVELTJ1dVRWb0RUZ3lFdHFOVWM2dkFsQ3RlM0p0TW15dkE3UmxUSW9iYXZkRTVhaGl4UVRKYzVDTWFIa0NDU3pJRXJOa3JNcWUtSzhxdlI0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPaEp5ZGlDMDNYcWN6aTBiU2RUd2VmRnVwM1JGYWpvUEM4c0pKQUREWW1QNTFiQlQ2MW1wdVlsbzB6Wkk2QkZueWdfcThhVDFhMjlnNW1WTkJRM2VZbC1vWEZIbkpBbHdDZXZBc3ctdXFMcFVxaWlXRTVELTJ1dVRWb0RUZ3lFdHFOVWM2dkFsQ3RlM0p0TW15dkE3UmxUSW9iYXZkRTVhaGl4UVRKYzVDTWFIa0NDU3pJRXJOa3JNcWUtSzhxdlI0?oc=5\" target=\"_blank\">UN allows Palestinian president to again speak via video after US denies visa</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-17T19:36:08+00:00",
+      "source": "CFR Global Conflict Tracker",
+      "title": "How the U.S. Can Alter Putin’s Calculus on Ukraine - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1JLdGpQNGxTdlBCV2JXT2xsS0lxWm4xUGlodm4yaGJsazhDOE1WQXVpT3dhUHVTbVNUOHhxQ012cy1OcFZYRGtRbzFqQ25PVjBBODNqQU01eWl0QklMR21TYnRkOXptbjQ5UW1KYW1TWlJkWXRIRi1YMmdiTEJFZldzbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNa1JLdGpQNGxTdlBCV2JXT2xsS0lxWm4xUGlodm4yaGJsazhDOE1WQXVpT3dhUHVTbVNUOHhxQ012cy1OcFZYRGtRbzFqQ25PVjBBODNqQU01eWl0QklMR21TYnRkOXptbjQ5UW1KYW1TWlJkWXRIRi1YMmdiTEJFZldzbw?oc=5\" target=\"_blank\">How the U.S. Can Alter Putin’s Calculus on Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-09-17T19:19:02+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -424,15 +469,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "King Charles sounded like 'lottery winner' after Diana's death, her brother writes - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSE1qVVV3TEQzOHhTSF85WUZJQlRDXzQxdzY2am1tLUgxQ1ViQl9vU2FVeGRnQ2ZRYUgyNnlyNzI1MTVFR3dydWpiUHo1UGNHaVFjSkhtTm5CMlNfV3lFZUtOZnJDN1Fsc1REY1JlWkJucDQ2MzNpNGw4T2ZvVGo0OEFfSm1CNzN3SFBkNElaZDJENkRlTFI0dEVXVlJ5WWtlU29aUHNXZFRaZGZjZ0lHWmF1RGRzcjB5SHA1N2RjMU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQSE1qVVV3TEQzOHhTSF85WUZJQlRDXzQxdzY2am1tLUgxQ1ViQl9vU2FVeGRnQ2ZRYUgyNnlyNzI1MTVFR3dydWpiUHo1UGNHaVFjSkhtTm5CMlNfV3lFZUtOZnJDN1Fsc1REY1JlWkJucDQ2MzNpNGw4T2ZvVGo0OEFfSm1CNzN3SFBkNElaZDJENkRlTFI0dEVXVlJ5WWtlU29aUHNXZFRaZGZjZ0lHWmF1RGRzcjB5SHA1N2RjMU0?oc=5\" target=\"_blank\">King Charles sounded like 'lottery winner' after Diana's death, her brother writes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-17T17:43:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "As RWA trading surges on Hyperliquid, Dragonfly’s Qureshi makes the case for a multichain future",
@@ -487,15 +523,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "China creates Italy-sized no-fly zone around Beijing after rare crash - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFNZRVBFNnQ2OVcwYjdqaEY5dGlqZ0p3ZnVoTjhpdVE0Mk1vV2JjMkVUcFYxcDROTGdZTUMwXzlhd05DMmlvT1h2VDVxeDFVbmVZQWpIMHhQNWo4LWhXNTdibzFJQUwzdGotZm1fRGl0LUdtQ3NUc055ZW1TcWJRMkJqdU9fSzdob1QwTlBIX2ZLbF95WFRpLWpITTREbFEydU1aSU5lcW5fUXRkRkhhMnBjS0hGbTRhZVczZ2hMRlRQdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPcFNZRVBFNnQ2OVcwYjdqaEY5dGlqZ0p3ZnVoTjhpdVE0Mk1vV2JjMkVUcFYxcDROTGdZTUMwXzlhd05DMmlvT1h2VDVxeDFVbmVZQWpIMHhQNWo4LWhXNTdibzFJQUwzdGotZm1fRGl0LUdtQ3NUc055ZW1TcWJRMkJqdU9fSzdob1QwTlBIX2ZLbF95WFRpLWpITTREbFEydU1aSU5lcW5fUXRkRkhhMnBjS0hGbTRhZVczZ2hMRlRQdw?oc=5\" target=\"_blank\">China creates Italy-sized no-fly zone around Beijing after rare crash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-17T16:15:24+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Pentagon Cuts New AIM-260 Air-To-Air Missile Production Deal, Testing Accelerating",
@@ -548,15 +575,6 @@
       "summary": "The U.S. Navy awarded defense startup Castelion $200 million for the production of its Blackbeard hypersonic missile.",
       "published": "2026-09-17T15:35:43+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Turkey steps in to support markets after fund liquidity crunch sparks selloff - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTi0wZUhFaDF1M2xqZ1llb2xMRUdwV1ZzcTFXLWlJenctU2FOTUVNVlZMZmNCejN5VWw3ckFlelFkalYybU1jTUJkNVByUVREZnFxSzhQUE5UUThWbGZTU240bjIzQTdPZGJ0M3ZWNUgxTEgxMjUyM0toMXFtREh2cTUwZVZmeFAxWmd2ek44bTktaDJDX0h3SEJDQ1pkal9WZGxkYXNTeUctMGRIajRydE9tU0FibmxNcmZQdmNZaE5TUlk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPTi0wZUhFaDF1M2xqZ1llb2xMRUdwV1ZzcTFXLWlJenctU2FOTUVNVlZMZmNCejN5VWw3ckFlelFkalYybU1jTUJkNVByUVREZnFxSzhQUE5UUThWbGZTU240bjIzQTdPZGJ0M3ZWNUgxTEgxMjUyM0toMXFtREh2cTUwZVZmeFAxWmd2ek44bTktaDJDX0h3SEJDQ1pkal9WZGxkYXNTeUctMGRIajRydE9tU0FibmxNcmZQdmNZaE5TUlk?oc=5\" target=\"_blank\">Turkey steps in to support markets after fund liquidity crunch sparks selloff</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-09-17T15:25:44+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -637,15 +655,6 @@
       "link": "https://www.coindesk.com/coindesk-indices/2026/09/17/crypto-for-advisors-beyond-bitcoin-and-ether",
       "summary": "",
       "published": "2026-09-17T14:57:11+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Clarity Act failure may hamper U.S. crypto as industry seeks legal clarity elsewhere",
-      "link": "https://www.coindesk.com/policy/2026/09/17/crypto-industry-leaders-debate-who-the-winners-and-losers-of-the-clarity-act-vote-failure-are",
-      "summary": "",
-      "published": "2026-09-17T14:50:58+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -957,9 +966,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Japan has a problematic age gap - morningbrew.com",
+      "title": "Japan has a problematic age gap - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE01cXgwaUhWOExfTTRaWjNPWGNqZEx0aFZVcEpxOFJSTjlCRXc1X0lZcjVnSkVRR2E0cWhYVDdDdzlMQU9xNlVvSnZ5aktkdWpBOHZLTkpRUGdHMlp2amRGME9BbjljS3FBNFJ2LWFFSlpwRHlwN3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01cXgwaUhWOExfTTRaWjNPWGNqZEx0aFZVcEpxOFJSTjlCRXc1X0lZcjVnSkVRR2E0cWhYVDdDdzlMQU9xNlVvSnZ5aktkdWpBOHZLTkpRUGdHMlp2amRGME9BbjljS3FBNFJ2LWFFSlpwRHlwN3c?oc=5\" target=\"_blank\">Japan has a problematic age gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidkFVX3lxTE01cXgwaUhWOExfTTRaWjNPWGNqZEx0aFZVcEpxOFJSTjlCRXc1X0lZcjVnSkVRR2E0cWhYVDdDdzlMQU9xNlVvSnZ5aktkdWpBOHZLTkpRUGdHMlp2amRGME9BbjljS3FBNFJ2LWFFSlpwRHlwN3c?oc=5\" target=\"_blank\">Japan has a problematic age gap</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-16T04:55:06+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1038,9 +1047,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Prominent CEOs called for AI development to slow down - morningbrew.com",
+      "title": "Prominent CEOs called for AI development to slow down - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUFNM1pSaDNSTm11LXI2aXU5WmhlYWhBX04tRUJsa3k0bG4wMVM3Ry1ybTFFb2pGTWdHekd4Q0tUZUZ1RkhkSFl2LUhxcktHcEpUTG9tb0ZXY3FQOUV4S2UtMHhvcFJQTnFUX3p2bFZtUWRNdXY5RE1XT2xjVkI4b0x2ZWpxWWgxaUpjdFIyUmJIZTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUFNM1pSaDNSTm11LXI2aXU5WmhlYWhBX04tRUJsa3k0bG4wMVM3Ry1ybTFFb2pGTWdHekd4Q0tUZUZ1RkhkSFl2LUhxcktHcEpUTG9tb0ZXY3FQOUV4S2UtMHhvcFJQTnFUX3p2bFZtUWRNdXY5RE1XT2xjVkI4b0x2ZWpxWWgxaUpjdFIyUmJIZTA?oc=5\" target=\"_blank\">Prominent CEOs called for AI development to slow down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxPMUFNM1pSaDNSTm11LXI2aXU5WmhlYWhBX04tRUJsa3k0bG4wMVM3Ry1ybTFFb2pGTWdHekd4Q0tUZUZ1RkhkSFl2LUhxcktHcEpUTG9tb0ZXY3FQOUV4S2UtMHhvcFJQTnFUX3p2bFZtUWRNdXY5RE1XT2xjVkI4b0x2ZWpxWWgxaUpjdFIyUmJIZTA?oc=5\" target=\"_blank\">Prominent CEOs called for AI development to slow down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-14T21:48:51+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1083,46 +1092,37 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Companies are increasingly relying on the ‘work trial’ before hiring - morningbrew.com",
+      "title": "Companies are increasingly relying on the ‘work trial’ before hiring - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU43Rjh6VllPOGRmbkhsNjNpTmxnT1BHMEZ3WEd1WmdKR0M1TDRhdkZKdWROekdKc0lpZHdqY1o4YW5JeDFCMVhBMVdOVVAyblZPcjdvR2FYd084V1dtR1ZaU0dnWHBNLUpGYlFYSzJuNUF3bWluTndnRVNpSDgyS2VkWlJyc205QmhCZXpsblh6QUhiYWpfZ1pNcVd6M29hMEtLYg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU43Rjh6VllPOGRmbkhsNjNpTmxnT1BHMEZ3WEd1WmdKR0M1TDRhdkZKdWROekdKc0lpZHdqY1o4YW5JeDFCMVhBMVdOVVAyblZPcjdvR2FYd084V1dtR1ZaU0dnWHBNLUpGYlFYSzJuNUF3bWluTndnRVNpSDgyS2VkWlJyc205QmhCZXpsblh6QUhiYWpfZ1pNcVd6M29hMEtLYg?oc=5\" target=\"_blank\">Companies are increasingly relying on the ‘work trial’ before hiring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxOOU43Rjh6VllPOGRmbkhsNjNpTmxnT1BHMEZ3WEd1WmdKR0M1TDRhdkZKdWROekdKc0lpZHdqY1o4YW5JeDFCMVhBMVdOVVAyblZPcjdvR2FYd084V1dtR1ZaU0dnWHBNLUpGYlFYSzJuNUF3bWluTndnRVNpSDgyS2VkWlJyc205QmhCZXpsblh6QUhiYWpfZ1pNcVd6M29hMEtLYg?oc=5\" target=\"_blank\">Companies are increasingly relying on the ‘work trial’ before hiring</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-13T09:18:29+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "AI is upending the hiring process - morningbrew.com",
+      "title": "AI is upending the hiring process - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFAwU3RndUpVQkdJdWN0V28yZmVSTF8yUHlJV3lfZ01abWhzOGhiV081UVNVZ09VbTh2LXluSGRtcmhtdWZpYlk0a3FldnF1NW40WWhjWGxjZU4zbFdfdDUwWURLZHV0ZlhodF9zYXBOcnAwVzR3cHl3MA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAwU3RndUpVQkdJdWN0V28yZmVSTF8yUHlJV3lfZ01abWhzOGhiV081UVNVZ09VbTh2LXluSGRtcmhtdWZpYlk0a3FldnF1NW40WWhjWGxjZU4zbFdfdDUwWURLZHV0ZlhodF9zYXBOcnAwVzR3cHl3MA?oc=5\" target=\"_blank\">AI is upending the hiring process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFAwU3RndUpVQkdJdWN0V28yZmVSTF8yUHlJV3lfZ01abWhzOGhiV081UVNVZ09VbTh2LXluSGRtcmhtdWZpYlk0a3FldnF1NW40WWhjWGxjZU4zbFdfdDUwWURLZHV0ZlhodF9zYXBOcnAwVzR3cHl3MA?oc=5\" target=\"_blank\">AI is upending the hiring process</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-13T08:43:30+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Inflation sizzles…and a rate hike looks inevitable - morningbrew.com",
+      "title": "Inflation sizzles…and a rate hike looks inevitable - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPbU9xemN1TmZIMU12cEpuOS0weERxa2lTNnBUWm1zeW81WFRfSWIzbks1VEh5U3RSN19RUHFTUXZnbmIyRTRLVmRUSXhKczM5ZWlSQ2lSS1l6RFpLQ2xzU2hjYmZvYkZCOVFIOHloa0hMbXhEMEJWX19fTGVhRWtxcnQ0UFk1ZDNkSzlHUXVOMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbU9xemN1TmZIMU12cEpuOS0weERxa2lTNnBUWm1zeW81WFRfSWIzbks1VEh5U3RSN19RUHFTUXZnbmIyRTRLVmRUSXhKczM5ZWlSQ2lSS1l6RFpLQ2xzU2hjYmZvYkZCOVFIOHloa0hMbXhEMEJWX19fTGVhRWtxcnQ0UFk1ZDNkSzlHUXVOMA?oc=5\" target=\"_blank\">Inflation sizzles…and a rate hike looks inevitable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPbU9xemN1TmZIMU12cEpuOS0weERxa2lTNnBUWm1zeW81WFRfSWIzbks1VEh5U3RSN19RUHFTUXZnbmIyRTRLVmRUSXhKczM5ZWlSQ2lSS1l6RFpLQ2xzU2hjYmZvYkZCOVFIOHloa0hMbXhEMEJWX19fTGVhRWtxcnQ0UFk1ZDNkSzlHUXVOMA?oc=5\" target=\"_blank\">Inflation sizzles…and a rate hike looks inevitable</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-12T08:42:45+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Iran-backed Houthis seize key Red Sea island - morningbrew.com",
+      "title": "Iran-backed Houthis seize key Red Sea island - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTE3UkNqYjRNVGo3NWFqdWdJRGpDRzRpYnBtVDNkQUZDdkp4VGZucHYwWGpya0FvX0Rzby0zWTB4a2Uxa2RqOWdrQURpRUtLdTBmTHlGTElyeFdrLW81QXVXUVFpQ3gzR1g0SFdJUnpKakJ6WG9KVjQ3V0RzdlY0dFdoaGZSZDg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTE3UkNqYjRNVGo3NWFqdWdJRGpDRzRpYnBtVDNkQUZDdkp4VGZucHYwWGpya0FvX0Rzby0zWTB4a2Uxa2RqOWdrQURpRUtLdTBmTHlGTElyeFdrLW81QXVXUVFpQ3gzR1g0SFdJUnpKakJ6WG9KVjQ3V0RzdlY0dFdoaGZSZDg?oc=5\" target=\"_blank\">Iran-backed Houthis seize key Red Sea island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNRTE3UkNqYjRNVGo3NWFqdWdJRGpDRzRpYnBtVDNkQUZDdkp4VGZucHYwWGpya0FvX0Rzby0zWTB4a2Uxa2RqOWdrQURpRUtLdTBmTHlGTElyeFdrLW81QXVXUVFpQ3gzR1g0SFdJUnpKakJ6WG9KVjQ3V0RzdlY0dFdoaGZSZDg?oc=5\" target=\"_blank\">Iran-backed Houthis seize key Red Sea island</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-12T08:42:45+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Lessons From 9/11 and Its Aftermath - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFA4RmRoajZLU2RDbEY1RHhsbU1lZ1VsUFFSX0hNaGdQeTZ4MkQtR3Z3eDFGOTRzaUpTOEdOV3Y2WUllZ09WS0dzVWRYaDdVN3p4b05ZellhNWFTUURiY3c4WFNKTmh6X2Y4SEZlVWN6cGZZdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFA4RmRoajZLU2RDbEY1RHhsbU1lZ1VsUFFSX0hNaGdQeTZ4MkQtR3Z3eDFGOTRzaUpTOEdOV3Y2WUllZ09WS0dzVWRYaDdVN3p4b05ZellhNWFTUURiY3c4WFNKTmh6X2Y4SEZlVWN6cGZZdw?oc=5\" target=\"_blank\">Lessons From 9/11 and Its Aftermath</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-09-11T17:24:58+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1137,18 +1137,18 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "It’s coming home: The tapestry is back in England - morningbrew.com",
+      "title": "It’s coming home: The tapestry is back in England - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJFV0lLeWFMZ2xTSEIzMHlNTGRVZ0oxTWFvQzAtNzhhODNNLS1NQWJ3Q3praFBCeWxhTk5NYXRONXJZSnV3ZDJ2aWdRRWNSTVluQUFndkhGcTFGTkc5RXJYMndtdGFmNDM3eEdaWHdQbmRmQUE1VDJwOXIzSEJ4TXpEMk94N2hKSUdr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJFV0lLeWFMZ2xTSEIzMHlNTGRVZ0oxTWFvQzAtNzhhODNNLS1NQWJ3Q3praFBCeWxhTk5NYXRONXJZSnV3ZDJ2aWdRRWNSTVluQUFndkhGcTFGTkc5RXJYMndtdGFmNDM3eEdaWHdQbmRmQUE1VDJwOXIzSEJ4TXpEMk94N2hKSUdr?oc=5\" target=\"_blank\">It’s coming home: The tapestry is back in England</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMXJFV0lLeWFMZ2xTSEIzMHlNTGRVZ0oxTWFvQzAtNzhhODNNLS1NQWJ3Q3praFBCeWxhTk5NYXRONXJZSnV3ZDJ2aWdRRWNSTVluQUFndkhGcTFGTkc5RXJYMndtdGFmNDM3eEdaWHdQbmRmQUE1VDJwOXIzSEJ4TXpEMk94N2hKSUdr?oc=5\" target=\"_blank\">It’s coming home: The tapestry is back in England</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-11T10:24:10+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "It’s been 25 years since 9/11 - morningbrew.com",
+      "title": "It’s been 25 years since 9/11 - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBtN1QxMEpucEVCSlBWNVpsXzhTVUJfZFBHU1JEY3AwUGlRSTBRN01XWVhNXzJZT3hxWWRrUzRLOXFXVjJvTmdNa0ZHdV9hMjRlOFEzYVVUQnlnbzdtQ2wySEJYNkRna1dSeWNaTnhNTVg3UQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBtN1QxMEpucEVCSlBWNVpsXzhTVUJfZFBHU1JEY3AwUGlRSTBRN01XWVhNXzJZT3hxWWRrUzRLOXFXVjJvTmdNa0ZHdV9hMjRlOFEzYVVUQnlnbzdtQ2wySEJYNkRna1dSeWNaTnhNTVg3UQ?oc=5\" target=\"_blank\">It’s been 25 years since 9/11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">morningbrew.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMickFVX3lxTFBtN1QxMEpucEVCSlBWNVpsXzhTVUJfZFBHU1JEY3AwUGlRSTBRN01XWVhNXzJZT3hxWWRrUzRLOXFXVjJvTmdNa0ZHdV9hMjRlOFEzYVVUQnlnbzdtQ2wySEJYNkRna1dSeWNaTnhNTVg3UQ?oc=5\" target=\"_blank\">It’s been 25 years since 9/11</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-11T07:12:51+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1235,15 +1235,6 @@
     },
     {
       "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Before and after satellite images of demolition of East Wing - AP News",
-      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxQU1ZPR1NGVkdpQmxyRW5MMVY3WGNZbk9MbzRwZXJnV0FRWk5GdE1nRDlRRE9KeExBZGVMY3M0MnlJN2tKZXlfaWd2Tnk3a2RnUGpLNEdvcS1lUDVKYlF3VW91WS0wSG1sQlJLWnpmQS1MbFZoSXF0WWdGY29RT2FtOVkxV1RYNTlBSUNoMG1BcG5LZw?oc=5\" target=\"_blank\">Before and after satellite images of demolition of East Wing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-10-23T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "What Is Hamas? - Council on Foreign Relations",
       "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA0YURDLVNCeTFyUTV2QW9JYU9iNngtbVpwT2tFdGthanlZVUltQlVuTWlvT0g2Y2FORF9ncVFSTnRxaU9xczExM245Q3dwYkczN3c0Y0xyMA?oc=5",
@@ -1299,9 +1290,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Morningstar Workstation - workstation.morningstar.com",
+      "title": "Morningstar Workstation - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5\" target=\"_blank\">Morningstar Workstation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">workstation.morningstar.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5\" target=\"_blank\">Morningstar Workstation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2024-03-18T23:45:06+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1326,9 +1317,9 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Morningstar JIRA - msjira.morningstar.com",
+      "title": "Morningstar JIRA - Morningstar",
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM3ZxZmRsNUJaVUJpcmpfX3JYOWp0RjJQTGlLZmIwSVNiMndpcEdDbWFlbnF2dTZIOG5QSlhXNF9DTTlOZmZERmZlUUV1a0RSQ0pUYWtjQ2I3X2RYTDY5VDRn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM3ZxZmRsNUJaVUJpcmpfX3JYOWp0RjJQTGlLZmIwSVNiMndpcEdDbWFlbnF2dTZIOG5QSlhXNF9DTTlOZmZERmZlUUV1a0RSQ0pUYWtjQ2I3X2RYTDY5VDRn?oc=5\" target=\"_blank\">Morningstar JIRA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">msjira.morningstar.com</font>",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE5yM3ZxZmRsNUJaVUJpcmpfX3JYOWp0RjJQTGlLZmIwSVNiMndpcEdDbWFlbnF2dTZIOG5QSlhXNF9DTTlOZmZERmZlUUV1a0RSQ0pUYWtjQ2I3X2RYTDY5VDRn?oc=5\" target=\"_blank\">Morningstar JIRA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2020-11-05T22:55:55+00:00",
       "feed_type": "google_news_fallback"
     },
