@@ -1,12 +1,7 @@
 {
-  "updated_at": "2026-10-02T22:53:03.384081+00:00",
-  "item_count": 143,
+  "updated_at": "2026-10-03T01:49:53.077846+00:00",
+  "item_count": 151,
   "failures": [
-    {
-      "source": "EDM.com News",
-      "feed_url": "https://edm.com/.rss/full/news",
-      "error": "<unknown>:2:1326: not well-formed (invalid token)"
-    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -14,6 +9,24 @@
     }
   ],
   "items": [
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Meta wants your next gadget to be Muse-infused",
+      "link": "https://techcrunch.com/2026/10/02/meta-wants-you-to-build-your-own-muse-gadget/",
+      "summary": "Meta wants Muse in your TV and your toaster, so it's giving the code away for free.",
+      "published": "2026-10-03T00:45:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week",
+      "link": "https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-209",
+      "summary": "<p>Who needs scary movies when you have life in 2026?!</p>\n<p>The post <a href=\"https://www.twz.com/news-features/bunker-talk-lets-talk-about-all-the-things-we-did-and-didnt-cover-this-week-209\">Bunker Talk: Let’s Talk About All The Things We Did And Didn’t Cover This Week</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-10-02T23:55:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
@@ -42,6 +55,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "North Korea fires ballistic missile toward sea, South Korea and Japan say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxPaFhLbGpLUW9wdUc3cU0zLXhMNjlscGpUQjJzSmVGTk9GNFJCRDVrLUFiajVfWnY5cTRYZGxWNzRfSGZneFlXRVFmLUYzZTNoV1lRX1ExSTJ5WlUyOFFFTGVfWkFDelgyazZrN0l3QWt5bG1GM0QxTmd3OU5yWG50SHVEOEstbTkwd1ltaVh2RU5QbVBnNG1HbGZ3MU15MDl6UXUxSDVxYkJHZXNuamNXdWhUUmp2eFRJV21uQW1jT2R4VXAtcmU1cEt5WHRiQQ?oc=5\" target=\"_blank\">North Korea fires ballistic missile toward sea, South Korea and Japan say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-02T22:15:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "I’m 71 and still working. I earn $108,000 a year. Am I doing the right thing?",
@@ -49,6 +71,15 @@
       "summary": "“I have $152,000 in my IRA and Roth accounts.”",
       "published": "2026-10-02T22:10:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQNms5cTdHRjlXODJ0MXpMNUZXM3lmUzl5YlNmNHBRaTcwcXRjeEg5bXB0VFZhcktpaGFBcXpfNFhxVnp0MXEzLUVITzItc2NtSC1qLWhxUjN1ajJzWEFYczhmb1E5a2E3dFF3YjlWVDFocjdEelFxcENUR3Ftd29lejNvbWpsY3NsZU5zNk9feXhVdXFxcGotV1BUVVlJN0t5YUVkZzJiekpvM0t3Mk9DWlFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQNms5cTdHRjlXODJ0MXpMNUZXM3lmUzl5YlNmNHBRaTcwcXRjeEg5bXB0VFZhcktpaGFBcXpfNFhxVnp0MXEzLUVITzItc2NtSC1qLWhxUjN1ajJzWEFYczhmb1E5a2E3dFF3YjlWVDFocjdEelFxcENUR3Ftd29lejNvbWpsY3NsZU5zNk9feXhVdXFxcGotV1BUVVlJN0t5YUVkZzJiekpvM0t3Mk9DWlFR?oc=5\" target=\"_blank\">US appeals court blocks Minnesota law barring 'nudified' photos in XAI lawsuit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-02T22:00:56+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -67,6 +98,15 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/DSC_6002-scaled-e1790977411502-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The service’s new command will be called Army Futures and Autonomous Systems Command, or FASCOM, according to a memo signed by Acting Army Secretary Adam Telle.</p>",
       "published": "2026-10-02T21:46:37+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzlIVmhvVUZ0aG1rRENIVUd4TEpFZTVQZkVrRkRpNEtQUVBJbUJWOHdyQ1VRcjkxUGtTb2prWC1JX1A5OFhWZU90XzJKd3VEM2RFc0dkM3ZwcVAtZ0RYN1BFenF4LTNLYTNtSG45b1J6S283R1pIS3ZpSGlwa1pOeVVKejd0U3FCZmZWUzBDaEhhOVQ0QU1QNnc1SUFwQnlscFZVck5JVml0aHhqTk53amFGWUwxQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOMzlIVmhvVUZ0aG1rRENIVUd4TEpFZTVQZkVrRkRpNEtQUVBJbUJWOHdyQ1VRcjkxUGtTb2prWC1JX1A5OFhWZU90XzJKd3VEM2RFc0dkM3ZwcVAtZ0RYN1BFenF4LTNLYTNtSG45b1J6S283R1pIS3ZpSGlwa1pOeVVKejd0U3FCZmZWUzBDaEhhOVQ0QU1QNnc1SUFwQnlscFZVck5JVml0aHhqTk53amFGWUwxQQ?oc=5\" target=\"_blank\">EXCLUSIVE: Trump visa policies weigh on Columbia journalism program as admissions pause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-02T21:41:10+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -125,6 +165,15 @@
     {
       "category": "World News & Politics",
       "source": "Reuters World",
+      "title": "Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxONmpYQ0Y2U28xREktZWI5cXZqVU1oV1dUeVgtRHRqb0FISGdKc01JMHc0VXVhbEcyZUNPWDliRDljWEwwblVkSkpqMmFSaVNsWGpTSExpWUJwd3huaDN4QlVPX05VM012UmNvYUZxRm5IZnk5QnhMMzVRMUZYTF9BNnJMaUlkVzkyUUlmTTRMdXdSdkg2Y1Y2ekJIaUpld3lCdWp6SS1Bc1N2QWVhNFNVRGxOMy1XNWItcUdwTWdrMA?oc=5\" target=\"_blank\">Trump says he did not 'jump the gun' on South Korea Alaska LNG investment announcement</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-02T21:01:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
       "title": "What do we know about flydubai flight 1073? - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOVlJGRkhlVDNVaGt3ekU3cFNoQzExQVRHTkFZc0lPWkhrQXFaWXFDMGJTdzNKMmF4T0JMcHRTQkxYRGhMbTZJNWt5WVZPNFM5MElvUGlYaHNLMU1kUVd1N2xkR3RaS0ppYll2a3hFZ1Y2N1k3bnpGUXI5T0JNclZpb0Mwdy11TTI1NzR5Ni1lS0ZZcl9IczM4LWExaG4?oc=5\" target=\"_blank\">What do we know about flydubai flight 1073?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
@@ -177,15 +226,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Israeli officials to question co-pilot of flydubai flight, source says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVGxxTlpqUHE0NEg5VG14WnhFcU54UVJnSjV4SUdEdGxUVXlUSTVUMkNRQWtDand4UmUxdWtONDlfU2Z5QW5kSVc5NTJrekxscVdoQ0hvT2UyaWdFNHA0dnozZHVHcVViZkJxZmdhTE1zMDAyQlpXOERLMm1NU2pHckFpakUwRWR0V1NfTXRfSTlaQlBjSHNJdXVueGgzd2hUSUl3ZUtSZVA2ZDJ2QzBNdTdMeXdoUDVI?oc=5\" target=\"_blank\">Israeli officials to question co-pilot of flydubai flight, source says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-02T20:20:50+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "GDIT replaces longtime president Gilliland",
@@ -193,15 +233,6 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/251203_amy_gilliland_GDIT_sized-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Paul Nedzbala, who joined GDIT in 2018, has been appointed acting president.</p>",
       "published": "2026-10-02T20:18:22+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Brazil police serve warrants over alleged threat to US diplomatic sites - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmRRYTlTTkxSZzd1N0FwTFFxSFJJYXFHajZNT1laV01hUVVfQjEwYnJ2blh0ZmdhbVFqZEh4WlFhTHpvVGxaeUJwdkQtX2l2Z0VSOEdZbDcxZWQ2bHZGd1M4SDZaUkpuUmdtMkJFYzQ3VzZaNjVDYzAtQ0RCVFhBSXM2SkliTU1WVUN5TG56NDltemxDNDh1a1dTS091MnNVRjQtdEZrVGc4cUZVZ0xoVFV4RWF6aEVBbi00?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYmRRYTlTTkxSZzd1N0FwTFFxSFJJYXFHajZNT1laV01hUVVfQjEwYnJ2blh0ZmdhbVFqZEh4WlFhTHpvVGxaeUJwdkQtX2l2Z0VSOEdZbDcxZWQ2bHZGd1M4SDZaUkpuUmdtMkJFYzQ3VzZaNjVDYzAtQ0RCVFhBSXM2SkliTU1WVUN5TG56NDltemxDNDh1a1dTS091MnNVRjQtdEZrVGc4cUZVZ0xoVFV4RWF6aEVBbi00?oc=5\" target=\"_blank\">Brazil police serve warrants over alleged threat to US diplomatic sites</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-02T20:11:43+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -219,15 +250,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDRmU2dPN3RqYTA3R2RrQ3pVWkhKampXbllGckJrQUpXRTRqcmpHS2VSTFpSeEV4WXlqbWpXTG1SNFNKYU4xeVFGS0xsLU1xbmRxdVZpVTByMDR1UTFDQXF0S20yRXRZR1YyOUw1d2NMRXhGTllfa3htQWVFYUV2aWdPZUxGazdjX0R1dndxYUNmQlQ3ZU94LWtXbDVrZ0FIeEhJWFVwNG04Z01kU1N1ZExiTU81QWJNc0hiT2hlTjZPVUE?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxNWDRmU2dPN3RqYTA3R2RrQ3pVWkhKampXbllGckJrQUpXRTRqcmpHS2VSTFpSeEV4WXlqbWpXTG1SNFNKYU4xeVFGS0xsLU1xbmRxdVZpVTByMDR1UTFDQXF0S20yRXRZR1YyOUw1d2NMRXhGTllfa3htQWVFYUV2aWdPZUxGazdjX0R1dndxYUNmQlQ3ZU94LWtXbDVrZ0FIeEhJWFVwNG04Z01kU1N1ZExiTU81QWJNc0hiT2hlTjZPVUE?oc=5\" target=\"_blank\">Man accused of ex-minister murder charged with preparing terrorist acts against Reform UK's Nigel Farage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-10-02T19:37:21+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "- research.morningstar.com",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tOHdDTDI4SmN4WHhHYUZzUktha2I2aGthSGRpZmU2M29GOFdXenRlY0oydWZ0ZkZCaTQ3RzVpYUR0UFdubU14TDBsMEhzdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE9tOHdDTDI4SmN4WHhHYUZzUktha2I2aGthSGRpZmU2M29GOFdXenRlY0oydWZ0ZkZCaTQ3RzVpYUR0UFdubU14TDBsMEhzdw?oc=5\" target=\"_blank\"></a>&nbsp;&nbsp;<font color=\"#6f6f6f\">research.morningstar.com</font>",
-      "published": "2026-10-02T19:36:01+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -283,15 +305,6 @@
       "summary": "Nvidia’s chip-smuggling problem won’t go away as arrests continue.",
       "published": "2026-10-02T18:39:36+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Mexico to prohibit presidents from holding dual citizenship - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkJPWGw2Z3RXMFdJNG5DRWd1UDN2NTgyQzczZFJSMFpqQ0Uzb0ZWSnVCbkVtdkhlbkczNVZtMElqUFFLb3dUM2xOT0I2NEtVRDVBNzdDQkp6Q3l2TEhYSVJTa1FjcWF4RGw0bFNaUlR4d0wwazlSNk9YOEQyQTIwY24xYUxKRENIQnNWOUJfLXJmRFFSVjlyaXhpUXJCM2o4anI0bw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipAFBVV95cUxNTkJPWGw2Z3RXMFdJNG5DRWd1UDN2NTgyQzczZFJSMFpqQ0Uzb0ZWSnVCbkVtdkhlbkczNVZtMElqUFFLb3dUM2xOT0I2NEtVRDVBNzdDQkp6Q3l2TEhYSVJTa1FjcWF4RGw0bFNaUlR4d0wwazlSNk9YOEQyQTIwY24xYUxKRENIQnNWOUJfLXJmRFFSVjlyaXhpUXJCM2o4anI0bw?oc=5\" target=\"_blank\">Mexico to prohibit presidents from holding dual citizenship</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-02T18:30:11+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -447,13 +460,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Carney plans to visit Turkey this month, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUJ4TXFqX3MxYnVxcDNXUXhic1BubnFDLVFlX2t5aWFVbTVSMXhNNUhWUWpyMHN2c1hINVVOaEhnUnk5NkFKM2U3bkJSOWZNcDltc1YxRXZkdHo3VkpXTzU1UF9yT21lVXlRUGZnUTZTd1k3TGlXXzhBX3hJWVpsS21YX1F2NHI1eUFwcTZFSEszT3Q4am04dVlMU05Fdnkx?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMioAFBVV95cUxNZUJ4TXFqX3MxYnVxcDNXUXhic1BubnFDLVFlX2t5aWFVbTVSMXhNNUhWUWpyMHN2c1hINVVOaEhnUnk5NkFKM2U3bkJSOWZNcDltc1YxRXZkdHo3VkpXTzU1UF9yT21lVXlRUGZnUTZTd1k3TGlXXzhBX3hJWVpsS21YX1F2NHI1eUFwcTZFSEszT3Q4am04dVlMU05Fdnkx?oc=5\" target=\"_blank\">EXCLUSIVE: Carney plans to visit Turkey this month, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-02T16:20:04+00:00",
-      "feed_type": "google_news_fallback"
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Records From Purple Disco Machine’s Childhood Home Inspire His Fourth Album, ‘COSMOTROPIA’",
+      "link": "https://edm.com/news/purple-disco-machine-announces-new-album-cosmotropia/",
+      "summary": "<p>The Grammy-winning producer has drawn on Kraftwerk, Jean-Michel Jarre and more for his upcoming album, which is steeped in the space-themed sounds of the '70s and '80s.</p>\n<p>The post <a href=\"https://edm.com/news/purple-disco-machine-announces-new-album-cosmotropia/\">Records From Purple Disco Machine&#8217;s Childhood Home Inspire His Fourth Album, &#8216;COSMOTROPIA&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T16:33:54+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -471,15 +484,6 @@
       "link": "https://www.technologyreview.com/2026/10/02/1143774/redefining-enterprise-intelligence-with-autonomous-ai/",
       "summary": "Enterprise AI is no longer a future ambition. It is in full operational flight. Model capabilities are advancing faster than most organizations can absorb, while the cost of performance continues to fall. Globally, AI investment is set to reach $2.5 trillion in 2026, up 44% from the previous year. For many enterprises, this investment has&#8230;",
       "published": "2026-10-02T15:49:04+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Pope Leo XIV is not a fan of AI-generated art",
-      "link": "https://techcrunch.com/2026/10/02/pope-leo-xiv-is-not-a-fan-of-ai-generated-art/",
-      "summary": "\"There is an ontological difference, even before an aesthetic one, between art and what a machine can generate through statistical calculation based on millions of images created by others,\" the pope wrote. \"Algorithms lack the spark of humanity.\"",
-      "published": "2026-10-02T15:39:41+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -510,6 +514,33 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Dubstep Pioneers Skream and Benga Set for Live Talk on How the Genre Began",
+      "link": "https://edm.com/news/dubstep-pioneers-skream-benga-live-talk-genre-origins/",
+      "summary": "<p>Skream and Benga also released a new single, 'Gameshow,' ahead of a rare discussion in South London exploring dubstep's past, present and future.</p>\n<p>The post <a href=\"https://edm.com/news/dubstep-pioneers-skream-benga-live-talk-genre-origins/\">Dubstep Pioneers Skream and Benga Set for Live Talk on How the Genre Began</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T14:56:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "EDM.com On-Deck Circle: Martin Garrix, Tiësto, Hardwell & More",
+      "link": "https://edm.com/music-releases/on-deck-circle-martin-garrix-tiesto-david-guetta-more/",
+      "summary": "<p>Dropping weekly on Fridays, ‘On-Deck Circle’ is EDM.com’s weekly roundup of 9 brand-new tracks from the scene’s biggest DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/on-deck-circle-martin-garrix-tiesto-david-guetta-more/\">EDM.com On-Deck Circle: Martin Garrix, Tiësto, Hardwell &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T14:26:59+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "EDM.com Fresh Picks: Sarah de Warren, CADMIUM, CHYL & More",
+      "link": "https://edm.com/music-releases/fresh-picks-sarah-de-warren-cadmium-chyl-more/",
+      "summary": "<p>Every Friday, EDM.com’s ‘Fresh Picks’ series showcases bold new electronic music from the scene’s most promising DJs and producers.</p>\n<p>The post <a href=\"https://edm.com/music-releases/fresh-picks-sarah-de-warren-cadmium-chyl-more/\">EDM.com Fresh Picks: Sarah de Warren, CADMIUM, CHYL &amp; More</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T14:26:55+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Taiwan’s first two F-16V fighter jets arrive to bolster defenses against China",
@@ -537,6 +568,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Ken Griffin Buys Mana Wynwood, Longtime Home of III Points and Miami Music Week Parties, for $1.1 Billion",
+      "link": "https://edm.com/news/ken-griffin-buys-mana-wynwood-1-1-billion/",
+      "summary": "<p>Carnegie Mellon University plans to open a Miami campus in the neighborhood, and the venue's current operators will keep running events for at least a year.</p>\n<p>The post <a href=\"https://edm.com/news/ken-griffin-buys-mana-wynwood-1-1-billion/\">Ken Griffin Buys Mana Wynwood, Longtime Home of III Points and Miami Music Week Parties, for $1.1 Billion</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T13:39:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Bitcoin nears highest level since January as $85,000 sell wall clears, US jobs data disappoints",
@@ -546,12 +586,39 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "DJ_Dave Drops Fully Live Coded Debut Album, ‘Hardcore Software’",
+      "link": "https://edm.com/music-releases/dj_dave-live-coded-debut-album-hardcore-software/",
+      "summary": "<p>The album features three live coded interludes and arrives as her first headlining tour opens in Los Angeles.</p>\n<p>The post <a href=\"https://edm.com/music-releases/dj_dave-live-coded-debut-album-hardcore-software/\">DJ_Dave Drops Fully Live Coded Debut Album, &#8216;Hardcore Software&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T13:32:34+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "America at a crossroads: Commissioner Peirce’s parting challenge",
       "link": "https://www.coindesk.com/opinion/2026/10/01/america-at-a-crossroads-commissioner-peirce-s-parting-challenge",
       "summary": "",
       "published": "2026-10-02T13:22:19+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Martin Garrix Sings on Emotive New Single, ‘This Dream of You’",
+      "link": "https://edm.com/music-releases/martin-garrix-this-dream-of-you/",
+      "summary": "<p>Garrix opened his Tomorrowland set with an early version of the track, which is expected to land on his upcoming second album.</p>\n<p>The post <a href=\"https://edm.com/music-releases/martin-garrix-this-dream-of-you/\">Martin Garrix Sings on Emotive New Single, &#8216;This Dream of You&#8217;</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T13:01:39+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "EDM.com News",
+      "title": "Hotel EDC’s Beachfront Party Kicking Off EDC Thailand 2026 in Phuket",
+      "link": "https://edm.com/events/hotel-edc-beachfront-party-kicking-off-edc-thailand-2026-phuket/",
+      "summary": "<p>The official pre-party for EDC Thailand will feature DJ sets from Mau P and Loco Dice, among others.</p>\n<p>The post <a href=\"https://edm.com/events/hotel-edc-beachfront-party-kicking-off-edc-thailand-2026-phuket/\">Hotel EDC&#8217;s Beachfront Party Kicking Off EDC Thailand 2026 in Phuket</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
+      "published": "2026-10-02T12:57:33+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -771,15 +838,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "AIM-260 JATM Missile Spotted On Australian Super Hornet",
-      "link": "https://www.twz.com/air/aim-260-jatm-missile-spotted-on-australian-super-hornet",
-      "summary": "<p>The secretive AIM-260 air-to-air missile will give Australian fighters a much-needed boost in reach, especially against Chinese threats. </p>\n<p>The post <a href=\"https://www.twz.com/air/aim-260-jatm-missile-spotted-on-australian-super-hornet\">AIM-260 JATM Missile Spotted On Australian Super Hornet</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-10-01T17:01:18+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Is too much gear a bad thing? Hazel Mills says “option paralysis is very real” – and it could be killing your creativity",
@@ -795,6 +853,15 @@
       "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2xOM1JxaktSUkxZa2RnY3NjR1pZSTZKX0RTd0w1MUI0NURzQUR0YkszOEZyYWJoWEUxalowWjdSN285dzNpTVgtZW5oLTgyd3RaN3JhQlFrLXc3bU53bUVBVl80d1Z3ZG03WVM4ZmRrSjJhbHNCV1c4MUc0VkpDMENkMjYta2RxeExsT1l6bVJITl9EamFoSWg3dkl6VDBuZUZfN3Q2aw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxPS2xOM1JxaktSUkxZa2RnY3NjR1pZSTZKX0RTd0w1MUI0NURzQUR0YkszOEZyYWJoWEUxalowWjdSN285dzNpTVgtZW5oLTgyd3RaN3JhQlFrLXc3bU53bUVBVl80d1Z3ZG03WVM4ZmRrSjJhbHNCV1c4MUc0VkpDMENkMjYta2RxeExsT1l6bVJITl9EamFoSWg3dkl6VDBuZUZfN3Q2aw?oc=5\" target=\"_blank\">September Jobs Report Seen Showing Hiring Plateau After August Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-10-01T15:59:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "A second rate hike in 2026 looks far less certain - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObTRYaVdPaVl4Q08wdnJLLXpLMjRtTVFDSGdSdXBZLXJIb2J0OTVhWjFvM0I1Ry1fNGhqU01YOHdYb3hpM0hkN2t4OXJFaDBUSHQxNTFiNVRLLUg0Vk9PV3ZHZkphY1l2V0dVQWF4SWIwbExUUUNfTkxmN3Y4TGNnSTEtU25VNkxDRmx2MTktSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxObTRYaVdPaVl4Q08wdnJLLXpLMjRtTVFDSGdSdXBZLXJIb2J0OTVhWjFvM0I1Ry1fNGhqU01YOHdYb3hpM0hkN2t4OXJFaDBUSHQxNTFiNVRLLUg0Vk9PV3ZHZkphY1l2V0dVQWF4SWIwbExUUUNfTkxmN3Y4TGNnSTEtU25VNkxDRmx2MTktSQ?oc=5\" target=\"_blank\">A second rate hike in 2026 looks far less certain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-10-01T15:00:56+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -895,6 +962,15 @@
       "summary": "How technology empowers—and imperils—dictators.",
       "published": "2026-10-01T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "This Overlooked Asset Class Is Getting an AI Boost - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3p4VTZFQWF6Q1BwZkMyOXJoMFloM0N2MWlDMzhvN1pNaUowN3ZJbkFWYXdzYWpFYkl1a1BBa1VyNC1Lb1BQSE5UMmtPdnI0eV9XTkNjamVtTWxPcVFjSjZScGZOX0k1QlN5ZVQ3a3Y1V3Z4U0xqT1AxMmNYRWtCU1gtVGctWXJLWTVJNA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQR3p4VTZFQWF6Q1BwZkMyOXJoMFloM0N2MWlDMzhvN1pNaUowN3ZJbkFWYXdzYWpFYkl1a1BBa1VyNC1Lb1BQSE5UMmtPdnI0eV9XTkNjamVtTWxPcVFjSjZScGZOX0k1QlN5ZVQ3a3Y1V3Z4U0xqT1AxMmNYRWtCU1gtVGctWXJLWTVJNA?oc=5\" target=\"_blank\">This Overlooked Asset Class Is Getting an AI Boost</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-10-01T00:05:08+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -1011,15 +1087,6 @@
       "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbTY1QmR6b29JNzVGN0hPUmNaOG5xSjRXaHFCa2NoVWVBNm1WS3oyanNUUUJrRFJoTllsaDhwT1d4eUR6Zm1Wa2tpdVRYOFBCaG90U3cxQkxtbXd6N3gzU3RHZmxqWExwa1dtekR3Ykx1eUZsMDdlel9qdXN4bFRqWjNaYS1YRUp4Y3BQSU5jQUVjdkNwN1lqMnl4WE5MZlcyV2p6TTE0X1RWSlVOMk9ybEtn?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNbTY1QmR6b29JNzVGN0hPUmNaOG5xSjRXaHFCa2NoVWVBNm1WS3oyanNUUUJrRFJoTllsaDhwT1d4eUR6Zm1Wa2tpdVRYOFBCaG90U3cxQkxtbXd6N3gzU3RHZmxqWExwa1dtekR3Ykx1eUZsMDdlel9qdXN4bFRqWjNaYS1YRUp4Y3BQSU5jQUVjdkNwN1lqMnl4WE5MZlcyV2p6TTE0X1RWSlVOMk9ybEtn?oc=5\" target=\"_blank\">UK State Pension Triple Lock To Be Scrapped, Andy Burnham Says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2026-09-29T16:18:14+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Bose introduces its first pair of wired headphones in 11 years - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjk1OXNvaURscVRuZ2F4WDVkR3M1TE1LQkY1cXJfZU14bGZVV1g4b2lKblhEaEhsbDMtQVREcEttMGNvbDVEVlRqaTAxV3M2WUtaSlktdnVkUmNrZW81Y2NrR1hXNGFMeVRSLVJ5aVJLVTJWdDRNbkIyS3pSSUVWdHdMX3A3U3JRZTNJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSjk1OXNvaURscVRuZ2F4WDVkR3M1TE1LQkY1cXJfZU14bGZVV1g4b2lKblhEaEhsbDMtQVREcEttMGNvbDVEVlRqaTAxV3M2WUtaSlktdnVkUmNrZW81Y2NrR1hXNGFMeVRSLVJ5aVJLVTJWdDRNbkIyS3pSSUVWdHdMX3A3U3JRZTNJ?oc=5\" target=\"_blank\">Bose introduces its first pair of wired headphones in 11 years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-09-29T05:47:50+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1221,6 +1288,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Morningstar Workstation - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5\" target=\"_blank\">Morningstar Workstation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2024-03-18T23:45:06+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "Utah GOP Sen. Mitt Romney won't seek reelection in 2024, marking end to decadeslong political career - AP News",
@@ -1272,15 +1348,6 @@
       "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMib0FVX3lxTE1wLVlLT0hRb1JoS2NYWXdlLWtBdlJHVjBfUFMzLW04cU9ENTE3VVlwUW5IdHRqdDhfTmFqZ1FiRnBRcDU3a3NUajF4Ny1Wb1UxN2lqR091Q1BETVNSZm5maTVEeGhLM3VySUZuRVc5Yw?oc=5\" target=\"_blank\">Conflict in Yemen and the Red Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations (CFR)</font>",
       "published": "2020-05-28T21:35:41+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "VTV – Vanguard MStar Value ETF – ETF Stock Quote - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nalhjQkVYMUxTN3o0VDlyeW5QcERNNEtTMl9pNjF2SGVqZ29LTnNodzhtN2loWHdSdm9iMldzaUxVN1dNMW01VElTREp6MVVGSWpMN2tvc3pKOU0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE1nalhjQkVYMUxTN3o0VDlyeW5QcERNNEtTMl9pNjF2SGVqZ29LTnNodzhtN2loWHdSdm9iMldzaUxVN1dNMW01VElTREp6MVVGSWpMN2tvc3pKOU0?oc=5\" target=\"_blank\">VTV – Vanguard MStar Value ETF – ETF Stock Quote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2019-07-16T05:50:44+00:00",
       "feed_type": "google_news_fallback"
     },
     {
