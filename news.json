@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T00:38:09.748014+00:00",
+  "updated_at": "2026-10-05T06:44:47.767671+00:00",
   "item_count": 151,
   "failures": [
     {
@@ -10,30 +10,156 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Ethereum has a 25-day wait to start staking, with nearly 1.5 million ETH in line",
+      "link": "https://www.coindesk.com/tech/2026/10/05/ethereum-has-a-25-day-wait-to-start-staking-with-nearly-1-5-million-eth-in-line",
+      "summary": "",
+      "published": "2026-10-05T06:40:29+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "OKX, NYSE parent ICE joint venture seeks to launch tokenized US stock trading venue",
+      "link": "https://www.theblock.co/news/business/2026-10-05-okx-ice-joint-venture-tokenized-stock-trading-417613",
+      "summary": "OKXICE has notified the SEC that it intends to launch a tokenized securities trading venue under the innovation exemption.",
+      "published": "2026-10-05T06:38:24+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Joint venture of OKX and NYSE parent ICE files for 24/7 tokenized U.S. stock trading",
+      "link": "https://www.coindesk.com/markets/2026/10/05/okx-and-nyse-s-owner-file-for-round-the-clock-tokenized-trading-in-u-s-stocks",
+      "summary": "",
+      "published": "2026-10-05T04:45:03+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Zcash’s 25-second blocks go live on public testnet ahead of schedule",
+      "link": "https://www.coindesk.com/tech/2026/10/05/zcash-s-25-second-blocks-go-live-on-public-testnet-ahead-of-schedule",
+      "summary": "",
+      "published": "2026-10-05T04:41:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin zooms toward $87,000, nearly setting an eight-month high, then reverses",
+      "link": "https://www.coindesk.com/markets/2026/10/05/bitcoin-zooms-toward-usd87-000-nearly-setting-an-eight-month-high-then-reverses",
+      "summary": "",
+      "published": "2026-10-05T04:23:25+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "World News & Politics",
       "source": "Reuters World",
-      "title": "US removes B-1 bombers from UK base amid security concerns - reuters.com",
+      "title": "Former Prince Andrew takes police to court over Epstein files arrest, Telegraph says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUR2T3VBNzkwa2Q4eXMySzUxRHNSM2JMeGtjTXQ2SGtZRGVsREtlMEZmdzNGcWFhbHVoZDVvX0Jvbl9iOXdjVmlDRndjY05CZ05kQU5Jb2VCX0ZaTnhiLVREZGpBaUV4NkZtN0IzYkVWbEg2UXpUSVNKZnhXdDFQcldkTWtCbGx4R19TaGd5UFdrYmFjZHBCNjZBOVdDd2RzWUdjMjBnUGk2SXBUQ1N3TGd6LU9kSC04ODJCTEpHMmRMMlE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUUR2T3VBNzkwa2Q4eXMySzUxRHNSM2JMeGtjTXQ2SGtZRGVsREtlMEZmdzNGcWFhbHVoZDVvX0Jvbl9iOXdjVmlDRndjY05CZ05kQU5Jb2VCX0ZaTnhiLVREZGpBaUV4NkZtN0IzYkVWbEg2UXpUSVNKZnhXdDFQcldkTWtCbGx4R19TaGd5UFdrYmFjZHBCNjZBOVdDd2RzWUdjMjBnUGk2SXBUQ1N3TGd6LU9kSC04ODJCTEpHMmRMMlE?oc=5\" target=\"_blank\">Former Prince Andrew takes police to court over Epstein files arrest, Telegraph says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T04:05:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "New forensic evidence supports Egyptian \"retainer sacrifice\"",
+      "link": "https://arstechnica.com/science/2026/10/new-forensice-evidence-supports-egyptian-retainer-sacrifice/",
+      "summary": "Fresh analysis of First Dynasty mass burials finds signs of fatal blunt force trauma on 39 percent of skulls",
+      "published": "2026-10-05T04:00:52+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "EmTech Future 2026: When AI Meets Everything",
+      "link": "https://www.technologyreview.com/2026/10/05/1145413/emtech-future-2026-when-ai-meets-everything/",
+      "summary": "Yossi Matias, Vice President &#38; Head of Google Research, explores how AI is beginning to reshape biology, infrastructure, manufacturing, and science, and why its greatest impact may come when it intersects with other fields.&#160; Step inside the newsroom with our MIT Technology Review editors for sharp analysis and unpublished insights from the team that researches&#8230;",
+      "published": "2026-10-05T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Ether's bitcoin-beating Q3 rally came with a catch. Liquidity thinned.",
+      "link": "https://www.coindesk.com/markets/2026/10/05/ether-s-bitcoin-beating-q3-rally-came-with-a-catch-liquidity-thinned",
+      "summary": "",
+      "published": "2026-10-05T03:50:29+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US military says it struck vessel in Caribbean, killing four - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnlnMlA2NTU4aWRPOFA1VUlXR2kwc1RNNWJOUk9VcGtrWG1JMFN2bm1HZTRFWnJFbktKd0pjaGNjcThoZ1dvS25meGY1MkY4QWVTbDFrcVR1S1N3dUt1RWFnMHJVUjhwRWMxVUdtR3pWNTV2Nk5ZMEhpeXQ3SzdzaU9WdktNRUpzUjBXaFFxcjBXamRJNW9uRzVpODNJVzA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxNWnlnMlA2NTU4aWRPOFA1VUlXR2kwc1RNNWJOUk9VcGtrWG1JMFN2bm1HZTRFWnJFbktKd0pjaGNjcThoZ1dvS25meGY1MkY4QWVTbDFrcVR1S1N3dUt1RWFnMHJVUjhwRWMxVUdtR3pWNTV2Nk5ZMEhpeXQ3SzdzaU9WdktNRUpzUjBXaFFxcjBXamRJNW9uRzVpODNJVzA?oc=5\" target=\"_blank\">US military says it struck vessel in Caribbean, killing four</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T02:44:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Financials, IT lift Indian shares as oil, Fed fears ease - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU25TQndoMFZ0ZFhnN2QyYjVvel9GQ2pLUnpmOThYRml6eWtoZ2lCNEJUMTlCTHhRbVZDNXVxeUpsR1phdmFDN3g5cGNKa09ialV0TzVqNElNT0Z1OGlxZ2pOQ0g2VGFoVExXQTVrRkNtVS02bV9TZVFmcGJ0V29jWjBTX3RmNHRWRThjWG9FODRqWHJNMXhBLV9jWEFQMG9Za2xUeUtZeXdnYWs?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOU25TQndoMFZ0ZFhnN2QyYjVvel9GQ2pLUnpmOThYRml6eWtoZ2lCNEJUMTlCTHhRbVZDNXVxeUpsR1phdmFDN3g5cGNKa09ialV0TzVqNElNT0Z1OGlxZ2pOQ0g2VGFoVExXQTVrRkNtVS02bV9TZVFmcGJ0V29jWjBTX3RmNHRWRThjWG9FODRqWHJNMXhBLV9jWEFQMG9Za2xUeUtZeXdnYWs?oc=5\" target=\"_blank\">Financials, IT lift Indian shares as oil, Fed fears ease</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T02:37:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Gold nudges lower as dollar holds firm - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxQV0dGUTlhay1BaS1nWk41NWd0UFdwbV9QSzNuNGZnTjVYRlpYNXo5NFF6TkZDWV9QNGpDMEhzd3QwUG41clBBTVVGalVyQy1nZkw5SHNRbGktSTJrbjJoMmZNR3NWNTY2WVpIeXA4YUVBOUlkb2dyMExSTXlpaDBvLU93bXpIZWtpbzNTMFAxMmJ5ODhMMmJIWUhVbw?oc=5\" target=\"_blank\">Gold nudges lower as dollar holds firm</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T02:12:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Euro sinks to 17-month low as French fiscal woes spur contagion fears - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGxIREdRUUNadXowQXZKbi1McVN1X2toZXZEdGNFMnR1QVZvSk5DMTcteEVlQjhVR3hhbFFfNGNGa1BmcE5DUFRETThCMVVOMDNLa2ZsZkVpY1lxWm9GeUVZNGpnYVRoV1ZIdkZKNC11bzJMUlV2V3JJTUhiQnV5akg1YmNuVFljclA4VW1vRnF1OWJOYmdXLVBPMU1fVkxOb1FKWnZjVTBNQ2FRblMzbQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOcGxIREdRUUNadXowQXZKbi1McVN1X2toZXZEdGNFMnR1QVZvSk5DMTcteEVlQjhVR3hhbFFfNGNGa1BmcE5DUFRETThCMVVOMDNLa2ZsZkVpY1lxWm9GeUVZNGpnYVRoV1ZIdkZKNC11bzJMUlV2V3JJTUhiQnV5akg1YmNuVFljclA4VW1vRnF1OWJOYmdXLVBPMU1fVkxOb1FKWnZjVTBNQ2FRblMzbQ?oc=5\" target=\"_blank\">Euro sinks to 17-month low as French fiscal woes spur contagion fears</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T01:53:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Euro pummelled by France's debt burden; stocks mixed - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOUzk3bWZMY2M2d1ZHLWhKbzhqV2VPZjY0N2JCcm0tMGRLUTAzM2V5TmZ3RzI1dGZNZ0duR2NmZXIxQU1qaWZvdGI5SUwtRWpiQ0dkWTBVdUIxNFZzVDAxOWpQa0FmQWFTRWZUTV9lWE1yRGR5MmN6WG16UGJNamRNUzB4WQ?oc=5\" target=\"_blank\">Euro pummelled by France's debt burden; stocks mixed</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T01:22:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "B-1B Bombers Make Hasty Departure From England",
+      "link": "https://www.twz.com/air/b-1b-bombers-make-hasty-departure-from-england",
+      "summary": "<p>RAF Fairford, which hosted U.S. bombers during Operation Epic Fury, some of which had stayed, has been threatened openly by Iran before.</p>\n<p>The post <a href=\"https://www.twz.com/air/b-1b-bombers-make-hasty-departure-from-england\">B-1B Bombers Make Hasty Departure From England</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-10-05T01:04:45+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US Coast Guard suspends search for people on crashed medical aircraft - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOckhaQkQzY3QwckhuaUREVUc2RVdBWV84WDBBbk52ZXNKWlRJYXppUE9Vc1dNbnhxQnFwZUppN1YxeDk1VF9od29DdC1vd2RyOUg5b1huc2owRUlEbDV3VDJ4bmc5NmlDT3oyZ2NXX2J2YjM2dE1acnlGYnJsUEFGeGhBQk5hMnpqeE5IRFkzZ1JKc2NqTWN3Z09WWC1NblFKaG1hdExXSQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxOckhaQkQzY3QwckhuaUREVUc2RVdBWV84WDBBbk52ZXNKWlRJYXppUE9Vc1dNbnhxQnFwZUppN1YxeDk1VF9od29DdC1vd2RyOUg5b1huc2owRUlEbDV3VDJ4bmc5NmlDT3oyZ2NXX2J2YjM2dE1acnlGYnJsUEFGeGhBQk5hMnpqeE5IRFkzZ1JKc2NqTWN3Z09WWC1NblFKaG1hdExXSQ?oc=5\" target=\"_blank\">US Coast Guard suspends search for people on crashed medical aircraft</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T00:41:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US removes B-1 bombers from UK base amid security concerns - Reuters",
       "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFOOXowMVhwM2NXbHA2Z01IbUNKSGJIcnJHaEUybUdKZ2xCNHV0SU5sb183a1dZU3RJS0hEa2djdnZNU1hUcEhucW9HOEUxZDZoWS1UVUhrVjVtTnlEUmt2VERkMVFET3cxaUdkZjBKUUxBdVFJS3BPNndHQnVJUXloNjBQMnp0SjhqeEI4Zk1kb3QzVG5Zam5zYWdJcEk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFOOXowMVhwM2NXbHA2Z01IbUNKSGJIcnJHaEUybUdKZ2xCNHV0SU5sb183a1dZU3RJS0hEa2djdnZNU1hUcEhucW9HOEUxZDZoWS1UVUhrVjVtTnlEUmt2VERkMVFET3cxaUdkZjBKUUxBdVFJS3BPNndHQnVJUXloNjBQMnp0SjhqeEI4Zk1kb3QzVG5Zam5zYWdJcEk?oc=5\" target=\"_blank\">US removes B-1 bombers from UK base amid security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T21:23:43+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Austrian government's No. 2 figure says he will step down - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRVFRVEc2bTh5QnlBTXl2VE8zMkppZ19faTlSQlJfTU50dE9yZjFkRmE0VVhyVzY4X21KRWIyZWVyUHVGSktfUVJ2NXNfWFd0WXNobG5jakRZRVBYcWM0c1czOWl4RGRKa0NVVjlVRG9hMnh5OGFEZ1JiNzc5T2hPVVJjNEdkVnNPMjRHN3lsRmZqSkhSbjNIVkYya3NPUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPRVFRVEc2bTh5QnlBTXl2VE8zMkppZ19faTlSQlJfTU50dE9yZjFkRmE0VVhyVzY4X21KRWIyZWVyUHVGSktfUVJ2NXNfWFd0WXNobG5jakRZRVBYcWM0c1czOWl4RGRKa0NVVjlVRG9hMnh5OGFEZ1JiNzc5T2hPVVJjNEdkVnNPMjRHN3lsRmZqSkhSbjNIVkYya3NPUQ?oc=5\" target=\"_blank\">Austrian government's No. 2 figure says he will step down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T21:13:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Britain's Green Party votes to class Zionism as a form of racism - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQakVRMW8teEV5WlFoeU03VXNyU0hoSW8zSFNURk5WeTMyUXlFSGRqa2JieU1UcjZCWGd3SXp3UzVRMXFGWHZQMVJBUlFpem9iWkpGODVjZVplVFZTU1BXV1htc2FkcmNaMVREVi1WMVhQcnY2MFlCWm90LW5OcTVQZHJYLVhrY3ViYkpyRE11UkdkOExSLUtzTXAyRzRwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxQakVRMW8teEV5WlFoeU03VXNyU0hoSW8zSFNURk5WeTMyUXlFSGRqa2JieU1UcjZCWGd3SXp3UzVRMXFGWHZQMVJBUlFpem9iWkpGODVjZVplVFZTU1BXV1htc2FkcmNaMVREVi1WMVhQcnY2MFlCWm90LW5OcTVQZHJYLVhrY3ViYkpyRE11UkdkOExSLUtzTXAyRzRwQQ?oc=5\" target=\"_blank\">Britain's Green Party votes to class Zionism as a form of racism</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T20:55:39+00:00",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxQQlFOOXowMVhwM2NXbHA2Z01IbUNKSGJIcnJHaEUybUdKZ2xCNHV0SU5sb183a1dZU3RJS0hEa2djdnZNU1hUcEhucW9HOEUxZDZoWS1UVUhrVjVtTnlEUmt2VERkMVFET3cxaUdkZjBKUUxBdVFJS3BPNndHQnVJUXloNjBQMnp0SjhqeEI4Zk1kb3QzVG5Zam5zYWdJcEk?oc=5\" target=\"_blank\">US removes B-1 bombers from UK base amid security concerns</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-04T21:22:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -82,15 +208,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizwFBVV95cUxPaHV2QlVZQUd1RW4zNFRzUzQ3ZlZlcHJHWHlRbm8yRjlBWGlkQ3BSek9GS0ZwOVJ0SnMtMDV5N3FsZjVsRm9EaUgwcGVhNVdaS1RCTDRqVjh5blN0NXhGenAxVlY3ZUhKQUpNN0J2ajJ2S0tlRXZyMmRaNG9VWTlXY3VpUlRWMVhKSjV3QTJXZW42OHZhaldrdzJxR2I1aDZrRDRMVHlYa2tOVW5GR2J4VWM2RjVPcjdqNUwzMUdsSVhPbDhqd0ttdmN4TUlTQWM?oc=5\" target=\"_blank\">Yemeni government launches offensive to seize all areas from Iran-backed Houthis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T19:46:37+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "My wife never went back to work after raising our kids. Do I have to share my retirement savings 50/50?",
@@ -109,24 +226,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Iran's oil minister resigns for personal reasons, state media reports - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxPdHdEN1VYYjFqdkJyRThRQ2ZheFQzeElqRHRBNVR2N1UwV2lWbi1CcDdQYk9IV0ZuSURnc29jZXNDM1hmV0YzMDNRN0xlR055WlhBS0M2SVNJVW9NNE0yYlUyc3F0YVJma1JhQ0RnX096YjlGMTRiUmhVSDE4VGlOZ2MwMjljcVhNZnhER2gtYWk4QUYxZGpzZ202dVJLUQ?oc=5\" target=\"_blank\">Iran's oil minister resigns for personal reasons, state media reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T18:53:27+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Woman at center of Cornell rape allegations targeted with threats, lawyer says - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNRlEwLU42X1ZWRmUxZm8tS1pwTGNwOUZ6cTFhLWNxM1R6OEFWdk1HZzJENlFUamNZRERZTUFfY0xiRmVPcFhlWml2NHloNEk0S0VoaVVVQ1prZ0Z3eG9ScGpnU1BVbTkza1p5YWg3dUt3NzVTWXozZmN3YTRLdm1XcFB1Q3E2TW5HcXpmMzhFVTVDczFaamducnNOZjdHck10elZ4Y1N1MG11VGVfbVFqWm5pWl9HZE0?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNRlEwLU42X1ZWRmUxZm8tS1pwTGNwOUZ6cTFhLWNxM1R6OEFWdk1HZzJENlFUamNZRERZTUFfY0xiRmVPcFhlWml2NHloNEk0S0VoaVVVQ1prZ0Z3eG9ScGpnU1BVbTkza1p5YWg3dUt3NzVTWXozZmN3YTRLdm1XcFB1Q3E2TW5HcXpmMzhFVTVDczFaamducnNOZjdHck10elZ4Y1N1MG11VGVfbVFqWm5pWl9HZE0?oc=5\" target=\"_blank\">Woman at center of Cornell rape allegations targeted with threats, lawyer says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T18:33:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "There's an election next month: State of Crypto",
@@ -134,24 +233,6 @@
       "summary": "",
       "published": "2026-10-04T18:30:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Australia probes flydubai co-pilot's links to the country, police say - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHk0NnhtSzljVk9RcUlKeF90V3VFaEh4NG9ITDZSdmsxX2o0bFFYWUdiWUhrQ0FzSFVlaGxBYW1McU1GdHBNWURXRTJNNkZpQ3I5Vmx2bGdXcmVCUGpFZ0RUdjJsZnNwMWJhdERPd2dndnZJNDB6cjBfcExGZ3BYd0xtQ1JoUDRMMzZoQVNURWlabXNtRjdFV3l6UFhjVTAzeG1GUTBoZ3k3dw?oc=5\" target=\"_blank\">Australia probes flydubai co-pilot's links to the country, police say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T16:54:13+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Ukrainian drones deliver new batch of food to Russian-occupied Oleshky - reuters.com",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2VheFNzRWFqbHN5T24yR1p5cXZnNjVRZHl2cnhxU3NiaDh3QWJFNEtYZlFwM3RnaHlCQlk1X25iVm1OenR0Szl5RTBmSjFnWENnUzJrbXpLQ3YydjRMTFNhdFV2cGFRT0xSX25MTzFqOFpLUGFzQ1RrZjdtdHozby1obzY5WnpLNThMZVFnVnBWMUVjZ21Md3dwNEFEaDRoaTI0bGJRZFRGYWdnVHowU2NxMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxQS2VheFNzRWFqbHN5T24yR1p5cXZnNjVRZHl2cnhxU3NiaDh3QWJFNEtYZlFwM3RnaHlCQlk1X25iVm1OenR0Szl5RTBmSjFnWENnUzJrbXpLQ3YydjRMTFNhdFV2cGFRT0xSX25MTzFqOFpLUGFzQ1RrZjdtdHozby1obzY5WnpLNThMZVFnVnBWMUVjZ21Md3dwNEFEaDRoaTI0bGJRZFRGYWdnVHowU2NxMA?oc=5\" target=\"_blank\">Ukrainian drones deliver new batch of food to Russian-occupied Oleshky</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">reuters.com</font>",
-      "published": "2026-10-04T16:33:45+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -280,57 +361,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Payments firm OpenPayd targets year-end Nasdaq listing to fund U.S. expansion and acquisitions",
-      "link": "https://www.coindesk.com/business/2026/10/03/openpayd-targets-year-end-nasdaq-listing-to-fund-u-s-expansion-and-acquisitions",
-      "summary": "",
-      "published": "2026-10-03T16:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto job postings triple to over 1,200 in September, but applications fall",
-      "link": "https://www.coindesk.com/business/2026/10/03/crypto-job-postings-triple-to-over-1-200-in-september-but-applications-fall",
-      "summary": "",
-      "published": "2026-10-03T16:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Cathie Wood says smart investors need to start watching where AI agents spend money",
-      "link": "https://www.coindesk.com/markets/2026/10/01/cathie-wood-says-smart-investors-need-to-start-watching-where-ai-agents-spend-money",
-      "summary": "",
-      "published": "2026-10-03T15:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "All the AI agents that can live in your text messages",
       "link": "https://techcrunch.com/2026/10/03/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "published": "2026-10-03T14:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto's Sisyphean struggle",
-      "link": "https://www.coindesk.com/opinion/2026/10/03/crypto-s-sisyphean-struggle",
-      "summary": "",
-      "published": "2026-10-03T13:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "BlackRock offers a glimpse of how tokenization may change your investment portfolio",
-      "link": "https://www.coindesk.com/business/2026/10/03/blackrock-offers-a-glimpse-of-how-tokenization-may-change-your-investment-portfolio",
-      "summary": "",
-      "published": "2026-10-03T13:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -466,15 +502,6 @@
       "link": "https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/10/gdit-replaces-longtime-president-gilliland/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/12/251203_amy_gilliland_GDIT_sized-1024x576.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Paul Nedzbala, who joined GDIT in 2018, has been appointed acting president.</p>",
       "published": "2026-10-02T20:18:22+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Patient-zero drill put health facilities to the test—40% of them failed",
-      "link": "https://arstechnica.com/health/2026/10/patient-zero-drill-put-health-facilities-to-the-test-40-of-them-failed/",
-      "summary": "Actors with makeup and fake symptoms staggered into 73 healthcare facilities.",
-      "published": "2026-10-02T20:07:59+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -803,15 +830,6 @@
     },
     {
       "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "10 Top-Performing Canadian Dividend Stocks - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVBicTNWbndQT3JtWXFaZGRpTERPTUwzUnNkdkUzVHdRRHNxNjZwWFJuVGdqcGNEVVJhUzVFZDJjMktMdTluRElWUDlpM2FWQXU1Z3Y3c2hjUFFuMVVnVmNBLXpaNFF3SlBTRFFsM2dOZFA0TTRjd0NkUHpfLXl3LU8wNEl3V3d6RnhHZzRkZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVBicTNWbndQT3JtWXFaZGRpTERPTUwzUnNkdkUzVHdRRHNxNjZwWFJuVGdqcGNEVVJhUzVFZDJjMktMdTluRElWUDlpM2FWQXU1Z3Y3c2hjUFFuMVVnVmNBLXpaNFF3SlBTRFFsM2dOZFA0TTRjd0NkUHpfLXl3LU8wNEl3V3d6RnhHZzRkZw?oc=5\" target=\"_blank\">10 Top-Performing Canadian Dividend Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-10-02T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "The global bond rout deepens - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMickFVX3lxTE1QcXZHRU5DdTlZWVM1MDVtdDQxeXdWZjJYVXZsNDFqcGczdmk4akM1cnZiOHViTGVuVFM1UUVCSm9kT1A4ekxxeVJfU3ZxQjFFcW9KZENtaDZXb1BYUF9LWHdLOEFVX1dQWWdLNnNfTk9pQQ?oc=5",
@@ -853,24 +871,6 @@
       "link": "https://www.foreignaffairs.com/brazil/brazils-election-wont-fix-whats-broken-matias-spektor",
       "summary": "Reckoning with the country’s real crisis.",
       "published": "2026-10-02T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Ethereum Foundation launches zkAPI to let users pay for AI models without revealing identity",
-      "link": "https://www.theblock.co/news/defi/2026-10-01-ethereum-foundation-launches-zkapi-417504",
-      "summary": "Users deposit funds into an Ethereum vault and authorize spending with zero-knowledge proofs, so the API provider can't link requests to a payer.",
-      "published": "2026-10-02T00:22:58+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Ukraine Claims First Combat Use Of FP-7 Ballistic Missile",
-      "link": "https://www.twz.com/news-features/ukraine-claims-first-combat-use-of-fp-7-ballistic-missile",
-      "summary": "<p>The first combat use of FP-7 is a significant milestone in what has been a long road to developing an indigenous ballistic missile. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/ukraine-claims-first-combat-use-of-fp-7-ballistic-missile\">Ukraine Claims First Combat Use Of FP-7 Ballistic Missile</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-10-01T22:36:17+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1081,15 +1081,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "AI & Technology",
-      "source": "MIT Technology Review",
-      "title": "The Download: OpenAI’s chief research officer explains its hacking response",
-      "link": "https://www.technologyreview.com/2026/09/30/1145350/the-download-openai-chief-research-officer-hacking-response/",
-      "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. “We’re not going to shoot ourselves in the foot” over hack fallout, says OpenAI’s chief research officer Two months after OpenAI’s agents hacked into the computers of AI company Hugging Face,&#8230;",
-      "published": "2026-09-30T12:10:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Rated Ready is Not Ready: What America’s Korea Exercises Actually Measure",
@@ -1110,18 +1101,18 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Trump hosted tech leaders for an AI power lunch - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjlwUHNEbDdNeWlWSW93cG5rNms5T2RZVGRPSG1fNmg0T212YkIyT3pSSVpKX1VMS3FRWUlWYXNaZ3dkYUlxa3oxbnRtUTlObllHRGlOVFVBZkdzVkJlX3dRQVMwdUxBd0N5d3oycjRCeHBSOFNSZkozUTlVMWhDSzNoUEZOZm9Vb1Zr?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjlwUHNEbDdNeWlWSW93cG5rNms5T2RZVGRPSG1fNmg0T212YkIyT3pSSVpKX1VMS3FRWUlWYXNaZ3dkYUlxa3oxbnRtUTlObllHRGlOVFVBZkdzVkJlX3dRQVMwdUxBd0N5d3oycjRCeHBSOFNSZkozUTlVMWhDSzNoUEZOZm9Vb1Zr?oc=5\" target=\"_blank\">Trump hosted tech leaders for an AI power lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "title": "Oura postpones IPO - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRWGNqaXFNeWxNajRPNkY5WTVnV3ltRHd3dEpXbTJYMmh3VWppRnZKMUtsY3BVR1Rkd1hNVEpVMkVkNEEtYTlhSlBhZ0xkS1ZpLVY5MDh1U3VudHR6cHRGT2Z3eXU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRWGNqaXFNeWxNajRPNkY5WTVnV3ltRHd3dEpXbTJYMmh3VWppRnZKMUtsY3BVR1Rkd1hNVEpVMkVkNEEtYTlhSlBhZ0xkS1ZpLVY5MDh1U3VudHR6cHRGT2Z3eXU?oc=5\" target=\"_blank\">Oura postpones IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-30T05:36:54+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Oura postpones IPO - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRWGNqaXFNeWxNajRPNkY5WTVnV3ltRHd3dEpXbTJYMmh3VWppRnZKMUtsY3BVR1Rkd1hNVEpVMkVkNEEtYTlhSlBhZ0xkS1ZpLVY5MDh1U3VudHR6cHRGT2Z3eXU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiZEFVX3lxTFBRWGNqaXFNeWxNajRPNkY5WTVnV3ltRHd3dEpXbTJYMmh3VWppRnZKMUtsY3BVR1Rkd1hNVEpVMkVkNEEtYTlhSlBhZ0xkS1ZpLVY5MDh1U3VudHR6cHRGT2Z3eXU?oc=5\" target=\"_blank\">Oura postpones IPO</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "title": "Trump hosted tech leaders for an AI power lunch - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjlwUHNEbDdNeWlWSW93cG5rNms5T2RZVGRPSG1fNmg0T212YkIyT3pSSVpKX1VMS3FRWUlWYXNaZ3dkYUlxa3oxbnRtUTlObllHRGlOVFVBZkdzVkJlX3dRQVMwdUxBd0N5d3oycjRCeHBSOFNSZkozUTlVMWhDSzNoUEZOZm9Vb1Zr?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdjlwUHNEbDdNeWlWSW93cG5rNms5T2RZVGRPSG1fNmg0T212YkIyT3pSSVpKX1VMS3FRWUlWYXNaZ3dkYUlxa3oxbnRtUTlObllHRGlOVFVBZkdzVkJlX3dRQVMwdUxBd0N5d3oycjRCeHBSOFNSZkozUTlVMWhDSzNoUEZOZm9Vb1Zr?oc=5\" target=\"_blank\">Trump hosted tech leaders for an AI power lunch</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-09-30T05:36:54+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -1173,10 +1164,10 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Small investors aren’t so big on stocks right now - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2dXZ0hmbjQ1S0RsbGl6SG15TlNCMVlzRGZmZExvYzVUUk8xUTl5N1ltOGFvUUw0dklWSUhhOGd0cGxKZHNLSVE4clhSZ3l1VnVQM0NZVGtKUjZJcFRUNGVIR2x1OXEtWDZveFMwalE0cldwVllyQWpFM2JtNUZ5LTB4bzNWQmh2VDY5Sw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxQd2dXZ0hmbjQ1S0RsbGl6SG15TlNCMVlzRGZmZExvYzVUUk8xUTl5N1ltOGFvUUw0dklWSUhhOGd0cGxKZHNLSVE4clhSZ3l1VnVQM0NZVGtKUjZJcFRUNGVIR2x1OXEtWDZveFMwalE0cldwVllyQWpFM2JtNUZ5LTB4bzNWQmh2VDY5Sw?oc=5\" target=\"_blank\">Small investors aren’t so big on stocks right now</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-09-28T21:57:22+00:00",
+      "title": "Thu, Oct 1st, 2026 — Solve this Brew Mini: Special cases - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PbGFxX0tKNElrX0lROGRnV09nOENHTGJBM3Bxc0p3aUJ6Q0tyZmk2eGRKd2ctYnFtYzkxNFgzbFFBUmtMcW11QjMwM09JZG5va0FMeWpaT2RGay02MERRYngxcFoyNG9X?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiaEFVX3lxTE5PbGFxX0tKNElrX0lROGRnV09nOENHTGJBM3Bxc0p3aUJ6Q0tyZmk2eGRKd2ctYnFtYzkxNFgzbFFBUmtMcW11QjMwM09JZG5va0FMeWpaT2RGay02MERRYngxcFoyNG9X?oc=5\" target=\"_blank\">Thu, Oct 1st, 2026 — Solve this Brew Mini: Special cases</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-09-28T20:01:26+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1366,6 +1357,15 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2018-12-11T01:03:09+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Morningstar | Empowering Investor Success - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2012-10-14T03:17:21+00:00",
       "feed_type": "google_news_fallback"
     }
   ]
