@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-05T22:26:46.653903+00:00",
+  "updated_at": "2026-10-06T02:49:23.805937+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -11,10 +11,82 @@
   "items": [
     {
       "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Boeing locks in 7-year deal to triple PAC-3 MSE seeker output",
+      "link": "https://www.defensenews.com/industry/techwatch/2026/10/06/boeing-locks-in-7-year-deal-to-triple-pac-3-mse-seeker-output/",
+      "summary": "The agreement follows a framework deal that was announced in April. Production will span seven years and be completed at Boeing’s Huntsville facility.",
+      "published": "2026-10-06T00:19:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Has the Pentagon given up on AI polygraph analysis of trustworthiness?",
+      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/05/has-the-pentagon-given-up-on-ai-polygraph-analysis-of-trustworthiness/",
+      "summary": "AI-aided scanning of speech patterns, vocal stress or facial expressions to read minds lacks scientific backing and will compound errors, critics argue.",
+      "published": "2026-10-05T23:43:37+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘People in the U.S. need to wake up’: As a mortgage loan officer, I rejected wealthy couples due to overspending. We’re all heading for trouble.",
+      "link": "https://www.marketwatch.com/story/people-in-the-u-s-need-to-wake-up-as-a-mortgage-loan-officer-i-rejected-wealthy-couples-due-to-overspending-were-all-heading-for-trouble-6a52e04e?mod=mw_rss_topstories",
+      "summary": "A reader writes: “We’d better get real quick or we’re going to have a financial crisis that makes the Great Recession of 2008 look like a picnic.”",
+      "published": "2026-10-05T23:30:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "First Release Of USAF’s New HACM Hypersonic Cruise Missile Has Happened Over Australian Range",
+      "link": "https://www.twz.com/air/first-release-of-usafs-new-hacm-hypersonic-cruise-missile-has-happened-over-a-test-range-in-australia",
+      "summary": "<p>The US and Australia are partners on the Hypersonic Attack Cruise Missile, which has finally reached flight testing after major delays.</p>\n<p>The post <a href=\"https://www.twz.com/air/first-release-of-usafs-new-hacm-hypersonic-cruise-missile-has-happened-over-a-test-range-in-australia\">First Release Of USAF’s New HACM Hypersonic Cruise Missile Has Happened Over Australian Range</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-10-05T23:26:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump says US will help Russia after Siberia plague institute death - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5\" target=\"_blank\">Trump says US will help Russia after Siberia plague institute death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T23:17:27+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘The pain was excruciating’: A friend in her 80s fell down her basement stairs. Could it have been avoided?",
+      "link": "https://www.marketwatch.com/story/the-pain-was-excruciating-a-friend-in-her-80s-fell-down-her-basement-stairs-could-it-have-been-avoided-ce105db6?mod=mw_rss_topstories",
+      "summary": "“She developed pleural effusion — fluid between the lungs and ribs — compressing her lungs and making it hard for her to breathe.”",
+      "published": "2026-10-05T23:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump says taxpayers will no longer pay for TV ads that praised him - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHViRWR3UjN4UHNYUWJFUjQ2U1VQTHVvOTIta013bHRjZDVxY3UwMG5zdVd1a3BiMjJyVDZuQWJQbVMtdUVDZ2lFdjRfSEJKQVN2b1lfY0JhSWg4LUpPQklvNE40YklBbUNJUEh3Ulp3M1poQzZnelNIS1RLUG9IbFlxUWZUMzVRSW1laERZd3MyODNzbFBXNU4yUkJVZjczUEs5LTh3NTVNWktsWnBLZHBoUXdGMjdiLU5GS2FSWVo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxQZHViRWR3UjN4UHNYUWJFUjQ2U1VQTHVvOTIta013bHRjZDVxY3UwMG5zdVd1a3BiMjJyVDZuQWJQbVMtdUVDZ2lFdjRfSEJKQVN2b1lfY0JhSWg4LUpPQklvNE40YklBbUNJUEh3Ulp3M1poQzZnelNIS1RLUG9IbFlxUWZUMzVRSW1laERZd3MyODNzbFBXNU4yUkJVZjczUEs5LTh3NTVNWktsWnBLZHBoUXdGMjdiLU5GS2FSWVo?oc=5\" target=\"_blank\">Trump says taxpayers will no longer pay for TV ads that praised him</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T22:47:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "MCP for agent-to-agent comms may be the riskiest protocol you've never heard of",
+      "link": "https://arstechnica.com/security/2026/10/vulnerability-in-agents-from-google-and-others-exposes-structural-flaw-in-mcp/",
+      "summary": "Trust gaps in the new protocol spread malicious prompts from one agent to another.",
+      "published": "2026-10-05T22:26:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Houthis Lose Ground Along Strategic Bab Al Mandeb Strait In Saudi-Backed Counteroffensive",
       "link": "https://www.twz.com/news-features/houthis-lose-ground-along-strategic-bab-al-mandeb-strait-in-saudi-backed-counteroffensive",
-      "summary": "<p>The Houthis previous gains, including critical coastal territory, are eroding, but it isn't clear how long the offensive can be sustained. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/houthis-lose-ground-along-strategic-bab-al-mandeb-strait-in-saudi-backed-counteroffensive\">Houthis Lose Ground Along Strategic Bab Al Mandeb Strait In Saudi-Backed Counteroffensive</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "summary": "<p>The Houthis' previous gains, including critical coastal territory, are eroding, but it isn't clear how long the offensive can be sustained. </p>\n<p>The post <a href=\"https://www.twz.com/news-features/houthis-lose-ground-along-strategic-bab-al-mandeb-strait-in-saudi-backed-counteroffensive\">Houthis Lose Ground Along Strategic Bab Al Mandeb Strait In Saudi-Backed Counteroffensive</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-10-05T22:22:42+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -46,6 +118,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVg5UG5DN2dZR3lHMTBFbUIyTTVNRk9mMmlDV0xOVklrVC1RRVkwT1JndUZ1bjNST2F4SHJicnpsSExEaHBzWFhjdXJyZ1FmVERQWThObEtVUFFJM2tHMy00RWF4TG81UHBOVFIwLU1vdy14ZHl4NE1iTHVyVzFWckVEN01qVHJBV3FRZmNNWXg3Zk9hdjNiaFljWk11LWlVSmlYdHpQa3B3T1gxU2FOdDIwLVAwVjJPZTRLLQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxNRVg5UG5DN2dZR3lHMTBFbUIyTTVNRk9mMmlDV0xOVklrVC1RRVkwT1JndUZ1bjNST2F4SHJicnpsSExEaHBzWFhjdXJyZ1FmVERQWThObEtVUFFJM2tHMy00RWF4TG81UHBOVFIwLU1vdy14ZHl4NE1iTHVyVzFWckVEN01qVHJBV3FRZmNNWXg3Zk9hdjNiaFljWk11LWlVSmlYdHpQa3B3T1gxU2FOdDIwLVAwVjJPZTRLLQ?oc=5\" target=\"_blank\">EXCLUSIVE: Cuba and US maintain 'channels of communication' but no negotiations, diplomat says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-05T21:33:49+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "Microsoft’s blazing stock comeback isn’t even close to being over, analyst says",
@@ -62,15 +143,6 @@
       "summary": "Even if Toshiba doubles its capacity, analysts say it has a ways to go to catch up with Western Digital and Seagate",
       "published": "2026-10-05T21:25:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2026-10-05T21:21:03+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -145,24 +217,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US commodities regulator proposes new federal crypto oversight rules - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWMwYjBmbmRQV1RYQXlDczJHN0ZMdzRhSVgzTE01dzJrOXNidlBqZzg3ZjlmcjlqM0dxd3g1eGZEcGtVUVFQVmNVQVgwTnE1M2VHV2lBbU1ySTZWa05DN1kzcEFxamdEVE56UGRBNkxwWnhqSktWWkFFSjF3S1kwaEVBem10cE1QNnBUc19mdkJ2TlZqaVpaVmdjbHgwczZ6LU5RQ2loWUd5NjFPbjgw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxQSWMwYjBmbmRQV1RYQXlDczJHN0ZMdzRhSVgzTE01dzJrOXNidlBqZzg3ZjlmcjlqM0dxd3g1eGZEcGtVUVFQVmNVQVgwTnE1M2VHV2lBbU1ySTZWa05DN1kzcEFxamdEVE56UGRBNkxwWnhqSktWWkFFSjF3S1kwaEVBem10cE1QNnBUc19mdkJ2TlZqaVpaVmdjbHgwczZ6LU5RQ2loWUd5NjFPbjgw?oc=5\" target=\"_blank\">US commodities regulator proposes new federal crypto oversight rules</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-05T20:30:55+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Intel’s stock drops after Musk hints at an additional partner for big chip venture",
-      "link": "https://www.marketwatch.com/story/musk-hints-tsmc-may-join-his-mega-chip-venture-and-intels-stock-is-taking-a-hit-61c67ef9?mod=mw_rss_topstories",
-      "summary": "Intel may not be the only semiconductor company tapped to help with chip manufacturing for the Terafab project, as Elon Musk said discussions with TSMC are ongoing.",
-      "published": "2026-10-05T20:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Boeing nabs potential $14.7 billion PAC-3 seeker contract",
@@ -178,33 +232,6 @@
       "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01hOUZVSEEyS0E3MkdRWEFjOHAwR3BYQzg0cE1GTXVPelBSWUstNVlzUGIyTXVva3ByV3lqMWIteWxpNFRtYVNMUi1wNmJzbmdQNHVlUEpzOGpZd1o2cTV4X3lkYzBUSS11YVJzU0NjaTR1SjZ5X1MxZ1hNeVhWX1kyQWgwd0owRF9aX3lpNlVPbmdhT3F0WFdkRTFXblE2NlRvM1lvTEtXeTUzYVRzWmtralp6cWo3WW9oUW56VHpwZw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQR01hOUZVSEEyS0E3MkdRWEFjOHAwR3BYQzg0cE1GTXVPelBSWUstNVlzUGIyTXVva3ByV3lqMWIteWxpNFRtYVNMUi1wNmJzbmdQNHVlUEpzOGpZd1o2cTV4X3lkYzBUSS11YVJzU0NjaTR1SjZ5X1MxZ1hNeVhWX1kyQWgwd0owRF9aX3lpNlVPbmdhT3F0WFdkRTFXblE2NlRvM1lvTEtXeTUzYVRzWmtralp6cWo3WW9oUW56VHpwZw?oc=5\" target=\"_blank\">Trump approval at record low; Hispanic voters sour on Republicans, Reuters/Ipsos poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
       "published": "2026-10-05T20:14:50+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Investors see big opportunity in ferocious 2026 bond-market rout",
-      "link": "https://www.marketwatch.com/story/investors-see-big-opportunity-in-ferocious-2026-bond-market-rout-e5cc94f3?mod=mw_rss_topstories",
-      "summary": "The bond market rout of 2026 may be jolting markets, but it’s also gaining a important following among savers and the risk averse.",
-      "published": "2026-10-05T20:14:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "New Zealand National support at weakest level since 2020, poll finds - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWE4dmlKX3BiSTU4WUZxOW5VY3ZiZGlGcGZPQTh1b2x3V1NIb1l4TnNWcWRKb2FSZUd3S0xwNUdxM2tudS1LYUxiMDdsRXQzU0pNUGEtdC01a01SYm5PMW1vZzhfcUR6UkNYYm5hUGVxY2pwVGxqTEZLTTAwMWFoZjhTaDgwdjJ3RlFJeU9MYXdVdVhTMC1KbHNleHBiQndKaDJ4aEQ1U3FfUHh4RFhKcERER0FHbTg0aXZj?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNTWE4dmlKX3BiSTU4WUZxOW5VY3ZiZGlGcGZPQTh1b2x3V1NIb1l4TnNWcWRKb2FSZUd3S0xwNUdxM2tudS1LYUxiMDdsRXQzU0pNUGEtdC01a01SYm5PMW1vZzhfcUR6UkNYYm5hUGVxY2pwVGxqTEZLTTAwMWFoZjhTaDgwdjJ3RlFJeU9MYXdVdVhTMC1KbHNleHBiQndKaDJ4aEQ1U3FfUHh4RFhKcERER0FHbTg0aXZj?oc=5\" target=\"_blank\">New Zealand National support at weakest level since 2020, poll finds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-05T20:13:44+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says US will help Russia after Siberia plague institute death - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxPNmE3c1IyUG1sSmhfeGszUXJtZVpab0FCcmVuOEQ4aUhvTEh1SE9GRGJVOTIzeHZwRVd0TlJDQmo3MmdIamlUMXRKaE00aEc1Z0IwcUFQOTZSX05oVDRPbmwtN3VTYUI3YWtPSWJ2RU54TTJhaXNGVFBOUkJkYTdIdnRqaEFTZUgtVmt0QjRqVTVEWFFodFl2eEFzSGpqeWI4b1dqek03SXVpQ3JBdXlzNlJR?oc=5\" target=\"_blank\">Trump says US will help Russia after Siberia plague institute death</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-05T20:05:43+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -442,15 +469,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Tesla: Shares Rise on Third-Quarter Deliveries Ahead of Consensus Estimates - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWVnZDNrSmxTOXZ1RHZuaDQwMkNQOXRNWDYyQV9ybWN2WWJ3YUQxYmRoVkNwUk1jV3BleHJYWFlyM3dwcDB4a2t6dTgzR2VrYTEydTJJSDloU3N5UUZUay1hdWF2bkltYXphWVRHTWxMbUtHVUxoaXkySFJad3VrS3dnR1JBY1hjMm5tR1ZVWWRlYUQ0cGtHblpHNHdkQWtvTGhWSE5CYW5qa1JLWWlZTTFR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQMWVnZDNrSmxTOXZ1RHZuaDQwMkNQOXRNWDYyQV9ybWN2WWJ3YUQxYmRoVkNwUk1jV3BleHJYWFlyM3dwcDB4a2t6dTgzR2VrYTEydTJJSDloU3N5UUZUay1hdWF2bkltYXphWVRHTWxMbUtHVUxoaXkySFJad3VrS3dnR1JBY1hjMm5tR1ZVWWRlYUQ0cGtHblpHNHdkQWtvTGhWSE5CYW5qa1JLWWlZTTFR?oc=5\" target=\"_blank\">Tesla: Shares Rise on Third-Quarter Deliveries Ahead of Consensus Estimates</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-10-05T15:41:28+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "US Army tests counter-drone tech at Mexican border as cartel drone use rises",
@@ -538,15 +556,6 @@
       "link": "https://breakingdefense.com/2026/10/what-are-humanoid-robots-actually-for-on-the-battlefield/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/10/what-are-humanoid-robots-actually-for-on-the-battlefield/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/05/220524_robots_laptops_GettyImages-920743046-scaled-e1790867759757-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Despite their cinematic, sci-fi allure, humanoid robots could potentially address real manpower and survivability problems, a former Turkish general argues.</p>",
       "published": "2026-10-05T13:45:33+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "AI glasses face their first major government crackdown",
-      "link": "https://arstechnica.com/ai/2026/10/ai-glasses-face-their-first-major-government-crackdown/",
-      "summary": "Norway wants time to write permanent rules for glasses that can record bystanders.",
-      "published": "2026-10-05T13:39:30+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -767,15 +776,6 @@
     },
     {
       "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "Yemeni government launches offensive to seize all areas from Iran-backed Houthis",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/10/04/yemeni-government-launches-offensive-to-seize-all-areas-from-iran-backed-houthis/",
-      "summary": "Yemen’s Saudi-backed government said on Sunday it was launching a major military campaign to recapture all areas controlled by the Iran-backed Houthis.",
-      "published": "2026-10-04T19:50:12+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Northrop Grumman’s Talon Blue Collaborative Combat Aircraft Has Flown",
       "link": "https://www.twz.com/air/northrop-grummans-talon-blue-collaborative-combat-aircraft-has-flown",
@@ -808,24 +808,6 @@
       "link": "https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/10/army-to-establish-new-autonomy-command-acquisition-executive/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/09/DSC_6002-scaled-e1790977411502-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The service’s new command will be called Army Futures and Autonomous Systems Command, or FASCOM, according to a memo signed by Acting Army Secretary Adam Telle.</p>",
       "published": "2026-10-02T21:46:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Former SR-71 Engineer Talks NASA’s Blackbird Revival Program",
-      "link": "https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program",
-      "summary": "<p>Insights into the current status of NASA's SR-71 #844, what it will take to fly it again, and what the agency may be looking to do with it.</p>\n<p>The post <a href=\"https://www.twz.com/air/former-sr-71-engineer-talks-nasas-blackbird-revival-program\">Former SR-71 Engineer Talks NASA&#8217;s Blackbird Revival Program</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-10-02T21:03:45+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "Saudis plan assault on Houthis to break Red Sea chokehold",
-      "link": "https://www.defensenews.com/global/mideast-africa/2026/10/02/saudis-plan-assault-on-houthis-to-break-red-sea-chokehold/",
-      "summary": "More than 100,000 Yemeni troops could be mobilized in the offensive, depending on the scale, officials said.",
-      "published": "2026-10-02T19:00:24+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -935,15 +917,6 @@
       "summary": "<p>A cyber operator can spend a shift tracking an adversary halfway around the world, walk to the parking lot, and be home in time for dinner. There is no flight home, no demobilization, and no transition from an operational mission back to ordinary life. The war zone is a commute away. That arrangement looks like one of the advantages of cyber warfare. It is also becoming one of its human costs.Bloomberg reported in August that as many as five people working at or alongside U.S. Cyber Command took their own lives in a five-week period in June and July this</p>\n<p>The post <a href=\"https://warontherocks.com/cyber-operators-are-deployed-in-place-the-pentagon-should-treat-them-that-way/\">Cyber Operators Are Deployed in Place. The Pentagon Should Treat Them That Way</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-10-02T07:15:31+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "How the Largest Investment Trusts Performed in Q3 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczF1eEpqa0hGaUl5RFF1V2Y1MEhNanRJek1yQ2Y0ZnNFTUZGa0RKUVJpRXUtc1liUURkT0dhMWVYWWM4em1Vd0JuSi1LR0l6LVZBZ2R6THl0UE5BZFRKTWd3Mkw3WXZkN1JNUTh5eEZtYmxRMmd3R1Exb3RzdGVySThuVkRMakY4VndoQ3JmQ3JNUkp6?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilAFBVV95cUxNczF1eEpqa0hGaUl5RFF1V2Y1MEhNanRJek1yQ2Y0ZnNFTUZGa0RKUVJpRXUtc1liUURkT0dhMWVYWWM4em1Vd0JuSi1LR0l6LVZBZ2R6THl0UE5BZFRKTWd3Mkw3WXZkN1JNUTh5eEZtYmxRMmd3R1Exb3RzdGVySThuVkRMakY4VndoQ3JmQ3JNUkp6?oc=5\" target=\"_blank\">How the Largest Investment Trusts Performed in Q3</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-10-02T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -1270,6 +1243,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Stocks - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yWEI0WFlxTzdaN1VsSFFWRTZhaDl0aWF5UmhvTkdzQVhFbkNUQXJnRlMyb0cwd3lZVmE2Y0RBWXNvU1l3ZU90LTZLQkZ1ZS1UVkZjQW5B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE1yWEI0WFlxTzdaN1VsSFFWRTZhaDl0aWF5UmhvTkdzQVhFbkNUQXJnRlMyb0cwd3lZVmE2Y0RBWXNvU1l3ZU90LTZLQkZ1ZS1UVkZjQW5B?oc=5\" target=\"_blank\">Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2025-06-28T03:29:20+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
@@ -1343,6 +1325,15 @@
     },
     {
       "category": "World News & Politics",
+      "source": "AP Politics",
+      "title": "Politics - AP News",
+      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
+      "published": "2020-12-07T16:27:24+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
       "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations (CFR)",
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
@@ -1357,6 +1348,15 @@
       "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSk5rNGdxUVhJS0RIdF9oanlYVFF5UGxOZ1ZLbnhjRl9HeFFfWmlBeTBJZjEtYnVLaDhPS05aOVdKZDJGdjBvZVpkZXBTdDFaZHd4MWJLOEZ0d1dKYk9pTGhR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BSk5rNGdxUVhJS0RIdF9oanlYVFF5UGxOZ1ZLbnhjRl9HeFFfWmlBeTBJZjEtYnVLaDhPS05aOVdKZDJGdjBvZVpkZXBTdDFaZHd4MWJLOEZ0d1dKYk9pTGhR?oc=5\" target=\"_blank\">Blavatnik Internship Program</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations (CFR)</font>",
       "published": "2019-08-30T05:39:35+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "VT – Vanguard Total World Stock ETF – ETF Stock Quote - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1d0UzNEZJejB4YUQ4clFPZVRHX0lsQTRCZC0zWXJNV09WR1plQ1haeEoyaE5yMVhFeEpBRl9MOUpLZHlPMlMwV1ZZdnZrQzZKUjlIOFJMclhaQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTFB1d0UzNEZJejB4YUQ4clFPZVRHX0lsQTRCZC0zWXJNV09WR1plQ1haeEoyaE5yMVhFeEpBRl9MOUpLZHlPMlMwV1ZZdnZrQzZKUjlIOFJMclhaQQ?oc=5\" target=\"_blank\">VT – Vanguard Total World Stock ETF – ETF Stock Quote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2019-07-16T01:35:30+00:00",
       "feed_type": "google_news_fallback"
     },
     {
