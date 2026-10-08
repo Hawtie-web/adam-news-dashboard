@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-07T21:52:17.016125+00:00",
+  "updated_at": "2026-10-08T01:41:17.635602+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,60 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Crypto news site Cointelegraph seeks buyer after web traffic plunges",
+      "link": "https://www.coindesk.com/business/2026/10/07/crypto-news-site-cointelegraph-seeks-buyer-after-web-traffic-plunges",
+      "summary": "",
+      "published": "2026-10-08T00:35:24+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Rising yields are quietly crashing the stock market’s earlier winners of 2026",
+      "link": "https://www.marketwatch.com/story/rising-yields-are-quietly-crashing-the-stock-markets-earlier-winners-of-2026-a29f2863?mod=mw_rss_topstories",
+      "summary": "Surging Treasury yields have begun to hammer parts of the stock market that might easily be overlooked, especially with the spotlight once again shining brightly on a small group of glamorous tech companies.",
+      "published": "2026-10-07T22:32:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Solana’s Orca merges with Loopscale in push to finance AI, robotics and defense",
+      "link": "https://www.theblock.co/news/defi/2026-10-07-solanas-orca-merges-with-loopscale-push-to-finance-ai-robotics-defense-417924",
+      "summary": "Orca and Loopscale unite as Formation, targeting financing for AI, energy, robotics and defense.",
+      "published": "2026-10-07T22:01:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "“Software is over”: Bold AI developer takes aim at Adobe with open source clones",
+      "link": "https://arstechnica.com/ai/2026/10/software-is-over-bold-ai-developer-takes-aim-at-adobe-with-open-source-clones/",
+      "summary": "Opus-built Creative Cloud alternatives are ambitious, free, and nowhere near finished.",
+      "published": "2026-10-07T21:56:42+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Venezuela's Maduro to face new US charges over alleged torture of Americans, official says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQSG5yaGEtUGxrR1N4M2hiQjhDU0Jzd083RlNNX1FNd3NxM3hKRUxkT09sUGY2M1ZxaGc2aHhaYjZUdXNveDNhRGdzZWVZcW1XVFUxc1RSRDlKNE90bUxHM0ZWNlJLTFp5bUtJSDA3N0x6ZS1wX1hxUDJ0ZHgwTmlqMVcyX2swSkt6Ulo0UnZBOTlvamExWi1LRWd0RzJHeFBha1VWRkExblNxY0szRGhSUmEzbGF5anVsRnJZekZFRUQyb0xUaWlR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQSG5yaGEtUGxrR1N4M2hiQjhDU0Jzd083RlNNX1FNd3NxM3hKRUxkT09sUGY2M1ZxaGc2aHhaYjZUdXNveDNhRGdzZWVZcW1XVFUxc1RSRDlKNE90bUxHM0ZWNlJLTFp5bUtJSDA3N0x6ZS1wX1hxUDJ0ZHgwTmlqMVcyX2swSkt6Ulo0UnZBOTlvamExWi1LRWd0RzJHeFBha1VWRkExblNxY0szRGhSUmEzbGF5anVsRnJZekZFRUQyb0xUaWlR?oc=5\" target=\"_blank\">Venezuela's Maduro to face new US charges over alleged torture of Americans, official says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-07T21:52:20+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Spanish woman whose eviction ignited housing protests dies at 87 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVliVFhoby0zMHpXSUY0T3g0cFBYM2dqVTFOSC1xVHNlN2FTdGdXYXZBRFRJM0FBYWJydXZTVmtJZjFlYVhZQUJBVV9wT1RyMFhhZF9LNUlxNjVJNFhIUk11T0QxeUNKcE4zckxwSTR0UmVGY0c4NDg1a3FGUEc3N212NW9KT0ZaOEdUSUhzbkFDU0hSdUFkMndNLVI0T2JvZmY5eU1kZURGeFh6RWY2QWtSaTVvZkFMQW80?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVliVFhoby0zMHpXSUY0T3g0cFBYM2dqVTFOSC1xVHNlN2FTdGdXYXZBRFRJM0FBYWJydXZTVmtJZjFlYVhZQUJBVV9wT1RyMFhhZF9LNUlxNjVJNFhIUk11T0QxeUNKcE4zckxwSTR0UmVGY0c4NDg1a3FGUEc3N212NW9KT0ZaOEdUSUhzbkFDU0hSdUFkMndNLVI0T2JvZmY5eU1kZURGeFh6RWY2QWtSaTVvZkFMQW80?oc=5\" target=\"_blank\">Spanish woman whose eviction ignited housing protests dies at 87</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-07T21:43:21+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
@@ -32,9 +86,18 @@
       "source": "TechCrunch AI",
       "title": "Nous Research confirms it hit $1.5B valuation, launches AI agents for business users",
       "link": "https://techcrunch.com/2026/10/07/nous-research-confirms-it-hit-1-5b-valuation-launches-ai-agents-for-business-users/",
-      "summary": "The developer of Hermes agent raised a $90 million Series B.",
+      "summary": "The developer of Hermes Agent raised a $90 million Series B.",
       "published": "2026-10-07T20:48:45+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Trump says he deserves Nobel Peace Prize but has doubts he will get it - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEkzVEpocHRSSC0xV0JGVnotWHZGZDB4TzBoU0lIem5rMllUWHE5Q1g2NFZRZDd5eW9Vd2R4VTBiQlZWaHJGbjl0YTBPUFlJU1V6QnhJWll0SjZlVEY5bUlnTTJhZEM3dTNaVVpBV1oyRUxlZ3BmRHBvRk9NM3FTUy12X1Y2dU5ReTk3SUdCbk1pemlJSEJyYzhiMFExR1FXUmY4N0hBQ3VZb3RjbDFhU2dHNlV6dw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOVEkzVEpocHRSSC0xV0JGVnotWHZGZDB4TzBoU0lIem5rMllUWHE5Q1g2NFZRZDd5eW9Vd2R4VTBiQlZWaHJGbjl0YTBPUFlJU1V6QnhJWll0SjZlVEY5bUlnTTJhZEM3dTNaVVpBV1oyRUxlZ3BmRHBvRk9NM3FTUy12X1Y2dU5ReTk3SUdCbk1pemlJSEJyYzhiMFExR1FXUmY4N0hBQ3VZb3RjbDFhU2dHNlV6dw?oc=5\" target=\"_blank\">Trump says he deserves Nobel Peace Prize but has doubts he will get it</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-07T20:45:43+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -64,15 +127,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Evicted Spanish octogenarian Maricarmen Abascal, heart of Spain's housing protests, has died - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVliVFhoby0zMHpXSUY0T3g0cFBYM2dqVTFOSC1xVHNlN2FTdGdXYXZBRFRJM0FBYWJydXZTVmtJZjFlYVhZQUJBVV9wT1RyMFhhZF9LNUlxNjVJNFhIUk11T0QxeUNKcE4zckxwSTR0UmVGY0c4NDg1a3FGUEc3N212NW9KT0ZaOEdUSUhzbkFDU0hSdUFkMndNLVI0T2JvZmY5eU1kZURGeFh6RWY2QWtSaTVvZkFMQW80?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNeVliVFhoby0zMHpXSUY0T3g0cFBYM2dqVTFOSC1xVHNlN2FTdGdXYXZBRFRJM0FBYWJydXZTVmtJZjFlYVhZQUJBVV9wT1RyMFhhZF9LNUlxNjVJNFhIUk11T0QxeUNKcE4zckxwSTR0UmVGY0c4NDg1a3FGUEc3N212NW9KT0ZaOEdUSUhzbkFDU0hSdUFkMndNLVI0T2JvZmY5eU1kZURGeFh6RWY2QWtSaTVvZkFMQW80?oc=5\" target=\"_blank\">Evicted Spanish octogenarian Maricarmen Abascal, heart of Spain's housing protests, has died</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-07T20:20:29+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "British Commandos Emerge From German Submarine During Major NATO Exercise",
@@ -100,15 +154,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Britain's BBC, Channel 4 discuss broader tie-up to cut costs, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEJjbW1saE1vam1lWlFtTmdDQUQyWnJRd0pmLUZ5NHU0ZUlrRVVkN3lQdnlzblNvNzE0TUtydzktSkp4TXVPMlgwdmctLWV6Y0VmeEdxa3dIUzYwSFJGOGNnd0ZzUk1zS2pYeXFRZUxvNE93M245N0NaTmxXbUhfdVBKQ1N3NUEzYTloM2txOElFM3FuUWlkY0E1VE9sWEI1cHowd0stWmJTT3FuSUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQTEJjbW1saE1vam1lWlFtTmdDQUQyWnJRd0pmLUZ5NHU0ZUlrRVVkN3lQdnlzblNvNzE0TUtydzktSkp4TXVPMlgwdmctLWV6Y0VmeEdxa3dIUzYwSFJGOGNnd0ZzUk1zS2pYeXFRZUxvNE93M245N0NaTmxXbUhfdVBKQ1N3NUEzYTloM2txOElFM3FuUWlkY0E1VE9sWEI1cHowd0stWmJTT3FuSUE?oc=5\" target=\"_blank\">EXCLUSIVE: Britain's BBC, Channel 4 discuss broader tie-up to cut costs, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-07T19:42:19+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Army issues just under $100M in application awards for NGC2 to 9 companies",
@@ -125,6 +170,15 @@
       "summary": "September’s rate hike was viewed by many officials as needed just in case inflation remains sticky.",
       "published": "2026-10-07T19:35:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US FCC to vote to ban all Chinese labs from testing US electronics - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNME5OMm9Calp0aVhBdUhxdFVmbWptRV9KZFcxVHg4cjRrSXV2bmdaRjVaa0dqN0E5VEJROTliNlhsTEVXN2QyaTQzTVdoX0hlT1JaSmtmZ1NVdjhjM0ZUR0lucldoR3o1YzNNTkhtdTlsWDVNbThsZW1DR1JQeTZDNXdrbEtvMWYyRkNZRVNUc2dlSVl5MVBHVUZNYld2QnFEM0YzczZRRkNQUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxNME5OMm9Calp0aVhBdUhxdFVmbWptRV9KZFcxVHg4cjRrSXV2bmdaRjVaa0dqN0E5VEJROTliNlhsTEVXN2QyaTQzTVdoX0hlT1JaSmtmZ1NVdjhjM0ZUR0lucldoR3o1YzNNTkhtdTlsWDVNbThsZW1DR1JQeTZDNXdrbEtvMWYyRkNZRVNUc2dlSVl5MVBHVUZNYld2QnFEM0YzczZRRkNQUQ?oc=5\" target=\"_blank\">US FCC to vote to ban all Chinese labs from testing US electronics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-07T19:28:23+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -226,15 +280,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Florida asks court to force Meta to change Facebook, Instagram for teens - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjI5TTFNM1QwUTRKWk9LMzR4cGIwRG1pNTd0LVN1VEhyNDIyMlZZaTNwNWpCNXNac0VOaS1MdEZPVmVpZmdXWHpwT2ZkbHpBWGJqRXM0cWJtNmczaU56MGx4YzBmeDQzNk1ibENTU2FyZ0RNZFFuVkU0WlVzR2FoZGV3QlZCdG1pTy1QYWI5X3BWVUVBSzVMWWZ6Y25WcVNHWFBFTU1pR0JKZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUjI5TTFNM1QwUTRKWk9LMzR4cGIwRG1pNTd0LVN1VEhyNDIyMlZZaTNwNWpCNXNac0VOaS1MdEZPVmVpZmdXWHpwT2ZkbHpBWGJqRXM0cWJtNmczaU56MGx4YzBmeDQzNk1ibENTU2FyZ0RNZFFuVkU0WlVzR2FoZGV3QlZCdG1pTy1QYWI5X3BWVUVBSzVMWWZ6Y25WcVNHWFBFTU1pR0JKZw?oc=5\" target=\"_blank\">Florida asks court to force Meta to change Facebook, Instagram for teens</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-07T18:19:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "ChatGPT for Teens keeps teens talking, even during mental health crises",
@@ -289,15 +334,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Rubio, in Athens, ties ancient values to 'America First' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQalJDOHBrVE5iWnBuQjIwam0yNmZjVWsxMGhWS0xQOVJCYW1TSU9DaUo2OThyVkdyNThMQ3RXVUdGQTZ6NldfVlR4Ynktdk0wa2J1dllzQ3BvTTItTGJkVnlieFdaZ1d0YzZLRW14MjlCbFlqN3R6MzhTeS1JRVRERkJRWkFqVWt4WU5iOWVKUzY1YVBsQ0RLZjFLMU44OXNaNGxPdWJSaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipwFBVV95cUxQalJDOHBrVE5iWnBuQjIwam0yNmZjVWsxMGhWS0xQOVJCYW1TSU9DaUo2OThyVkdyNThMQ3RXVUdGQTZ6NldfVlR4Ynktdk0wa2J1dllzQ3BvTTItTGJkVnlieFdaZ1d0YzZLRW14MjlCbFlqN3R6MzhTeS1JRVRERkJRWkFqVWt4WU5iOWVKUzY1YVBsQ0RLZjFLMU44OXNaNGxPdWJSaw?oc=5\" target=\"_blank\">Rubio, in Athens, ties ancient values to 'America First'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-07T17:56:10+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Could NASA’s SR-71 Blackbird Be Modified To Reach Mach 4?",
@@ -316,15 +352,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Washington and Wall Street chose to delay paying their bills — and to put them on your tab",
-      "link": "https://www.marketwatch.com/story/washington-and-wall-street-chose-to-delay-paying-their-bills-and-to-put-them-on-your-tab-2eba83aa?mod=mw_rss_topstories",
-      "summary": "The polite word for what the government and Wall Street are doing is deferring payment, like opening a tab at a bar that somebody else will pay later.",
-      "published": "2026-10-07T17:36:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Ethereum researcher Justin Drake calls for ‘bunker mode’ planning over private key recovery risk",
@@ -332,15 +359,6 @@
       "summary": "Justin Drake recommended moving crypto assets to fresh addresses that keep their public keys hidden behind a hash.",
       "published": "2026-10-07T17:23:02+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Priceline to face FTC action over deceptive hotel ads, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3J6T3RoLWRfTnRxbHlyN3FLZzl6SEFzWEpJWHY2UWZnSXBKZ3o4REE5dmdJZmhlQ0xfYlUyZVhCRVA4NXpWOU5LN0FZYUlWN1RJeG9WTkpnd25qdmJPeGFQR0Y4MTdWeXlOUS0tUVlxUE45ZGJsTi0tV25JSWRXcldqVk04M3VnSGNnTFBvZDBOS1BjdHlYM2xPRW45eERvQTh4TEFROW1LWml2UzFVRA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxPY3J6T3RoLWRfTnRxbHlyN3FLZzl6SEFzWEpJWHY2UWZnSXBKZ3o4REE5dmdJZmhlQ0xfYlUyZVhCRVA4NXpWOU5LN0FZYUlWN1RJeG9WTkpnd25qdmJPeGFQR0Y4MTdWeXlOUS0tUVlxUE45ZGJsTi0tV25JSWRXcldqVk04M3VnSGNnTFBvZDBOS1BjdHlYM2xPRW45eERvQTh4TEFROW1LWml2UzFVRA?oc=5\" target=\"_blank\">EXCLUSIVE: Priceline to face FTC action over deceptive hotel ads, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-07T17:20:56+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -395,6 +413,15 @@
       "summary": "<p><img alt=\"Kaelin Ellis\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/10/Kaelin-Ellis-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The producer picks an Orange County snare as one of his six items in his fantasy Forever Studio.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/the-perfect-snare-sound-is-the-holy-grail-and-kaelin-ellis-thinks-hes-found-it/\">The perfect snare sound is the holy grail – and Kaelin Ellis thinks he’s found it</a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-10-07T16:08:34+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Germany's AfD calls for end to support for Ukraine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUw2cS1sTUdybFdNSnFVSHc2NUdkbllGbnk0ZEVBQVFiNmRycnFGVlp2bE40R3NJR2pfd2J6QnJOeDFsNnlscmZsN3ZuZGhsc1FWR0dYaVdtRDVva0hEb3c0U01QUmR1U2UyLWVzMEEzSC1mLV9Oel9oZmhKY3N3UW9JMnY1V2M?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUw2cS1sTUdybFdNSnFVSHc2NUdkbllGbnk0ZEVBQVFiNmRycnFGVlp2bE40R3NJR2pfd2J6QnJOeDFsNnlscmZsN3ZuZGhsc1FWR0dYaVdtRDVva0hEb3c0U01QUmR1U2UyLWVzMEEzSC1mLV9Oel9oZmhKY3N3UW9JMnY1V2M?oc=5\" target=\"_blank\">Germany's AfD calls for end to support for Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-07T16:08:32+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -532,15 +559,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "Mistral says \"Le Chonk\" can challenge the best AI models",
-      "link": "https://arstechnica.com/ai/2026/10/mistral-says-le-chonk-can-challenge-the-best-ai-models/",
-      "summary": "Mistral says Le Chonk can rival top closed models while remaining open-weight.",
-      "published": "2026-10-07T14:12:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Step aside Sonos – JBL’s new Cove line offers a new solution to multi-room listening",
@@ -583,15 +601,6 @@
       "link": "https://www.defensenews.com/global/asia-pacific/2026/10/07/embraer-lockheed-martin-vie-for-indias-105b-military-transport-aircraft-deal/",
       "summary": "The Indian government wants one of its biggest military aviation contracts to deepen the country’s local aerospace industrial base.",
       "published": "2026-10-07T12:35:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto trading giant GSR's new vault business is a $100M bet on onchain credit",
-      "link": "https://www.coindesk.com/business/2026/10/07/crypto-trading-giant-gsr-s-new-vault-business-is-a-usd100m-bet-on-onchain-credit",
-      "summary": "",
-      "published": "2026-10-07T12:34:13+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -703,15 +712,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Robinhood adds $25 million worth of bitcoin to balance sheet as it deepens crypto push",
-      "link": "https://www.theblock.co/news/business/2026-10-07-robinhood-adds-25-million-bitcoin-balance-sheet-417890",
-      "summary": "Robinhood SVP Johann Kerbrat says the purchase was intended to signal the company's commitment to the crypto sector.",
-      "published": "2026-10-07T07:08:36+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "EDM.com News",
       "title": "E11EVEN and Cipriani Reuniting for NYC Halloween Party With Grammy-Nominated Headliner",
@@ -719,6 +719,15 @@
       "summary": "<p>The nightlife brands are joining forces on Halloween night, when attendees can catch a spooky performance from MEDUZA.</p>\n<p>The post <a href=\"https://edm.com/events/e11even-cipriani-nyc-halloween-party-2026/\">E11EVEN and Cipriani Reuniting for NYC Halloween Party With Grammy-Nominated Headliner</a> appeared first on <a href=\"https://edm.com\">EDM</a>.</p>",
       "published": "2026-10-07T00:54:32+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "US ETFs Break Annual Inflows Record With 3 Months To Go - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmxhMzlUUlNwZ3lzWGFYUE16VHpnZlBtWC1FRmRraVF1NjE1T3NzZkVTaDFNeU1YWDNYYlpTNFBqNW05YUV6bDdScmJTM0pYREczODFiaEFKaFAzaXpUTmFqbVVQd2c1TUVxNkx3UkFYdU9ORFBKckFzOHdPbVB4U2t4cXZld3M2T2l3dVVNaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxPMmxhMzlUUlNwZ3lzWGFYUE16VHpnZlBtWC1FRmRraVF1NjE1T3NzZkVTaDFNeU1YWDNYYlpTNFBqNW05YUV6bDdScmJTM0pYREczODFiaEFKaFAzaXpUTmFqbVVQd2c1TUVxNkx3UkFYdU9ORFBKckFzOHdPbVB4U2t4cXZld3M2T2l3dVVNaw?oc=5\" target=\"_blank\">US ETFs Break Annual Inflows Record With 3 Months To Go</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-10-06T22:25:24+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -1249,15 +1258,6 @@
       "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPNUxheDl4aGVGR2NrbHZEdlRqWEdJVUVOMEhoTWM2dFVGci04UmVTVFFUZmVRZFJZUFAteGF1OXFqbzBJZGNJcHN2WFo0MTNJcEJ2RjZlWWtJSnEtM1J0eFlnXzFxOWhDTGdVQU9jb3FIUlV5WklkSlQydENKUExJa1hjWXgyRVZHYU5oRnZHZkZaVE8tWEdhMXhwNnFZWUhQbWpxUmdhdWpSMk5qVE9EWXdiUDg?oc=5\" target=\"_blank\">As civic knowledge declines, programs work to engage young people in democracy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2024-09-13T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Powerful portfolio management tools - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuVnFzWThZaV96THdKSlNkVktiT3V0NXB0RVB4NW5yMVJNSTBsaW5tc3cwaGwzS1Q5VGNOelNSXzNKWTdreWNiUGJXMFZULW5CeGlhb1hIaUxhb3Y2Nl9GbXo3Vy1HRU5SeHU1VDliQWhZUV9B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBuVnFzWThZaV96THdKSlNkVktiT3V0NXB0RVB4NW5yMVJNSTBsaW5tc3cwaGwzS1Q5VGNOelNSXzNKWTdreWNiUGJXMFZULW5CeGlhb1hIaUxhb3Y2Nl9GbXo3Vy1HRU5SeHU1VDliQWhZUV9B?oc=5\" target=\"_blank\">Powerful portfolio management tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2024-08-22T14:39:59+00:00",
       "feed_type": "google_news_fallback"
     },
     {
