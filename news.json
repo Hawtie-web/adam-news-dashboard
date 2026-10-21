@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-20T23:43:00.281082+00:00",
+  "updated_at": "2026-10-21T04:12:26.607809+00:00",
   "item_count": 151,
   "failures": [
     {
@@ -9,6 +9,105 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "A company that vouches for websites had secret keys so weak that 8 of them were cracked",
+      "link": "https://www.coindesk.com/tech/2026/10/21/a-company-that-vouches-for-websites-had-secret-keys-so-weak-that-8-of-them-were-cracked",
+      "summary": "",
+      "published": "2026-10-21T04:11:58+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin hovers around $83,000 as AI earnings revive tech, ZEC jumps 11%",
+      "link": "https://www.coindesk.com/markets/2026/10/21/bitcoin-hovers-around-usd83-000-as-ai-earnings-revive-tech-zec-jumps-11",
+      "summary": "",
+      "published": "2026-10-21T04:07:07+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "MoonPay, Upbit parent Dunamu explore collaboration on stablecoin payments, GIWA expansion",
+      "link": "https://www.theblock.co/news/business/2026-10-20-moonpay-upbit-dunamu-421476",
+      "summary": "The companies also plan to explore ways to broaden global access to Dunamu's Ethereum Layer 2, GIWA chain.",
+      "published": "2026-10-21T02:30:08+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "PHP warns it plans to release 2 emergency patches imminently",
+      "link": "https://arstechnica.com/security/2026/10/php-maintainers-tell-web-devs-to-prepare-themselves-for-critical-security-patches/",
+      "summary": "Unconfirmed report claims PHP2Shell exploit remotely executes code on PHP sites.",
+      "published": "2026-10-21T02:12:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Asian stocks climb as strong earnings buoy Wall Street - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPMXhrSmpaMk8tc0RERnBieWlyRThFeDE5X25hNy1JYTZxX2o5Q0wyMlJ0RFZheXM0S1VPUUVVcTBobHlJR3hSa3prRjhjaUVGdXBNcGNybmU5anZLOU0zdXg2TmFoYXNqSnVuRXpxQ2dwTnBYTWpOZEdIQUtVVEVqN0h6TQ?oc=5\" target=\"_blank\">Asian stocks climb as strong earnings buoy Wall Street</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-21T02:10:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US high court rulings have been 'destructive to democracy,' Justice Kagan says - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEtSSHU2SmZqREJzYUlidzRUTTZLOTJzS0NmSmxyZTlWR0ZPdDV0Zk1teEhNbUdoTTVPd2hKVUp5SnlrWW5PN2hVSDJ3X3NDN3ZMeGpUZmFGZ0M0NUNXNkp2ZmsycUZRTEVSdTk0V3FtYmlFSUpSTmpYRlc0MlNqSFNyY21LOGlTOXdKSUw3VkRsNGpKcGFuWnhuSjN1aFVuMS1CNDlwakFpaDZOS0U1QWpWR3laTXpz?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQNEtSSHU2SmZqREJzYUlidzRUTTZLOTJzS0NmSmxyZTlWR0ZPdDV0Zk1teEhNbUdoTTVPd2hKVUp5SnlrWW5PN2hVSDJ3X3NDN3ZMeGpUZmFGZ0M0NUNXNkp2ZmsycUZRTEVSdTk0V3FtYmlFSUpSTmpYRlc0MlNqSFNyY21LOGlTOXdKSUw3VkRsNGpKcGFuWnhuSjN1aFVuMS1CNDlwakFpaDZOS0U1QWpWR3laTXpz?oc=5\" target=\"_blank\">US high court rulings have been 'destructive to democracy,' Justice Kagan says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-21T01:37:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhtRnJCbDhIc08yUUUxQnBOU0tmczBNT3JOTjBKVy1LY0VCUW1pdk9hNW83QXdqM3pKOGthelR0NldvLUx6ZHdfUWpTTnpHOVhVeG9nR0tUWjVqNlUyT09jbVp3eUZDb1RLbjhLakZYUXZfcXNoVndFSG50cUw5alpFRHVpNWdUMWtxLWpXMUZsdFE1RVhtX0RWVkVLazFFNUlIZi1fcHRJUjZYY090OVBwaTZMUnJ4TmdtbWFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQMmhtRnJCbDhIc08yUUUxQnBOU0tmczBNT3JOTjBKVy1LY0VCUW1pdk9hNW83QXdqM3pKOGthelR0NldvLUx6ZHdfUWpTTnpHOVhVeG9nR0tUWjVqNlUyT09jbVp3eUZDb1RLbjhLakZYUXZfcXNoVndFSG50cUw5alpFRHVpNWdUMWtxLWpXMUZsdFE1RVhtX0RWVkVLazFFNUlIZi1fcHRJUjZYY090OVBwaTZMUnJ4TmdtbWFR?oc=5\" target=\"_blank\">Dollar on back foot as US yields, crude prices dip; Aussie buoyed by hawkish RBA</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-21T01:20:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Bull markets tend to peak with a whimper, not a bang — but a 15% correction for the S&P 500 may be next",
+      "link": "https://www.marketwatch.com/story/bull-markets-tend-to-peak-with-a-whimper-not-a-bang-but-a-15-correction-for-the-s-p-500-may-be-next-dab40e2c?mod=mw_rss_topstories",
+      "summary": "Unlike bear-market bottoms, which typically end with a spasm of despair as traders throw in the towel, bull-market tops are far more gradual and less dramatic.",
+      "published": "2026-10-21T00:24:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
+      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
+      "summary": "Super Micro unexpectedly disclosed that its revenue and profitability could be much stronger than originally anticipated.",
+      "published": "2026-10-21T00:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
+      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
+      "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says.",
+      "published": "2026-10-21T00:14:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
+      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
+      "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
+      "published": "2026-10-21T00:12:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
@@ -26,6 +125,15 @@
       "summary": "<p>The ex-USAF KC-10 is now headed for a second career in the private sector with Omega Air Refueling.</p>\n<p>The post <a href=\"https://www.twz.com/air/retired-kc-10-extender-tanker-has-risen-from-boneyard-to-fly-again\">Retired KC-10 Extender Tanker Has Risen From Boneyard To Fly Again</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-10-20T23:07:34+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "India's Jio IPO opens for public bids in record $3.2 billion sale - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxON1VVUmNkZDI5QkFtVV8zeWNRdWY2YkRtQXVPSHlNUnFwY3BhRTBYcU9uOXVKMmljOE05N1dLSUxkTm9PUjBmSXhhNHFTZ000cUgyNlpVMG1ia1diRlJ6WXFuN091VktQX3hJMjl3QUJCRy1yeGtzSDY5bm1FSHNydzRtbUZzcUY5amhobDM2eXBfZXIydUwyZDBJSElseDFDX1VIWjdB?oc=5\" target=\"_blank\">India's Jio IPO opens for public bids in record $3.2 billion sale</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-20T23:02:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -46,22 +154,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Super Micro’s stock soars after surprise update — with Dell and HPE shares joining the rally",
-      "link": "https://www.marketwatch.com/story/super-micros-stock-soars-after-surprise-update-with-dell-and-hpe-shares-joining-the-rally-1837a69f?mod=mw_rss_topstories",
-      "summary": "Super Micro unexpectedly disclosed that its revenue and profitability could be much stronger than originally anticipated.",
-      "published": "2026-10-20T22:37:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Tesla’s stock rises as Elon Musk drops new clues about a possible SpaceX merger",
-      "link": "https://www.marketwatch.com/story/teslas-stock-rises-as-elon-musk-drops-new-clues-about-a-possible-spacex-merger-8cc44fc2?mod=mw_rss_topstories",
-      "summary": "Special committees at both companies are assessing merger prospects but a combination is no sure thing, Musk says.",
-      "published": "2026-10-20T22:33:00+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Suspect in vehicle attack on Australian lawmaker appears in court as police probe motive - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHU3dm5jd3d4VXBnTlV1NXFRano0N2FOQzZoQ3VlZ2ZEa1JXZFR4OFdHSk95SEhXUHZxQzZ6RDJnb0ZzS043R0lnREg1M1RFQjY2NVhSUUFaVndHMjZJeVIwWmhkNm1qTHFXLXBSd09NOWRhcFNVdFZtaTZrUFhmWG9UMGI1ZWQzMDV0Y3ctRTRaQVI2Z2R1bjNvMU9UdlNuZzUzV3A3NUI2em1yTUo5V01jeU5sWER6QmFTLUVmc1hST1g2bEdN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPOHU3dm5jd3d4VXBnTlV1NXFRano0N2FOQzZoQ3VlZ2ZEa1JXZFR4OFdHSk95SEhXUHZxQzZ6RDJnb0ZzS043R0lnREg1M1RFQjY2NVhSUUFaVndHMjZJeVIwWmhkNm1qTHFXLXBSd09NOWRhcFNVdFZtaTZrUFhmWG9UMGI1ZWQzMDV0Y3ctRTRaQVI2Z2R1bjNvMU9UdlNuZzUzV3A3NUI2em1yTUo5V01jeU5sWER6QmFTLUVmc1hST1g2bEdN?oc=5\" target=\"_blank\">Suspect in vehicle attack on Australian lawmaker appears in court as police probe motive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-20T22:31:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -69,15 +168,6 @@
       "title": "My wife says we can’t afford to retire. I vetoed her $8,000 trip to Italy. We’re in our 60s and have $4 million. Do I keep working?",
       "link": "https://www.marketwatch.com/story/my-wife-says-we-cant-afford-to-retire-we-have-4-million-do-i-just-keep-working-f1b6b085?mod=mw_rss_topstories",
       "summary": "“I worry about healthcare, long-term care, inflation, a long bear market and living to 95.”",
-      "published": "2026-10-20T22:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Netflix vows to revive viewership trends, but investors hit ‘sell’ on the stock",
-      "link": "https://www.marketwatch.com/story/netflix-vows-to-revive-viewership-trends-but-investors-hit-sell-on-the-stock-3e24420a?mod=mw_rss_topstories",
-      "summary": "Streaming service cites “intense competition’ and acknowledges ‘some investor concern about our view hours growth.”",
       "published": "2026-10-20T22:30:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -106,15 +196,6 @@
       "link": "https://arstechnica.com/space/2026/10/spacex-and-tesla-into-a-single-company-has-a-lot-of-merit-musk-says/",
       "summary": "\"I do think there's a lot of merit to combining the companies.\"",
       "published": "2026-10-20T22:04:54+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Walmart takes aim at Amazon and Costco with new membership program — but is it a good deal?",
-      "link": "https://www.marketwatch.com/story/walmart-takes-aim-at-amazon-and-costco-with-new-membership-program-but-is-it-a-good-deal-8e2292ef?mod=mw_rss_topstories",
-      "summary": "Some analysts question whether people will actually take advantage of Walmart’s new bundle, and how easy it is to make sense of the benefits.",
-      "published": "2026-10-20T21:47:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -316,24 +397,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Food importer files new lawsuit to block Trump's Canada tariffs - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGlkdEs5VHlKSDJTdC1BVmNvVWd0MWVwMy0xQ0tMblBZTFBZYUg4NnN2Z1RZR0QwQmt4a1pzdWRCOHJUdFVmM3ZtMGQtVmEtNm9vWG5LTHUtUHdSS0pIUllwYURYOTJWcjZjck9FaHo1ZDJHbGY4cHZaUmJfRXRJSnFWZVRrZGJLRGZPWmQ2WF9jNU12bmFVV3RCZGpYbUxBcnFHeXUwSlBlZlJkTGs4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxNeGlkdEs5VHlKSDJTdC1BVmNvVWd0MWVwMy0xQ0tMblBZTFBZYUg4NnN2Z1RZR0QwQmt4a1pzdWRCOHJUdFVmM3ZtMGQtVmEtNm9vWG5LTHUtUHdSS0pIUllwYURYOTJWcjZjck9FaHo1ZDJHbGY4cHZaUmJfRXRJSnFWZVRrZGJLRGZPWmQ2WF9jNU12bmFVV3RCZGpYbUxBcnFHeXUwSlBlZlJkTGs4?oc=5\" target=\"_blank\">Food importer files new lawsuit to block Trump's Canada tariffs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-20T19:53:47+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "The Internet goes on high alert after discovery of 8 compromised TLS certs",
-      "link": "https://arstechnica.com/security/2026/10/the-internet-goes-on-high-alert-after-discovery-of-8-compromised-tls-certs/",
-      "summary": "Intermediate certs allow anyone to mint web credentials for any Internet server.",
-      "published": "2026-10-20T19:47:35+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
@@ -442,20 +505,11 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Iran tells Pakistan army chief no talks with Washington until demands are met - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxOVDRWMklOYkRvUmtPYU1tcnN0MVJCbzRxWlJzS3lSUFhsZzQ3SnQ2N0FKXzRsZFpmdmMwS1lVYWhKenNoNEF6UmhhcThrbVM1V0ZHQUk0aXFwWHlvbXFNWVhzQkV2aHVzM1I2am9fOHFHa19CQlN0Z3FqUG5nc2VwQUJxazBhbGZlSUhDMHExSWJLbDJNNXRjc3BOYkZrTThIUW1IUkE4QUI2azl6MzZHT0Nrb2M4aDZBQzZKYVp4OTg0VV9xWWllLUJGYkFkdw?oc=5\" target=\"_blank\">Iran tells Pakistan army chief no talks with Washington until demands are met</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-20T18:02:06+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Eric Schmidt reportedly owns about half as much of Anthropic as CEO Dario Amodei",
       "link": "https://techcrunch.com/2026/10/20/eric-schmidt-reportedly-owns-about-half-as-much-of-anthropic-as-ceo-dario-amodei/",
-      "summary": "The former Google CEO owns about 1% stake in the leading AI lab, Bloomberg reported.",
+      "summary": "Eric Schmidt’s fortune is about to get even bigger.",
       "published": "2026-10-20T17:55:12+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -485,15 +539,6 @@
       "summary": "Nectar Group, the developer of bitcoin income platform HoneyB, has raised $5 million in a seed funding round.",
       "published": "2026-10-20T17:11:47+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "UK police arrest pair on suspicion of helping Iranian intelligence over RAF Fairford incident - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOWtHNEd1UkNWcGVXUE1HOW96YUlFbUQtRE8xdGstc1FlMTFSR0plZjc0Z21kR3lGczUwaEprd3pUcUtvX0x1VE5Cb28xSWNOd0R2UTM1TklYUFZjZVlJalVuZjRHZ0RpZVJHYVNuREdGeHJDdU9zLTRfTnRuOHNsellBOXBhLTAwSWxMV2g2d3FTa1c1dFNUM1o2c3Q4RWo5bjNpOVN3N25MaW9KZEpHQl9KRDlydlNP?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOWtHNEd1UkNWcGVXUE1HOW96YUlFbUQtRE8xdGstc1FlMTFSR0plZjc0Z21kR3lGczUwaEprd3pUcUtvX0x1VE5Cb28xSWNOd0R2UTM1TklYUFZjZVlJalVuZjRHZ0RpZVJHYVNuREdGeHJDdU9zLTRfTnRuOHNsellBOXBhLTAwSWxMV2g2d3FTa1c1dFNUM1o2c3Q4RWo5bjNpOVN3N25MaW9KZEpHQl9KRDlydlNP?oc=5\" target=\"_blank\">UK police arrest pair on suspicion of helping Iranian intelligence over RAF Fairford incident</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-20T17:10:12+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -541,24 +586,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Prince Harry says he wants to reconcile with family - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd09rVTlScGhTd2JOYXp6QUsyVjhkVF9NMmlOdmszZnFXckZfSGZhdm8yOEh4TS1ORFRXQV9yZlRUc2tqZ2VaM2M0QURVeUNHNnd3bVVxZ1U3MXk1SFBPZGNueXZ6RWVJSmdjYnJRSHR6S1R0bTVxMzNNTDVZYTFIU0t2S1ZHYWtPTm9NenhFaHRSOXJpYmdqWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxNd09rVTlScGhTd2JOYXp6QUsyVjhkVF9NMmlOdmszZnFXckZfSGZhdm8yOEh4TS1ORFRXQV9yZlRUc2tqZ2VaM2M0QURVeUNHNnd3bVVxZ1U3MXk1SFBPZGNueXZ6RWVJSmdjYnJRSHR6S1R0bTVxMzNNTDVZYTFIU0t2S1ZHYWtPTm9NenhFaHRSOXJpYmdqWQ?oc=5\" target=\"_blank\">Prince Harry says he wants to reconcile with family</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-20T16:47:02+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Global Moderate-Allocation Funds Built for the Long Haul - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXJocHFpZUZVb2VhalJ4dWhYaTFmMmNaOTE2bE0yeGVEdWlUdVljX1ktRzhITDVCa0lLWjRlRG13OENKTldma2NXbVNHaGVZM1FWQ2VVbzc1ellURHFSYkJUMHEyQTN6ckRPMFJLVXY4TENoZWVkQnY2ajJHdGNoSFRqaEs3Yk15ZEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQVXJocHFpZUZVb2VhalJ4dWhYaTFmMmNaOTE2bE0yeGVEdWlUdVljX1ktRzhITDVCa0lLWjRlRG13OENKTldma2NXbVNHaGVZM1FWQ2VVbzc1ellURHFSYkJUMHEyQTN6ckRPMFJLVXY4TENoZWVkQnY2ajJHdGNoSFRqaEs3Yk15ZEE?oc=5\" target=\"_blank\">Global Moderate-Allocation Funds Built for the Long Haul</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-10-20T16:39:04+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Ethereum staking hits record as yields fall and Solana activity grows: Bitwise",
@@ -584,15 +611,6 @@
       "summary": "OKX debuted OKX Shield in the U.S. on Tuesday, in what former New York Gov. Andrew Cuomo says is a sign of trust.",
       "published": "2026-10-20T16:20:40+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US Social Security Agency corrects nearly 15% of records in database cleanup - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUNCajhZQjRzejgtVU80TFBjYm9wR0VNVWI4MUYxbDF5STBUdS0yaXpVcm5WYjNMdDJEUFQtazdYR1lLQkRuQTFaWFFMc1dxZnVSaXpfMnkwcVBLUXBETlNJSDB6cUQyajAzcm1oNERUMnNpTGVBTVRvOFhRdjN1a0pPZjNWaWZmVFRmQnMwNTdVbS1RWFlwUFVpbFhiazFITWlSRUNGM1ZPem9sWWJGdFN0TTU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQLUNCajhZQjRzejgtVU80TFBjYm9wR0VNVWI4MUYxbDF5STBUdS0yaXpVcm5WYjNMdDJEUFQtazdYR1lLQkRuQTFaWFFMc1dxZnVSaXpfMnkwcVBLUXBETlNJSDB6cUQyajAzcm1oNERUMnNpTGVBTVRvOFhRdjN1a0pPZjNWaWZmVFRmQnMwNTdVbS1RWFlwUFVpbFhiazFITWlSRUNGM1ZPem9sWWJGdFN0TTU?oc=5\" target=\"_blank\">US Social Security Agency corrects nearly 15% of records in database cleanup</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-20T16:19:50+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -677,15 +695,6 @@
     },
     {
       "category": "Crypto",
-      "source": "The Block",
-      "title": "Blockchain.com rolls out crypto options as it pursues US derivatives licenses",
-      "link": "https://www.theblock.co/news/markets/2026-10-20-blockchain-com-launches-options-trading-bitcoin-ether-sol-421326",
-      "summary": "Blockchain.com now offers call and put options on BTC, ETH, SOL, HYPE, AVAX, XRP and TRX, with expiries up to one week.",
-      "published": "2026-10-20T14:31:29+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
       "source": "CoinDesk",
       "title": "BlackRock seeks to shield bitcoin investors from losses after rival fund weathers 50% crash",
       "link": "https://www.coindesk.com/markets/2026/10/20/blackrock-seeks-to-shield-bitcoin-investors-from-losses-after-rival-fund-weathers-50-crash",
@@ -757,24 +766,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "France's parliament approves vote to hit stablecoin trades with 31% capital gains tax",
-      "link": "https://www.coindesk.com/policy/2026/10/20/france-s-parliament-approves-vote-to-hit-crypto-to-stablecoin-trades-with-31-levy",
-      "summary": "",
-      "published": "2026-10-20T11:25:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Equity weakness could damp demand for bitcoin after biggest ETF inflows in a month",
-      "link": "https://www.coindesk.com/daybook-us/2026/10/20/equity-weakness-could-damp-demand-for-bitcoin-after-biggest-etf-inflows-in-a-month",
-      "summary": "",
-      "published": "2026-10-20T11:14:21+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Ukraine’s Zelenskyy says US decisions on Ukraine hard to explain",
@@ -789,6 +780,15 @@
       "title": "Anthropic, Musk vow billions in charitable donations - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGtrck1ENE4zY1JNMHJGV3VvX1Y1NlhLOTVqdkJJamctbjlXWEtOQ253QUpKSGNCRUZfZkpDLVN3MldnR05tQkZGT3FGSWc4c25KSGxzYmJxUGhKWnZTYkNyYm05MGdFeVB0dU5URjFEdGdBZFMxb1hxaGdOcXdBU0x0clY0TmNjNjAzV0hPcVI?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNTGtrck1ENE4zY1JNMHJGV3VvX1Y1NlhLOTVqdkJJamctbjlXWEtOQ253QUpKSGNCRUZfZkpDLVN3MldnR05tQkZGT3FGSWc4c25KSGxzYmJxUGhKWnZTYkNyYm05MGdFeVB0dU5URjFEdGdBZFMxb1hxaGdOcXdBU0x0clY0TmNjNjAzV0hPcVI?oc=5\" target=\"_blank\">Anthropic, Musk vow billions in charitable donations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-10-20T10:44:15+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Supreme Court to rule on bathtub alcohol - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG5ic2l6cU1NaHl1ejNMY0VhbENTdnZFR3pwNDBUM3FoQmhjRjRVZ2VRMDZXcmItWnZtUjc5aGg4QnpvaUxKTDV3azhYSXZrNFZjMnp2ZVJEUUE0dFVEMXJocXVEZzViVzg4WEVNR3gxSEFVTERLVnlmNE9OQ0xpYThB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNVG5ic2l6cU1NaHl1ejNMY0VhbENTdnZFR3pwNDBUM3FoQmhjRjRVZ2VRMDZXcmItWnZtUjc5aGg4QnpvaUxKTDV3azhYSXZrNFZjMnp2ZVJEUUE0dFVEMXJocXVEZzViVzg4WEVNR3gxSEFVTERLVnlmNE9OQ0xpYThB?oc=5\" target=\"_blank\">Supreme Court to rule on bathtub alcohol</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-10-20T10:44:15+00:00",
       "feed_type": "google_news_fallback"
     },
@@ -829,6 +829,24 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Saudis postpone ‘Davos in the desert’ amid attacks - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTlCZVQ1NmdpczhuYUF3TEVWbjhZeWtWUEdWVEhwTnoteDU3b0syZDVod3BMc1BWWXpSeGlQUXhSQmZYR2o1cnNDRzZaUHh3Z2RSdjlsUUhDVjltYVRlRVFSMWNrZHN0anNhV3ptRzAydGdBb3VHV3c5Z21YX0V6RHZ4ekxjWXVENWVIUg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOMTlCZVQ1NmdpczhuYUF3TEVWbjhZeWtWUEdWVEhwTnoteDU3b0syZDVod3BMc1BWWXpSeGlQUXhSQmZYR2o1cnNDRzZaUHh3Z2RSdjlsUUhDVjltYVRlRVFSMWNrZHN0anNhV3ptRzAydGdBb3VHV3c5Z21YX0V6RHZ4ekxjWXVENWVIUg?oc=5\" target=\"_blank\">Saudis postpone ‘Davos in the desert’ amid attacks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-10-20T05:08:09+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Empires of AI",
+      "link": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
+      "summary": "In this essay, Niall Ferguson, one of the world’s foremost experts on imperial history, teams up the former CEO of Google, Eric Schmidt, and the researcher Lisa Klaassen to make the provocative argument that AI is an inherently “imperial technology”—and to reveal what the fate of past empires might say about the future of U.S.-Chinese competition in a world shaped by AI.",
+      "published": "2026-10-20T04:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "Foreign Affairs",
       "title": "The Limits of American Power",
@@ -843,15 +861,6 @@
       "title": "The Fog of Tech",
       "link": "https://www.foreignaffairs.com/united-states/fog-tech-artificial-intelligence-mara-karlin-ai",
       "summary": "Mara Karlin, a defense policy expert, argues that war planners’ obsession with new technologies like AI and drones has the potential to make them blind to the realities of war fighting. Using examples from Gaza, Ukraine, and Iran, Karlin shows how this technology trap leads to false assumptions about the future of war.",
-      "published": "2026-10-20T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "Empires of AI",
-      "link": "https://www.foreignaffairs.com/china/empires-artificial-intelligence-ferguson-klaassen-schmidt",
-      "summary": "In this essay, Niall Ferguson, one of the world’s foremost experts on imperial history, teams up the former CEO of Google, Eric Schmidt, and the researcher Lisa Klaassen to make the provocative argument that AI is an inherently “imperial technology”—and to reveal what the fate of past empires might say about the future of U.S.-Chinese competition in a world shaped by AI.",
       "published": "2026-10-20T04:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -1029,24 +1038,6 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "Basketball is reaching new heights - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBJbTZtS25vamE3aDV6RXd6dkJTSHJLN3BnZi16TkdkTW9iVWhZREJwbS1Vb2o3a3J5MTJZclVOZmRRTDA1NXpQZnc4amtJQWpNM0xaUlNpUVNkRmRVWEdKRzZZaktkYWNHMERXZmpncXRkbW5yajUwcVB3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBJbTZtS25vamE3aDV6RXd6dkJTSHJLN3BnZi16TkdkTW9iVWhZREJwbS1Vb2o3a3J5MTJZclVOZmRRTDA1NXpQZnc4amtJQWpNM0xaUlNpUVNkRmRVWEdKRzZZaktkYWNHMERXZmpncXRkbW5yajUwcVB3?oc=5\" target=\"_blank\">Basketball is reaching new heights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-10-18T13:48:37+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "You can soon own stock in the Knicks - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvRVJ4cWpfVXVVX2JmUHZGUEhLS2J2RVFBYUdqaFNpMC1uY1p5bHFXZ2lwWWFtR2VaS2g1aXBvQ3N1OU5IeWNqemg5ODVOdXptdHVSTThHWmE5TFJLZG9Ecm5vVXl4amxRRHdQeEwtVEZXc0ZOR2R0bDEtV3c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBvRVJ4cWpfVXVVX2JmUHZGUEhLS2J2RVFBYUdqaFNpMC1uY1p5bHFXZ2lwWWFtR2VaS2g1aXBvQ3N1OU5IeWNqemg5ODVOdXptdHVSTThHWmE5TFJLZG9Ecm5vVXl4amxRRHdQeEwtVEZXc0ZOR2R0bDEtV3c?oc=5\" target=\"_blank\">You can soon own stock in the Knicks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-10-18T12:48:36+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
       "title": "The Nobel winner behind WNBA’s historic pay raise - Morning Brew",
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmJSYXNmUldldDlnYVRycEdRQjR6bDd1RFJjVWdrWG1tY2tidVNXaXRMWlc3dF8wMGtITU5pUU1Fd215c1VHejJYYVd4X3h1UHI0b183dUpzY0xvTDA1Q3NwVDhpcGlhQ3pZR2xrWDJxdFB2alRXQ0VpWUVKS2NLZjBwNnY5YkdPQjhRVA?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxPNmJSYXNmUldldDlnYVRycEdRQjR6bDd1RFJjVWdrWG1tY2tidVNXaXRMWlc3dF8wMGtITU5pUU1Fd215c1VHejJYYVd4X3h1UHI0b183dUpzY0xvTDA1Q3NwVDhpcGlhQ3pZR2xrWDJxdFB2alRXQ0VpWUVKS2NLZjBwNnY5YkdPQjhRVA?oc=5\" target=\"_blank\">The Nobel winner behind WNBA’s historic pay raise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
@@ -1056,10 +1047,10 @@
     {
       "category": "Investing & Markets",
       "source": "Morning Brew",
-      "title": "The colonel says KF-see ya later to Pepsi - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0FuTmxUSl9JaDJmZ2ZoSElyN0NnOG1wZk5ucEE2RFhDNnFBWUUzTkVQYnZIeU5nZTNSei12dmdNMTJ5SDZweElzQ2J6eXFYcWFUZVRrTVZaNERiOGZtdVVGS1lBakx0N3l0aS0ydFRHUWp6am9uckZmMHNGMy1nUWhFaw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNa0FuTmxUSl9JaDJmZ2ZoSElyN0NnOG1wZk5ucEE2RFhDNnFBWUUzTkVQYnZIeU5nZTNSei12dmdNMTJ5SDZweElzQ2J6eXFYcWFUZVRrTVZaNERiOGZtdVVGS1lBakx0N3l0aS0ydFRHUWp6am9uckZmMHNGMy1nUWhFaw?oc=5\" target=\"_blank\">The colonel says KF-see ya later to Pepsi</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-10-17T04:18:31+00:00",
+      "title": "You can soon own stock in the Knicks - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBvRVJ4cWpfVXVVX2JmUHZGUEhLS2J2RVFBYUdqaFNpMC1uY1p5bHFXZ2lwWWFtR2VaS2g1aXBvQ3N1OU5IeWNqemg5ODVOdXptdHVSTThHWmE5TFJLZG9Ecm5vVXl4amxRRHdQeEwtVEZXc0ZOR2R0bDEtV3c?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTFBvRVJ4cWpfVXVVX2JmUHZGUEhLS2J2RVFBYUdqaFNpMC1uY1p5bHFXZ2lwWWFtR2VaS2g1aXBvQ3N1OU5IeWNqemg5ODVOdXptdHVSTThHWmE5TFJLZG9Ecm5vVXl4amxRRHdQeEwtVEZXc0ZOR2R0bDEtV3c?oc=5\" target=\"_blank\">You can soon own stock in the Knicks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-10-18T12:48:36+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1097,6 +1088,15 @@
       "summary": "<p>As China and India have improved their relations in recent months, many observers have attributed this improvement to the end of U.S. strategic altruism toward India. Indeed, in the past year, China has watched India lose its balance and simmer in a sense of strategic disorientation due to America&#8217;s change of heart. Delegation after delegation of Indian strategists visited China, trying to mend ties in search of balance in the Chinese view. Many Chinese experts see India as returning to middle-power alignment for &#8220;economic authority and strategic freedom,&#8221; which translates into vigorous outreach to Europe, Japan, Canada, and all the</p>\n<p>The post <a href=\"https://warontherocks.com/chinas-strategic-reassessment-of-india/\">China’s Strategic Reassessment of India</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-10-16T07:30:27+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Stock Sector Outlooks: Morningstar’s Top Q4 Picks Across the US Market - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2NvMmQyd0FYeHM5cWs3dExZMVNqOW85QThfLWczcXh1LTlhUFJlXzhobWgwcjFEUGtvRjBUTW5RX2FVdDJZby1pLThHelNXSTNmNUozbjN1Ri0xV0lBVmpGYzJHVVpOTXNTSXlWQm9zRXpKMkRLLXpwMk9KZXVSZnRHbXlKbXNLd2hWQktfSkpzYzBRREVZMV9xQkNDYl9hanJOdk1iOFVkUHdF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2NvMmQyd0FYeHM5cWs3dExZMVNqOW85QThfLWczcXh1LTlhUFJlXzhobWgwcjFEUGtvRjBUTW5RX2FVdDJZby1pLThHelNXSTNmNUozbjN1Ri0xV0lBVmpGYzJHVVpOTXNTSXlWQm9zRXpKMkRLLXpwMk9KZXVSZnRHbXlKbXNLd2hWQktfSkpzYzBRREVZMV9xQkNDYl9hanJOdk1iOFVkUHdF?oc=5\" target=\"_blank\">Stock Sector Outlooks: Morningstar’s Top Q4 Picks Across the US Market</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-10-16T06:08:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -1326,19 +1326,19 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Israeli-Palestinian Conflict | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFdPTFB4dnRFVzNyN0FVWjNDbXc3VDFZMUUyU0JIejh5VEF3RFlYVXZXLVV0RkhIT2kxQ0hfbHVpNW5TcEk5SkNFZ2RFMkh4RGRPSU9zeHlfSldmSkU2MXVGbklfTkJ1eHVFQURfRVQ4dUJHOTlocjUwMW5tNTRFSjVjQm1DNGRB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFdPTFB4dnRFVzNyN0FVWjNDbXc3VDFZMUUyU0JIejh5VEF3RFlYVXZXLVV0RkhIT2kxQ0hfbHVpNW5TcEk5SkNFZ2RFMkh4RGRPSU9zeHlfSldmSkU2MXVGbklfTkJ1eHVFQURfRVQ4dUJHOTlocjUwMW5tNTRFSjVjQm1DNGRB?oc=5\" target=\"_blank\">Israeli-Palestinian Conflict | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2020-05-30T01:24:59+00:00",
+      "title": "Civil War in Myanmar | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5\" target=\"_blank\">Civil War in Myanmar | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2020-05-30T00:03:47+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Civil War in Myanmar | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5\" target=\"_blank\">Civil War in Myanmar | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2020-05-30T00:03:47+00:00",
+      "title": "Conflict Between India and Pakistan | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXVPRUIycnNRWlpITE5QY21CQkZDaTNLdjhvS3RvdHhtNVNab0lQNDl6VGhJTTYyMWhwS3dGMFVRSzVGVEdrbTRYQXFCV0c1R29UM2NVcXdGVTZwT1BvNnRXalJVUmpQMWlnRnp3ZzA1VXVMNXcwUVp6LUQ0TFpYTkRsakh0M2hBamxVdjJScWxHQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikgFBVV95cUxPZXVPRUIycnNRWlpITE5QY21CQkZDaTNLdjhvS3RvdHhtNVNab0lQNDl6VGhJTTYyMWhwS3dGMFVRSzVGVEdrbTRYQXFCV0c1R29UM2NVcXdGVTZwT1BvNnRXalJVUmpQMWlnRnp3ZzA1VXVMNXcwUVp6LUQ0TFpYTkRsakh0M2hBamxVdjJScWxHQQ?oc=5\" target=\"_blank\">Conflict Between India and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2020-05-29T15:53:02+00:00",
       "feed_type": "google_news_fallback"
     },
     {
