@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-22T04:12:48.242318+00:00",
+  "updated_at": "2026-10-22T09:56:55.858919+00:00",
   "item_count": 150,
   "failures": [
     {
@@ -9,6 +9,303 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin ETFs draw $528 million as ether funds snap five-day outflow streak",
+      "link": "https://www.theblock.co/news/markets/2026-10-22-bitcoin-etfs-draw-528-million-as-ether-funds-snap-five-day-outflow-streak-421904",
+      "summary": "Spot bitcoin ETFs attracted $528 million on Wednesday as BlackRock and Fidelity led a recovery in institutional demand.",
+      "published": "2026-10-22T09:56:16+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Meta’s stock falls in early trading amid broader sector selloff, despite well-received results",
+      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
+      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are now eyeing promising new businesses around the Muse personal assistant.",
+      "published": "2026-10-22T09:55:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Live updates: Bitcoin’s round trip to $85,000 burns traders on both sides",
+      "link": "https://www.coindesk.com/business/2026/10/22/live-updates-bitcoin-s-round-trip-to-usd85-000-burns-traders-on-both-sides",
+      "summary": "",
+      "published": "2026-10-22T09:54:26+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Starknet community overwhelmingly backs research into becoming an independent post-quantum Layer 1",
+      "link": "https://www.theblock.co/news/ecosystems/2026-10-22-starknet-community-backs-independent-post-quantum-layer-1-421885",
+      "summary": "Starknet's community backed research into becoming an independent post-quantum Layer 1, with a draft whitepaper expected in November.",
+      "published": "2026-10-22T09:32:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOVDZiLXZ3MjNBLVhJa0g3VzJ0SU9MalBLSjFrMWlJUVhXd21CY0x2OVo3SUVLV25tNnBDZVBKYnN4b1E2ZHd4Rm9FTzVGMDYySmtfU1lBRkxYUFl2eGlOWjllZEptTVZ6V3BVVFVtQVBaODVqWmp1V3dTckg2WUZVQVRYNTFIZU9yLU81bVJTNEhzZG8xR0xVNnFUcTRXSkg0cFVLOHBxSjVXSzdtdS13cFF4RkpscWdLeXdPb3Q4Sk9GQ1dybDZn?oc=5\" target=\"_blank\">EXCLUSIVE: TSMC seeks factory-equipment alternatives to thwart China's rare earths grip, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T09:20:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Layer 2 Scaling Solutions",
+      "link": "https://www.theblock.co/learn/campus/layer-2-scaling-solutions-419685",
+      "summary": "Layer 2 scaling solutions help blockchains like Ethereum process more activity without forcing every transaction to happen directly on the base chain.\nEthereum’s main network is secure and decentralized, but blockspace is limited. When demand rises, fees increase and users can get priced out. Layer 2s address this by moving transaction activity to scaling systems that sit around Ethereum while still using it for settlement, security, data posting, or verification.\nThe most important Layer 2 designs today are rollups. Rollups process transactions off-chain, bundle them together, and post data or proofs back to Ethereum. This makes transactions cheaper and faster while keeping a connection to Ethereum’s trust foundation.",
+      "published": "2026-10-22T09:15:50+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "European Midday Briefing: AI Stocks Slide, Oil Tops $112 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVdLYVVLcExoUDZqa19HUWdyZmx6TkFCeVdHTzd2amh2MG1hcXN0RkJ1NHlBRVBDaXZqM1YwRUhnQ1ZkM2tWaHdPdWF5WUp5UXQtNkd5Z1F2anRxNDEtbm11ai1HNklDVl9JTTNlQ1RQR0R0eDlGWUZkM3BnZ1RCN0k3RW92STQ3U3dUZFZMNkV1NjZ2RTBrWlhjUldtVkJJX2VUX29FY05ZMEVKUkE?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPaVdLYVVLcExoUDZqa19HUWdyZmx6TkFCeVdHTzd2amh2MG1hcXN0RkJ1NHlBRVBDaXZqM1YwRUhnQ1ZkM2tWaHdPdWF5WUp5UXQtNkd5Z1F2anRxNDEtbm11ai1HNklDVl9JTTNlQ1RQR0R0eDlGWUZkM3BnZ1RCN0k3RW92STQ3U3dUZFZMNkV1NjZ2RTBrWlhjUldtVkJJX2VUX29FY05ZMEVKUkE?oc=5\" target=\"_blank\">European Midday Briefing: AI Stocks Slide, Oil Tops $112</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-10-22T09:14:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "South Korea’s crypto bill nears completion while tax debate intensifies: reports",
+      "link": "https://www.theblock.co/news/regulation/2026-10-22-south-koreas-crypto-bill-nears-completion-421880",
+      "summary": "The bill seeks to establish a framework for digital assets, including licensing regimes for exchanges and rules for stablecoin issuance.",
+      "published": "2026-10-22T09:11:57+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "A top strategist has a warning for retail investors chasing the AI rally",
+      "link": "https://www.marketwatch.com/story/top-hsbc-strategist-has-a-warning-for-retail-investors-chasing-the-ai-rally-e0318ada?mod=mw_rss_topstories",
+      "summary": "Maxx Kettner, HSBC’s chief multiasset strategist, says the investors need to understand the goal posts are constantly moving with AI investing.",
+      "published": "2026-10-22T09:07:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why a JPMorgan strategist says the stock market’s tailspin might have run its course",
+      "link": "https://www.marketwatch.com/story/why-a-jpmorgan-strategist-says-the-stock-markets-tailspin-might-have-run-its-course-71571335?mod=mw_rss_topstories",
+      "summary": "Hedge fund positioning has lightened considerably since its recent September peak, and JPMorgan strategists deduce from this that downside for stocks is now limited.",
+      "published": "2026-10-22T09:04:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Football legend Peyton Manning has invested millions in real estate, including 2 Denver homes",
+      "link": "https://www.marketwatch.com/story/football-legend-peyton-manning-has-invested-millions-in-real-estate-including-2-denver-homes-2c4e355f?mod=mw_rss_topstories",
+      "summary": "NFL legend Peyton Manning has traded his days on the football field for a quieter life with his family, and has amassed an impressive real estate portfolio along the way.",
+      "published": "2026-10-22T09:03:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Defense News",
+      "title": "Ukraine to be able to buy military supplies via NATO agency: report",
+      "link": "https://www.defensenews.com/global/europe/2026/10/22/ukraine-to-be-able-to-buy-military-supplies-via-nato-agency-report/",
+      "summary": "The deal comes amid worsening U.S.-Ukraine relations since U.S. President Trump announced a diesel export deal with Russia this month to lower U.S. prices.",
+      "published": "2026-10-22T08:58:25+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Asian stocks tumble, bitcoin retreats as China enters bear market",
+      "link": "https://www.coindesk.com/markets/2026/10/22/asian-stocks-tumble-bitcoin-retreats-as-china-enters-bear-market",
+      "summary": "",
+      "published": "2026-10-22T08:49:08+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Why a global bank is slashing thousands of jobs — and what the Fed says about AI replacing workers",
+      "link": "https://www.marketwatch.com/story/why-a-global-bank-is-slashing-thousands-of-jobs-and-what-the-fed-says-about-ai-replacing-workers-9529b6ca?mod=mw_rss_topstories",
+      "summary": "Barclays on Thursday said it’s cutting 5,000 jobs, about 5% of its workforce, as the bank relies on artificial intelligence to perform back-office tasks.",
+      "published": "2026-10-22T08:47:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
+      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
+      "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
+      "published": "2026-10-22T08:46:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "MIT Technology Review",
+      "title": "AI’s hidden storage bill: What inference leaves behind",
+      "link": "https://www.technologyreview.com/2026/10/22/1146948/ais-hidden-storage-bill-what-inference-leaves-behind/",
+      "summary": "Ask most executives to picture the cost of AI and they’ll likely see GPUs—racks of accelerators with gigawatts of power—and a waitlist for silicon. But that picture leaves something out: Data storage costs. What happens to data after a model responds? Much of the back-end data that’s generated—from billions of daily prompts, images, and videos—needs&#8230;",
+      "published": "2026-10-22T08:41:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "City of Lynn, Massachusetts Earns 2026 New England Employee Benefits Council Best Practice Award for Innovative Approach to GLP-1 Coverage and Obesity Management - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVUpkLThONFk1MmZ4dkRKV3dJWTFvNVJteXVBdl9qOURTdWVYWndOSjAzbnF0ZUpZVTE5X09Lc1J1Y01GcjBSc0hsNUhRaDNQc04xSHZTMXJyX29abEI0RXhaQUxoaFpUVDdsYmZRTHdjR1NrLVdrbndqb0EzazgycXNCNEpac1Nqb1pERFE2QUZyZ0Q5NnhlZ1gtWGpvdE9uM0JKRUJWdkdHN25aUmw1NE8zX2xlankwX3FKTEYzOVl3cUoyTXkwaWcyUk90aUt6WnVsU3htZVlSTlJCbG9VX3pBT2wxRlc3aktQZ29DWjJJdmJaWkVPNlpON184bHRaejIwWUFKYnp2b2p2OXY0dVJNWkRjR0RIc3ZTR21tUFNJOTd2cWZRU1lXRVF1dGVTM3FSbGVzWVdjclJaWkgtQVYzdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwJBVV95cUxQVUpkLThONFk1MmZ4dkRKV3dJWTFvNVJteXVBdl9qOURTdWVYWndOSjAzbnF0ZUpZVTE5X09Lc1J1Y01GcjBSc0hsNUhRaDNQc04xSHZTMXJyX29abEI0RXhaQUxoaFpUVDdsYmZRTHdjR1NrLVdrbndqb0EzazgycXNCNEpac1Nqb1pERFE2QUZyZ0Q5NnhlZ1gtWGpvdE9uM0JKRUJWdkdHN25aUmw1NE8zX2xlankwX3FKTEYzOVl3cUoyTXkwaWcyUk90aUt6WnVsU3htZVlSTlJCbG9VX3pBT2wxRlc3aktQZ29DWjJJdmJaWkVPNlpON184bHRaejIwWUFKYnp2b2p2OXY0dVJNWkRjR0RIc3ZTR21tUFNJOTd2cWZRU1lXRVF1dGVTM3FSbGVzWVdjclJaWkgtQVYzdw?oc=5\" target=\"_blank\">City of Lynn, Massachusetts Earns 2026 New England Employee Benefits Council Best Practice Award for Innovative Approach to GLP-1 Coverage and Obesity Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-10-22T08:35:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "The Endless Chip War",
+      "link": "https://warontherocks.com/cogs-of-war/the-endless-chip-war/",
+      "summary": "<p>This exclusive Cogs of War interview is with Rakesh Kumar, the author of Chip Age: How Semiconductors Became the World&#8217;s Most Powerful Resource. Rakesh has worked as a co-founder, professor, researcher, and advisor in the chip industry for more than two decades. Chipmaking is an evergreen technology with ever-increasing geopolitical implications, and so we asked him to share his thoughts on his book and the field&#8217;s future. &#160;&#160;Sign Up for Our Newsletter&#160;You&#8217;ve worked with and around the chip industry for decades. If you could clear up one misconception about chips, what would it be?It is worth clarifying that chip wars,</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-endless-chip-war/\">The Endless Chip War</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-10-22T08:00:46+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "Brazil’s Economic Impasse",
+      "link": "https://www.foreignaffairs.com/brazil/brazils-economic-impasse",
+      "summary": "Monica de Bolle, an expert in Brazilian economic policy, makes an authoritative argument that Brazil’s economic problems will persist no matter the outcome of the country’s presidential election. A Flávio Bolsonaro administration would fare no better than Lula when it comes to reducing debt and delivering growth—and Bolsonaro’s illiberal policies could make the economic picture even worse.",
+      "published": "2026-10-22T08:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "A Less-Is-More Strategy for America",
+      "link": "https://www.foreignaffairs.com/united-states/less-more-strategy-america",
+      "summary": "Barry Posen, a professor at MIT, is one of America's leading experts on international security. He argues that the United States military is breaking down because it has been overused and overextended over the last 30 years, and that the only way to repair it is for Washington to exercise much more restraint.",
+      "published": "2026-10-22T08:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Love affair to staged arrest: how a Romanian from England was jailed in Russia as a spy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhoaWxKeDNRbGdTZjZ2SlJvZHRVaG95WkpFQWZndWlnRjk1UFhNVGlEN1plakN3TFNxT1dRanFFa3dJQUNDaG1BalJkUWxnUjdBeTQ2VC1QalFUWC1NbTktR094VTZHMUpXMklISUJreWNoaEExX1BUMTg3T0I5VEVXTHBlX0lmYmYzV2M5VmJfR0s3ZmRmenJMZDNBUnViZFU3MFA4bWhFekJ4NHRj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirwFBVV95cUxObmhoaWxKeDNRbGdTZjZ2SlJvZHRVaG95WkpFQWZndWlnRjk1UFhNVGlEN1plakN3TFNxT1dRanFFa3dJQUNDaG1BalJkUWxnUjdBeTQ2VC1QalFUWC1NbTktR094VTZHMUpXMklISUJreWNoaEExX1BUMTg3T0I5VEVXTHBlX0lmYmYzV2M5VmJfR0s3ZmRmenJMZDNBUnViZFU3MFA4bWhFekJ4NHRj?oc=5\" target=\"_blank\">Love affair to staged arrest: how a Romanian from England was jailed in Russia as a spy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T07:49:29+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "Deception in Mass Autonomous Warfare",
+      "link": "https://warontherocks.com/deception-in-mass-autonomous-warfare/",
+      "summary": "<p>&#8220;[T]he exigencies of desperate survival do stimulate wise leaders to seek such unorthodox solutions.&#8221; &#8212;Barton Whaley, StratagemOn the night of Jan. 5, 2025, my first mission in the Pokrovsk command post was to make a fake radio call. We knew Russian forces were listening in. We did not know whether the position our men were due to occupy the next day, the Homar trench at Kotlyne, was still in our hands or if the enemy had already taken it. I did as instructed: I pretended to be in the trench and called the command center for help.Two minutes later, through</p>\n<p>The post <a href=\"https://warontherocks.com/deception-in-mass-autonomous-warfare/\">Deception in Mass Autonomous Warfare</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-10-22T07:30:37+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "War on the Rocks",
+      "title": "The West Is Thinking Too Small About Ukraine’s Victory",
+      "link": "https://warontherocks.com/the-west-is-thinking-too-small-about-ukraines-victory/",
+      "summary": "<p>Since fall 2023, Ukraine&#8217;s supporters have fallen into a pattern: Ukrainians warn that Russia is targeting its energy infrastructure to prevent them from heating their homes, schools, and businesses in the coming winter. Allies provide insufficient support to Ukraine&#8217;s efforts to harden its energy grid and other critical infrastructure. Ukrainians devise new ways to stay warm, stretch the aid they do get as far as it can go, and survive the winter without catastrophic collapse. Finally, its supporters applaud their resilience, breathe a sigh of relief at the first signs of spring, and busy themselves with other things until the</p>\n<p>The post <a href=\"https://warontherocks.com/the-west-is-thinking-too-small-about-ukraines-victory/\">The West Is Thinking Too Small About Ukraine&#8217;s Victory</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
+      "published": "2026-10-22T07:30:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhDZXVHTEtXNnJyeEx0a1ZvUS1iU3lGNV9Ia2dNTmljcm5PaVNvYUZ6ZkJsUGtoTjF6NDktS0FYeEstZEhOVkxvWUZmNU9VV05IUElNbTlHZk1iZGFNUVdzNXBXX01MVW03LXhnRTNVbzZRYlBKdExpeU5ZbHk3aldOVktTT2NRQmJ3Yjd4OEM4Q21JZU5GejMzRUhBbmxBamtBVmEzRGQtb1VnZ0E5dXJ5RUlfa1M2bHJvLTdWcDBjeWl0aFhSVzVn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiygFBVV95cUxPUVhDZXVHTEtXNnJyeEx0a1ZvUS1iU3lGNV9Ia2dNTmljcm5PaVNvYUZ6ZkJsUGtoTjF6NDktS0FYeEstZEhOVkxvWUZmNU9VV05IUElNbTlHZk1iZGFNUVdzNXBXX01MVW03LXhnRTNVbzZRYlBKdExpeU5ZbHk3aldOVktTT2NRQmJ3Yjd4OEM4Q21JZU5GejMzRUhBbmxBamtBVmEzRGQtb1VnZ0E5dXJ5RUlfa1M2bHJvLTdWcDBjeWl0aFhSVzVn?oc=5\" target=\"_blank\">Israeli settlers steal Palestinians' olives as attacks on harvest grow more violent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T07:15:44+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "China seeks to seize 61,800 BTC tied to $5.7 billion fraud scheme",
+      "link": "https://www.coindesk.com/markets/2026/10/22/china-seeks-to-seize-61-800-btc-tied-to-usd5-7-billion-fraud-scheme",
+      "summary": "",
+      "published": "2026-10-22T06:24:10+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "China's Xi calls for qualitative improvement, measurable growth in economy - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxPWllVbXM0azZlXzdGa012NnR5VUNOMVZ1VmFlNzBFanFsMGdwVVpucGFDMm1Yc2IzNVp3SElaZnpHSTBYZWF3N0o2UWRsaGxmTXRmMlVPNkt6TzVZUUF5V05aUnNucFJyYnNKRTBZNXNqOTl0WWNCUl9udHZYdi12MFhvTFVaVjRid1RaOTktaHhTX21VVklYb2dWSW5IMVdTTWREcjFHOUdyczlpWDdjR1ZDaw?oc=5\" target=\"_blank\">China's Xi calls for qualitative improvement, measurable growth in economy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T06:13:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026 - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0pwaXRXY250QlJhREhaOWJuV1A0a0tWNGRXLW9VdjlFS2dSR09IdFNSRnA1VnotZW9ydlUwYy1GN3Rhb3JmaDlFRzZROVZyUUtqcUg4NzN3S1lfRzBtMERGcmREaFdvUXFwS2pCSXlLdzVUaDRLVm91TVZ4c1p2Q2xwSEZudGhuRkVhOGJLUDY0SUhuMFlVeFkyOEtWYlBvOVFBQW9lV2IzSTFxb09lT0k4d2tmZlk?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxQc0pwaXRXY250QlJhREhaOWJuV1A0a0tWNGRXLW9VdjlFS2dSR09IdFNSRnA1VnotZW9ydlUwYy1GN3Rhb3JmaDlFRzZROVZyUUtqcUg4NzN3S1lfRzBtMERGcmREaFdvUXFwS2pCSXlLdzVUaDRLVm91TVZ4c1p2Q2xwSEZudGhuRkVhOGJLUDY0SUhuMFlVeFkyOEtWYlBvOVFBQW9lV2IzSTFxb09lT0k4d2tmZlk?oc=5\" target=\"_blank\">IMF sees 1.3% contraction in Middle East, North Africa and Pakistan in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T06:04:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Solana’s biggest network change since 2020 is live. Here’s how users benefit",
+      "link": "https://www.coindesk.com/tech/2026/10/22/solana-completes-alpenglow-upgrade-here-s-what-it-means-for-users",
+      "summary": "",
+      "published": "2026-10-22T05:24:58+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs attract $1.08 billion in 3 days but it may not be enough for a steep rally",
+      "link": "https://www.coindesk.com/markets/2026/10/22/bitcoin-etfs-attract-usd1-08-billion-in-3-days-but-it-may-not-be-enough-for-a-steep-rally",
+      "summary": "",
+      "published": "2026-10-22T04:41:59+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iran's IRGC Navy says seven vessels hit, warns US of wider response - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjlJZ1lSN1BZWFJWdDlKUWh3LWRselVrNHpobGthcDVzdnZ6bjJfM1dZcTJONUtTdURHc0ZaQkk0cUhzTlp0NVZocWlTNEhIWTB4TkN6VVZPMHdfN2ZsYXVmY2NISEN6dnRERW01T2dXbXNsb2dMNHl1UFdiTW1LVzJsZU1KYThwVDZ5OHdvYzZQMEZ6djduOERMNEI4YVVVTDFqVHBNZlpOcmJiNnppOVNJVjVzbUU?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxNcjlJZ1lSN1BZWFJWdDlKUWh3LWRselVrNHpobGthcDVzdnZ6bjJfM1dZcTJONUtTdURHc0ZaQkk0cUhzTlp0NVZocWlTNEhIWTB4TkN6VVZPMHdfN2ZsYXVmY2NISEN6dnRERW01T2dXbXNsb2dMNHl1UFdiTW1LVzJsZU1KYThwVDZ5OHdvYzZQMEZ6djduOERMNEI4YVVVTDFqVHBNZlpOcmJiNnppOVNJVjVzbUU?oc=5\" target=\"_blank\">Iran's IRGC Navy says seven vessels hit, warns US of wider response</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T04:40:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "XRP Ledger bug fix moved to November after validator support dipped for two hours",
+      "link": "https://www.coindesk.com/tech/2026/10/22/xrp-ledger-bug-fix-moved-to-november-after-validator-support-dipped-for-two-hours",
+      "summary": "",
+      "published": "2026-10-22T04:36:20+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Asian governments step up cyber defences after PHP flaw - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdktBazJSdlhwYU9JVlI3SEFkZ2k1V0plWjZ6N2RxOFdmZ3VubFZmM01zbGhsX2k1Z3dWQ1pwZjdQeS1Sa3NFN1ltampIQjhmT2t5Sk5KV1luajZoa3JqUzVCRjRFV2ptT2loWVFkYWRnVGFPZWh1VjRtMlo0aE1Nc3FGemtOOVZxNUItM2ZYOGMyaDN1c1RfdlhFZFpZclNYdnF6RWdmZjVicWhXMGs1NUx1SkNHWGNY?oc=5\" target=\"_blank\">Asian governments step up cyber defences after PHP flaw</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T04:08:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdWF1N1NOek9pQi1IYkRUMll1bHRXOFluVmtuYm9LR1dtMThlWlZDYXB5RlVwYko2MVFRS01SSnIwRGhMRnFULTZvdURKV0MxOHk1clF4NW1wTkJUOWkyMng4b2J5QjI4X2tLRkVMSGxDcTIxV0xXTThnZkxvQjVUajZBMmY4RURVTzQtcFN1T2gybVJWRkMwX0RCdkxGTVpLbUdlT0paVU80cWc0VS0xenk0QnZRYS1B?oc=5\" target=\"_blank\">Gold drops over 1% as oil rally reinforces higher-for-longer rate outlook</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-10-22T04:03:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
     {
       "category": "Crypto",
       "source": "CoinDesk",
@@ -28,39 +325,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Asian markets dip as investors weigh tech earnings, Gulf tensions - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxQNmlzbXFUNWNXc3U3RHRac2lYVEhXNjZmZGw0Q19yNVRORUEtak91QlJnTEVqcGhWT2xuT2RmOHdTVHlyN1JmSHRVZEpfMzgtNEVMT1RCWk1VNGswaVFYTXI4WlFpUE95aEJid1NxNVNBdzBGX0pzOUQwMnZnQ25kOVNXQQ?oc=5\" target=\"_blank\">Asian markets dip as investors weigh tech earnings, Gulf tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-22T02:15:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Dip in the dollar takes a breather with Fed in focus - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPeE9SaFExZHZyS2plVTA2NHNkbDFpcGpBSVVhc3J2NmZrRmtMRW1uY0FUU0JDMGtFQncxcnB3bUlFY21oa3V2VTZtOWsxcEVrWFhfOWZOd2oxY09XaWtpQ2ltWnE2NFFTYmg0OVNhaHJLVFdocG9NdGh1N3hjVzRPZUJlVW8wRFU3N24zR0tZbjk2bkNGVFhXaE1qbw?oc=5\" target=\"_blank\">Dip in the dollar takes a breather with Fed in focus</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-22T02:10:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "The Social Security Administration wants more babies signed up for ‘Trump accounts.’ But there’s still a catch.",
       "link": "https://www.marketwatch.com/story/the-social-security-administration-wants-more-babies-signed-up-for-trump-accounts-but-theres-still-a-catch-4096f16e?mod=mw_rss_topstories",
       "summary": "Social Security is looking to reverse an initially slow uptake on Trump accounts",
       "published": "2026-10-22T01:50:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "This wonky maneuver kept Mark Zuckerberg from fleeing a California billionaire tax",
-      "link": "https://www.marketwatch.com/story/this-wonky-maneuver-kept-mark-zuckerberg-from-fleeing-a-california-billionaire-tax-1de34562?mod=mw_rss_topstories",
-      "summary": "Facing a potentially giant tax bill that could threaten his voting power, Zuckerberg was days away from listing his Palo Alto home when Meta agreed to create a new class of stock.",
-      "published": "2026-10-22T00:48:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -80,33 +350,6 @@
       "summary": "<p>The Army wants to buy up to 100 new USVs and add autonomous capabilities into existing crewed vessels.</p>\n<p>The post <a href=\"https://www.twz.com/sea/how-the-u-s-armys-navy-aims-to-go-more-autonomous-with-its-vessels-in-the-pacific\">How The U.S. Army’s &#8216;Navy&#8217; Aims To Go More Autonomous With Its Vessels In The Pacific</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-10-21T23:30:27+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Tesla’s stock falls as Elon Musk leaves investors wanting more",
-      "link": "https://www.marketwatch.com/story/teslas-stock-falls-as-elon-musk-leaves-investors-wanting-more-eb347f38?mod=mw_rss_topstories",
-      "summary": "SpaceX merger commentary is arguably the biggest thing on the minds of Tesla investors right now — and Musk had nothing new to offer on Wednesday.",
-      "published": "2026-10-21T23:29:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Meta’s stock rises as investors glimpse an opportunity that could dwarf the ad business",
-      "link": "https://www.marketwatch.com/story/metas-stock-rises-as-investors-glimpse-an-opportunity-that-could-dwarf-the-ad-business-89369c6c?mod=mw_rss_topstories",
-      "summary": "Meta’s core advertising business delivered a strong quarter, but investors are eyeing promising new businesses around the Muse personal assistant",
-      "published": "2026-10-21T23:07:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Philippines exploring deeper cooperation with Taiwan to protect cables - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXI3SFRVTXFrMURWSExwd01uY0lFUVZ4M3J2amc4XzE3QVBidmZZOU9qVUFkQ3c3U1RSMG8wOTZ1M1M5Q1RXM0RwUzN5MkpILTEwQ3hjdjlQRU1jWVUyb1JXT3BFdzRWdFdyZzcxLXNoUk5hWDlTY2I3LWRpYkpZUkg1bmJtamZRYnMtdTJvOG5VX21RQ05fRkJCY082Ql90ME1zYllHZ1MyS211WWdDd2l3WFJ0dw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOTXI3SFRVTXFrMURWSExwd01uY0lFUVZ4M3J2amc4XzE3QVBidmZZOU9qVUFkQ3c3U1RSMG8wOTZ1M1M5Q1RXM0RwUzN5MkpILTEwQ3hjdjlQRU1jWVUyb1JXT3BFdzRWdFdyZzcxLXNoUk5hWDlTY2I3LWRpYkpZUkg1bmJtamZRYnMtdTJvOG5VX21RQ05fRkJCY082Ql90ME1zYllHZ1MyS211WWdDd2l3WFJ0dw?oc=5\" target=\"_blank\">Philippines exploring deeper cooperation with Taiwan to protect cables</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-21T23:05:43+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -136,15 +379,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiywFBVV95cUxNcGZVb0JBZXNEbHJDcHFKVjkxal90OGdZZm11Ukswb0YweE9WZzVHUzFrWnM2dy1PNzBzV0NBOEI1OWFHc2JXR2RxX1p0NkhSeG5PRW5ROVlFQ1JpZVlVTHhreFgwYUFWTDkyM2R2S29ld2l4U0RscTU0bVdGc0tad0V0aTJCMlczc0lyajBLZXJMdUtaNDhDVTM5enFhbFl2Q0lQUUVkVkJmY2lpbXRXVHRIbnFsWmNkMGVRVF9RbFV4S1VYZ0xDTl9zbw?oc=5\" target=\"_blank\">North Korea's Kim Yo Jong warns South Korea, says border loudspeakers to be ready within days</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-21T21:51:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Enterprises keep buying software upgrades that IT thinks will make things worse",
@@ -154,30 +388,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Why investors should be skeptical of a potential Tesla-SpaceX merger",
-      "link": "https://www.marketwatch.com/story/why-investors-should-be-skeptical-of-a-potential-tesla-spacex-merger-9e119d32?mod=mw_rss_topstories",
-      "summary": "Wall Street is all abuzz over a possible merger between Tesla and SpaceX. But there is a high probability that such a merger would be a bad idea.",
-      "published": "2026-10-21T21:44:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Tesla profits drop 43% in Q3",
       "link": "https://arstechnica.com/cars/2026/10/tesla-profits-drop-43-in-q3/",
       "summary": "Tesla’s once-booming energy storage business also shrunk in Q3 2026.",
       "published": "2026-10-21T21:35:07+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Trump says data centers should generate their own electricity — but experts say only states can mandate that",
-      "link": "https://www.marketwatch.com/story/trump-says-data-centers-should-generate-their-own-electricity-but-experts-say-only-states-can-mandate-that-415dcaad?mod=mw_rss_topstories",
-      "summary": "The president’s statement comes as a voter backlash against the facilities intensifies ahead of the midterm elections.",
-      "published": "2026-10-21T21:31:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -194,27 +410,9 @@
       "source": "TechCrunch AI",
       "title": "Meta says Muse has over 10M users, with shopping a top activity",
       "link": "https://techcrunch.com/2026/10/21/meta-says-muse-has-over-10m-users-with-shopping-a-top-activity/",
-      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during Q3 earnings. The AI app now has over 10M users.",
+      "summary": "Meta Muse users are adopting the app for shopping and personal productivity, the company said during its Q3 earnings call. The AI app now has over 10M users.",
       "published": "2026-10-21T21:14:19+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Oil is now flowing out of the Persian Gulf like before the Iran war. Why prices may still not come down anytime soon.",
-      "link": "https://www.marketwatch.com/story/oil-is-now-flowing-out-of-the-persian-gulf-like-before-the-iran-war-why-prices-may-still-not-come-down-anytime-soon-56df2f48?mod=mw_rss_topstories",
-      "summary": "Oil flows out of the Persian Gulf in October nearly returned to levels seen before the start of the Iran war, but traders remain wary about a fragile recovery.",
-      "published": "2026-10-21T21:14:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "4 Reasons To Think US Inflation Will Come Back Down - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOdG1HVklRdG9wMURqXzRZZE5xNW1VTUF3OERPaUxrazlqZDhyLVZmbEJRQW81R3FHVDViLWJTaGJsS21QWTMzd29ZbTIyM3ZGaDFYeVdaajN4dXg4N3lNNHM2SzlXSUhFNU1CQUhxdW1qMDlESWp3ZF8zYnkyNWYyM3llZ3ozcGt1N0NDMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxOdG1HVklRdG9wMURqXzRZZE5xNW1VTUF3OERPaUxrazlqZDhyLVZmbEJRQW81R3FHVDViLWJTaGJsS21QWTMzd29ZbTIyM3ZGaDFYeVdaajN4dXg4N3lNNHM2SzlXSUhFNU1CQUhxdW1qMDlESWp3ZF8zYnkyNWYyM3llZ3ozcGt1N0NDMA?oc=5\" target=\"_blank\">4 Reasons To Think US Inflation Will Come Back Down</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-10-21T20:55:59+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -224,24 +422,6 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/10/air-force-needs-1509-combat-ready-jets-by-2035-service-tells-congress/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2024/07/240728_f35s_fog_USAF-scaled-e1722204407178-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>Lt. Gen. David Tabor also confirmed reporting that the Air Force is considering a new build F-16, but said that decision wasn&#8217;t &#8220;urgent.&#8221;</p>",
       "published": "2026-10-21T20:46:13+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Venezuela to attract investors after elections, Branson says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjM3czJkMGVZSHMzXzBkcUhRV204bGpXZm9MaDhEeFNlNFl0RHI0SHVBU1JnMklWaDF6NnVXY1doajRyUUhGbHZZVnNiaVVScnFaY1FaSEJGdVBqbmxoVFk5RnBraTJEM2hmb29wbGRMRFpibjRJdmszTTNTSWczTlpLODhyaGRzNF9xdjV3Wk40QmxIUzRRN1M4dzVEZWdISnVfRXNSY2dfOFk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxQYjM3czJkMGVZSHMzXzBkcUhRV204bGpXZm9MaDhEeFNlNFl0RHI0SHVBU1JnMklWaDF6NnVXY1doajRyUUhGbHZZVnNiaVVScnFaY1FaSEJGdVBqbmxoVFk5RnBraTJEM2hmb29wbGRMRFpibjRJdmszTTNTSWczTlpLODhyaGRzNF9xdjV3Wk40QmxIUzRRN1M4dzVEZWdISnVfRXNSY2dfOFk?oc=5\" target=\"_blank\">Venezuela to attract investors after elections, Branson says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-21T20:34:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Lawmakers say US briefing showed Russia targeting Democrats with misinformation - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFJLUEhfVDJRWmZsVlVqRnB3WHlMUFZOeXJoNUF3WjhsNVJ6SUI2ajNxck5SUHBLTTI5dzhvV1JkaF9OS2R6SjQ0bnFpV011blVVQ1hKVkpMRkx6OHpqR1JJM1BGY2hYVExYQ1hUb01JV0tMc0FTNFIyY3dpTjFQNVVtNXozb1VjSkMwU1h6UWJ6TEFWRVE1cjJYVjQ5QTNPX2hpUDJabEhWbldxNjZqdFJEb1pjQjJjbm1TVDViWFNvQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRFJLUEhfVDJRWmZsVlVqRnB3WHlMUFZOeXJoNUF3WjhsNVJ6SUI2ajNxck5SUHBLTTI5dzhvV1JkaF9OS2R6SjQ0bnFpV011blVVQ1hKVkpMRkx6OHpqR1JJM1BGY2hYVExYQ1hUb01JV0tMc0FTNFIyY3dpTjFQNVVtNXozb1VjSkMwU1h6UWJ6TEFWRVE1cjJYVjQ5QTNPX2hpUDJabEhWbldxNjZqdFJEb1pjQjJjbm1TVDViWFNvQQ?oc=5\" target=\"_blank\">Lawmakers say US briefing showed Russia targeting Democrats with misinformation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-21T20:32:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -259,24 +439,6 @@
       "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkhPWDM1ZGcyYmExei05VjN3LVlFTmtuSE1ONFdsOExvcHVCSWZGZ0s3TFQ3NUd5amsyUE5sOURVeDlSTk16WWtHbWQ3QklkeXVjekVyTTh1ZWtyZU1zUWpfLVMyaXZXbThxQUtXR0laLWVTY25JQUhVbDdqTjJpNGRpdTlhUWxEVXM2Q2J3V2Y4dE5OZ09mYWw3ZW42OUdXMW8wOVhVRkpFRzJs?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxQTkhPWDM1ZGcyYmExei05VjN3LVlFTmtuSE1ONFdsOExvcHVCSWZGZ0s3TFQ3NUd5amsyUE5sOURVeDlSTk16WWtHbWQ3QklkeXVjekVyTTh1ZWtyZU1zUWpfLVMyaXZXbThxQUtXR0laLWVTY25JQUhVbDdqTjJpNGRpdTlhUWxEVXM2Q2J3V2Y4dE5OZ09mYWw3ZW42OUdXMW8wOVhVRkpFRzJs?oc=5\" target=\"_blank\">Surging Export Similarity is Fueling Advanced Economy Trade Tensions With China</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-10-21T20:25:42+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXFZb1FxUlowcWMwdURfWXIyRlQ0Q09mOWltdHd1bVR5V2I4Mlg4LTNKbmNCQ2RURk90MjMwVXlSRFYxZVJ0ZEJMN0JMRlNiNS1qOEZITmtNRjdkU204QUtEV2ZkVlEzdUR5T2pHSENXcjFzN0pkelBfRV9DZXE1RU9waFlRVVJLYXcwcnNnZ1RFelNwSW83ZVBLRE9YbDdLblhveDJwTVZic1RGOWMxWUZhZ3V2Y3JLa0tVdUQ4VzZjeVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPWXFZb1FxUlowcWMwdURfWXIyRlQ0Q09mOWltdHd1bVR5V2I4Mlg4LTNKbmNCQ2RURk90MjMwVXlSRFYxZVJ0ZEJMN0JMRlNiNS1qOEZITmtNRjdkU204QUtEV2ZkVlEzdUR5T2pHSENXcjFzN0pkelBfRV9DZXE1RU9waFlRVVJLYXcwcnNnZ1RFelNwSW83ZVBLRE9YbDdLblhveDJwTVZic1RGOWMxWUZhZ3V2Y3JLa0tVdUQ4VzZjeVk?oc=5\" target=\"_blank\">El Salvador says Haiti gangs holding 4 force members hostage, announces new rescue mission</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-21T20:10:21+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxORl9ZNjNjcFpVTWt6R2RicGZDYy01UzhzSFcwWFNXUGtZaGZCUUhOSXdyMjg2aXlDYVFnNGQ4VVJ1dXhyV3NxQmV4RmRWRE9uWnBhSUp4STlYSmtWMFotWlhiMHZFeWR4N29BbkZzZjMtTS04MGo0MXVWS2pyZURsOENFbnZaUXNkQjBlQUFRa2JySnEtWF9ERGxQNzdGZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxORl9ZNjNjcFpVTWt6R2RicGZDYy01UzhzSFcwWFNXUGtZaGZCUUhOSXdyMjg2aXlDYVFnNGQ4VVJ1dXhyV3NxQmV4RmRWRE9uWnBhSUp4STlYSmtWMFotWlhiMHZFeWR4N29BbkZzZjMtTS04MGo0MXVWS2pyZURsOENFbnZaUXNkQjBlQUFRa2JySnEtWF9ERGxQNzdGZw?oc=5\" target=\"_blank\">EXCLUSIVE: Senior UAE diplomat Lana Nusseibeh enters race for UN chief</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-10-21T20:05:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -514,48 +676,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "How a16z-backed DATA is rethinking its blockchain strategy after $30 million Sui deal",
-      "link": "https://www.coindesk.com/business/2026/10/21/how-a16z-backed-data-is-rethinking-its-blockchain-strategy-after-usd30-million-sui-deal",
-      "summary": "",
-      "published": "2026-10-21T15:22:46+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Got milk? US Army refines its pasteurization power",
       "link": "https://www.defensenews.com/news/your-military/2026/10/21/got-milk-us-army-refines-its-pasteurization-power/",
       "summary": "Thirteen U.S. Army Veterinary Corps officers milked a trip to Denmark last month, completing Europe Dairy Pasteurization Audit Training.",
       "published": "2026-10-21T15:18:41+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Grayscale expands in-kind subscriptions to 10 crypto ETFs and trusts",
-      "link": "https://www.theblock.co/news/markets/2026-10-21-grayscale-expands-in-kind-subscriptions-10-crypto-etfs-421559",
-      "summary": "Grayscale expands in-kind subscriptions to 10 crypto funds, letting eligible investors swap tokens for shares without selling for cash.",
-      "published": "2026-10-21T15:12:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bybit will look for big broker partnerships to take on Robinhood in the U.S.",
-      "link": "https://www.coindesk.com/business/2026/10/16/bybit-will-look-for-big-broker-partnerships-to-take-on-robinhood-in-the-u-s",
-      "summary": "",
-      "published": "2026-10-21T15:09:22+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto Long & Short: Why real-world assets need fixed-rate loans onchain",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/10/21/crypto-long-and-short-why-real-world-assets-need-fixed-rate-loans-onchain",
-      "summary": "",
-      "published": "2026-10-21T15:00:53+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -574,15 +700,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/10/21/german-military-raises-sabotage-threat-level-amid-warning-of-russian-attacks-report/",
       "summary": "German forces themselves could face attacks at home, according to a classified internal analysis reported by public broadcaster WDR and newspaper SZ.",
       "published": "2026-10-21T14:27:08+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Anza’s Alpenglow goes live on Solana, cutting finality to 150 milliseconds",
-      "link": "https://www.theblock.co/news/ecosystems/2026-10-21-anzas-alpenglow-goes-live-on-solana-cutting-finality-to-150-milliseconds-421508",
-      "summary": "Solana activated Alpenglow, replacing TowerBFT and cutting transaction finality from 12.8 seconds to about 150 milliseconds.",
-      "published": "2026-10-21T14:24:39+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -640,15 +757,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Standard Chartered signs definitive agreements to acquire Zodia Custody",
-      "link": "https://www.theblock.co/news/business/2026-10-21-standard-chartered-signs-definitive-agreements-to-acquire-zodia-custody-421535",
-      "summary": "Standard Chartered has signed definitive agreements to acquire Zodia Custody, subject to regulatory approval.",
-      "published": "2026-10-21T12:44:53+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "HAAi is a producer striving to stay “on the edge of being uncomfortable”",
@@ -658,48 +766,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Why centralized exchanges refuse to list legacy crypto tokens without explicit SEC immunity",
-      "link": "https://www.coindesk.com/policy/2026/10/21/why-centralized-exchanges-refuse-to-list-legacy-crypto-tokens-without-explicit-sec-immunity",
-      "summary": "",
-      "published": "2026-10-21T12:12:36+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Japanese visitors may be able to pay with yen stablecoins in South Korea under Shinhan-SBI pact",
-      "link": "https://www.coindesk.com/business/2026/10/21/japanese-visitors-may-be-able-to-pay-with-yen-stablecoins-in-south-korea-under-shinhan-sbi-pact",
-      "summary": "",
-      "published": "2026-10-21T12:10:39+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "The Download: introducing the Impossible issue",
       "link": "https://www.technologyreview.com/2026/10/21/1147573/the-download-introducing-impossible-issue/",
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Introducing: the Impossible issue We wanted our last print edition of 2026 to include a slate of stories that check in on impossible ideas. Why? Because it’s fun to dream about&#8230;",
       "published": "2026-10-21T12:10:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Dogecoin wallet, app teams unite in push to give DOGE more everyday uses",
-      "link": "https://www.coindesk.com/tech/2026/10/21/dogecoin-wallet-app-teams-unite-in-push-to-give-doge-more-everyday-uses",
-      "summary": "",
-      "published": "2026-10-21T12:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Dogecoin Labs launches as DOGE ecosystem seeks growth beyond meme-driven demand",
-      "link": "https://www.theblock.co/news/business/2026-10-21-dogecoin-labs-launch-mydoge-dogeos-such-app-421469",
-      "summary": "Dogecoin Labs, backed by the Dogecoin Foundation, unites MyDoge, DogeOS and Such App to push DOGE into payments and DeFi.",
-      "published": "2026-10-21T12:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -784,13 +856,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "MIT Technology Review",
-      "title": "Eliminating traffic deaths",
-      "link": "https://www.technologyreview.com/2026/10/21/1146141/eliminating-traffic-deaths-impossible-issue/",
-      "summary": "Every year, traffic crashes kill more than one million people, and they’re the leading cause of death for children and young adults. In the US, 100 people a day lose their lives this way, in many cases not on highways but on rural and local streets. “Traffic deaths are a leading cause of preventable death,&#8230;",
-      "published": "2026-10-21T09:00:00+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Netflix Earnings: Growth Fears Are Real, but Shares Look Attractive - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3NZTms5dVRUajJid3owSWJYV0JvUGxTRUpua1hCMDdueFU0Ump6cEZ0WDdVU1ZsQXllQm9DS3hpX1ExcjVIRU1YVllVNGFYNDR0cmJjUDlVU1NFNkhCR0wwMXRVMmdjMXE0Vnd3NDdPbTItT2Faa1dvdk9ieVdkMHJKV2VOSmZjdEJoM3ZSdnNEa2lXeDM0WGRfQVo?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxNU3NZTms5dVRUajJid3owSWJYV0JvUGxTRUpua1hCMDdueFU0Ump6cEZ0WDdVU1ZsQXllQm9DS3hpX1ExcjVIRU1YVllVNGFYNDR0cmJjUDlVU1NFNkhCR0wwMXRVMmdjMXE0Vnd3NDdPbTItT2Faa1dvdk9ieVdkMHJKV2VOSmZjdEJoM3ZSdnNEa2lXeDM0WGRfQVo?oc=5\" target=\"_blank\">Netflix Earnings: Growth Fears Are Real, but Shares Look Attractive</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-10-21T08:50:17+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -862,15 +934,6 @@
       "link": "https://www.twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms",
       "summary": "<p>Helsinki is moving to restart domestic production of once-outlawed anti-personnel mines as Russia rebuilds its military posture along NATO’s northern flank.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/finland-plans-to-build-a-million-landmines-as-russian-threat-looms\">Finland To Build A Million Landmines As Russian Threat Looms</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-10-20T20:53:28+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Defense News",
-      "title": "Medal of Honor recipient Dakota Meyer tapped as Barracks Task Force senior advisor",
-      "link": "https://www.defensenews.com/news/pentagon-congress/2026/10/20/medal-of-honor-recipient-dakota-meyer-tapped-as-barracks-task-force-senior-advisor/",
-      "summary": "Medal of Honor recipient Dakota Meyer was selected as Secretary Hegseth's senior advisor and will visit military installations across the country.",
-      "published": "2026-10-20T19:32:18+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1054,33 +1117,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The China Price",
-      "link": "https://www.foreignaffairs.com/china/china-price-zongyuan-zoe-liu",
-      "summary": "In 1971, as the international monetary system was on the brink of collapse, U.S. Treasury Secretary John Connally told a group of worried European finance ministers that the dollar was “our currency, but your problem.” The dollar had become that system’s official reserve currency in 1944, under the Bretton Woods agreement, making signatories subject to the whims of U.S. monetary policy. Even after Bretton Woods collapsed and many currencies floated freely, the dollar continued to dominate. In the last half century, U.S. currency power has only expanded, as more countries have integrated into the global economy and therefore grown to depend on the dollar. China, reliant on export-driven growth, is foremost among them.",
-      "published": "2026-10-20T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "“Earth Satellites and Foreign Policy”",
-      "link": "https://www.foreignaffairs.com/the-back-page/earth-satellites-and-foreign-policy",
-      "summary": "The advent of a new technology invariably comes with strategic implications, raising the question of who will benefit and whether risks can be managed. In 1957, following the Soviet Sputnik launch, U.S. policymakers and analysts recognized that the satellite, as the American physicist and engineer Lloyd Berkner observed in these pages, would bring transformative effects. The United States could not risk losing out, Berkner argued, but nor should governments allow geopolitical tensions to prevent the technology’s broad benefits from emerging.",
-      "published": "2026-10-20T04:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "War on the Rocks",
-      "title": "In Skepticism We Trust: Ukraine Reacts to the Diesel Deal",
-      "link": "https://warontherocks.com/in-skepticism-we-trust-ukraine-reacts-to-the-diesel-deal/",
-      "summary": "<p>Welcome to The Ukraine Compass, a weekly digest of Ukrainian commentary and analysis from across the political spectrum only for War on the Rocks members. Each week, we bring you a curated selection of articles from Ukrainian media offering insight into how Ukrainians themselves debate the issues shaping their country.Western coverage often narrows the view to the battlefield &#8212; these pieces widen it, revealing the texture of daily life, politics, and public argument in a nation at war. The perspectives gathered here are varied, candid, and often surprising, together forming a more complete picture of Ukraine as it really is.Frontline</p>\n<p>The post <a href=\"https://warontherocks.com/in-skepticism-we-trust-ukraine-reacts-to-the-diesel-deal/\">In Skepticism We Trust: Ukraine Reacts to the Diesel Deal</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
-      "published": "2026-10-19T18:15:35+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "Prop 40 opponents spent $1m a day to keep wealth tax out of state - Morning Brew",
@@ -1097,24 +1133,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQYkJ1WG14bHQ3ME9jbi0tV2dGMWRXcFR1a1Q4UXoxeFFoSUhSWFZ5V2dzazlid0JjWldrcjZldDVrUG9MUDFwX0JLMTdMNEU3MF9ZR1F4ZXIxUnRaaG1PaC1IUXZBdlk1dXk0bEMxVlhiU3l5bkgyZnM2cTRpTDBoR19QWDJ1TXc3dVE?oc=5\" target=\"_blank\">Berkshire went back for Bending Spoons seconds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-10-19T09:43:55+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "War on the Rocks",
-      "title": "The Pentagon Doesn’t Need to Reinvent Supply Chain Transparency",
-      "link": "https://warontherocks.com/cogs-of-war/the-pentagon-doesnt-need-to-reinvent-supply-chain-transparency/",
-      "summary": "<p>As the United States seeks to rebuild its defense industrial base, Washington is scrambling to understand an industrial ecosystem that it no longer controls, nor largely understands. China has been able to achieve strategic advantage against the United States through the targeted application of export controls and licensing requirements on specific materials at specific supply chain nodes. U.S. responses, by contrast, have largely been broader in scope and shallower in effect. It is as though China is striking the supply chain with precision-guided munitions while the United States is still using dumb bombs.Maintaining weapons stockpiles and a resilient force, let</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-pentagon-doesnt-need-to-reinvent-supply-chain-transparency/\">The Pentagon Doesn&#8217;t Need to Reinvent Supply Chain Transparency</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
-      "published": "2026-10-19T08:00:14+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "War on the Rocks",
-      "title": "March Separately, Strike Combined: Rethinking Mass and Maneuver on the Transparent Battlefield",
-      "link": "https://warontherocks.com/march-separately-strike-combined-rethinking-mass-and-maneuver-on-the-transparent-battlefield/",
-      "summary": "<p>Between May 10 and 13, 1940, German Panzer Group Kleist advanced through the densely wooded Ardennes Forest, which the French considered impenetrable to large, mechanized formations. Numbering five armored and three motorized infantry divisions, totaling around 41,000 vehicles, the entire panzer group moved along just four Rollbahnen, or axes of advance, creating the largest traffic jam in military history.When the leading XIX Armored Corps, commanded by Gen. Heinz Guderian, converged on the French city of Sedan, it epitomized the concept of Schwerpunkt, or point of main effort. Following his maxim &#8220;Klotzen, nicht kleckern&#8221; (hit with the fist, don&#8217;t feel with</p>\n<p>The post <a href=\"https://warontherocks.com/march-separately-strike-combined-rethinking-mass-and-maneuver-on-the-transparent-battlefield/\">March Separately, Strike Combined: Rethinking Mass and Maneuver on the Transparent Battlefield</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
-      "published": "2026-10-19T07:30:47+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Investing & Markets",
@@ -1159,15 +1177,6 @@
       "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOVk84QTJqaTBHV3NJc3dYdnBTVU94LVVOOGkwbmExWDVpUXFBR0ZlQ3NPVk55a2xySklZQWpzX3lJZU1JVHFJRVE3a0R6V1R1elhXQzZJVEcxcG5vYmEwQ1FiWGY5MlcxVno1d0dfX2NEeEp1aGtMOEdPMWlYTXBvUmFrM08?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOVk84QTJqaTBHV3NJc3dYdnBTVU94LVVOOGkwbmExWDVpUXFBR0ZlQ3NPVk55a2xySklZQWpzX3lJZU1JVHFJRVE3a0R6V1R1elhXQzZJVEcxcG5vYmEwQ1FiWGY5MlcxVno1d0dfX2NEeEp1aGtMOEdPMWlYTXBvUmFrM08?oc=5\" target=\"_blank\">Trump’s ‘Diesel Deal’ With Russia Was Just the Start</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
       "published": "2026-10-15T22:35:55+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "10 Top-Performing Canadian Dividend Stocks - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVBicTNWbndQT3JtWXFaZGRpTERPTUwzUnNkdkUzVHdRRHNxNjZwWFJuVGdqcGNEVVJhUzVFZDJjMktMdTluRElWUDlpM2FWQXU1Z3Y3c2hjUFFuMVVnVmNBLXpaNFF3SlBTRFFsM2dOZFA0TTRjd0NkUHpfLXl3LU8wNEl3V3d6RnhHZzRkZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxQcVBicTNWbndQT3JtWXFaZGRpTERPTUwzUnNkdkUzVHdRRHNxNjZwWFJuVGdqcGNEVVJhUzVFZDJjMktMdTluRElWUDlpM2FWQXU1Z3Y3c2hjUFFuMVVnVmNBLXpaNFF3SlBTRFFsM2dOZFA0TTRjd0NkUHpfLXl3LU8wNEl3V3d6RnhHZzRkZw?oc=5\" target=\"_blank\">10 Top-Performing Canadian Dividend Stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-10-02T07:00:00+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1281,19 +1290,10 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Investment insights you can act on - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE1FWFA0T3AwMGF2bjFwNkRBM3N4ZkZjTmxRSjBHdUlPM2V3NWs5elZZSERvSy0tbmQ1UFpqWUJCbW9ZdWdyNEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiRkFVX3lxTE1FWFA0T3AwMGF2bjFwNkRBM3N4ZkZjTmxRSjBHdUlPM2V3NWs5elZZSERvSy0tbmQ1UFpqWUJCbW9ZdWdyNEE?oc=5\" target=\"_blank\">Investment insights you can act on</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2024-08-20T22:37:32+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "We're sorry but awse.auth0-central-login doesn't work properly without JavaScript enabled. Please enable it to continue. - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE5JN3pOLVFXbnhGY1R0MXg4OG1uVG5KSUdweDZ0SVJuTmhpQzdCeVk3YTVPaUdvcWUwX0VhZTNDbG5BUVJlS3pPWFliWXdsNnhnUnV3?oc=5\" target=\"_blank\">We're sorry but awse.auth0-central-login doesn't work properly without JavaScript enabled. Please enable it to continue.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2024-03-18T23:45:06+00:00",
+      "title": "Powerful portfolio management tools - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBuVnFzWThZaV96THdKSlNkVktiT3V0NXB0RVB4NW5yMVJNSTBsaW5tc3cwaGwzS1Q5VGNOelNSXzNKWTdreWNiUGJXMFZULW5CeGlhb1hIaUxhb3Y2Nl9GbXo3Vy1HRU5SeHU1VDliQWhZUV9B?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMidEFVX3lxTFBuVnFzWThZaV96THdKSlNkVktiT3V0NXB0RVB4NW5yMVJNSTBsaW5tc3cwaGwzS1Q5VGNOelNSXzNKWTdreWNiUGJXMFZULW5CeGlhb1hIaUxhb3Y2Nl9GbXo3Vy1HRU5SeHU1VDliQWhZUV9B?oc=5\" target=\"_blank\">Powerful portfolio management tools</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2024-08-22T14:39:59+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1344,19 +1344,19 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "L3Harris Technologies Inc (LHX) - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE1heE1XeEJzR2wxd0hOMGdGSjQ1WFQ2NzlKel9xekljdGk0Mkd4TnVhRHZubEQyTVdlS2E1QjZVejVPS2hpS196N0ZYbld2TDItenV0WUtIOEhrcmxicUE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiXkFVX3lxTE1heE1XeEJzR2wxd0hOMGdGSjQ1WFQ2NzlKel9xekljdGk0Mkd4TnVhRHZubEQyTVdlS2E1QjZVejVPS2hpS196N0ZYbld2TDItenV0WUtIOEhrcmxicUE?oc=5\" target=\"_blank\">L3Harris Technologies Inc (LHX)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2019-07-16T05:40:11+00:00",
+      "title": "Careers at Morningstar - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2018-12-11T01:03:09+00:00",
       "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Careers at Morningstar - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2018-12-11T01:03:09+00:00",
+      "title": "Morningstar | Empowering Investor Success - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2012-10-14T03:17:21+00:00",
       "feed_type": "google_news_fallback"
     }
   ]
