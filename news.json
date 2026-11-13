@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-12T23:25:27.630392+00:00",
+  "updated_at": "2026-11-13T06:03:06.646978+00:00",
   "item_count": 146,
   "failures": [
     {
@@ -10,9 +10,180 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin ETFs are now down over $1.5 billion in net outflows for the year",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-etfs-are-now-down-over-usd1-5-billion-in-net-outflows-for-the-year",
+      "summary": "",
+      "published": "2026-11-13T05:45:26+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
+      "link": "https://www.coindesk.com/markets/2026/11/13/spacex-tesla-merger-talks-put-30-000-bitcoin-back-in-focus",
+      "summary": "",
+      "published": "2026-11-13T05:08:59+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "TRM Labs launches new service to help police seize stolen crypto in minutes",
+      "link": "https://www.theblock.co/news/defi/2026-11-13-trm-labs-beacon-concierge-439609",
+      "summary": "The new service is built on the Beacon Network, which has more than 200 members covering 80% of crypto trading volume.",
+      "published": "2026-11-13T05:08:25+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The World’s Last Chance for Peace",
+      "link": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
+      "summary": "How to avert a new world war.",
+      "published": "2026-11-13T05:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "La última oportunidad para la paz",
+      "link": "https://www.foreignaffairs.com/es/spain/pedro-sanchez-ultima-oportunidad-paz-evitar-guerra-mundial",
+      "summary": "Cómo evitar otra guerra mundial.",
+      "published": "2026-11-13T05:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The Case for a Trump-Xi-Putin Summit",
+      "link": "https://www.foreignaffairs.com/united-states/case-trump-xi-putin-summit",
+      "summary": "In just a few days’ time, U.S. President Donald Trump, Chinese leader Xi Jinping, and Russian President Vladimir Putin could be holding a three-way summit on the sidelines of next week’s Asia-Pacific Economic Cooperation meeting in Shenzhen, China. According to The Wall Street Journal, Putin floated the idea of a trialogue last month as an opportunity to discuss ending the war in Ukraine. No firm plan has yet been announced, but even the prospect of this meeting has provoked widespread consternation. Polish Foreign Minister Radoslaw Sikorski warned against a repeat of the Yalta Conference of 1945, when U.S. President Franklin Roosevelt and British Prime Minister Winston Churchill capitulated to Soviet leader Joseph Stalin’s push for the Soviet Union to dominate Eastern Europe. U.S. Senator Chris Coons wrote on X that “There can be no talks about Ukraine’s future without Ukraine at the table, and there can be no real negotiations as long as Trump signals weakness and servitude to Xi and Putin at every opportunity.”",
+      "published": "2026-11-13T05:00:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "White House sends crypto-relevant picks to fill SEC and CFTC seats",
+      "link": "https://www.theblock.co/news/regulation/2026-11-12-white-house-crypto-picks-sec-cftc-439175",
+      "summary": "Crypto Council for Innovation's Ji Kim said this bipartisan lineup could develop durable rules that safeguard markets and support innovation.",
+      "published": "2026-11-13T04:56:47+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "published": "2026-11-13T04:46:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Bitcoin falls to 12-week low, Strategy and Metaplanet to lose MSCI index membership, and more",
+      "link": "https://www.theblock.co/newsletters/the-daily/2026-11-12-bitcoin-12-week-low-strategy-metaplanet-msci-more-crypto-news-439049",
+      "summary": "In today's newsletter, bitcoin falls to 12-week low as Jensen Huang's exit from Nvidia rattles markets; Strategy, Metaplanet to lose MSCI index membership on Nov. 30; and more.",
+      "published": "2026-11-13T04:20:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcEx2eTdicmVJdWI5Y2JyUVhiN1psV0dacm9RNzFvU29MVWZ0UGxwUWtrMzNNaDFUNWRCMGFyd2F5TUtabzFEdnRjNDFpd2pIbkFlbUFPb3RXTjNIU01iN0RCOVpOV3VyZmY4Uml1anpPYjdwSVFGR3hpemx2WVl6Zms5M3FSOXdBS3pSeVA1eWlLcEJRank5c0lxeGRSR0NUeThJWUc5Nlk0Smw5VWpWczdBRkZXZGNEc3I1ZkxPdWxSQU1mVENN?oc=5\" target=\"_blank\">China stages unannounced Pacific drills in 'silent intimidation' of Taiwan, officials say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-13T04:05:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Gold rises on bargain hunting but heads for weekly decline - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxONmtMVVBHZGEyX3I4eWRfOFQwaW8zUHZDNXg1N0UxbW9jX1lhdmpuRkpZZ2hDZUEyNzZCTktodzFxUEt3NWJtN0JkU2NUa1VRLUJwVGR1bjVDR0Npak1lbk9xLXhOVmI3Y1BMRGkwTXBRb3lNVE1wMFdFb1JQWXBucV9tbF8tclNrRm1FTTNhVnpjSTlfVndYbVdqaw?oc=5\" target=\"_blank\">Gold rises on bargain hunting but heads for weekly decline</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-13T03:43:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "Bitcoin dips below $70,000 as Dollar Index hits 19-month high",
+      "link": "https://www.coindesk.com/markets/2026/11/13/bitcoin-dips-below-usd70-000-as-selloff-gathers-pace",
+      "summary": "",
+      "published": "2026-11-13T03:37:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Five facts about APEC with Trump, Putin and Xi set to attend - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5\" target=\"_blank\">Five facts about APEC with Trump, Putin and Xi set to attend</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-13T03:05:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Iran's Guards say they targeted a US early-warning radar in Bahrain - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxNcjhnZVFHWnV4RHpscnFyUjFWOEl5VndNZ0Y4MFdEVlpueUNaeHRPMVdCbjA4Mmktc0tYWnFsZWdZSkd4dFNvTmszUHFWdC15S0pja2ozaTg0R0dOdEY3aDJtenZwREh5dmRvTGVTUkxVUDNjN3huQU1TRTU1bEVBampuYzdsTjJJZ2tBUXQwal85QnRsWDU4OWNvbDVzN0VUR1R0clNkZmpkaXZMaWh5dExSNHRCUQ?oc=5\" target=\"_blank\">Iran's Guards say they targeted a US early-warning radar in Bahrain</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-13T02:51:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Chris Van Hollen announces run for US Senate majority leader, challenging Schumer - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivgFBVV95cUxQVDJtNkFCOFNqX2ZmeGFLZVFhcEFtWHhqQzhKMXdYZmFYdnZOZS1XSnhiRDRONGVwTUt1TmpuS1ZNMVZqZGx4RkdiUWlZTTg1WDFUS2hrbElaNjdNcDh5c3RKeXJYOG8yN3VoNlJ2dE80RV9HdUlyb1A5Y0hpMkc1ZzdZXy1DSmNkS2tUbV9jTF8xd0JLQzAyeWpxTUZ2eDVVUkZuSm5ISFZ1amxXZVVaYTlOZGlTdGhhbC1JVS13?oc=5\" target=\"_blank\">Chris Van Hollen announces run for US Senate majority leader, challenging Schumer</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-13T02:28:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Stocks recover from Nvidia whiplash, dollar climbs with US yields - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOZ0cyVmdPTTRkWGt3UlMtUFRyOGhvdDNlM1FYVy1MSVN0elpQZHgtWXctVEE1M2RjQm9IcmwzUGU4cEhEQnhsQWlOX2RhUFk1NzBXeFkwM3lMek16ajB1ZmozdGpLR0cwQ2JTcGVlTTJwMEc2ZFZ3bklxeTk4eElFaHZLaw?oc=5\" target=\"_blank\">Stocks recover from Nvidia whiplash, dollar climbs with US yields</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-13T01:55:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlhsUlJGZTlJTWxfaXhsOS1kNkFrSlRMLXNVZ09uQ0RvR0dobTRXWExCRk1SckN4aDZibm5Vdm9NWDUyWWdpRFR2aExsSFdscmNSX0U3QUlmTVRDYlpERWxHeVRUX2FUZjB3WVJBb05pYy1xZ2pILWpXQlQzaEVWNjljSUsxZ2xGVTdCZXNmazBFX21ZYkh3d1RqZTFCWEw2a09oanFWS0c0LTNwZkNOQThuamJkdk5HVFNROFFXQm1GS0E?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdlhsUlJGZTlJTWxfaXhsOS1kNkFrSlRMLXNVZ09uQ0RvR0dobTRXWExCRk1SckN4aDZibm5Vdm9NWDUyWWdpRFR2aExsSFdscmNSX0U3QUlmTVRDYlpERWxHeVRUX2FUZjB3WVJBb05pYy1xZ2pILWpXQlQzaEVWNjljSUsxZ2xGVTdCZXNmazBFX21ZYkh3d1RqZTFCWEw2a09oanFWS0c0LTNwZkNOQThuamJkdk5HVFNROFFXQm1GS0E?oc=5\" target=\"_blank\">Kushner says US working toward 'largest prisoner exchange' of Russia's war in Ukraine</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-13T01:39:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "The Air Force’s Newest Trainer Is An Aerial Stunt Plane",
+      "link": "https://www.twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane",
+      "summary": "<p>Dubbed the T-19A Kestrel, the aircraft will give cadets a chance to experience acrobatic flying while also serving as a pilot recruiting tool.</p>\n<p>The post <a href=\"https://www.twz.com/air/the-air-forces-newest-trainer-is-an-aerial-stunt-plane\">The Air Force&#8217;s Newest Trainer Is An Aerial Stunt Plane</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-11-13T00:25:18+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman",
+      "link": "https://www.twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman",
+      "summary": "<p>The partners say they are charting a new course to bring operational very-high-speed drones to the U.S. military.</p>\n<p>The post <a href=\"https://www.twz.com/air/high-speed-aircraft-startup-hermeus-joins-forces-with-northrop-grumman\">High-Speed Aircraft Startup Hermeus Joins Forces With Northrop Grumman</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-11-12T23:45:42+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
       "category": "AI & Technology",
       "source": "Ars Technica",
-      "title": "In reversal, American Cancer Society urges prostate cancer tests for all men",
+      "title": "In reversal, American Cancer Society urges routine prostate cancer screening",
       "link": "https://arstechnica.com/health/2026/11/in-reversal-american-cancer-society-urges-prostate-cancer-tests-for-all-men/",
       "summary": "Men aged 50–69 and at average risk should get PSA screening every two years.",
       "published": "2026-11-12T22:59:51+00:00",
@@ -84,9 +255,9 @@
     {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
-      "title": "Muse can now place calls to U.S. businesses — if you pay",
+      "title": "Muse can now place calls to US businesses — if you pay",
       "link": "https://techcrunch.com/2026/11/12/muse-can-now-place-calls-to-u-s-businesses-if-you-pay/",
-      "summary": "Muse's AI can now place outbound calls to US businesses — but it's not free.",
+      "summary": "Muse's AI can now place outbound calls to U.S. businesses — but it's not free.",
       "published": "2026-11-12T22:22:28+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -98,6 +269,15 @@
       "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
       "published": "2026-11-12T22:21:53+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "Nvidia Has Been the Market’s Golden Goose. Now It’s in Crisis - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1VaLTdKSEJHUTRualBnQ3lrODR6d3lQTWE1a2Fla0IyTjIyYnB4OXRLT2tsZUthUlZXVUNfMWprcDVfazdIMWYwLUNVc1JBX2NEYUNfZG96T19kVnFQckRRWkxxVjlYMGZtdlV2bDBvTUt5M1JEZmVKdDJPaHh4YXRrQkE2VHZnZFVQM01GMA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1VaLTdKSEJHUTRualBnQ3lrODR6d3lQTWE1a2Fla0IyTjIyYnB4OXRLT2tsZUthUlZXVUNfMWprcDVfazdIMWYwLUNVc1JBX2NEYUNfZG96T19kVnFQckRRWkxxVjlYMGZtdlV2bDBvTUt5M1JEZmVKdDJPaHh4YXRrQkE2VHZnZFVQM01GMA?oc=5\" target=\"_blank\">Nvidia Has Been the Market’s Golden Goose. Now It’s in Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-12T22:20:57+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -226,15 +406,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "The S&P 500 is shrugging off Nvidia’s selloff this week. Here’s what’s keeping the rest of the market afloat.",
-      "link": "https://www.marketwatch.com/story/the-s-p-500-is-shrugging-off-nvidias-selloff-heres-whats-keeping-the-rest-of-the-market-afloat-7cdf2f05?mod=mw_rss_topstories",
-      "summary": "Investors have been forced to look up from the poster child of the artificial-intelligence trade and remember the other stocks on the board.",
-      "published": "2026-11-12T21:08:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Kalshi ends Donald Trump Jr.’s advisory contract over 1789 Capital’s Polymarket investment",
@@ -242,15 +413,6 @@
       "summary": "",
       "published": "2026-11-12T21:07:49+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE41X1JfT2dWa0tyWU50NGd3TzU5ZUlmM0xBUU43Vmt1Y0dDdGdCQk5aQmFHay1ILW52WlBSQkJseVhzT1JDTVF3S3NwVUVKM19rblVhU1RoTlBacEpKX1RXanBDUW9DdmdDSDAzZDJsdnpLZ3JEcjEyNXJBei1aeU4xdFpSeC1JY1pwaU9tMFkySlozazBJN1V6UzBhWmtxN0JMOXlab1VoU1FWUFZ2QTE5bDdRODdIeUFUcnlvWGxURnJoTTBJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPTE41X1JfT2dWa0tyWU50NGd3TzU5ZUlmM0xBUU43Vmt1Y0dDdGdCQk5aQmFHay1ILW52WlBSQkJseVhzT1JDTVF3S3NwVUVKM19rblVhU1RoTlBacEpKX1RXanBDUW9DdmdDSDAzZDJsdnpLZ3JEcjEyNXJBei1aeU4xdFpSeC1JY1pwaU9tMFkySlozazBJN1V6UzBhWmtxN0JMOXlab1VoU1FWUFZ2QTE5bDdRODdIeUFUcnlvWGxURnJoTTBJ?oc=5\" target=\"_blank\">US Justice Department has not concluded Alice Huang was Chinese spy, Blanche says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-12T21:02:58+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -388,24 +550,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: Pfizer to stop selling Premarin hormone therapy in Canada - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VpQ19DX1h6NHoxZnRTNC11cDhobG5UeHhFaVc0SGREaWdacE5IZlZHSlUzbXd2RkRaRjhqNjltTFVPVzljeWRsT2VOcnh3RzhQSEpqUTFMUDRTSDZza0VydW1raTkteDl5bFJpMnNaTEV3dEpuYUJlS09zTnJpYnRuekRaY183NVgzbkFmOTNJdlpCbEJEWg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimAFBVV95cUxQd3VpQ19DX1h6NHoxZnRTNC11cDhobG5UeHhFaVc0SGREaWdacE5IZlZHSlUzbXd2RkRaRjhqNjltTFVPVzljeWRsT2VOcnh3RzhQSEpqUTFMUDRTSDZza0VydW1raTkteDl5bFJpMnNaTEV3dEpuYUJlS09zTnJpYnRuekRaY183NVgzbkFmOTNJdlpCbEJEWg?oc=5\" target=\"_blank\">EXCLUSIVE: Pfizer to stop selling Premarin hormone therapy in Canada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-12T19:03:18+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Mercedes-Benz halts German investments as plant closures loom - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlZSMmZGb0xDYS1YcUhERWtaLXdUVXkyeW1fQ19NSkd4YS1PclRGX3p5YTZreEhlTDRyeExnZGx0SHJ6aFotMkNkbE4tVGhxRmE0Nm4xeGxSenhYeHpoQkF6SUMxWms0MlZRUmZHS0U2Wmg3ck1KVzlrem81Mk1fVDhnN3Z6R20wUGtCWjVqZFpodWJZdjlGTS1ZMjdZcVAtaEE?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxOYlZSMmZGb0xDYS1YcUhERWtaLXdUVXkyeW1fQ19NSkd4YS1PclRGX3p5YTZreEhlTDRyeExnZGx0SHJ6aFotMkNkbE4tVGhxRmE0Nm4xeGxSenhYeHpoQkF6SUMxWms0MlZRUmZHS0U2Wmg3ck1KVzlrem81Mk1fVDhnN3Z6R20wUGtCWjVqZFpodWJZdjlGTS1ZMjdZcVAtaEE?oc=5\" target=\"_blank\">Mercedes-Benz halts German investments as plant closures loom</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-12T19:01:07+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Google faces calls for AI moratoriums in schools after Gemini pilot backlash",
@@ -433,15 +577,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: CD&R, GTCR drop pursuit of Global Payments, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3dpSHM2Qk5GaUZoRm0xeVBTaXhUUnkwU3lTY21HYW55cDVVWnN0NVZ2ODJEM2xucl90UTI0Nmlab3lMbWVjWGF6WGZ2c2loNVlaUE85ZWVrWVVRNGxjQ1ZPdkVZUFlxa2JreW5GUEhYTnY2SnVhOHE1d1Bqdi03dGJHeW8zMDFwTDBMU1FfaGl4MDFWYXc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZ3dpSHM2Qk5GaUZoRm0xeVBTaXhUUnkwU3lTY21HYW55cDVVWnN0NVZ2ODJEM2xucl90UTI0Nmlab3lMbWVjWGF6WGZ2c2loNVlaUE85ZWVrWVVRNGxjQ1ZPdkVZUFlxa2JreW5GUEhYTnY2SnVhOHE1d1Bqdi03dGJHeW8zMDFwTDBMU1FfaGl4MDFWYXc?oc=5\" target=\"_blank\">EXCLUSIVE: CD&amp;R, GTCR drop pursuit of Global Payments, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-12T18:37:55+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies",
@@ -449,15 +584,6 @@
       "summary": "<p>Since 2022, Chinese General Secretary Xi Jinping has purged at least 100 senior military officials, according to a February report from the Center for Strategic and International Studies, with more cases occurring since then. The rate of dismissals and disappearances has increased substantially in the last two years. Recent examples include Gen. Zhang Youxia, Gen. Liu Zhenli, and Zhong Shaojun, formerly the head of the General Office of the Central Military Commission. Many of these officials have been accused of corruption, with some facing trial.These widespread purges have fundamentally changed the high command of China&#8217;s military at a time when</p>\n<p>The post <a href=\"https://warontherocks.com/how-purges-are-affecting-chinese-military-readiness-and-taiwan-contingencies/\">How Purges Are Affecting Chinese Military Readiness and Taiwan Contingencies</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-11-12T18:30:19+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US House Democratic Leader Jeffries wants 'dramatic change' in Middle East - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQMV9nQXduWS1BMTRTSzRtc19UMm5sa1JxU3lpbTFiU2sxMDk1cFdzWHVtemNPX2NncUJEYTRBdkREUnBnYXJXWnB3MDZoTURRVzV5MDdOZndzQWJkanJpVUw5SURtRGp1OHUzbmVrbE5yNjFKYVI5ZnhOajlXLTdQa1lvRHhyMjlxb1J3OTdzSS1Gd3laMUFTWWZtNmktYTNRYjY1SHBsdmppS1pybXJ6VjBLWUs?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxQMV9nQXduWS1BMTRTSzRtc19UMm5sa1JxU3lpbTFiU2sxMDk1cFdzWHVtemNPX2NncUJEYTRBdkREUnBnYXJXWnB3MDZoTURRVzV5MDdOZndzQWJkanJpVUw5SURtRGp1OHUzbmVrbE5yNjFKYVI5ZnhOajlXLTdQa1lvRHhyMjlxb1J3OTdzSS1Gd3laMUFTWWZtNmktYTNRYjY1SHBsdmppS1pybXJ6VjBLWUs?oc=5\" target=\"_blank\">US House Democratic Leader Jeffries wants 'dramatic change' in Middle East</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-12T18:27:09+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -475,24 +601,6 @@
       "link": "https://www.theblock.co/news/regulation/2026-11-12-nydfs-sets-fresh-advertising-standards-crypto-firms-439014",
       "summary": "NYDFS issued guidance outlining expectations for crypto firms to establish policies and procedures governing advertising and marketing.",
       "published": "2026-11-12T18:03:57+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Gunman kills one, wounds four in busy Washington, DC, neighborhood - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOZGs2bU9KX3A5RFVTbXQxaXYwLThLLW1nazNSanR1TTZ6eE5TcjZ4Nl91eTY4blhnVnRVM1k5UW42aXlDOWtyQWI5cm5EYl9jcTg4blhMR3g2VXVhV24tYzRseVBucXk2OHNHU05EWG9xUnhqSU50MU95c2VPYVByak9nYmFpdndfTzlEMlJBYUw4T0VyWVRFajh5UElkV1JDWFdwSXRTR0xkWU9Mb2hkZA?oc=5\" target=\"_blank\">Gunman kills one, wounds four in busy Washington, DC, neighborhood</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-12T17:48:46+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitcoin falls to 12-week low as Jensen Huang’s exit from Nvidia rattles markets",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-bitcoin-12-week-low-jensen-huang-exit-nvidia-438992",
-      "summary": "Bitcoin fell as low as $71,200 as Jensen Huang quit Nvidia and MSCI confirmed Strategy's removal, with $750M in crypto positions liquidated.",
-      "published": "2026-11-12T17:40:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -541,15 +649,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Exodus’ ‘cost reset is real’ as payments offset crypto wallet slowdown, StoneX says",
-      "link": "https://www.theblock.co/news/markets/2026-11-12-exodus-cost-reset-real-payments-offset-crypto-wallet-slowdown-stonex-438988",
-      "summary": "Payments generated $10.9 million in Q3, while Exodus cut staff and restarted U.S. payment card issuance.",
-      "published": "2026-11-12T16:55:52+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "3 Iranian-backed men indicted in attempted plot on RAF Fairford",
@@ -577,24 +676,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxOUkxOYXBCUHFaN0RTbHNZLUcwVG02UmtKQWJwLWc0X0lfQUdpVjl4UjhncWktZTU3YmF0SjdtbnBRSk04RHAtSTQ0QW9CelRNeU9HUG5EdU9ROWJTUnpHSFMzMWlCSzhvXzVlRVFZVmR0dDFjYk1IRnZSQnVOTXZHUjJybkpGbzR4STNfSDAwMUEyZ3FkaGV6bXBpa1k4RVk?oc=5\" target=\"_blank\">Trump says ex Apple CEO Cook is 'a legend', should replace Huang at Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-12T16:12:19+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Visa adds Western Union’s USDPT stablecoin to its settlement network in Anchorage tie-up",
-      "link": "https://www.theblock.co/news/business/2026-11-12-visa-adds-western-unions-usdpt-stablecoin-to-its-settlement-network-in-anchorage-tie-up-438520",
-      "summary": "Anchorage Digital and Visa will support select Anchorage-issued stablecoins as settlement assets on VisaNet, starting with USDPT.",
-      "published": "2026-11-12T16:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "How transparent is your DAW’s cost model?",
@@ -613,13 +694,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Crypto for Advisors: The blockchain built to run financial markets",
-      "link": "https://www.coindesk.com/coindesk-indices/2026/11/12/crypto-for-advisors-the-blockchain-built-to-run-financial-markets",
-      "summary": "",
-      "published": "2026-11-12T15:34:29+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "What to Watch in Nvidia Earnings: Leadership, Data Center Concerns Take Center Stage - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5\" target=\"_blank\">What to Watch in Nvidia Earnings: Leadership, Data Center Concerns Take Center Stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-12T15:23:30+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -628,24 +709,6 @@
       "link": "https://www.defensenews.com/global/europe/2026/11/12/finland-says-it-detects-strike-on-russian-warship-in-baltic-sea/",
       "summary": "Finland's military said on Thursday its forces had detected \"a strike\" on a Russian warship in the Baltic Sea a day earlier, but that the security situation in the area remained stable.",
       "published": "2026-11-12T15:06:31+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Jupiter adds Anchorage-backed USDGO to its $1 billion Solana lending platform",
-      "link": "https://www.coindesk.com/business/2026/11/12/jupiter-adds-anchorage-backed-usdgo-to-its-usd1-billion-solana-lending-platform",
-      "summary": "",
-      "published": "2026-11-12T14:45:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "The next Congress will write rules for AI and emerging tech. They should use the stuff first.",
-      "link": "https://www.coindesk.com/opinion/2026/11/12/the-next-congress-will-write-rules-for-ai-and-emerging-tech-they-should-use-the-stuff-first",
-      "summary": "",
-      "published": "2026-11-12T14:24:51+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -784,15 +847,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Autonomous Cessna Caravan Air Ambulance To Be Tested By U.S. Military",
-      "link": "https://www.twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military",
-      "summary": "<p>The demonstration will take place in Morocco, but uncrewed options for rescuing casualties could be valuable in other far-flung locales globally.</p>\n<p>The post <a href=\"https://www.twz.com/news-features/autonomous-cessna-caravan-air-ambulance-to-be-tested-by-u-s-military\">Autonomous Cessna Caravan Air Ambulance To Be Tested By U.S. Military</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-11-11T17:46:17+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Highlights, concerns, and trends from Game Sound Con 2026",
@@ -845,6 +899,15 @@
       "summary": "This is today&#8217;s edition of The Download, our weekday newsletter that provides a daily dose of what&#8217;s going on in the world of technology. Six wild ideas for perpetuating your mind As we age, we forget most of what we’ve experienced, yet there’s still undeniable continuity: At 30, or 50, or 70, you will still&#8230;",
       "published": "2026-11-11T13:10:00+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "How AI Stocks Are Creeping Into Dividend ETFs - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQejBxc0lHeTAzR2ZXUTRtUEhFT0htOC1yUWRKRDZaM2psSDdOYjFCN1A0NEhvV3Nrems3RlZBS3pxclBrdm9BSWl6MXVoMHlza3lEUjFGYURYTWtIWnZPZ3hRdkV1ZEZRb0wxWTc3SjU3RnREaFMyaE9yYlU4U01ub1h0SnIyQQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQejBxc0lHeTAzR2ZXUTRtUEhFT0htOC1yUWRKRDZaM2psSDdOYjFCN1A0NEhvV3Nrems3RlZBS3pxclBrdm9BSWl6MXVoMHlza3lEUjFGYURYTWtIWnZPZ3hRdkV1ZEZRb0wxWTc3SjU3RnREaFMyaE9yYlU4U01ub1h0SnIyQQ?oc=5\" target=\"_blank\">How AI Stocks Are Creeping Into Dividend ETFs</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-11T12:02:21+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -908,15 +971,6 @@
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxPOWllU29wa0NGNGtZbHYzTlZ2TkpUN1Y0Mk9tek1GS09iVXN2Xy1YcEtES1VfTG1jVlpqSEF5Y3pKaXo1VFFxSFdCU0pCV3NlYkpvS2d4cGxUNGNFa0JGejNrVXEwNk5BaUxqcF85b21WR0FyUnUwZ1VkNDJEYjdScXlpTFFLb0ttNGtLUnZR?oc=5\" target=\"_blank\">Beehiiv eliminates job titles to increase revenue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2026-11-11T05:24:58+00:00",
       "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Army Wants New Palletized Short-Range Air Defenses In Service By The End Of 2029",
-      "link": "https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029",
-      "summary": "<p>Army sees new short-range air defense 'sleds' providing critical new flexibility and capacity, especially against drone swarms.</p>\n<p>The post <a href=\"https://www.twz.com/land/army-wants-new-palletized-short-range-air-defenses-in-service-by-the-end-of-2029\">Army Wants New Palletized Short-Range Air Defenses In Service By The End Of 2029</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-11-10T23:43:49+00:00",
-      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Investing & Markets",
@@ -1010,20 +1064,20 @@
     },
     {
       "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The Luxury of Children",
-      "link": "https://www.foreignaffairs.com/united-states/luxury-children",
-      "summary": "Why the baby bust is making the world more unequal.",
-      "published": "2026-11-10T09:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War",
       "link": "https://warontherocks.com/winning-time-ukraines-unmanned-systems-forces-and-the-new-dimension-of-war/",
       "summary": "<p>In late 2023, Ukraine&#8217;s military leadership faced an institutional choice: establish a dedicated branch of the armed forces for unmanned systems or integrate drones into existing branches. Most senior officers I knew opposed the separate force, and their strongest argument was sound within classical doctrine. Each branch of service corresponds to a distinct domain of war: The army fights on land, the navy at sea, the air force in the air. Unmanned systems operate across all of these domains and possess none of their own. No domain, no branch of service. The advocates were mostly newcomers from civilian life, and</p>\n<p>The post <a href=\"https://warontherocks.com/winning-time-ukraines-unmanned-systems-forces-and-the-new-dimension-of-war/\">Winning Time: Ukraine’s Unmanned Systems Forces and the New Dimension of War</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-11-10T08:30:35+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Music Production & DJ Industry",
+      "source": "DJ TechTools",
+      "title": "AlphaTheta DJM-A7: A9 Layout, Four Channels, $1,599",
+      "link": "https://s11234.pcdn.co/2026/11/10/alphatheta-djm-a7-a9-layout-four-channels-1599/",
+      "summary": "<p>The DJM-A7 keeps the A9's four channels and layout for $1,300 less, and trims the effects and I/O to get there.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/11/10/alphatheta-djm-a7-a9-layout-four-channels-1599/\">AlphaTheta DJM-A7: A9 Layout, Four Channels, $1,599</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
+      "published": "2026-11-10T08:02:08+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -1054,15 +1108,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Nvidia CEO admits to extramarital affair with suspected Chinese agent - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaF9DMHpydE9USURnS2NqdWlkTU5pM1NJTkoxUXRoUnREbjY4VFNlNThLSG5PLXV2QkJzdE53V3lEbFZCNVFFc1NIVkdYb3hHUUV2TzJmMFNIc3Qyci1SdkMxV0hTOFRhRjhKczA3enMza0JqUFU2Yk1GcU95S2FaLWZ3LVI4ZC1GMzY1UUU4clJJNkxjb09DSklfdVN0bFZOQkEySXBHN1M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaF9DMHpydE9USURnS2NqdWlkTU5pM1NJTkoxUXRoUnREbjY4VFNlNThLSG5PLXV2QkJzdE53V3lEbFZCNVFFc1NIVkdYb3hHUUV2TzJmMFNIc3Qyci1SdkMxV0hTOFRhRjhKczA3enMza0JqUFU2Yk1GcU95S2FaLWZ3LVI4ZC1GMzY1UUU4clJJNkxjb09DSklfdVN0bFZOQkEySXBHN1M?oc=5\" target=\"_blank\">Nvidia CEO admits to extramarital affair with suspected Chinese agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-11-09T17:07:50+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "Nancy Pelosi’s replacement is ready to regulate AI",
@@ -1081,6 +1126,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "How I Got My Career in Foreign Policy: Manjari Chatterjee Miller - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGtzamdBQW1Ud0RYZlZuX1RCMVIzNnpfRVVONVhWZFVKYmtvZmttejlWYnNrR3FrRjhjR09IYVFJUmVhUktnbVR3cnUxSk9rYlJOeFNteUZfZ2JVSi0zVzFmTGh1TmJ4MTk5Ym5BSGVWdVNLbWJpNGxhcjJBdjNJSHNBVVZFTm1CMTNUMzJyQTNKazcwQmNF?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPZGtzamdBQW1Ud0RYZlZuX1RCMVIzNnpfRVVONVhWZFVKYmtvZmttejlWYnNrR3FrRjhjR09IYVFJUmVhUktnbVR3cnUxSk9rYlJOeFNteUZfZ2JVSi0zVzFmTGh1TmJ4MTk5Ym5BSGVWdVNLbWJpNGxhcjJBdjNJSHNBVVZFTm1CMTNUMzJyQTNKazcwQmNF?oc=5\" target=\"_blank\">How I Got My Career in Foreign Policy: Manjari Chatterjee Miller</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-11-09T14:33:05+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp",
@@ -1088,33 +1142,6 @@
       "summary": "<p>The Pentagon is sending a record demand signal for munitions, but turning it into deliveries depends on suppliers several tiers below the primes, many of which disappeared over the last two decades. Marc Andersen (Army assistant secretary and chief investment officer of the Strategic Capital Initiative), Brandon Daniels (Exiger), and Joseph &#8220;Gus&#8221; Guastella (Voyager Technologies) join Jonathan in the studio. They debate whether China&#8217;s control of critical minerals could halt U.S. munitions production and discuss the Army&#8217;s strategic capital initiative, the Patriot production ramp, and the push for cheaper munitions.Image: Christine Mitchell via DVIDS.</p>\n<p>The post <a href=\"https://warontherocks.com/cogs-of-war/the-record-budgets-and-missing-suppliers-shaping-americas-munitions-ramp/\">The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-11-09T09:00:45+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The New Epicenter of Global Terror",
-      "link": "https://www.foreignaffairs.com/nigeria/new-epicenter-global-terror",
-      "summary": "How Africa’s weak states and rare earths drive transnational extremism.",
-      "published": "2026-11-09T09:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "A Recipe for Disaster in Taiwan",
-      "link": "https://www.foreignaffairs.com/taiwan/recipe-disaster-taiwan-lissner-rapp-hooper",
-      "summary": "Why the risk of a crisis is growing.",
-      "published": "2026-11-09T09:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Morningstar 529 Ratings: The Best 529 Plans of 2026 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUFXWDBNZXg5UVdLWXRFa1hldVZuRzdhbWt4cUR0UFZMNVcwc1JBb2dPLW5yT09SbVdsZnlHenNweHZzS1gxanJDVGZ6TUI2dThGMldJZGQ0MEk5QUJyLVRSSUhrTGxjeUVEZ0Z2cndTc2FNM0N4dkd4RFdfYjVFMWIzQUd3QQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQUUFXWDBNZXg5UVdLWXRFa1hldVZuRzdhbWt4cUR0UFZMNVcwc1JBb2dPLW5yT09SbVdsZnlHenNweHZzS1gxanJDVGZ6TUI2dThGMldJZGQ0MEk5QUJyLVRSSUhrTGxjeUVEZ0Z2cndTc2FNM0N4dkd4RFdfYjVFMWIzQUd3QQ?oc=5\" target=\"_blank\">Morningstar 529 Ratings: The Best 529 Plans of 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-09T08:00:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -1138,10 +1165,19 @@
       "category": "Music Production & DJ Industry",
       "source": "DJ TechTools",
       "title": "Behringer Teases a $300-400 Open DJ Standalone",
-      "link": "https://s11234.pcdn.co/2026/10/27/behringer-teases-a-300-400-open-dj-standalone/",
+      "link": "https://djtechtools.com/2026/10/27/behringer-teases-a-300-400-open-dj-standalone/",
       "summary": "<p>Behringer posted a four-channel standalone prototype it says will sell for $300 to $400 as open hardware. The rear panel reads Klark Teknik.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/10/27/behringer-teases-a-300-400-open-dj-standalone/\">Behringer Teases a $300-400 Open DJ Standalone</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
       "published": "2026-10-28T05:27:06+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Why Morning Brew? - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5\" target=\"_blank\">Why Morning Brew?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-10-25T07:00:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1207,15 +1243,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Music Production & DJ Industry",
-      "source": "DJ TechTools",
-      "title": "Midi Fighter Utility 2.91 Is Out; Our Biggest Update in Years",
-      "link": "https://djtechtools.com/2026/06/01/midi-fighter-utility-2-91-is-out-our-biggest-update-in-years/",
-      "summary": "<p>The Midi Fighter Utility 2.91 is out now, with new firmware for every Midi Fighter in the lineup. Here's what's new and how to update.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/06/01/midi-fighter-utility-2-91-is-out-our-biggest-update-in-years/\">Midi Fighter Utility 2.91 Is Out; Our Biggest Update in Years</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
-      "published": "2026-06-01T22:42:37+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
@@ -1231,15 +1258,6 @@
       "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5\" target=\"_blank\">Business News and Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
       "published": "2024-11-18T18:07:29+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "US Market Fair Value - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZkVnemV2SzBHWldVa1FTUDJrUVJGbElUYlRyRm0tc0lKd0M1VWZZaUxzUG5pQlNIM0JfN3pySGxSb0tIeTdmakRzOEVMQ214SkYxWHpiSEpXZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiWkFVX3lxTE5UZkVnemV2SzBHWldVa1FTUDJrUVJGbElUYlRyRm0tc0lKd0M1VWZZaUxzUG5pQlNIM0JfN3pySGxSb0tIeTdmakRzOEVMQ214SkYxWHpiSEpXZw?oc=5\" target=\"_blank\">US Market Fair Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2024-06-09T10:15:10+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1288,12 +1306,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Territorial Disputes in the South China Sea | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5\" target=\"_blank\">Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2020-05-29T00:00:19+00:00",
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "NVIDIA Corp (NVDA) - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uSTNyR2IxRjJ1cWVtNGhxaXk4M3RxQk5rLXBXTEVoMkdlZWV6RFNZRVBXU3lTdklDUVUtaGlES2RBaERkTXp2M3RuR2VtbjFWSE54LUFWLXItSGFYaVdJ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiX0FVX3lxTE5uSTNyR2IxRjJ1cWVtNGhxaXk4M3RxQk5rLXBXTEVoMkdlZWV6RFNZRVBXU3lTdklDUVUtaGlES2RBaERkTXp2M3RuR2VtbjFWSE54LUFWLXItSGFYaVdJ?oc=5\" target=\"_blank\">NVIDIA Corp (NVDA)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2019-07-11T01:18:24+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1303,24 +1321,6 @@
       "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTFBTYjh5ZGpDUzNhZ0JVblFNZFRhQnplYTNqMXdFUFJwM2ROQzJiOG9Ta25LZVlFY1Bvcll5NGpWWVdzVVhLMHFNdkN1YUJnSWdJSmVuT2VR?oc=5\" target=\"_blank\">Careers at Morningstar</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
       "published": "2018-12-11T01:03:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Indexes Spanning All Major Asset Classes and Themes - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGdE9abXJNbGNDNkNXdVpsc0NKZFN0eGVxeUpUWVBGSXh3clF5V19yNDdQRU9qd0t5TnlEcmFSZ0h6aXUwRmRR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiR0FVX3lxTFBGdE9abXJNbGNDNkNXdVpsc0NKZFN0eGVxeUpUWVBGSXh3clF5V19yNDdQRU9qd0t5TnlEcmFSZ0h6aXUwRmRR?oc=5\" target=\"_blank\">Indexes Spanning All Major Asset Classes and Themes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2014-08-15T05:41:28+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Morningstar | Empowering Investor Success - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2012-10-14T03:17:21+00:00",
       "feed_type": "google_news_fallback"
     }
   ]
