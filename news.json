@@ -1,7 +1,32 @@
 {
-  "updated_at": "2026-11-15T01:39:38.514285+00:00",
-  "item_count": 146,
+  "updated_at": "2026-11-15T09:02:49.988799+00:00",
+  "item_count": 112,
   "failures": [
+    {
+      "source": "Reuters World",
+      "feed_url": "https://news.google.com/rss/search?q=site:reuters.com/world&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "AP Politics",
+      "feed_url": "https://news.google.com/rss/search?q=site:apnews.com/politics&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "CFR Global Conflict Tracker",
+      "feed_url": "https://news.google.com/rss/search?q=site:cfr.org%20global%20conflict&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "Morning Brew",
+      "feed_url": "https://news.google.com/rss/search?q=site:morningbrew.com&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
+    {
+      "source": "Morningstar",
+      "feed_url": "https://news.google.com/rss/search?q=site:morningstar.com&hl=en-US&gl=US&ceid=US:en",
+      "error": "<unknown>:2:252: not well-formed (invalid token)"
+    },
     {
       "source": "RAND Corporation",
       "feed_url": "https://www.rand.org/rss.xml",
@@ -9,6 +34,15 @@
     }
   ],
   "items": [
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "XRP crashes to its lowest since November 2024 as money leaves crypto",
+      "link": "https://www.coindesk.com/markets/2026/11/15/xrp-crashes-to-its-lowest-since-november-2024-as-money-leaves-crypto",
+      "summary": "",
+      "published": "2026-11-15T02:50:57+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "AI & Technology",
       "source": "Ars Technica",
@@ -37,15 +71,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDVOVl84WGtvTHZ4WDdMVXE2VWQ3dGE4LXV6LWhGQ1pTZzlUWUt1QXBWOWVsUHpxMHN2LURab2RYdlhmS2xGYm9jZkRTNFhHOGlDd2phUDQyMThBQlV1V3FlUWxIZzU1enBRS1BOUm1QQUVLcnB2ZkJqdTdEdTNTclhQTmM0Z2ZfMUQ2Q0VTSTFhTzJ6QXRHNzZybVRJb292c2RtSC0wWkd5NlFJdl83TmxTVTJpMTFGa1lZ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuwFBVV95cUxNNDVOVl84WGtvTHZ4WDdMVXE2VWQ3dGE4LXV6LWhGQ1pTZzlUWUt1QXBWOWVsUHpxMHN2LURab2RYdlhmS2xGYm9jZkRTNFhHOGlDd2phUDQyMThBQlV1V3FlUWxIZzU1enBRS1BOUm1QQUVLcnB2ZkJqdTdEdTNTclhQTmM0Z2ZfMUQ2Q0VTSTFhTzJ6QXRHNzZybVRJb292c2RtSC0wWkd5NlFJdl83TmxTVTJpMTFGa1lZ?oc=5\" target=\"_blank\">Data recorder recovered from tanker in New Orleans cruise ship collision, NTSB says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T23:43:43+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "The Block",
       "title": "Kava Lend loses roughly $3.8 million to hack, sending KAVA token down nearly 40%",
@@ -53,15 +78,6 @@
       "summary": "About 49.2 million KAVA was bridged to BNB Chain via LayerZero and sold for roughly $2.1 million in BNB and USDT.",
       "published": "2026-11-14T23:07:35+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Hamas says senior armed commander killed in Israeli strike - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxPYUhZd1pxN2d0N3pmR2RCbjhCQk9teURKLThfYzR0bC1rVWJpVGUwNkpJelBNeVNLY3hxS1B0c0p2bTk5VmhCeFVGUWpHSFVNdHFKZjcydUdYNDEyMThuQ3hTRmFNSTQ0Z05ZSWRSd1A3QnM3eTRjWkNJbkN2Z2E5M1FQaUdrdUtaYzVNcWtVMC1LOU1yUkpoUk82d0ZQejM5cDR3YXVqcE5xMlJkTVU2dGduMDdsUWp2UG5ERFZUZw?oc=5\" target=\"_blank\">Hamas says senior armed commander killed in Israeli strike</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T22:31:00+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -82,24 +98,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUy1QYS1aemtYbV8xczk0cmRVeHl2ZGNLTlFwVE1SUUZ3OHctZGRnZlpTMi1DRTFkbWlXMWRaVGliVk8xU1N1MGZ6dVdNTTJHd1BMaTVnT2JQaTAwdm1QWWh4aElDM1JlMVJvcjJNQ2pIUWlHd09qUXNuc2Q1Qnd6ZVJGTlIta3dkaHlMcWRYZC1KX0tneTJKVkNSaVdZQXlFX2Y2Z0Vwa1VmNGRzZjZYVDRRdDBNLTNF?oc=5\" target=\"_blank\">US floated idea of Ukraine ceding Donbas for NATO membership, Zelenskiy says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T21:19:16+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "After midterm sweep, Democrats split over Trump, cost-cutting agenda - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxOVTdyR0NNX2ZWTnc5Z3d1VG94TVlaVXhLbzIxaGUydzU4bmpEdTg4bGJ4VWtPSE5rVDdPSDNRYlo0V2xUaFpyX2xJYThLY2lCT0pvSWprdXk0aXR4d3d3MjNfUHh5a2tWUS0zTUVpQV9jUmc4bTQ3b3Uzd1dJYV9uS2V3dElDV3BkeTNJbHEzX3ZnbEIwZmdiZmNaY2FXcURYU2FVUzkyajJJUWxvRlZkdw?oc=5\" target=\"_blank\">After midterm sweep, Democrats split over Trump, cost-cutting agenda</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T21:18:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
@@ -107,15 +105,6 @@
       "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
       "published": "2026-11-14T21:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Law enforcement searches Illinois plant after 'credible threat' of explosive device - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWd2dWN5WmZWVFV3UFVQcU40U2lkY3B3Z3FRVFlHWDg1RGtodEt0T2d3QnQxSWxsXzFRWWV0anZqcW8xb2wxelg0UFZkODlQM3BTbENTaVdOSEZUM3NYblVESUdzTk14Rk9wcGlnWmJUdGxaTG5sM1Fsa0t3SHpxdkxMd3VPdEdkY1cxVDZoM1FfUW5BTGdzTVlCdG9Sc19JUzYzeUN1VFhzYm9jRDh1dVo0WjFVQk9TSTUyM2hTRE4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPUWd2dWN5WmZWVFV3UFVQcU40U2lkY3B3Z3FRVFlHWDg1RGtodEt0T2d3QnQxSWxsXzFRWWV0anZqcW8xb2wxelg0UFZkODlQM3BTbENTaVdOSEZUM3NYblVESUdzTk14Rk9wcGlnWmJUdGxaTG5sM1Fsa0t3SHpxdkxMd3VPdEdkY1cxVDZoM1FfUW5BTGdzTVlCdG9Sc19JUzYzeUN1VFhzYm9jRDh1dVo0WjFVQk9TSTUyM2hTRE4?oc=5\" target=\"_blank\">Law enforcement searches Illinois plant after 'credible threat' of explosive device</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T20:40:09+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -152,15 +141,6 @@
       "summary": "“It would be a less drastic step than selling the home now and splitting the proceeds.”",
       "published": "2026-11-14T18:30:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Italy fines Meta $887 million over Android users' data access - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQSVFmcHRvNGEzVXRKbU5Kc0JhSDV4R2o0bnpXSUJMZnRMc1E2ckNCRzBaWDhzY2xObHVtNmtiWmdoX3g4NlVsYkc1bzFDbVB0T016LWczNHJ6bGx2ZXlQeDZPUGNjeXJPaWZ3Wm5DdU9za21PMXFlZVVDckh5Q1I0QnROcElOTnA2bGMzczBMbFJweW1ISkkwWUgzNXJpTU95N0NR?oc=5\" target=\"_blank\">Italy fines Meta $887 million over Android users' data access</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T18:12:20+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -210,7 +190,7 @@
     {
       "category": "Crypto",
       "source": "CoinDesk",
-      "title": "Bitcoin crashes to 3-month low below $64,000 as analyst flags fourth capitulation wave",
+      "title": "Bitcoin crashes to 3-month low below $63,000 as analyst flags fourth capitulation wave",
       "link": "https://www.coindesk.com/markets/2026/11/14/bitcoin-drifts-back-to-usd65-000-deep-value-zone-says-analyst",
       "summary": "",
       "published": "2026-11-14T16:33:29+00:00",
@@ -244,15 +224,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Alaska elects first Democratic governor since 1998, US media project - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQcHVTbkEtaU96RjU1TldQLVY5OFFxWmc2VVZRSFM1bEZqVEdLeUxZeC12SklQRlRyUnZlZUJwOW1yMEVqd2JXV3dYeEdrdElmMUZpYml6bmQzVFM5N25waFh4WmxTUVhJdGVteFRmMm9STVFuS0gwZkJyYXFvZmNjUW0tdzhLcnU2WS1oSHprSlpoaDhLT25aNTFoaUNXVG5LVFVaYkZmNlhwNkNNR29wSWxR?oc=5\" target=\"_blank\">Alaska elects first Democratic governor since 1998, US media project</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T14:28:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Britain could turn wasted Scottish wind power into bitcoin to cut its $1.3 billion grid bill",
@@ -280,15 +251,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Smart Investor: What’s Next for Nvidia, Undervalued Earnings Crushers, and is Anthropic a Buy? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxObXNlT1FTZV9Wa2dIVjg5QVU0UE5UV1E0VWstcURydndlU3A0c3BOZlVwRUpKYjlOSzNOeHo1U1NYaE11THBCT0twbHJKWlhJSU91Qk5NclpMM2xXb3VFdXU2MXo2Vlplc244cEdDN3laWEJnSm0tekF3NEo1ZXNYMGMwV2xqWUU4RGVOV0swT1JQQkFBT0o4LVFBcUpEYU0tU0V1eTVYYkdyc0tXekQ5MXV4MzVSUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxObXNlT1FTZV9Wa2dIVjg5QVU0UE5UV1E0VWstcURydndlU3A0c3BOZlVwRUpKYjlOSzNOeHo1U1NYaE11THBCT0twbHJKWlhJSU91Qk5NclpMM2xXb3VFdXU2MXo2Vlplc244cEdDN3laWEJnSm0tekF3NEo1ZXNYMGMwV2xqWUU4RGVOV0swT1JQQkFBT0o4LVFBcUpEYU0tU0V1eTVYYkdyc0tXekQ5MXV4MzVSUQ?oc=5\" target=\"_blank\">Smart Investor: What’s Next for Nvidia, Undervalued Earnings Crushers, and is Anthropic a Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-14T12:09:14+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Winemakers are learning that conservation can be good for business",
@@ -296,24 +258,6 @@
       "summary": "Healthy soils, native plants, and fewer chemicals are helping vineyards adapt.",
       "published": "2026-11-14T12:05:51+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxPR2NiU2RGMHprbUFIMnNuTGJheHdpTzhuZFRCSWVGcl9HZF9raUd2VXQxNHE1WldRVzNaZWx6YnlRZFpueGZlb05DMElhZ3FEOVdLakpQWkNLaGktQWh6THRxT3V0aGVPaXI0dW9LVm9DeTJRekF1enJaamZ5bEd2SFZtSVNtTFd5VEp0WFl6U2VWX3BCRkYzbnB1c25QRnU2M3FBbDJBMHRTVWU5T0hyZG5sWFRPWUFIYVhuT1BMWTBkUVdNbDlF?oc=5\" target=\"_blank\">Trump tells advisers he may hold off on Iran attacks barring new provocations, sources say</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-14T11:04:10+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "World recovers from the day Microsoft stood still - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRkbzl2ZFV2cXV1WXpzOXQ5U1FGdk5qajVMLUMxeWlqOUs0MGN0ZzBXN29xd3VrTzZ5QlhyQ3YzV1lLWlVnMnlwYXdSMkFTRExESXBZSmZVTTVwVXpwWEVfM3BuSWhrRlZ2YWJOOWdOQVkxWGdVdF82XzJJVGRoMlBpNkRnV3IzUFNsaThn?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijgFBVV95cUxOcjRkbzl2ZFV2cXV1WXpzOXQ5U1FGdk5qajVMLUMxeWlqOUs0MGN0ZzBXN29xd3VrTzZ5QlhyQ3YzV1lLWlVnMnlwYXdSMkFTRExESXBZSmZVTTVwVXpwWEVfM3BuSWhrRlZ2YWJOOWdOQVkxWGdVdF82XzJJVGRoMlBpNkRnV3IzUFNsaThn?oc=5\" target=\"_blank\">World recovers from the day Microsoft stood still</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-11-14T08:46:06+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -352,15 +296,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Bitcoin miners pay Paraguay $350 million a year, but AI is pushing them out",
-      "link": "https://www.coindesk.com/tech/2026/11/13/bitcoin-miners-pay-paraguay-usd350-million-a-year-but-ai-is-pushing-them-out",
-      "summary": "",
-      "published": "2026-11-13T23:30:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "FAA has lifted its third-ever nationwide ground stop",
@@ -379,15 +314,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "The best gifts for tech lovers in 2026 - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zOV8yeFhXcEpWX2dIbmZjWkhhWlJTUTVRWm5YbllEV2FXZTdJQ0tJU3hET3ZJUzVLVjBlYzFleWduRFlyMGJLMjdKR3NsUTBUX1BsNncxZklYbVo3bm1QYg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiYEFVX3lxTE1zOV8yeFhXcEpWX2dIbmZjWkhhWlJTUTVRWm5YbllEV2FXZTdJQ0tJU3hET3ZJUzVLVjBlYzFleWduRFlyMGJLMjdKR3NsUTBUX1BsNncxZklYbVo3bm1QYg?oc=5\" target=\"_blank\">The best gifts for tech lovers in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-11-13T22:46:02+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "TechCrunch AI",
       "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
@@ -404,15 +330,6 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/11/securing-the-asia-pacific-digital-battlespace-technet-indo-pacific-2026/\"><img alt=\"Key insights from TechNet Indo-Pacific 2026 on the evolving challenges of network resilience, cyber defense and multinational information sharing across the Indo-Pacific.\" class=\"attachment-large size-large wp-post-image\" height=\"576\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/TechNet-Indo-Pacific-featured-image-2026-2-1024x576.png\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>From electronic warfare threats to coalition data sharing, discover how US and allied forces are strengthening the digital battlespace across the Indo-Pacific.</p>",
       "published": "2026-11-13T22:27:52+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Market Wrap: Stocks Up 2.52%, Led by Energy and Industrials - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNMTNRMTVyRExvd2htSEhvUDZxUVJXRXhyQ1dZdzA3cV95UmM0cU1waGdkWkhzM2VvTUFLRHQ0THRnODhBLXowb1ZyRkJlVFpxeThOcExmLUFXUjM3MFE5NzZKVERSQzZXTENqa3ZyMlo5WFJlQ3N4eENMMkdNYXI2SVhlMUZQRzlVMUZMQ1ZKeVM?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNMTNRMTVyRExvd2htSEhvUDZxUVJXRXhyQ1dZdzA3cV95UmM0cU1waGdkWkhzM2VvTUFLRHQ0THRnODhBLXowb1ZyRkJlVFpxeThOcExmLUFXUjM3MFE5NzZKVERSQzZXTENqa3ZyMlo5WFJlQ3N4eENMMkdNYXI2SVhlMUZQRzlVMUZMQ1ZKeVM?oc=5\" target=\"_blank\">Market Wrap: Stocks Up 2.52%, Led by Energy and Industrials</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-13T22:14:42+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "AI & Technology",
@@ -458,15 +375,6 @@
       "summary": "<p>The scare comes after some USAF aircraft were evacuated from England and the threat level at bases has been raised. </p>\n<p>The post <a href=\"https://www.twz.com/air/suspected-drones-over-raf-lakenheath-just-triggered-security-response-u-s-air-force\">Suspected Drones Over RAF Lakenheath Just Triggered Security Response: U.S. Air Force (Updated)</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-11-13T20:45:42+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Europe Must Step Up to Settle the Russia-Ukraine War - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5\" target=\"_blank\">Europe Must Step Up to Settle the Russia-Ukraine War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-11-13T20:41:35+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -577,15 +485,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "7 Undervalued Stocks That Crushed Earnings - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFBCUEdhckE2T3ppNGZJVkpvUDV1Sk9kaXFjOW1kdFVWa0k4b0t4OHZIZko4VTl0NXBxYTgycVQxM0Q0aDNreUZIMmRGOUJvQk5HTHk3RGtDNUhaM3I2QTVmQlVXNUtUVWlKSXJ3MEJYTlhfc1JRNFVVbXE4WHh2WWd5blIzUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQWFBCUEdhckE2T3ppNGZJVkpvUDV1Sk9kaXFjOW1kdFVWa0k4b0t4OHZIZko4VTl0NXBxYTgycVQxM0Q0aDNreUZIMmRGOUJvQk5HTHk3RGtDNUhaM3I2QTVmQlVXNUtUVWlKSXJ3MEJYTlhfc1JRNFVVbXE4WHh2WWd5blIzUQ?oc=5\" target=\"_blank\">7 Undervalued Stocks That Crushed Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-13T17:59:29+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "Judges close part of ICC Afghanistan investigations that could look at US troops",
@@ -629,15 +528,6 @@
       "summary": "Lt. Col. Brandon Carroll Tyner has been identified as the U.S. soldier arrested earlier this week in the UK for reportedly assisting Russian intelligence.",
       "published": "2026-11-13T16:32:38+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "What to Watch in Nvidia Earnings: Leadership, China, Data Center Concerns Take Center Stage - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbDhxQUxlWkU3SVVSNUZiZ0x2ZWo1WmZtRklVbWpZYThjVHBRZ28zS05kbGtNS2lzSHJsdXRRc09JcXU1clpOcWZ4VE9IT3BwMWIyNS1OS29vcEgyaVlfVnBjVUdudnJtOUdSZFFMWUFnTVpMTlc4UENmLWZwSTM2bnhoalpGME45ZGNqTFFUX2ExcXJ2WXlJMTVPVDY2d3JNZ3lucGRudVR3Y1pZLVhXeDROZEpDcEFxYnJtZ051Tk8?oc=5\" target=\"_blank\">What to Watch in Nvidia Earnings: Leadership, China, Data Center Concerns Take Center Stage</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-13T16:14:39+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -739,15 +629,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Trump Is a Lame Duck. But He’s Still in Charge of U.S. Statecraft. - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHJ0eFVtdHJkRXJkU2c3Q2VKTmFZd3pfczM1S3RzbVpMbW5yUzhyeVZtSWh3ZGNZZS0wZFMyZ2NEcXBKUVM3dXA3U2RwcHJXMWUzb2luN0ItNnNfNDI3bFVqb21iU1ZXNjIwcHdkdDEwVHhHSjBjUHVKZTVuZWR6ZWZIT2ZCV0RLU01wV3Z6dnBrM1JyMGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxQcHJ0eFVtdHJkRXJkU2c3Q2VKTmFZd3pfczM1S3RzbVpMbW5yUzhyeVZtSWh3ZGNZZS0wZFMyZ2NEcXBKUVM3dXA3U2RwcHJXMWUzb2luN0ItNnNfNDI3bFVqb21iU1ZXNjIwcHdkdDEwVHhHSjBjUHVKZTVuZWR6ZWZIT2ZCV0RLU01wV3Z6dnBrM1JyMGc?oc=5\" target=\"_blank\">Trump Is a Lame Duck. But He’s Still in Charge of U.S. Statecraft.</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-11-13T12:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "Audient introduces the third generation of its iD interface family – here’s what’s new",
@@ -775,13 +656,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "United bans AI agents from booking flights - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JUZGFvWVg4ZnB5OEM5R0tUaFpnUndmTVhMU05NNV83bDZBTmNLMzFBeHRIT00wOTluMGM0TzBCVmpZRlI1VEJMcDJsTUJqU3pXT3hWTmNLZXFKbF9xd0NmNm4zaGJaSnM4Q3RRM0FRMVp6SzVoWTdOM1VrZG9XcTNITzY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOZ2JUZGFvWVg4ZnB5OEM5R0tUaFpnUndmTVhMU05NNV83bDZBTmNLMzFBeHRIT00wOTluMGM0TzBCVmpZRlI1VEJMcDJsTUJqU3pXT3hWTmNLZXFKbF9xd0NmNm4zaGJaSnM4Q3RRM0FRMVp6SzVoWTdOM1VrZG9XcTNITzY?oc=5\" target=\"_blank\">United bans AI agents from booking flights</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-11-13T06:05:48+00:00",
-      "feed_type": "google_news_fallback"
+      "category": "Weekly Deep Dive",
+      "source": "Foreign Affairs",
+      "title": "The World’s Last Chance for Peace",
+      "link": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
+      "summary": "How to avert a new world war.",
+      "published": "2026-11-13T05:00:00+00:00",
+      "feed_type": "official_or_site_feed"
     },
     {
       "category": "Weekly Deep Dive",
@@ -789,15 +670,6 @@
       "title": "La última oportunidad para la paz",
       "link": "https://www.foreignaffairs.com/es/spain/pedro-sanchez-ultima-oportunidad-paz-evitar-guerra-mundial",
       "summary": "Cómo evitar otra guerra mundial.",
-      "published": "2026-11-13T05:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Weekly Deep Dive",
-      "source": "Foreign Affairs",
-      "title": "The World’s Last Chance for Peace",
-      "link": "https://www.foreignaffairs.com/spain/pedro-sanchez-world-last-chance-peace-avert-world-war",
-      "summary": "How to avert a new world war.",
       "published": "2026-11-13T05:00:00+00:00",
       "feed_type": "official_or_site_feed"
     },
@@ -836,15 +708,6 @@
       "summary": "The measures call for enhanced cooperation between the U.S. and Israel on weapons technology development.",
       "published": "2026-11-12T22:21:53+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Nvidia Has Been the Market’s Golden Goose. Now It’s in Crisis - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1VaLTdKSEJHUTRualBnQ3lrODR6d3lQTWE1a2Fla0IyTjIyYnB4OXRLT2tsZUthUlZXVUNfMWprcDVfazdIMWYwLUNVc1JBX2NEYUNfZG96T19kVnFQckRRWkxxVjlYMGZtdlV2bDBvTUt5M1JEZmVKdDJPaHh4YXRrQkE2VHZnZFVQM01GMA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxNc1VaLTdKSEJHUTRualBnQ3lrODR6d3lQTWE1a2Fla0IyTjIyYnB4OXRLT2tsZUthUlZXVUNfMWprcDVfazdIMWYwLUNVc1JBX2NEYUNfZG96T19kVnFQckRRWkxxVjlYMGZtdlV2bDBvTUt5M1JEZmVKdDJPaHh4YXRrQkE2VHZnZFVQM01GMA?oc=5\" target=\"_blank\">Nvidia Has Been the Market’s Golden Goose. Now It’s in Crisis</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-12T22:20:57+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Combat Operations & Modern Warfare",
@@ -892,15 +755,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "How to Rebalance Your Portfolio Before 2027 - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVVBMVJveEc2VmpRR3dSRFNWSUwxZ01vRHBzb3J6NWQtdUVKbDFSRjlnWG1IRF9pamZ1SkwxeThOaDUzSnBndXYwWkNxVzhzTkRRcHQwcjdabnZrX092eUJrUGRhNzRiM2laVE1RZlJhb3Q5V3ZYbVRlSnhlQXNRWHdDcXh3VlhJMlNUZlJPRzY?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOUVVBMVJveEc2VmpRR3dSRFNWSUwxZ01vRHBzb3J6NWQtdUVKbDFSRjlnWG1IRF9pamZ1SkwxeThOaDUzSnBndXYwWkNxVzhzTkRRcHQwcjdabnZrX092eUJrUGRhNzRiM2laVE1RZlJhb3Q5V3ZYbVRlSnhlQXNRWHdDcXh3VlhJMlNUZlJPRzY?oc=5\" target=\"_blank\">How to Rebalance Your Portfolio Before 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-12T16:17:05+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "How transparent is your DAW’s cost model?",
@@ -926,15 +780,6 @@
       "summary": "<p><img alt=\"Haloplane\" class=\"attachment-full size-full wp-post-image\" height=\"1500\" src=\"https://musictech.com/wp-content/uploads/2026/11/Haloplane-hero@2000x1500.jpg\" width=\"2000\" /></p>\n<p>The compact device works as a sampler and wavetable synthesizer.</p>\n<p>The post <a href=\"https://musictech.com/news/gear/haloplane/\">Watch the Haloplane make music by running pickups through magnetic fields </a> appeared first on <a href=\"https://musictech.com\">MusicTech</a>.</p>",
       "published": "2026-11-12T12:30:34+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Apple Earnings Review: Revenue Beats Estimates as Memory Crunch Threatens Margins - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVF4eXZaLS1EbzQ5N2x5QXVXeTV0YTluazBQLVFnbDJpWklYZjlSNEF0UnBzM2Rkd25yU2lDWU5iV1czd2JuX2lITFlVSXRVMEM3dzI3Y1BSQlhOeW5aVWd2c2hOcXhTaFJFODBXNGdEMXVpQktNMTZmYlVjcnZDeWk3ZV9zYmpZcHZ3ODRadl9LU01oSC0wU2FTaUpwTnRYUzU2MVgtMlB0TEpHbjk4dU1B?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxNdVF4eXZaLS1EbzQ5N2x5QXVXeTV0YTluazBQLVFnbDJpWklYZjlSNEF0UnBzM2Rkd25yU2lDWU5iV1czd2JuX2lITFlVSXRVMEM3dzI3Y1BSQlhOeW5aVWd2c2hOcXhTaFJFODBXNGdEMXVpQktNMTZmYlVjcnZDeWk3ZV9zYmpZcHZ3ODRadl9LU01oSC0wU2FTaUpwTnRYUzU2MVgtMlB0TEpHbjk4dU1B?oc=5\" target=\"_blank\">Apple Earnings Review: Revenue Beats Estimates as Memory Crunch Threatens Margins</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-12T11:12:44+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -971,15 +816,6 @@
       "summary": "How Technology Is—and Isn’t—Changing the Global Economy",
       "published": "2026-11-12T09:00:00+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "What’s Next for the AI Stock Trade After the Midterms? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBRUHZUWFl0X3pNMG1PcXZxVEdmd2JJaV81OV9ha0FiSDFVVl9jRXN6MDRCQlBwU29lTzUxWlEybHRoWnV4cDdxRlNfbkJ6YlB4Nk9JSHVsZjVDWVdORDhCbi14U2Qza2tnclJzMUxXZUFOeERQS3JFZA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBRUHZUWFl0X3pNMG1PcXZxVEdmd2JJaV81OV9ha0FiSDFVVl9jRXN6MDRCQlBwU29lTzUxWlEybHRoWnV4cDdxRlNfbkJ6YlB4Nk9JSHVsZjVDWVdORDhCbi14U2Qza2tnclJzMUxXZUFOeERQS3JFZA?oc=5\" target=\"_blank\">What’s Next for the AI Stock Trade After the Midterms?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-11T22:33:04+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1072,15 +908,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Inflation was up in October. A Fed rate hike is likely coming in December - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQR25XRnJaWUFDMlZSa0E2clRUYUJINEVFMUNIcXQ3VUoybXVBbl9ZcnNYLXhpSFF3WEsxU3ZMY0cyQURBYzNRaWhoOFY2aTZSTzdoZTJOQ0xqdGhHVTdGTVRDVmNhOU5XaUtSTGppemNNNlE5bWtScTFtaFN2YUFVZVNPa05Wdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxQR25XRnJaWUFDMlZSa0E2clRUYUJINEVFMUNIcXQ3VUoybXVBbl9ZcnNYLXhpSFF3WEsxU3ZMY0cyQURBYzNRaWhoOFY2aTZSTzdoZTJOQ0xqdGhHVTdGTVRDVmNhOU5XaUtSTGppemNNNlE5bWtScTFtaFN2YUFVZVNPa05Wdw?oc=5\" target=\"_blank\">Inflation was up in October. A Fed rate hike is likely coming in December</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-11-11T06:26:07+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "Analyzing the Ethiopian-Somaliland Deal, Two Years On",
@@ -1144,15 +971,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Nvidia CEO admits to extramarital affair with suspected Chinese agent - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaF9DMHpydE9USURnS2NqdWlkTU5pM1NJTkoxUXRoUnREbjY4VFNlNThLSG5PLXV2QkJzdE53V3lEbFZCNVFFc1NIVkdYb3hHUUV2TzJmMFNIc3Qyci1SdkMxV0hTOFRhRjhKczA3enMza0JqUFU2Yk1GcU95S2FaLWZ3LVI4ZC1GMzY1UUU4clJJNkxjb09DSklfdVN0bFZOQkEySXBHN1M?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxQaF9DMHpydE9USURnS2NqdWlkTU5pM1NJTkoxUXRoUnREbjY4VFNlNThLSG5PLXV2QkJzdE53V3lEbFZCNVFFc1NIVkdYb3hHUUV2TzJmMFNIc3Qyci1SdkMxV0hTOFRhRjhKczA3enMza0JqUFU2Yk1GcU95S2FaLWZ3LVI4ZC1GMzY1UUU4clJJNkxjb09DSklfdVN0bFZOQkEySXBHN1M?oc=5\" target=\"_blank\">Nvidia CEO admits to extramarital affair with suspected Chinese agent</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-11-09T17:07:50+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Weekly Deep Dive",
       "source": "War on the Rocks",
       "title": "The Record Budgets and Missing Suppliers Shaping America’s Munitions Ramp",
@@ -1171,15 +989,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Why Morning Brew? - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiS0FVX3lxTE1velJYTk9GLU5nRzlqQ19QQ1kyTDdZMlJ0M3hUdzJEMEhTczRKZkwtUEZFR1VVZEFOSVJNZEJDaEk5dWphNjl2V3RzWQ?oc=5\" target=\"_blank\">Why Morning Brew?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-10-25T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "DJ TechTools",
       "title": "TriMixxx Is a DIY CDJ Built on a Raspberry Pi",
@@ -1196,15 +1005,6 @@
       "summary": "<p>AlphaTheta’s second SonicLink headphone goes on-ear and adds tap-to-pair with the DJM-V5. Everyone else needs a separate $159 transmitter.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/10/15/alphatheta-hdj-f9-soniclink-wireless-dj-headphones-349/\">AlphaTheta HDJ-F9: SonicLink Wireless DJ Headphones, $349</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
       "published": "2026-10-16T01:41:40+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Latest News – Conflict Between Afghanistan and Pakistan | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjdfVFEzejVaTjNET0M5TzJ1bVBDMXpoWGt3RXZYWTNWNlpFVUpna2Jvbkg1S3VmRllta2kydzBsSTdFdmN4SlFFZnVaQkNwSkRmLWY5bVJJTFNqNmlQQWlTaExVM2E0X05lR0lJU1VySGhfXzY5S1RSZWwxUzhCSQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigAFBVV95cUxPVjdfVFEzejVaTjNET0M5TzJ1bVBDMXpoWGt3RXZYWTNWNlpFVUpna2Jvbkg1S3VmRllta2kydzBsSTdFdmN4SlFFZnVaQkNwSkRmLWY5bVJJTFNqNmlQQWlTaExVM2E0X05lR0lJU1VySGhfXzY5S1RSZWwxUzhCSQ?oc=5\" target=\"_blank\">Latest News – Conflict Between Afghanistan and Pakistan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-08-03T12:20:21+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1241,87 +1041,6 @@
       "summary": "<p>After about 20 years, Juno Download has shut down with no warning. Here's what the DJ-first store meant, why it folded while vinyl booms, and where to buy DJ music now.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/06/02/farewell-juno-download/\">Farewell, Juno Download</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
       "published": "2026-06-03T00:15:45+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars - AP News",
-      "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMi4AFBVV95cUxQSE9YZU8yQmVFSGo1cm5lc05XV0FBNVZUQm5lQUdZY2JqQi1heVBLbHlpSVcyejV3a05zOS1yVWdDVVM0aVRWSERycHFFZFJXZzhMYy1BVXNKaFRkbDlTVHBVbG1OUUVQaWZrcElJeTFWcDRNNkdyTVU4X2tYWldlWG9hMl9pQlhxTWg1YWtwX3J4eDN1d3hnbm1ieElhT0w5VGNWT1dCWjdvN3h0dmdETGlGdy1HRzFITk5zeFVRWXRDQzNSLVVhRXdxMW9lTEFpNXJYallhdG5KamdKbGxLcA?oc=5\" target=\"_blank\">Trump’s first 100 days: Steamrolling government, strong-arming allies, igniting trade wars</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2025-04-27T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Business News and Trends - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5\" target=\"_blank\">Business News and Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2024-11-18T18:07:29+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Criminal Violence in Haiti | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE14VGNVdFNoTEJ5U2RPbjY3LXBkdWlEeXlXVU4zMDVzVUtMcGdNMldGbXd0dGtXYnltUEx3OURvS0o5NDljcXowc2ZvSzNTRkFXX0E5dzRMWGxvc0RNbmRlcnlWVjEyYTAxcmFWTnNuQVI5bjczTWJienp3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE14VGNVdFNoTEJ5U2RPbjY3LXBkdWlEeXlXVU4zMDVzVUtMcGdNMldGbXd0dGtXYnltUEx3OURvS0o5NDljcXowc2ZvSzNTRkFXX0E5dzRMWGxvc0RNbmRlcnlWVjEyYTAxcmFWTnNuQVI5bjczTWJienp3?oc=5\" target=\"_blank\">Criminal Violence in Haiti | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2023-09-13T01:21:48+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Civil War in Sudan | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE93b3VSei1NWTdlTUVhWjNaVGpKU2J1WVNZdlFEdFJsUnEzNEpZbXJZVXFyZ1JXcW1OOTdFZTJSbW1SRGZEQXR0U3ZuUkJOUG5ER0lyUHFqY09JWFVBVjVJSXVMM0RvMFp2ZnktdmIzaUFVaGF3UDE0U0daSElwUQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMifkFVX3lxTE93b3VSei1NWTdlTUVhWjNaVGpKU2J1WVNZdlFEdFJsUnEzNEpZbXJZVXFyZ1JXcW1OOTdFZTJSbW1SRGZEQXR0U3ZuUkJOUG5ER0lyUHFqY09JWFVBVjVJSXVMM0RvMFp2ZnktdmIzaUFVaGF3UDE0U0daSElwUQ?oc=5\" target=\"_blank\">Civil War in Sudan | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2023-07-11T17:26:26+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Violent Extremism in the Sahel | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUxBdm9lLS1yQ2tiRkRBVjZYRUxfNmw3aHFYYl82dERySGlKb0NsbVdRZk5ZNExfTGwteW1IZnROVEgwMVBoNFlNbndMRHVwOVFEYVVhTjl0bkIxZVcyaktyMGF0OVVMSFhZcUJpR2QtLVowSUozc2pkM1ZJUGN4NnR3?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPeUxBdm9lLS1yQ2tiRkRBVjZYRUxfNmw3aHFYYl82dERySGlKb0NsbVdRZk5ZNExfTGwteW1IZnROVEgwMVBoNFlNbndMRHVwOVFEYVVhTjl0bkIxZVcyaktyMGF0OVVMSFhZcUJpR2QtLVowSUozc2pkM1ZJUGN4NnR3?oc=5\" target=\"_blank\">Violent Extremism in the Sahel | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2023-03-03T21:45:30+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "AP Politics",
-      "title": "Politics - AP News",
-      "link": "https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQEFVX3lxTE81bWxMYVBCSFBYSVN6N2ZzYTBqWmp4djJTcXJ3bmJENTl5Z2R1YjVFOEE2ck51Ry1PRFZyUEo0Vk4?oc=5\" target=\"_blank\">Politics</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
-      "published": "2020-12-07T16:27:24+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Israeli-Palestinian Conflict | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFdPTFB4dnRFVzNyN0FVWjNDbXc3VDFZMUUyU0JIejh5VEF3RFlYVXZXLVV0RkhIT2kxQ0hfbHVpNW5TcEk5SkNFZ2RFMkh4RGRPSU9zeHlfSldmSkU2MXVGbklfTkJ1eHVFQURfRVQ4dUJHOTlocjUwMW5tNTRFSjVjQm1DNGRB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxOVFdPTFB4dnRFVzNyN0FVWjNDbXc3VDFZMUUyU0JIejh5VEF3RFlYVXZXLVV0RkhIT2kxQ0hfbHVpNW5TcEk5SkNFZ2RFMkh4RGRPSU9zeHlfSldmSkU2MXVGbklfTkJ1eHVFQURfRVQ4dUJHOTlocjUwMW5tNTRFSjVjQm1DNGRB?oc=5\" target=\"_blank\">Israeli-Palestinian Conflict | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2020-05-30T01:24:59+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Territorial Disputes in the South China Sea | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwFBVV95cUxQYzNmYWQyLUhuc243Zk9UcTg4U1hCRUdZa2NCVFdQeWhxUnp0SUpzUTdkSHVZYkVLNFUwY3ZaYTZMZ1JwUXVndk5FRGI4eXNObEhibzl0Snh4aHhpcFhnRzN3ZnQzMUZpTVBtaXY1Tm9MSkJQQmpyMGN6Rl9KSGdEN2tSTzFrZjJWMWJlOUo0WVFHNGc?oc=5\" target=\"_blank\">Territorial Disputes in the South China Sea | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2020-05-29T00:00:19+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Morning Brew - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE9BX1lROHgxUElFYUhtQ2hTa0tUMVM5emlUYjI4VUJGNG91T3BQWFNNTGNUUlh6SlRibmNOREg0VERiZw?oc=5\" target=\"_blank\">Morning Brew</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2017-07-07T01:37:33+00:00",
-      "feed_type": "google_news_fallback"
     }
   ]
 }
