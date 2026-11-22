@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-21T22:57:30.962324+00:00",
+  "updated_at": "2026-11-22T02:58:21.037101+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -9,6 +9,33 @@
     }
   ],
   "items": [
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
+      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
+      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
+      "published": "2026-11-22T01:15:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "My wife is bankrolling her family’s trips to New York and it’s draining our savings. Should I ask her to stop?",
+      "link": "https://www.marketwatch.com/story/my-wife-pays-thousands-of-dollars-for-her-family-to-visit-from-argentina-how-can-i-convince-her-to-stop-9381351c?mod=mw_rss_topstories",
+      "summary": "“Hotel rooms can cost as much as $400 per night.”",
+      "published": "2026-11-22T00:03:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "I’m in my 40s. Should I accept a lower pension in exchange for naming my husband or child as a beneficiary?",
+      "link": "https://www.marketwatch.com/story/im-in-my-40s-should-i-accept-a-lower-pension-in-exchange-for-naming-my-husband-or-child-as-a-beneficiary-b2352059?mod=mw_rss_topstories",
+      "summary": "“If I die before my husband, he will receive a lifetime pension equal to 50%–66% of my monthly benefit.”",
+      "published": "2026-11-21T23:05:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
     {
       "category": "AI & Technology",
       "source": "Ars Technica",
@@ -35,6 +62,15 @@
       "summary": "Signal is limiting users' ability to take screenshots in both its Android and iOS apps.",
       "published": "2026-11-21T21:37:10+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Lower turnout at largely peaceful marches across France - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimgFBVV95cUxOTzg5OVFjVWE0RGV5T1VhWTRQR2JFd0VqdFNBSEVtZ2NxdHotRXFIYVIxd1FmUzY2UmJtR2lSamtTU21TUXZfcTJ0Zm9kMnNCQVdoclZoaHBsTGVNbjZZcVlaYWNtNHVrM2FST21pRU84UzlZd3oyLTlERlR3M0lRQVpxQTZhZXhqTU12SFQzVGpYNllBeTFOS2hn?oc=5\" target=\"_blank\">Lower turnout at largely peaceful marches across France</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-21T21:32:51+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "World News & Politics",
@@ -109,15 +145,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "My husband is happily retired at 64 and thinks I should keep working. Is he being fair?",
-      "link": "https://www.marketwatch.com/story/my-husband-is-happily-retired-at-64-and-thinks-i-should-keep-working-is-he-being-fair-325c5f38?mod=mw_rss_topstories",
-      "summary": "“I’m exhausted. My alarm goes off at 6 a.m., and I have a 50-minute commute.”",
-      "published": "2026-11-21T19:23:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "World News & Politics",
       "source": "Reuters World",
       "title": "NATO will defend every inch of Polish territory, Rutte says - Reuters",
@@ -143,15 +170,6 @@
       "summary": "South Korean exchanges Upbit and Bithumb both suspended CYBER deposits and withdrawals, citing a suspected security incident.",
       "published": "2026-11-21T18:51:14+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxPNER6Q2NPRk9TUmtuX1hhQ21MdEdsc05rT0FxZzE4RTczVDJqbjN1My04Zm4tUkd1aUJ4cDdXSTM3ZVl6UVg0S0hLTWs1d1pjLTRDcVgtM1dVeVNvWFZHd1g3NEZCdm5HMlR1U09Cd1JfWUg1cEQ0aUZSU19uSHowSWhEUERvNE5OM1NxTDR1T3VYV21rb25pX1NSOFdFcHlOd3VzYkpMT2VzMlYwRVVSMmFuc2J3SkZ5dUM3Z0M0YXEyZw?oc=5\" target=\"_blank\">Israeli strike on vehicle in Gaza kills three, Gaza Health Ministry says</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-21T18:21:58+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -205,24 +223,6 @@
       "link": "https://techcrunch.com/2026/11/21/all-the-ai-agents-that-can-live-in-your-text-messages/",
       "summary": "We created a list of the most notable AI agents that can live in your text messages, from general assistants to agents designed for families, travel, and work.",
       "published": "2026-11-21T17:00:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Is Social Security a Ponzi scheme? No. Don’t get carried away with 1930s-era prophecies of doom.",
-      "link": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
-      "summary": "Wisconsin Republican Sen. Ron Johnson called Social Security a “scam” and urged lawmakers to shut it down.",
-      "published": "2026-11-21T16:50:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
-      "link": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
-      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
-      "published": "2026-11-21T16:50:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -732,10 +732,10 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "I Bonds vs. TIPS: How to Choose Between These Inflation Hedges - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmRhZTMtS1VwRHNwbTBCTlYyVGEtYU93aEp4eXJ2eGVvYXE5Y1VEbzJCSDVOblpjcGZHUHBuV1hSTmVicjFWNTU4LWNMRDZYWlNobDVUYVA1ZDhRcHl0WW1jU2M3MHlUTzlpbm5PaUlyN2xjOHhQdUtGVmExOHhOa3poQjdqeHNhVWFkc0ktTlp0ekg4dGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxPZmRhZTMtS1VwRHNwbTBCTlYyVGEtYU93aEp4eXJ2eGVvYXE5Y1VEbzJCSDVOblpjcGZHUHBuV1hSTmVicjFWNTU4LWNMRDZYWlNobDVUYVA1ZDhRcHl0WW1jU2M3MHlUTzlpbm5PaUlyN2xjOHhQdUtGVmExOHhOa3poQjdqeHNhVWFkc0ktTlp0ekg4dGc?oc=5\" target=\"_blank\">I Bonds vs. TIPS: How to Choose Between These Inflation Hedges</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-20T11:26:57+00:00",
+      "title": "Bond Yields Are Up. Should You Stay in Cash or Lock ’Em In? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBkVXQ5OEpiWWtiMXdCbklLemxXMmppa1ZlY1gxSjlwUE8wX1ViWjBwS3djZTJHemRpS3BlZEZRMUhUNm1oVWZMY0htNmcxeFYyeXZQWkE4NzFBR2V2ZFlGR1ZaY0NmM0ZlU0pMdHVyVW9XdFVyX21MSnFn?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTFBkVXQ5OEpiWWtiMXdCbklLemxXMmppa1ZlY1gxSjlwUE8wX1ViWjBwS3djZTJHemRpS3BlZEZRMUhUNm1oVWZMY0htNmcxeFYyeXZQWkE4NzFBR2V2ZFlGR1ZaY0NmM0ZlU0pMdHVyVW9XdFVyX21MSnFn?oc=5\" target=\"_blank\">Bond Yields Are Up. Should You Stay in Cash or Lock ’Em In?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-20T11:02:59+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -946,15 +946,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Has BlackRock Figured Out Private Assets in ETFs? - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGw0anJrYUtGalQ3NEotOGlVdUdoN1N6d3Z1aW5Kajl0NkphV2lBLUJDV29TZmVGRjlORWtoWlRVUm9CWnNfQVVNeUsyWGZ3aEVPM0RMZ1lXa1d1bFVOZDVfa3BMclRna05HcU9BWEdNZmt4ZXpUa3ktOFJTbVU5bnV0aHdwQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNSGw0anJrYUtGalQ3NEotOGlVdUdoN1N6d3Z1aW5Kajl0NkphV2lBLUJDV29TZmVGRjlORWtoWlRVUm9CWnNfQVVNeUsyWGZ3aEVPM0RMZ1lXa1d1bFVOZDVfa3BMclRna05HcU9BWEdNZmt4ZXpUa3ktOFJTbVU5bnV0aHdwQQ?oc=5\" target=\"_blank\">Has BlackRock Figured Out Private Assets in ETFs?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-19T11:13:18+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "What a billion-dollar deal says about the US battery market",
@@ -1090,6 +1081,15 @@
       "feed_type": "official_or_site_feed"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "10 Reasons for Investors to Be Thankful in 2026 - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEtlbUVFdjkzSjFIMlNKbFdsTHBIYUFnYzEzeWlaeUNkQjR5LXVDSlVzSHVyYk12SWp0RzNNZFN5UGR0aVZZVUkzSGE0Wkh0bHZjWVdpbmdlMHFnLTZrZ2k5NzNGZ1BxQXU2VnFIRE53M1NLdjI2YXotSGNZdVlNVVFR?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNaEtlbUVFdjkzSjFIMlNKbFdsTHBIYUFnYzEzeWlaeUNkQjR5LXVDSlVzSHVyYk12SWp0RzNNZFN5UGR0aVZZVUkzSGE0Wkh0bHZjWVdpbmdlMHFnLTZrZ2k5NzNGZ1BxQXU2VnFIRE53M1NLdjI2YXotSGNZdVlNVVFR?oc=5\" target=\"_blank\">10 Reasons for Investors to Be Thankful in 2026</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-18T11:08:17+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Music Production & DJ Industry",
       "source": "MusicTech",
       "title": "zZounds best Black Friday music deals 2026: Save on controllers, synths and pro audio",
@@ -1133,6 +1133,15 @@
       "summary": "<p>U.S. President Donald Trump, who has sought nuclear arms control with Russia and China since his first term, may finally have his chance. The first-ever U.S.-Chinese-Russian leaders&#8217; summit is set to take place in Shenzhen, with nuclear issues potentially on the agenda. Regardless of whether the summit yields substantive progress, it could make the prospect of trilateral nuclear arms control seem somewhat less remote than before.&#160;For Beijing, however, the summit&#8217;s symbolism matters most: Washington is finally treating its geopolitical and ideological adversaries as equals in addressing issues of global governance. Discussions among Chinese experts suggest a widespread belief that China&#8217;s</p>\n<p>The post <a href=\"https://warontherocks.com/the-u-s-chinese-russian-summit-and-the-future-of-trilateral-nuclear-talks/\">The U.S.-Chinese-Russian Summit and the Future of Trilateral Nuclear Talks</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-11-18T08:30:27+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Who’s going to profit from Anthropic’s blockbuster IPO? - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVJ6bWZxQWFVWjY2SDNEU0tJNEpNdERGb1BnZ1Z2VlY5LWFpVDU5RE42OGdRR3lOdjItd2pPeTJoczgxWWV2T3ozT05xbmkxZkV3SkdvYmVQNUNDcEszZ2FHRl84TDRSeE1ic3FJWmoxNGMyTkY1dzBiNXJmNV84RXhB?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOLVJ6bWZxQWFVWjY2SDNEU0tJNEpNdERGb1BnZ1Z2VlY5LWFpVDU5RE42OGdRR3lOdjItd2pPeTJoczgxWWV2T3ozT05xbmkxZkV3SkdvYmVQNUNDcEszZ2FHRl84TDRSeE1ic3FJWmoxNGMyTkY1dzBiNXJmNV84RXhB?oc=5\" target=\"_blank\">Who’s going to profit from Anthropic’s blockbuster IPO?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2026-11-18T06:14:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Weekly Deep Dive",
@@ -1189,15 +1198,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "Europe Must Step Up to Settle the Russia-Ukraine War - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQklHM0IxVjFxSFA4Z1lIWUhqd09VSDhPeTM3ME4xTWs1NGNCMlBSN3hiUWNmWklGYkh2VzdsQk5Pbl80TUVDX3pJYy13Y3dCNlp3NUVzTzhCRkVqT2NTMUw3dXluaXZuNmF1WlhfU1pFQk5JNFRCT3h6VmxOWTdqYXNhQVRUaUtm?oc=5\" target=\"_blank\">Europe Must Step Up to Settle the Russia-Ukraine War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-11-13T20:41:35+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "DJ TechTools",
       "title": "AlphaTheta DJM-A7: A9 Layout, Four Channels, $1,599",
@@ -1232,6 +1232,15 @@
       "summary": "<p>AlphaTheta’s second SonicLink headphone goes on-ear and adds tap-to-pair with the DJM-V5. Everyone else needs a separate $159 transmitter.</p>\n<p>The post <a href=\"https://djtechtools.com/2026/10/15/alphatheta-hdj-f9-soniclink-wireless-dj-headphones-349/\">AlphaTheta HDJ-F9: SonicLink Wireless DJ Headphones, $349</a> appeared first on <a href=\"https://djtechtools.com\">DJ TechTools</a>.</p>",
       "published": "2026-10-16T01:41:40+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Conflict Dashboard - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5V2Rtc1h5SXNkaXdHdVFnZld6Y3l6akFMLVIzUll4bTNiMG05Y3FFTC1uS2ZSem5hYTgzV2JTTzE4VkdQTDFoZFZJa1BUWFBhM3VseUpWSDlqTGxHcllubjhzUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTFA5V2Rtc1h5SXNkaXdHdVFnZld6Y3l6akFMLVIzUll4bTNiMG05Y3FFTC1uS2ZSem5hYTgzV2JTTzE4VkdQTDFoZFZJa1BUWFBhM3VseUpWSDlqTGxHcllubjhzUQ?oc=5\" target=\"_blank\">Conflict Dashboard</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2026-09-14T12:01:56+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -1312,15 +1321,6 @@
       "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5",
       "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNRU13cnhheTJpbFhqMzVsR2I2MktBZE1walpDOFBfX2QtT1NUMHlFMXdscE9WNFFYRkoyVF80QWR1UkprQVAzdzd6TXpSWHdUcWJLR2xLTGRpOE8tcDI5ZmYtZjd4TVBaSGZTSFoxbHFVR3ZaUEd4OW1pREVBckFoVGdkcldod0hTb0tYLUVRSV9fRUdlRGc?oc=5\" target=\"_blank\">Read the full House ethics report on Matt Gaetz</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AP News</font>",
       "published": "2024-12-23T18:41:11+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Latest Issue - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ia3JHV0c0S2ZyLXRfaUh3NEpPWHJYaVpqbUZ5RVNycXcwVTNJdUQxV3NXUXdDdzZwZnVteFVzdTFISXVCaEJTcXk2cUl6RS1KRzNJ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiU0FVX3lxTE9Ia3JHV0c0S2ZyLXRfaUh3NEpPWHJYaVpqbUZ5RVNycXcwVTNJdUQxV3NXUXdDdzZwZnVteFVzdTFISXVCaEJTcXk2cUl6RS1KRzNJ?oc=5\" target=\"_blank\">Latest Issue</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2024-11-18T18:11:46+00:00",
       "feed_type": "google_news_fallback"
     },
     {
