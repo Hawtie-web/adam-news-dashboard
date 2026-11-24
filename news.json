@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-11-23T21:04:01.436058+00:00",
+  "updated_at": "2026-11-24T05:49:15.654080+00:00",
   "item_count": 152,
   "failures": [
     {
@@ -10,30 +10,273 @@
   ],
   "items": [
     {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Kalshi halts operations in Utah while dodging immediate ban in New York",
+      "link": "https://www.theblock.co/news/regulation/2026-11-23-kalshi-pauses-operations-utah-dodging-ban-new-york-445456",
+      "summary": "Kalshi has suspended operations in Utah after a federal judge allowed the state to enforce its gambling laws.",
+      "published": "2026-11-24T04:28:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "MSCI denies softer stance on Indonesia's market status, review ongoing - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTTJUZ0F2WXl0N0pfQ1RMYlVSTURkS3UxeHVudGRQb25nZUF5dmdvU2ZvNWZOM3dGSnlCajRIM2tOT051UnF2ekZGT2JqQU1Ta0pwbS1vVF9tQ2V5REpkbm81RndwQmJJb3FWeGcyeEFqVmhYQVhJaE9TcjlnUUJQb0dXS2E4YWRaR2p2RlE0NEdzWkp6UVdLU29BM2ZiY0xOS3g5UFFzMDBpMVI4V2pHaFBqZC1OZVFv?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQTTJUZ0F2WXl0N0pfQ1RMYlVSTURkS3UxeHVudGRQb25nZUF5dmdvU2ZvNWZOM3dGSnlCajRIM2tOT051UnF2ekZGT2JqQU1Ta0pwbS1vVF9tQ2V5REpkbm81RndwQmJJb3FWeGcyeEFqVmhYQVhJaE9TcjlnUUJQb0dXS2E4YWRaR2p2RlE0NEdzWkp6UVdLU29BM2ZiY0xOS3g5UFFzMDBpMVI4V2pHaFBqZC1OZVFv?oc=5\" target=\"_blank\">MSCI denies softer stance on Indonesia's market status, review ongoing</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-24T03:51:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "California court terminates lawsuit against Coinbase over TerraUSD purchases",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-california-court-terminates-lawsuit-coinbase-terrausd-445448",
+      "summary": "Plaintiff Larry Pearl purchased TerraUSD on Coinbase shortly before the token collapsed and accused Coinbase of misrepresentation.",
+      "published": "2026-11-24T03:05:45+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiugFBVV95cUxQQTZ3QXNQYmJqMENPRDZLVFAyS3JkUmhjaWxHLUF6TkwzejRmTTZHaERqdmd5NkZmMVVOMEZCaW1MWnlIS3hMVE5BUjJiRTNoMy1RdXUtUVpibnhicDgxZ0JHOUNuYmRDVTNrLVpTVUFaUVM5UDVaZExqR3hTSkxrNU9nSG5aMG9sc2hsMmFvTkstR2g4Qk1UZDMzM2JSaE1yTHVtSV9qaTRPbzN1U2F3UWM4S0hyT2FpaWc?oc=5\" target=\"_blank\">EXCLUSIVE: Sheikh Hasina seeks to return to Bangladesh on December 16 on state carrier</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-24T02:56:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Singapore investigating Nvidia-linked Megaspeed after US blacklisting - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxQN3FSU3Z2eG9hMGxOaUJ3VkptMG9CbEx0cHhoQzZ6RC1uRXV0OWtRa3k1VzYtQkhMRUVBVzE5QlAwSktWS1IzN2o3SFRWalVsQ1UzMkNkYXM0TEdJUzhYMTU2VjNtdVkyWTBpRGVlbUMxREdoS1ZmeUUwbElCcF9CSmxHVDBhdVJNM3FfOGVNU1YwUEpwLUw0MXVBUUdKbDF5VjFHVHY5c0FGcFNxWGZCbQ?oc=5\" target=\"_blank\">Singapore investigating Nvidia-linked Megaspeed after US blacklisting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-24T02:27:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Asian stocks rally as Huang's return to Nvidia revives the AI trade - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxPVGQ3cVhHXzJBLXEybDVWX21xeWcxbUVEOHA1ZV9IU0lacEM2a3dKbmFLSGk2Y1MwLXk0OVFzWV8yT1JNQ3FnX3hWNGxidEZvbDZwTl8tdjNoUDV6MU45ZnJSa3lSMnZJNXdwWk5VRUFOYzJlTk11TmZaS1hocXhPVUE4bw?oc=5\" target=\"_blank\">Asian stocks rally as Huang's return to Nvidia revives the AI trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-24T01:29:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "Investing & Markets",
       "source": "MarketWatch",
       "title": "I’ve been married for 58 years. It’s ‘our’ money, not ‘his’ and ‘hers.’ Why do so many couples keep their finances separate?",
       "link": "https://www.marketwatch.com/story/ive-been-married-for-58-years-its-our-money-not-his-and-hers-why-dont-others-feel-the-same-c5745889?mod=mw_rss_topstories",
       "summary": "“My wife stopped working outside the home in 1970.”",
-      "published": "2026-11-23T21:00:00+00:00",
+      "published": "2026-11-24T01:01:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "Jensen Huang’s return to Nvidia saved the stock market — for now. Will the rebound last?",
-      "link": "https://www.marketwatch.com/story/the-return-of-jensen-huang-has-saved-the-u-s-stock-market-for-now-why-the-rebound-may-not-last-f72656ce?mod=mw_rss_topstories",
-      "summary": "Investors still have plenty of other problems to worry about.",
-      "published": "2026-11-23T20:51:00+00:00",
+      "title": "HPE just posted its strongest growth ever — but its stock is sinking",
+      "link": "https://www.marketwatch.com/story/hpe-just-posted-its-strongest-growth-ever-and-its-stock-is-tacking-on-more-big-gains-4421cebb?mod=mw_rss_topstories",
+      "summary": "HPE boosted its financial forecast on Monday in the face of strong AI demand.",
+      "published": "2026-11-24T01:01:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "Gold edges higher on bargain buying; US inflation data awaited - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMitwFBVV95cUxOX2lLRXdXdmpCM0FsdHVpNkdYTWttMDRZd294U3VSZGtqczloSEN5N1VfTzBpbjJLZGYwWm55RDlXSmY0b2tod0tBUl9lbkl4TW13VDBuWEVDYjgxamc4anBNdGhtWTdvUUNiYUp5MDlJVU81Sl9qa283bUIzTUNCU0lZZ1VBdXo2UW5hQmoyT191dFpWODY2aldnOVJmRzVaaV9tZDF2U0hKbmRubUg0TllIendaRzg?oc=5\" target=\"_blank\">Gold edges higher on bargain buying; US inflation data awaited</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-24T00:57:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "What are the various US federal and state probes faced by Nvidia and Jensen Huang? - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ090d1dDZTh5bFpYYXBUZHhLaFN4dG9SeVYtZWE3MEZYVHVzdEt5RzZBeXo0dlV6ZFpnUlV0V21JWHQ1cUczMFpScjZlT3RTaW1jOEFFU3BQMU1HRER4cURid2VVWXRaQUxIRHVuU0FDekxyUDdoZlRZQUZPcnRoZkZrSU1qTVFJZjlac093MnBvX3JuZmVHYUFrdkNHRUlyaVRpN2tiR3o2QXhNVzZld25IYzdhSUpS?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQ090d1dDZTh5bFpYYXBUZHhLaFN4dG9SeVYtZWE3MEZYVHVzdEt5RzZBeXo0dlV6ZFpnUlV0V21JWHQ1cUczMFpScjZlT3RTaW1jOEFFU3BQMU1HRER4cURid2VVWXRaQUxIRHVuU0FDekxyUDdoZlRZQUZPcnRoZkZrSU1qTVFJZjlac093MnBvX3JuZmVHYUFrdkNHRUlyaVRpN2tiR3o2QXhNVzZld25IYzdhSUpS?oc=5\" target=\"_blank\">What are the various US federal and state probes faced by Nvidia and Jensen Huang?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-24T00:40:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "CFTC staff say bitcoin, ether can count toward derivatives firms’ operating expenses",
+      "link": "https://www.theblock.co/news/regulation/2026-11-23-cftc-staff-bitcoin-ether-count-toward-derivatives-firms-operating-expenses-445435",
+      "summary": "Staff at the CFTC issued an advisory saying certain regulated firms may count crypto such as bitcoin and ether toward operating costs.",
+      "published": "2026-11-24T00:33:22+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "CoinDesk",
+      "title": "U.S. CFTC sets policies on event contract data, using crypto to check financial boxes",
+      "link": "https://www.coindesk.com/policy/2026/11/23/u-s-cftc-sets-policies-on-event-contract-data-using-crypto-to-check-financial-boxes",
+      "summary": "",
+      "published": "2026-11-24T00:25:04+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxNVjR1WG9RTVdfSTNnS1RTOWcwVlhpeGMtaUdMZGVIU1I0ZWt1ZlhtQ2F1ODJZOEwxVzB2ZHBYNDIxMkEtdjdMY1Z2X050QjY2VjYwR1VmTDZSbWxiQTNwZ09nZTRHYzdweXEzajYxcnZxTUp3eWdSdEtvX2RMTllnY205N3VoTlJnTEQtOEYySEVHNDZMa0p5bHdPWG9KTUw1Zzg3VnZuVEVGV3czanhjQUJxdDNqTXFvMXlZT1k4bmlQYkJfYXUya0lsbzRoUQ?oc=5\" target=\"_blank\">US eyes Iran as possible culprit in dozens of new cyberattacks against ships, WSJ reports</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-24T00:18:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "World News & Politics",
+      "source": "Reuters World",
+      "title": "South Korea issues 'take shelter' warning after Russia aircraft fly near airspace - Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnMyeTNTLWNPT1JoWVRGdTZmb2hnVi1USk9WNldKUVNfVWkzRk5RSjI5UlVIYkprbnEtOFplWGdpd2JoWmtZeEVZQTF6TGJJU0tEZXhsYVVNaHl1OVlfOF9sc3lHUUdzNXBpeHNqUTF0ZXY2VTcxbHEwbHluRF9sR3N0WnR1T3R1cmRKa1FDSnpOeGJwVVIyN0NhYmF4QmlyZHZjT2JNXzB4ZlY1cTJRNVZtTTluY3lYbmd0TEtlXzA3WUZwTVk3Uw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiyAFBVV95cUxPVnMyeTNTLWNPT1JoWVRGdTZmb2hnVi1USk9WNldKUVNfVWkzRk5RSjI5UlVIYkprbnEtOFplWGdpd2JoWmtZeEVZQTF6TGJJU0tEZXhsYVVNaHl1OVlfOF9sc3lHUUdzNXBpeHNqUTF0ZXY2VTcxbHEwbHluRF9sR3N0WnR1T3R1cmRKa1FDSnpOeGJwVVIyN0NhYmF4QmlyZHZjT2JNXzB4ZlY1cTJRNVZtTTluY3lYbmd0TEtlXzA3WUZwTVk3Uw?oc=5\" target=\"_blank\">South Korea issues 'take shelter' warning after Russia aircraft fly near airspace</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+      "published": "2026-11-23T23:25:00+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "The newest addition to the S&P 500 is a maker of viral ice-cream machines",
+      "link": "https://www.marketwatch.com/story/the-newest-addition-to-the-s-p-500-is-a-maker-of-viral-ice-cream-machines-5c6e209a?mod=mw_rss_topstories",
+      "summary": "SharkNinja will join the S&amp;P 500, replacing AES.",
+      "published": "2026-11-23T23:18:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Grayscale says bitcoin and major altcoins look ‘oversold’ as AI risks cloud near-term outlook",
+      "link": "https://www.theblock.co/news/markets/2026-11-23-grayscale-bitcoin-altcoins-oversold-ai-risks-crypto-outlook-445418",
+      "summary": "Grayscale said bitcoin's drop to about $55,000 on Saturday made the current bear market its longest on record, at least 411 days.",
+      "published": "2026-11-23T22:18:02+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Crypto",
+      "source": "The Block",
+      "title": "Grayscale’s new 2x leveraged Zcash ETF takes 13% opening day tumble",
+      "link": "https://www.theblock.co/news/business/2026-11-23-grayscale-launches-2x-zcash-etf-three-months-spot-fund-debut-445407",
+      "summary": "Grayscale’s ZECX debuted less than three months after its spot Zcash ETF began trading on NYSE Arca.",
+      "published": "2026-11-23T22:15:12+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "The War Zone",
+      "title": "Did Ukraine Use A Mothership To Launch Its Sea Drone Attack On Russian Ships in Benghazi?",
+      "link": "https://www.twz.com/sea/did-ukraine-use-a-mothership-to-launch-its-sea-drone-attack-on-russian-ships-in-benghazi",
+      "summary": "<p>A clandestine mothership would give Ukraine the ability to expand attacks on Russian shipping far from the Black Sea.</p>\n<p>The post <a href=\"https://www.twz.com/sea/did-ukraine-use-a-mothership-to-launch-its-sea-drone-attack-on-russian-ships-in-benghazi\">Did Ukraine Use A Mothership To Launch Its Sea Drone Attack On Russian Ships in Benghazi?</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
+      "published": "2026-11-23T22:12:53+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Anthropic launches Claude Ship, letting AI agents review, fix, and approve code changes",
+      "link": "https://techcrunch.com/2026/11/23/anthropic-launches-claude-ship-letting-ai-agents-review-fix-and-approve-code-changes/",
+      "summary": "As AI-generated code piles up, Anthropic's new developer tools aim to eliminate another bottleneck by letting agents handle routine approvals.",
+      "published": "2026-11-23T22:05:50+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
       "category": "Investing & Markets",
       "source": "MarketWatch",
-      "title": "Short sellers get smoked as Nvidia tallies biggest one-day gain in stock-market history",
-      "link": "https://www.marketwatch.com/story/short-sellers-get-smoked-as-nvidia-tallies-biggest-one-day-gain-in-stock-market-history-e9dc6e9c?mod=mw_rss_topstories",
-      "summary": "Two products aiming to profit off daily declines in Nvidia shares were nearly wiped out as the stock rallied more than 30%.",
-      "published": "2026-11-23T20:40:00+00:00",
+      "title": "Nvidia’s stock is surging again. What to know before chasing the AI rally.",
+      "link": "https://www.marketwatch.com/story/nvidias-stock-is-surging-again-what-to-know-before-chasing-the-ai-rally-226688d7?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s return to Nvidia was the good news that the AI trade needed, but investors should prepare for more volatility",
+      "published": "2026-11-23T22:04:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Supertake raises $20M to let AI agents turn your market predictions into stock portfolios",
+      "link": "https://techcrunch.com/2026/11/23/supertake-raises-20m-to-let-ai-agents-turn-your-market-predictions-into-stock-portfolios/",
+      "summary": "Think you know where the market is headed? A startup called Supertake lets you put money behind your ideas without having to pick the stocks yourself.",
+      "published": "2026-11-23T22:02:05+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "Trump halts Iowa detonation, says new governor to blame if it blows accidentally",
+      "link": "https://arstechnica.com/health/2026/11/trump-halts-iowa-detonation-says-new-governor-to-blame-if-it-blows-accidentally/",
+      "summary": "The Army said on Sunday that it would carry out the detonation on Wednesday.",
+      "published": "2026-11-23T21:58:34+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "U.S. stocks see best day in more than a year, as return of Jensen Huang revives AI enthusiasm",
+      "link": "https://www.marketwatch.com/story/u-s-stocks-see-best-day-in-more-than-a-year-as-return-of-jensen-huang-revives-ai-enthusiasm-c3b9d274?mod=mw_rss_topstories",
+      "summary": "Jensen Huang’s return as CEO of Nvidia powered a massive bounce in the U.S. stock market on Monday by helping to restore faith in the artificial-intelligence trade.",
+      "published": "2026-11-23T21:51:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Elon Musk and others rejoice as Jensen Huang is reinstated at Nvidia amid scandal",
+      "link": "https://techcrunch.com/2026/11/23/elon-musk-and-others-rejoice-as-jensen-huang-is-reinstated-at-nvidia-amid-scandal/",
+      "summary": "\"The mistake has been corrected,\" Elon Musk chimed in.",
+      "published": "2026-11-23T21:47:41+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Consumer stocks, seen as safe bet amid cracks in AI trade, were among the S&P 500’s biggest losers Monday",
+      "link": "https://www.marketwatch.com/story/consumer-stocks-seen-as-safe-bet-amid-cracks-in-ai-trade-are-among-the-s-p-500s-biggest-losers-monday-80cf8f81?mod=mw_rss_topstories",
+      "summary": "Shares of Kroger and Tyson Foods fall, as Nvidia storms higher",
+      "published": "2026-11-23T21:45:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Combat Operations & Modern Warfare",
+      "source": "Breaking Defense",
+      "title": "$16 billion propulsion mega-contract posted in error, Air Force says",
+      "link": "https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says/",
+      "summary": "<p><a href=\"https://breakingdefense.com/2026/11/propulsion-mega-contract-posted-in-error-air-force-says/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/F135-e1795470202829-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The Air Force is planning to award the $16.1 billion Advanced Propulsion Acquisition Contract, but has not yet done so, the service told Breaking Defense. </p>",
+      "published": "2026-11-23T21:43:59+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
+      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
+      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
+      "published": "2026-11-23T21:36:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "MarketWatch",
+      "title": "Amazon may have just found a ‘cheap’ way to get a lot more out of its chips",
+      "link": "https://www.marketwatch.com/story/amazon-may-have-just-found-a-cheap-way-to-get-a-lot-more-out-of-its-chips-bd822bd5?mod=mw_rss_topstories",
+      "summary": "Amazon’s deal for Decart’s AI technology, with a reported price of $7.5 billion, may be a relatively inexpensive way to boost the speed and efficiency of its custom chips, says an analyst.",
+      "published": "2026-11-23T21:33:00+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "Ars Technica",
+      "title": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+      "link": "https://arstechnica.com/tech-policy/2026/11/states-sue-spacex-to-stop-grok-from-generating-child-sex-images-revenge-porn/",
+      "summary": "X says every Grok output is screened, but state AGs say Grok is still making CSAM.",
+      "published": "2026-11-23T21:30:44+00:00",
+      "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "AI & Technology",
+      "source": "TechCrunch AI",
+      "title": "Megaspeed, the company at the center of the Jensen Huang scandal, appears headed for a US blacklist",
+      "link": "https://techcrunch.com/2026/11/23/megaspeed-the-company-at-the-center-of-the-jensen-huang-scandal-appears-headed-for-a-u-s-blacklist/",
+      "summary": "Megaspeed, which was previously led by Alice Huang, would be barred from doing business with U.S. companies unless those companies attained a special license from the federal government.",
+      "published": "2026-11-23T21:25:42+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -52,15 +295,6 @@
       "link": "https://arstechnica.com/space/2026/11/russia-will-launch-a-routine-iss-supply-mission-tomorrow-apparently-its-a-big-secret/",
       "summary": "\"I would ask you to please reach out to Roscosmos directly.\"",
       "published": "2026-11-23T20:34:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Oracle and CoreWeave stocks stage big gains as investors bet the AI cash will keep flowing",
-      "link": "https://www.marketwatch.com/story/oracle-and-coreweave-stocks-stage-big-gains-as-investors-bet-the-ai-cash-will-keep-flowing-eeb1aa85?mod=mw_rss_topstories",
-      "summary": "Nvidia’s financing of the AI ecosystem has been crucial for cloud companies like Oracle, CoreWeave, Nebius and Iren.",
-      "published": "2026-11-23T20:25:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -91,30 +325,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Why Monday’s huge stock-market rally is actually a warning sign for bulls",
-      "link": "https://www.marketwatch.com/story/why-mondays-huge-stock-market-rally-is-actually-a-warning-sign-for-bulls-49d227a8?mod=mw_rss_topstories",
-      "summary": "The majority of the market’s biggest daily rallies occur during bear markets",
-      "published": "2026-11-23T19:54:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Breaking Defense",
       "title": "Colombia races for counter-drone tech as militant groups embrace drones as frontline weapons",
       "link": "https://breakingdefense.com/2026/11/colombia-races-for-counter-drone-tech-as-militant-groups-embrace-drones-as-frontline-weapons/",
       "summary": "<p><a href=\"https://breakingdefense.com/2026/11/colombia-races-for-counter-drone-tech-as-militant-groups-embrace-drones-as-frontline-weapons/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2026/11/colombia-anti-drone-scaled-e1795456297691-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“As knowledge of drone tactics proliferates faster than governments can deploy countermeasures, it seems likely we will begin to see them crop up in more countries in the region,” one analyst told Breaking Defense.</p>",
       "published": "2026-11-23T19:45:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "These stocks are the biggest gainers after Jensen Huang’s return to Nvidia",
-      "link": "https://www.marketwatch.com/story/these-stocks-are-the-biggest-gainers-after-jensen-huangs-return-to-nvidia-bb886140?mod=mw_rss_topstories",
-      "summary": "Huang’s comeback offers relief to the battered AI trade and drives major boosts across the tech sector.",
-      "published": "2026-11-23T19:44:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -127,30 +343,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "I’ve paid for long-term-care insurance for 20 years. Is it still worth it?",
-      "link": "https://www.marketwatch.com/story/ive-paid-for-long-term-care-insurance-for-20-years-is-it-still-worth-it-1b2cd52d?mod=mw_rss_topstories",
-      "summary": "Doing the math to determine if I have a good deal — or should trade in for a more modern policy.",
-      "published": "2026-11-23T19:32:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "AI & Technology",
       "source": "Ars Technica",
       "title": "Reports: Russia may launch nuclear weapon into orbit as soon as next month",
       "link": "https://arstechnica.com/space/2026/11/russia-may-launch-a-nuclear-armed-satellite-far-sooner-than-we-thought/",
       "summary": "A nuclear detonation in space \"could cause rapid and sudden loss or degradation of thousands of satellites.\"",
       "published": "2026-11-23T19:28:30+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Investing & Markets",
-      "source": "MarketWatch",
-      "title": "Trump’s push to reinstate Jensen Huang signals Nvidia’s CEO is too big to fail",
-      "link": "https://www.marketwatch.com/story/trumps-push-to-reinstate-jensen-huang-signals-nvidias-ceo-is-too-big-to-fail-10709210?mod=mw_rss_topstories",
-      "summary": "“The bigger threat would be losing the brainpower of somebody like Jensen,” the president said amid concerns about corporate governance rules and export controls",
-      "published": "2026-11-23T19:28:00+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -289,22 +487,13 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Jensen Huang isn’t out of the woods yet",
-      "link": "https://techcrunch.com/2026/11/23/jensen-huang-isnt-out-of-the-woods-yet/",
-      "summary": "Tech leaders should be clear-eyed about all the problems likely to come with Huang's reinstatement.",
-      "published": "2026-11-23T16:57:40+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Trump reportedly called into Nvidia board meeting to advocate for Huang’s return",
-      "link": "https://techcrunch.com/2026/11/23/trump-reportedly-called-into-nvidia-board-meeting-to-advocate-for-huangs-return/",
-      "summary": "\"I spoke to them, let me put it that way … And I convinced them,\" the president told CNBC.",
-      "published": "2026-11-23T16:39:10+00:00",
-      "feed_type": "official_or_site_feed"
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "1 New 1-Star Stock This Week - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE12WEtEZGdmVS1xR3h0dkxSM3U4b1NWYmZ3OERVV2liZ3ZvNll5TWxRYmFVV0xCaHlnVndKMURMMzNrb1FVT1NDcTdnYTJoUEtjVkNzRm4yOFFtUDBVV3A4LW5kdnJ3RmRHLVhkdUlSdWg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMicEFVX3lxTE12WEtEZGdmVS1xR3h0dkxSM3U4b1NWYmZ3OERVV2liZ3ZvNll5TWxRYmFVV0xCaHlnVndKMURMMzNrb1FVT1NDcTdnYTJoUEtjVkNzRm4yOFFtUDBVV3A4LW5kdnJ3RmRHLVhkdUlSdWg?oc=5\" target=\"_blank\">1 New 1-Star Stock This Week</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-23T16:40:48+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Crypto",
@@ -323,24 +512,6 @@
       "summary": "<p><a href=\"https://breakingdefense.com/2026/11/beijings-takeaway-from-the-midterms-will-to-fight-and-ai-skepticism/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"577\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2025/10/trump-xi-close-scaled-e1761920131915-1024x577.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>The 2026 midterms exposed vulnerabilities in American attitudes toward war, economic hardship and AI that Beijing could leverage in a future conflict.</p>",
       "published": "2026-11-23T16:21:11+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Moscow accuses Estonia of hostile actions on 'verge of triggering open war' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOS3hoekpkTmwxcjE1NnNid3RFSXVsVGtob3A3dFNKVjRNZzVnaXMxRnV6N3pIellLeVdQRHNjUVpMR0R3aUpWaFV1MHBWRWljclZQbTdKakEzcUZ5cTBFNE5xVTlWSFNzTXlWN2tqRlpvbnk1M2RuUWRxclZMNmw2a01laUM0c09QNHRSY0c4amtsQS1XeV8zV3JCb2VFUzMwRUNqYVhrTHVIQQ?oc=5\" target=\"_blank\">Moscow accuses Estonia of hostile actions on 'verge of triggering open war'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T16:13:10+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "EXCLUSIVE: US discussing military training for Syrian forces - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2tMTDZEYUhaR0lYVlhOTVpicEV6a3VJN2RSV1pVdXMxRmJwQkFUd1hzNWZEa0pSUkJaQ0l6SVNjM1pfMllVR2hNV2FNb2FZUTNuclJzLTdkenNHU3RncUJKUzRKcWswcTJkRkRQZjBuU0h3dDJBdlV0V25nU2xpQlA5UWFnMkZSZnlFMXRsbmQ?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxNd2tMTDZEYUhaR0lYVlhOTVpicEV6a3VJN2RSV1pVdXMxRmJwQkFUd1hzNWZEa0pSUkJaQ0l6SVNjM1pfMllVR2hNV2FNb2FZUTNuclJzLTdkenNHU3RncUJKUzRKcWswcTJkRkRQZjBuU0h3dDJBdlV0V25nU2xpQlA5UWFnMkZSZnlFMXRsbmQ?oc=5\" target=\"_blank\">EXCLUSIVE: US discussing military training for Syrian forces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T16:07:17+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -371,29 +542,11 @@
     },
     {
       "category": "Crypto",
-      "source": "The Block",
-      "title": "DeFi Development extends Solana buying streak to 11 straight weeks, SOL treasury hits 2.62 million",
-      "link": "https://www.theblock.co/news/markets/2026-11-23-defi-development-dfdv-solana-treasury-11-consecutive-weeks-444950",
-      "summary": "DeFi Development added about 5,180 SOL, lifting its Solana treasury to 2.62 million SOL in its 11th straight week of buying since Sept. 14.",
-      "published": "2026-11-23T15:34:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
       "source": "CoinDesk",
       "title": "Binance hackers push $247 million through transactions designed to cloud the source",
       "link": "https://www.coindesk.com/business/2026/11/23/binance-hackers-push-usd247-million-through-transactions-designed-to-cloud-the-source",
       "summary": "",
       "published": "2026-11-23T15:29:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "COP31 ends in failure as countries split over fossil fuels, climate finance",
-      "link": "https://arstechnica.com/science/2026/11/cop31-ends-in-failure-as-countries-split-over-fossil-fuels-climate-finance/",
-      "summary": "COP31 ended without a consensus deal for the first time since 2009.",
-      "published": "2026-11-23T15:23:26+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -415,39 +568,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Trump endorses Jensen Huang’s return to Nvidia, says US has no evidence of wrongdoing",
-      "link": "https://techcrunch.com/2026/11/23/trump-endorses-jensen-huangs-return-to-nvidia-says-us-has-no-evidence-of-wrongdoing/",
-      "summary": "The president cited the U.S. attorney general in defending Huang's return, while urging Nvidia to continue its export-control investigation.",
-      "published": "2026-11-23T15:04:01+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitmine adds 7,819 ETH as Tom Lee makes the ‘hard money’ case",
-      "link": "https://www.theblock.co/news/business/2026-11-23-bitmine-adds-7819-eth-tom-lee-makes-hard-money-case-444948",
-      "summary": "Bitmine added 7,819 ETH over the past week, lifting its total holdings to 6,085,564 ETH, or 4.98% of the circulating supply.",
-      "published": "2026-11-23T15:02:41+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Crypto",
       "source": "CoinDesk",
       "title": "Eric Trump-backed American Bitcoin secures $150 million loan against its bitcoin",
       "link": "https://www.coindesk.com/business/2026/11/23/eric-trump-backed-american-bitcoin-secures-usd150-million-loan-against-its-bitcoin",
       "summary": "",
       "published": "2026-11-23T15:02:32+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Bitcoin, crypto and tech stocks rally as Nvidia reinstates Jensen Huang as CEO; NVDA jumps 30%",
-      "link": "https://www.theblock.co/news/markets/2026-11-23-bitcoin-crypto-tech-stocks-rally-nvidia-reinstates-jensen-huang-ceo-nvda-jumps-444952",
-      "summary": "Ahead of the announcement, Polymarket put the odds of Huang rejoining Nvidia by the end of the year at just 10.5%.",
-      "published": "2026-11-23T15:02:21+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -460,15 +586,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "AI & Technology",
-      "source": "TechCrunch AI",
-      "title": "Sierra doubles valuation to $30B within six months as demand for AI in CX takes off",
-      "link": "https://techcrunch.com/2026/11/23/sierra-doubles-valuation-to-30b-within-six-months-as-demand-for-ai-in-cx-takes-off/",
-      "summary": "Enterprise customer experience company Sierra, co-founded by former Salesforce co-CEO Bret Taylor, said on Monday that it has raised $1.75 billion in a Series F round.",
-      "published": "2026-11-23T14:43:03+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "Defense News",
       "title": "China’s fourth aircraft carrier, bigger than others and nuclear-powered, nears completion",
@@ -476,15 +593,6 @@
       "summary": "China’s fourth aircraft carrier, a gigantic vessel known so far as just Type 004, will come out as early as next year bigger than its predecessors and with nuclear power that can launch planes faster than usual in case of any conflict, analysts say.",
       "published": "2026-11-23T14:42:50+00:00",
       "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Schools across Germany, Denmark receive bomb threats - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiogFBVV95cUxNeGR4MmtWVUNBWDdVZlRjckl1UFZmWTVYai1sdDZ1dWFkYXZhUUpQYWVFdzJtOXJyMVlpR1p5dHVtY3hlTGZiU3MxOXZEalpTOTRnd0VIY3hjYldnd2NjbVlXNHcwT1pXUFpIR2pIaFZVRWJQNG80MDEwOWVIeDdHZzRVd0J1eklLNnBGVDFLWTJvd21UZVc3aGtjcERCeWZmM2c?oc=5\" target=\"_blank\">Schools across Germany, Denmark receive bomb threats</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T14:23:25+00:00",
-      "feed_type": "google_news_fallback"
     },
     {
       "category": "Music Production & DJ Industry",
@@ -502,15 +610,6 @@
       "link": "https://www.defensenews.com/video/2026/11/23/acting-navy-secretary-hung-cao-heads-to-the-hill-and-the-pentagon-fails-an-audit-headlines/",
       "summary": "The acting secretary of the Navy faced tough questions from Senators during his confirmation hearing, while the Pentagon must target fraud following an internal report.",
       "published": "2026-11-23T14:14:00+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "CoinDesk",
-      "title": "Nvidia soars as Jensen Huang returns to lead company",
-      "link": "https://www.coindesk.com/markets/2026/11/23/jensen-huang-returns-as-nvidia-ceo-as-shares-jump-27",
-      "summary": "",
-      "published": "2026-11-23T14:13:44+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -541,60 +640,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "OKXICE launches tokenized securities venue with 113 assets confirmed for 24/7 trading",
-      "link": "https://www.theblock.co/news/business/2026-11-23-okxice-launches-tokenized-securities-venue-444898",
-      "summary": "The current lineup of issuers and asset managers includes eToro, Fidelity, Strive, BitGo, Circle, Coinbase, Robinhood, and Strategy.",
-      "published": "2026-11-23T14:01:02+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Crypto",
-      "source": "The Block",
-      "title": "Pump.fun draws criticism over private key imports as it retires external wallet sign-in on web",
-      "link": "https://www.theblock.co/news/ecosystems/2026-11-23-pump-fun-draws-criticism-over-private-key-imports-as-it-retires-external-wallet-sign-in-on-web-444926",
-      "summary": "Pump.fun is retiring external web wallet logins and asking users to import private keys to keep existing wallet-linked accounts.",
-      "published": "2026-11-23T13:54:54+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "AI & Technology",
-      "source": "Ars Technica",
-      "title": "F1 in Las Vegas: You've never seen an F1 race like this before",
-      "link": "https://arstechnica.com/cars/2026/11/f1-in-las-vegas-youve-never-seen-an-f1-race-like-this-before/",
-      "summary": "There were 352 position changes, including 35 for the lead.",
-      "published": "2026-11-23T13:54:22+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Russia to spend $576 million on building ferries to secure supplies to Kaliningrad exclave - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQk8xU1diNXNiQnBVc0FSczFVWFBzWjExUVFxSFpmTV9tTkhob2lEcGhORjU4bl9keUhoRW5wZ2dBcHlQQmdnQzctSHphTjNvSDNDclFibU5jeEJNUTZFRWkzWURnLVVZbjN2dExtNzRMUkttSkR6WHRYbHJXTDFPbkJ4UENidjhXTU9sdXFlWUZKRy1yNWprUXNwY2Z0cHZqNVFpZW9EWDF3U052RDEzY1BhU215NW1k?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxQQk8xU1diNXNiQnBVc0FSczFVWFBzWjExUVFxSFpmTV9tTkhob2lEcGhORjU4bl9keUhoRW5wZ2dBcHlQQmdnQzctSHphTjNvSDNDclFibU5jeEJNUTZFRWkzWURnLVVZbjN2dExtNzRMUkttSkR6WHRYbHJXTDFPbkJ4UENidjhXTU9sdXFlWUZKRy1yNWprUXNwY2Z0cHZqNVFpZW9EWDF3U052RDEzY1BhU215NW1k?oc=5\" target=\"_blank\">Russia to spend $576 million on building ferries to secure supplies to Kaliningrad exclave</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T13:42:46+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQNXBGX0NyVFZrd0hBMEctVUxNOUJxTmRmaDZiRHA1c3V1VFNxTkNZdTExd080Qk1yOVEyYkpneTZIQUUzcGdsbkxpdV8zUWdYaHFaS09LaG9iaFZ4OEc0RFkyWGJvTW1LWG9OeFRCTk5YY3NvTUdYeF81SDdrbkh1NGZhM0pFazdvbDZGMG9QRnU3WmV0eDlJZ0hETFNQVm92ZHp3dEN3dWVmeF9sa1N3MExEdEpNUVhPZEEzbmJNb3h1RGJh?oc=5\" target=\"_blank\">Tajikistan becomes fourth country to withdraw from ICC since US diplomatic push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T13:35:53+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Spain's right set to win majority despite Socialist gains, polls show - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemd4Tmk5Z2lPeWFoMHVxZ0RDNXVScWU4ZExQOGhoX0o0Rk9UdmRReHJiSzVld2pNVGpVSHF6cFVlWTU5bmpsX0pRN0dRejZiNmE0U2ZYS0tqel9mMDJReFlkMVNjamNnVE5YVUFwdWtUU1NGZWNUV3F4bF8wWUs3UHhzcllycEJhUVlZTFItZzlZV0c3ckl5Vm1xMVZVamtiUHZtZjZvSkhlZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqgFBVV95cUxOemd4Tmk5Z2lPeWFoMHVxZ0RDNXVScWU4ZExQOGhoX0o0Rk9UdmRReHJiSzVld2pNVGpVSHF6cFVlWTU5bmpsX0pRN0dRejZiNmE0U2ZYS0tqel9mMDJReFlkMVNjamNnVE5YVUFwdWtUU1NGZWNUV3F4bF8wWUs3UHhzcllycEJhUVlZTFItZzlZV0c3ckl5Vm1xMVZVamtiUHZtZjZvSkhlZw?oc=5\" target=\"_blank\">Spain's right set to win majority despite Socialist gains, polls show</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T13:12:09+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "AI & Technology",
       "source": "MIT Technology Review",
       "title": "The Download: AI’s judgment problem and carbon removal’s crop threat",
@@ -606,28 +651,10 @@
     {
       "category": "Investing & Markets",
       "source": "Morningstar",
-      "title": "Patience Should Pay Off With American Funds The Bond Fund of America - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1FmY1VncFVfRThJa3hCS3V6Yi1pdXVLSDV5Ml90RGgxWlRpeWxpZ2UyODdweEwzYkx3WWtYQk1aSnFGLVhhblFmWjh2cTJGc3BIQ1gxcjNMSF9IR3B5UTFDZ0pGbGFuRHVKVTBQTVpKU0lFMjRzM055eE5XRUpUaDd5YnJqNjlpSWpCTEZ5bzEtTE0tcEN5NF9nZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPU1FmY1VncFVfRThJa3hCS3V6Yi1pdXVLSDV5Ml90RGgxWlRpeWxpZ2UyODdweEwzYkx3WWtYQk1aSnFGLVhhblFmWjh2cTJGc3BIQ1gxcjNMSF9IR3B5UTFDZ0pGbGFuRHVKVTBQTVpKU0lFMjRzM055eE5XRUpUaDd5YnJqNjlpSWpCTEZ5bzEtTE0tcEN5NF9nZw?oc=5\" target=\"_blank\">Patience Should Pay Off With American Funds The Bond Fund of America</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-11-23T12:10:21+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "Hungary PM Magyar says he will travel to Ukraine 'soon' - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQbkZ0UGZiOGhTQUdnY0VDQ2lJV2JtUllhYW4zY1Y0SVhOQUphb1J0dGR3RDQ1Z1hveDlxSlAxMk5oY3RoOW55TmNiWGNmMnJuWGNBZGJqRFZkeXRiVWZWYk1xQUxfZDlMUnRNRXNkWk5KZGZOU2JObjY1UlFiOF93VlBkS0hxYUVpOWloY2NMUnZEZFlqeHVB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxQbkZ0UGZiOGhTQUdnY0VDQ2lJV2JtUllhYW4zY1Y0SVhOQUphb1J0dGR3RDQ1Z1hveDlxSlAxMk5oY3RoOW55TmNiWGNmMnJuWGNBZGJqRFZkeXRiVWZWYk1xQUxfZDlMUnRNRXNkWk5KZGZOU2JObjY1UlFiOF93VlBkS0hxYUVpOWloY2NMUnZEZFlqeHVB?oc=5\" target=\"_blank\">Hungary PM Magyar says he will travel to Ukraine 'soon'</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T12:06:27+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
-      "category": "World News & Politics",
-      "source": "Reuters World",
-      "title": "How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit - Reuters",
-      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzBhLWJfeFVoaXlNajJPVmVaNHl3bFFPR3lveEhDV3dlNXU3MTNlcm1MNVp0OGM5MmtvcmVxVHg2SXBCZ0U1WkdBX0NGYmNZR1NrUXI2MVZFdXQtQnlhUXN6bm9SRGJOSnYxb1QzRklGZWd1bm9tdnlSNnVGLUpLWllkZFB2MVF0UXd3T3NDbWRUQUtmVzZkUml4cXJjdmhXVXFkYWdLZ3o4TGI0T2tIZG5KMHZlSWpSczNIVg?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMivAFBVV95cUxPMzBhLWJfeFVoaXlNajJPVmVaNHl3bFFPR3lveEhDV3dlNXU3MTNlcm1MNVp0OGM5MmtvcmVxVHg2SXBCZ0U1WkdBX0NGYmNZR1NrUXI2MVZFdXQtQnlhUXN6bm9SRGJOSnYxb1QzRklGZWd1bm9tdnlSNnVGLUpLWllkZFB2MVF0UXd3T3NDbWRUQUtmVzZkUml4cXJjdmhXVXFkYWdLZ3o4TGI0T2tIZG5KMHZlSWpSczNIVg?oc=5\" target=\"_blank\">How Nvidia’s billion-dollar turnaround in China is threatened by Huang’s exit</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
-      "published": "2026-11-23T11:50:53+00:00",
+      "title": "Markets Brief: What’s Next for the Biggest Trend in the Stock Market? - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWQtLVlqR1ZHMTZmR3J5WENMV1NTY19TVEktT3V3YXpOWk9Ta25Qc1pOQl9TaV9uQ0lmeXctOThHSEpQMWIxWENIXzkzZzQ2QlFBX2V2MXcxMGQ3VGFFU2xiSWZma3RkeFQ5VmdLOV9OVXNpYXNlVTlDVXZCUFVHbThDMjNWcHpZendZdi1NWk0?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWQtLVlqR1ZHMTZmR3J5WENMV1NTY19TVEktT3V3YXpOWk9Ta25Qc1pOQl9TaV9uQ0lmeXctOThHSEpQMWIxWENIXzkzZzQ2QlFBX2V2MXcxMGQ3VGFFU2xiSWZma3RkeFQ5VmdLOV9OVXNpYXNlVTlDVXZCUFVHbThDMjNWcHpZendZdi1NWk0?oc=5\" target=\"_blank\">Markets Brief: What’s Next for the Biggest Trend in the Stock Market?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-23T11:39:01+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -739,15 +766,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "Breaking Defense",
-      "title": "Senate gearing up to investigate Ukraine’s access to Starshield",
-      "link": "https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/",
-      "summary": "<p><a href=\"https://breakingdefense.com/2026/11/senate-gearing-up-to-investigate-ukraines-access-to-starshield/\"><img alt=\"\" class=\"attachment-large size-large wp-post-image\" height=\"575\" src=\"https://breakingdefense.com/wp-content/uploads/sites/13/2022/09/congress_building-scaled-e1711030694393-1024x575.jpg\" style=\"height: auto!important;\" width=\"1024\" /></a></p><p>“What the hell is happening? Why is this being done? What are the consequences and the costs? And what does it say about our reliability in the future?” Sen. Chris Coons asked. </p>",
-      "published": "2026-11-21T15:06:51+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
       "category": "Investing & Markets",
       "source": "Morning Brew",
       "title": "Anthropic IPO fails to prevent a tech stock wipeout - Morning Brew",
@@ -775,30 +793,12 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morning Brew",
-      "title": "Sat, Nov 21st, 2026 — Solve this Brew Crossword: Clearing the air - Morning Brew",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95YlBtVU9RNDhEekJQMkZnS25rYTdoYVVPeEJpXzNkcFV1UFNQakFzSFJHMjY3clZHNVpJRU9oaVFyN1RNNm5fYldqSE85N3VwZDI0b3pxUU1nYWg5SkN2ZnpxZ2pudFB6enhJV2d5YUtnTVU?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMic0FVX3lxTE95YlBtVU9RNDhEekJQMkZnS25rYTdoYVVPeEJpXzNkcFV1UFNQakFzSFJHMjY3clZHNVpJRU9oaVFyN1RNNm5fYldqSE85N3VwZDI0b3pxUU1nYWg5SkN2ZnpxZ2pudFB6enhJV2d5YUtnTVU?oc=5\" target=\"_blank\">Sat, Nov 21st, 2026 — Solve this Brew Crossword: Clearing the air</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
-      "published": "2026-11-20T22:05:03+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Combat Operations & Modern Warfare",
       "source": "The War Zone",
       "title": "Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor",
       "link": "https://www.twz.com/land/oddball-cfl-120-karpat-medium-tank-with-a-big-120mm-gun-faces-a-battlefield-increasingly-hostile-to-armor",
       "summary": "<p>Pairing a 120mm gun with a 35-ton tracked chassis, the vehicle arrives as drones increasingly complicate the case for armored vehicles of any weight.</p>\n<p>The post <a href=\"https://www.twz.com/land/oddball-cfl-120-karpat-medium-tank-with-a-big-120mm-gun-faces-a-battlefield-increasingly-hostile-to-armor\">Oddball CFL-120 Karpat Medium Tank With A Big Gun Faces A Battlefield Increasingly Hostile To Armor</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
       "published": "2026-11-20T21:26:26+00:00",
-      "feed_type": "official_or_site_feed"
-    },
-    {
-      "category": "Combat Operations & Modern Warfare",
-      "source": "The War Zone",
-      "title": "Navy CCA Plans Will Not Wait For F/A-XX Next Generation Fighter",
-      "link": "https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter",
-      "summary": "<p>The Navy's Collaborative Combat Aircraft vision is solidifying and F-35s could act as the first airborne ‘quarterbacks’ for those drones.</p>\n<p>The post <a href=\"https://www.twz.com/air/navy-cca-plans-will-not-wait-for-f-a-xx-next-generation-fighter\">Navy CCA Plans Will Not Wait For F/A-XX Next Generation Fighter</a> appeared first on <a href=\"https://www.twz.com\">TWZ</a>.</p>",
-      "published": "2026-11-20T19:38:25+00:00",
       "feed_type": "official_or_site_feed"
     },
     {
@@ -944,6 +944,15 @@
       "summary": "<p>In conversations with law enforcement and security professionals, one view has repeatedly emerged: Aum Shinrikyo&#8217;s failed biological weapons program in the early 1990s shows that the risk of bioterrorism is overstated, despite warnings about AI-assisted bioterrorism and calls for enhanced preparedness from experts, philanthropists, and CEOs of AI companies. The Japanese doomsday cult responsible for the 1995 Tokyo sarin attack had money, facilities, scientifically educated members, and a leadership willing to cause mass harm. If any terrorist organization was well positioned to develop a large-scale biological weapon, Aum Shinrikyo was it. Yet its bioweapon program repeatedly failed. If Aum couldn&#8217;t</p>\n<p>The post <a href=\"https://warontherocks.com/why-the-next-bioterrorists-may-not-make-the-same-mistakes-as-aum-shinrikyo/\">Why the Next Bioterrorists May Not Make the Same Mistakes as Aum Shinrikyo</a> appeared first on <a href=\"https://warontherocks.com\">War on the Rocks</a>.</p>",
       "published": "2026-11-20T08:30:48+00:00",
       "feed_type": "official_or_site_feed"
+    },
+    {
+      "category": "Investing & Markets",
+      "source": "Morningstar",
+      "title": "The Best Vanguard Funds - Morningstar",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE00NnYtRHp2NFpuaDA4SURDQ0w3VWxhcURmdEVWbk1oUVRUR2RwUVR5T3pFYXRmZlR0SW9nYWlHWm1RR0ZQNmFOMG9wb3IyQ0VsYlpHd3RxU29vQzZISXBNS3RiOA?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiY0FVX3lxTE00NnYtRHp2NFpuaDA4SURDQ0w3VWxhcURmdEVWbk1oUVRUR2RwUVR5T3pFYXRmZlR0SW9nYWlHWm1RR0ZQNmFOMG9wb3IyQ0VsYlpHd3RxU29vQzZISXBNS3RiOA?oc=5\" target=\"_blank\">The Best Vanguard Funds</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
+      "published": "2026-11-20T08:00:00+00:00",
+      "feed_type": "google_news_fallback"
     },
     {
       "category": "Investing & Markets",
@@ -1171,15 +1180,6 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "World News & Politics",
-      "source": "CFR Global Conflict Tracker",
-      "title": "China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxOMnRSNjU4RTlBWG90NE5RNF9IYldNNGkza1Y5Q09HbU11ZmxrVzZIZTlNekZKVDhSSHUtT2tQWDhWV1FhVF9OUnR0bFRFUTF6ak56bjRra1RHV19TUGd5YklpWVZCTF9CTlNZd29ES1VQRzVxYWVTZUpiWktQWk41aXlQcW1mazcwem1IU0xycmRaSzRuQnlwWWJXbUJUaDVEckhSTVRiLTFlZTA?oc=5\" target=\"_blank\">China and Nuclear Arms Control: Why a Trump-Xi Breakthrough at APEC Is Unlikely</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2026-11-17T13:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "Music Production & DJ Industry",
       "source": "DJ TechTools",
       "title": "AlphaTheta DJM-A7: A9 Layout, Four Channels, $1,599",
@@ -1252,15 +1252,6 @@
       "feed_type": "official_or_site_feed"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "VTI – Vanguard Morningstar Total Stock Market ETF – ETF Quote - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE00bml6b3o2WDA0aFVza1BhaFB2YWk0TUNqV0V2YUlkOUM0eHIzbUFyM1k5UnNXUGVyRmJ4cUU4TklpQzdmVnNWb0ZPVmVVQ3hXQ3YwZktaYWZ4UGc?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiW0FVX3lxTE00bml6b3o2WDA0aFVza1BhaFB2YWk0TUNqV0V2YUlkOUM0eHIzbUFyM1k5UnNXUGVyRmJ4cUU4TklpQzdmVnNWb0ZPVmVVQ3hXQ3YwZktaYWZ4UGc?oc=5\" target=\"_blank\">VTI – Vanguard Morningstar Total Stock Market ETF – ETF Quote</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2026-04-27T07:00:00+00:00",
-      "feed_type": "google_news_fallback"
-    },
-    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "Before and after satellite images of demolition of East Wing - AP News",
@@ -1306,6 +1297,15 @@
       "feed_type": "google_news_fallback"
     },
     {
+      "category": "Investing & Markets",
+      "source": "Morning Brew",
+      "title": "Business News and Trends - Morning Brew",
+      "link": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiTkFVX3lxTE5qR0tuT3Y5X1g0V3dKUmdEY3JJNG1ieWFjQjRlYWgzOVI2VjdIM0h5d2tKZVlweHlUQzZ5TmU5QTdwQmN3bFJxNDAyTEJmdw?oc=5\" target=\"_blank\">Business News and Trends</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morning Brew</font>",
+      "published": "2024-11-18T18:07:29+00:00",
+      "feed_type": "google_news_fallback"
+    },
+    {
       "category": "World News & Politics",
       "source": "AP Politics",
       "title": "As civic knowledge declines, programs work to engage young people in democracy - AP News",
@@ -1335,10 +1335,10 @@
     {
       "category": "World News & Politics",
       "source": "CFR Global Conflict Tracker",
-      "title": "Civil War in Myanmar | Global Conflict Tracker - Council on Foreign Relations",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNNjVXM0I5THhjdkFZSjNRN3RnRVI2STZCR2Z5cjA2aHdMR3NVMF9CT0owWms0TUxRR3RiNHZnampWWDZ0Z21BNXFYRHlOQ1Jvd3M5dW9DcUlvNk5iTXQtcjZDODAyZ0NxbzJyeWRUMG94aWNPSkJuZVgtcmJIQVJFYXlB?oc=5\" target=\"_blank\">Civil War in Myanmar | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
-      "published": "2020-05-30T00:03:47+00:00",
+      "title": "War in Ukraine | Global Conflict Tracker - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMieEFVX3lxTFBzNzUzWFZFa3dRQ094S3NlRzRSbVloSUU5ZGhYSHZBLUYxdTlvdGdaTmN6b09EOGZlYmVTaGRnSFVzbk12T0Z4bDJJTnF6bGI4S1ZaVXhNUDY3cEJweFJVVWZZQ2c4T0NOT3lWVy1BMHFFRGJNdUQ5Rg?oc=5\" target=\"_blank\">War in Ukraine | Global Conflict Tracker</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2020-05-29T13:47:04+00:00",
       "feed_type": "google_news_fallback"
     },
     {
@@ -1369,12 +1369,12 @@
       "feed_type": "google_news_fallback"
     },
     {
-      "category": "Investing & Markets",
-      "source": "Morningstar",
-      "title": "Morningstar | Empowering Investor Success - Morningstar",
-      "link": "https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5",
-      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiQkFVX3lxTE1fQlFqODBUcm1acVZuclh1MlI3d2M1ZWZkaHFkdEZSNmljNHViaFBrN1BkOF9GUUlUVDQxV2V2eVRmZw?oc=5\" target=\"_blank\">Morningstar | Empowering Investor Success</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Morningstar</font>",
-      "published": "2012-10-14T03:17:21+00:00",
+      "category": "World News & Politics",
+      "source": "CFR Global Conflict Tracker",
+      "title": "Council on Foreign Relations - Council on Foreign Relations",
+      "link": "https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5",
+      "summary": "<a href=\"https://news.google.com/rss/articles/CBMiN0FVX3lxTE9HWFNsbk1XSjdaRWZ6UlRTdzUyV2JBRHdpeGUwTjZCMGZ1b1liTldFcFJLZ21mbDQ?oc=5\" target=\"_blank\">Council on Foreign Relations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Council on Foreign Relations</font>",
+      "published": "2006-10-11T06:27:30+00:00",
       "feed_type": "google_news_fallback"
     }
   ]
